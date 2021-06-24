@@ -3,20 +3,30 @@ title: Wnt signaling ligand--receptor context in brachiopod anteroposterior patt
 #title: Wnt signaling landscape in brachiopod anteroposterior patterning
 #title: Involvement of Wnt signaling ligand-receptor context in brachiopod anteroposterior patterning
 #title: Expression of Wnt signaling components suggests that ligand-receptor context plays a role in the patterning of different brachiopod body regions
-#title: Wnt signaling ligand-receptor landscape during brachiopod anteroposterior patterning
 #title: Involvement of Wnt signaling in the embryonic patterning of brachiopod body regions
+#title: Wnt signaling ligand-receptor landscape during brachiopod anteroposterior patterning
 #title: Wnt signaling unique ligand-receptor contexts demarcate different body regions during brachiopod development 
+#title: Wnt signaling in the brachiopod *Terebratalia transversa*
+#title: Wnt signaling combinatorial landscape patterning the anteroposterior axis of brachiopod embryos
+#title: Wnt signaling ligand-receptor context during brachiopod anteroposterior patterning
+#title: Unique Wnt signaling ligand-receptor context demarcates different body regions during brachiopod development 
+#title: Wnt signaling ligand-receptor context during brachiopod embryonic development
 #title: Brachiopod body regions express unique ligand-receptor contexts of Wnt signaling during embryonic development
 #title: Brachiopod body regions are patterned by unique ligand-receptor context of Wnt signaling
 #title: Unique Wnt signaling ligand-receptor contexts demarcate different brachiopod body regions
+#title: Unique ligand-receptor Wnt subregions patterning the anteroposterior axis of brachiopod embryos
+#title: Modular Wnt signaling ligand-receptor contexts along the anteroposterior axis  during brachiopod development
+#title: Expression of Wnt signaling components correlates with the anteroposterior patterning of the brachiopod *Terebratalia transversa*
+#title: Patterning of brachiopod anteroposterior axis by combinatorial Wnt signaling landscape
 #title: Combinatorial expression of Wnt signaling components demarcate brachiopod body regions during embryonic development
 #title: Combinatorial ligand-receptor expression of Wnt components in brachiopod embryo suggests a an role in anteroposterior patterning  
 #title: Combinatorial landscape of Wnt-Frizzled expression domains along the anteroposterior axis of brachiopod embryos
 #title: Combinatorial landscape of Wnt-Frizzled expression domains suggests a role of Wnt signaling in the anteroposterior patterning of brachiopod embryos
 #title: Combinatorial expression of ligand-receptor suggests an axial patterning role for Wnt signaling in brachiopod embryos
 #title: Unique combinations of Wnt-Frizzled are expressed along the anteroposterior axis of the brachiopod *Terebratalia transversa*
-#title: Ligand-Receptor map reveals Wnt signaling landscape patterning the anteroposterior axis in the brachiopod *Terebratalia transversa*
 #title: Wnt-Frizzled combinatorial expression domains pattern the anteroposterior axis in the brachiopod *Terebratalia transversa*
+#title: Ligand-Receptor map reveals Wnt signaling landscape patterning the anteroposterior axis in the brachiopod *Terebratalia transversa*
+#title: Ligand-receptor context of Wnt signaling during brachiopod anteroposterior patterning
 documentclass: article
 geometry:
   - bindingoffset=2mm
@@ -62,7 +72,7 @@ Thormøhlensgate 55, 5006 Bergen, Norway.
     - Suggests that Wnt play a role in patterning larval body regions
     - And that receptor context might matter for signaling outcome
 
-    # Results
+    # Results by gene family
 
     - Wnt ligands
     - Frizzled receptors
@@ -70,6 +80,31 @@ Thormøhlensgate 55, 5006 Bergen, Norway.
     - Intracellular components
     - Cell polarity components
     - Wnt signaling landscape
+
+    # Results by experiment and body region
+
+    - Wnt complement
+    - Expression profiling
+    - Expression domains Inhibitor-Ligand-Receptor
+      - Anterior apical lobe: dkk, sfrp, fz1/2/7, fz5/8
+      - Posterior apical lobe: fz1/2/7, fz4, wnt2, wnt8, wnt5, wntA
+      - Apical-mantle boundary: fz1/2/7, fz9/10, wnt1, wnt7
+      - Mantle lobe: fz1/2/7, wnt5, wnt16
+      - Anterior pedicle lobe: fz9/10, wnt1, wnt4, wnt9, wnt10
+      - Posterior pedicle lobe: wnt5, wnt6, wnt11
+    - Expression domains intracellular
+    - Expression domains cell polarity
+
+    # Results by key messages
+
+    - Wnt complement is mostly complete
+    - Few Wnt ligands are maternally deposited in the egg
+    - Wnt ligands are progressively upregulated in two waves of activation at
+      the blastula and gastrula stages
+    - Every Wnt ligand is expressed in partially overlapping domains in the
+      late gastrula stage at the onset of body specification
+    - Expression of some Wnt ligands fade after metamorphosis
+
 
     # Discussion
 
@@ -121,6 +156,8 @@ anteroposterior patterning.
 - Suggests that Wnt play a role in patterning larval body regions.
 - And that receptor context might matter for signaling outcome.
 
+<!--At the Fz receptor, the binding of proteins other than Wnt can antagonize signaling. Specific antagonists include Dickkopf (Dkk), Wnt inhibitory factor 1 (WIF-1),[50][51] secreted Frizzled-related proteins (SFRP), Cerberus, Frzb, Wise, SOST, and Naked cuticle. These constitute inhibitors of Wnt signaling. However, other molecules also act as activators. Norrin and R-Spondin2 activate Wnt signaling in the absence of Wnt ligand.-->
+
 <!--Wnt signaling pathway plays a major role in animal development. The ligands are secreted glycoproteins and receptors are transmembrane proteins. Early role in AV patterning and a later role in AP patterning. Some Wnt ligands are contiguous in the genome. Expression in spiralians is still understudied. Brachiopod preliminary genome, transcriptome and in situ expression data. -->
 
 <!--TODO: The paragraphs below are more for the introduction.-->
@@ -132,6 +169,67 @@ anteroposterior patterning.
 <!--Second, the idea that is not a specific wnt ligand that mediate specific signaling, but that the receptor context dictates the Wnt signaling outcome [@Loh2016-pz]. This implies that the same ligand can trigger different outcomes based on the receptor it binds to. This put a greater importance when studying wnt signaling on analyzing the receptor context in conjunction to ligands.-->
 
 # Results
+
+## Wnt complement
+
+<!--## *T. transversa* has a complete set of Wnt ligands-->
+
+<!--TODO: Remove genomic loci data below.-->
+
+<!--There are at least two sets of contiguous Wnt loci in our draft genome assembly. The genes *wnt1*, *wnt6* and *wnt10*, and located on a 36 kb stretch of a ~280kb scaffold, and the genes *wnt5* and *wnt7* localized on a 29 kb stretch of ~330kb scaffold (@fig:genome).-->
+
+<!--![Gene synteny of *Terebratalia transversa* Wnt ligands.](figures/Fig2.png){#fig:genome width=100%}-->
+
+We identify twelve Wnt ligands in the brachiopod *T. transversa* by searching
+the available transcriptome (ACCESSION) for contigs with high sequence
+similarity to known Wnt genes. To determine their orthology and Wnt subfamily,
+we aligned the amino acid sequences to representative bilaterian Wnt genes and
+performed a phylogenetic analysis. The resulting tree shows that 
+*T. transversa* has a single ortholog for each metazoan Wnt subfamily, except
+for *wnt3* which is absent (@fig:wnt-tree).
+
+We identify four orthologs of Frizzled receptors in *T. transversa* referred
+here as *fz1/2/7*, *fz4*, *fz5/8* and *fz9/10* (@fig:supplementary).
+
+We identified orthologs for three Wnt antagonist genes in *T. transversa*
+(@fig:supplementary). One secreted frizzled-related protein (*sfrp*), dickkopf
+(*dkk*) and Wnt inhibitory factor (*wif*). The *sfrp* protein is an ortholog of
+*sfrp1/2/5*. We found no matches for *sfrp3/4* in our transcriptomic data.
+
+
+<!--TODO: Incorporate data from wnt1 paralogs above.-->
+
+<!--We identified two paralogs of *wnt1* herein referred as *wnt1a* and *wnt1b*.-->
+
+![Orthology assignment of *Terebratalia transversa* Wnt
+ligands. Phylogenetic analysis of the amino acid sequences from a diverse range
+of known metazoan Wnt genes.](figures/wnt-tree.png){#fig:wnt-tree width=100%}
+
+<!--We analyzed the expression of *T. transversa* Wnt ligands using RNA-seq (@fig:profiling) and in situ hybridization (@fig:ligands1 and !@fig:ligands2). They are expressed in a diverse temporal and spatial patterns during brachiopod embryonic development.-->
+
+## Maternal load and profiling
+
+To characterize the gene expression dynamics of Wnt signaling components during
+*T. transversa* embryonic development, we analyzed the stage-specific RNA-seq
+dataset covering representative developmental stages from unfertilized oocytes,
+cleavage, and gastrulation, to larval morphogenesis and post-metamorphosis
+juveniles [@Schiemann2017-wd, ACCESSION].
+
+In the unfertilized oocytes, we detect high levels of the ligands *wnt4* and
+*wntA*, of the receptors *fz1/2/7*, *fz4* and *fz5/8*, and of the antagonist
+*sfrp1/2/5*. The transcript counts for the remaining Wnt ligands, *fz9/10*,
+*dkk* and *wif* are significantly lower at this stage (@fig:profiling).
+
+Transcripts of *fz1/2/7* and *fz5/8* are maternally deposited and highly
+expressed until the late blastula stage while *fz4* and *fz9/10* expression
+increases at the onset of gastrulation (@fig:profiling). The levels of
+*fz1/2/7* and *fz4* remain high while *fz9/10* and *fz5/8*
+expression decrease in the juvenile stages (@fig:profiling).
+
+While *sfrp1/2/5* is highly expressed throughout development, *dkk* is
+upregulated at the late blastula stage and downregulated in the juvenile stages
+(@fig:profiling). *wif* expression is relatively constant along the
+developmental stages with a peak at the late gastrula stage (@fig:profiling).
 
 ## Wnt ligands
 
@@ -449,7 +547,9 @@ Expression of diversin, jnk, strabismus, flamingo, prickle.
 non-canonical Wnt signaling pathway in *Terebratalia
 transversa*.](figures/cellpolarity.png){#fig:cellpolarity width=100%}
 
-## Wnt signaling landscape
+<!--## Wnt signaling landscape-->
+
+## Unique ligand-receptor contexts coincide brachiopod body regions
 
 <!--- Few Wnt ligands are maternally deposited in the egg-->
 <!--- Wnt ligands are progressively upregulated in two waves of activation at-->
