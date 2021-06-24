@@ -2,31 +2,31 @@
 title: Wnt signaling ligand--receptor context in brachiopod anteroposterior patterning
 #title: Wnt signaling landscape in brachiopod anteroposterior patterning
 #title: Involvement of Wnt signaling ligand-receptor context in brachiopod anteroposterior patterning
-#title: Expression of Wnt signaling components suggests that ligand-receptor context plays a role in the patterning of different brachiopod body regions
 #title: Involvement of Wnt signaling in the embryonic patterning of brachiopod body regions
+#title: Expression of Wnt signaling components suggests that ligand-receptor context plays a role in the patterning of different brachiopod body regions
+#title: Expression of Wnt signaling components correlates with the anteroposterior patterning of the brachiopod *Terebratalia transversa*
 #title: Wnt signaling ligand-receptor landscape during brachiopod anteroposterior patterning
 #title: Wnt signaling unique ligand-receptor contexts demarcate different body regions during brachiopod development 
 #title: Wnt signaling in the brachiopod *Terebratalia transversa*
 #title: Wnt signaling combinatorial landscape patterning the anteroposterior axis of brachiopod embryos
 #title: Wnt signaling ligand-receptor context during brachiopod anteroposterior patterning
-#title: Unique Wnt signaling ligand-receptor context demarcates different body regions during brachiopod development 
 #title: Wnt signaling ligand-receptor context during brachiopod embryonic development
 #title: Brachiopod body regions express unique ligand-receptor contexts of Wnt signaling during embryonic development
 #title: Brachiopod body regions are patterned by unique ligand-receptor context of Wnt signaling
+#title: Unique Wnt signaling ligand-receptor context demarcates different body regions during brachiopod development 
 #title: Unique Wnt signaling ligand-receptor contexts demarcate different brachiopod body regions
 #title: Unique ligand-receptor Wnt subregions patterning the anteroposterior axis of brachiopod embryos
+#title: Unique combinations of Wnt-Frizzled are expressed along the anteroposterior axis of the brachiopod *Terebratalia transversa*
 #title: Modular Wnt signaling ligand-receptor contexts along the anteroposterior axis  during brachiopod development
-#title: Expression of Wnt signaling components correlates with the anteroposterior patterning of the brachiopod *Terebratalia transversa*
 #title: Patterning of brachiopod anteroposterior axis by combinatorial Wnt signaling landscape
 #title: Combinatorial expression of Wnt signaling components demarcate brachiopod body regions during embryonic development
 #title: Combinatorial ligand-receptor expression of Wnt components in brachiopod embryo suggests a an role in anteroposterior patterning  
 #title: Combinatorial landscape of Wnt-Frizzled expression domains along the anteroposterior axis of brachiopod embryos
 #title: Combinatorial landscape of Wnt-Frizzled expression domains suggests a role of Wnt signaling in the anteroposterior patterning of brachiopod embryos
 #title: Combinatorial expression of ligand-receptor suggests an axial patterning role for Wnt signaling in brachiopod embryos
-#title: Unique combinations of Wnt-Frizzled are expressed along the anteroposterior axis of the brachiopod *Terebratalia transversa*
-#title: Wnt-Frizzled combinatorial expression domains pattern the anteroposterior axis in the brachiopod *Terebratalia transversa*
 #title: Ligand-Receptor map reveals Wnt signaling landscape patterning the anteroposterior axis in the brachiopod *Terebratalia transversa*
 #title: Ligand-receptor context of Wnt signaling during brachiopod anteroposterior patterning
+#title: Wnt-Frizzled combinatorial expression domains pattern the anteroposterior axis in the brachiopod *Terebratalia transversa*
 documentclass: article
 geometry:
   - bindingoffset=2mm
@@ -118,6 +118,8 @@ Thormøhlensgate 55, 5006 Bergen, Norway.
 
 # Abstract
 
+<!--TODO: Revise abstract-->
+
 Wnt signaling is crucial for embryonic development in multiple ways. One major
 role is anteroposterior patterning and establishment of developmental
 boundaries. Receptor-context has been shown to be important for the signaling
@@ -142,6 +144,8 @@ comparative studies to better understand the evolution of bilaterian
 anteroposterior patterning. 
 
 # Background
+
+<!--TODO: Draft paragraphs for introduction-->
 
 - Wnt signaling is crucial for embryonic development in multiple ways.
 - One major role is anteroposterior patterning and developmental boundaries.
@@ -170,50 +174,46 @@ anteroposterior patterning.
 
 # Results
 
+<!--TODO: Describe results by gene family or combine stories?-->
+
 ## Wnt complement
 
 <!--## *T. transversa* has a complete set of Wnt ligands-->
 
-<!--TODO: Remove genomic loci data below.-->
+We surveyed the available transcriptome of *T. transversa* for Wnt signaling
+components using known sequences of ligands, receptors and antagonists. We
+identify twelve Wnt ligands. To determine their orthology and Wnt subfamily, we
+aligned the amino acid sequences to representative bilaterian Wnt genes and
+performed a phylogenetic analysis. The resulting tree shows that *T.
+transversa* has a single ortholog for each metazoan Wnt subfamily, except for
+*wnt3* which is absent (@fig:wnt-tree).
 
-<!--There are at least two sets of contiguous Wnt loci in our draft genome assembly. The genes *wnt1*, *wnt6* and *wnt10*, and located on a 36 kb stretch of a ~280kb scaffold, and the genes *wnt5* and *wnt7* localized on a 29 kb stretch of ~330kb scaffold (@fig:genome).-->
+<!--We identified two paralogs of *wnt1* herein referred as *wnt1a* and *wnt1b*.-->
 
-<!--![Gene synteny of *Terebratalia transversa* Wnt ligands.](figures/Fig2.png){#fig:genome width=100%}-->
-
-We identify twelve Wnt ligands in the brachiopod *T. transversa* by searching
-the available transcriptome (ACCESSION) for contigs with high sequence
-similarity to known Wnt genes. To determine their orthology and Wnt subfamily,
-we aligned the amino acid sequences to representative bilaterian Wnt genes and
-performed a phylogenetic analysis. The resulting tree shows that 
-*T. transversa* has a single ortholog for each metazoan Wnt subfamily, except
-for *wnt3* which is absent (@fig:wnt-tree).
+<!--TODO: Incorporate data from wnt1 paralogs above-->
 
 We identify four orthologs of Frizzled receptors in *T. transversa* referred
-here as *fz1/2/7*, *fz4*, *fz5/8* and *fz9/10* (@fig:supplementary).
-
-We identified orthologs for three Wnt antagonist genes in *T. transversa*
+here as *fz1/2/7*, *fz4*, *fz5/8* and *fz9/10* (@fig:supplementary). We
+identified orthologs for three Wnt antagonist genes in *T. transversa*
 (@fig:supplementary). One secreted frizzled-related protein (*sfrp*), dickkopf
 (*dkk*) and Wnt inhibitory factor (*wif*). The *sfrp* protein is an ortholog of
 *sfrp1/2/5*. We found no matches for *sfrp3/4* in our transcriptomic data.
-
-
-<!--TODO: Incorporate data from wnt1 paralogs above.-->
-
-<!--We identified two paralogs of *wnt1* herein referred as *wnt1a* and *wnt1b*.-->
 
 ![Orthology assignment of *Terebratalia transversa* Wnt
 ligands. Phylogenetic analysis of the amino acid sequences from a diverse range
 of known metazoan Wnt genes.](figures/wnt-tree.png){#fig:wnt-tree width=100%}
 
+<!--TODO: Replace tree for one with wnt1b-->
+
 <!--We analyzed the expression of *T. transversa* Wnt ligands using RNA-seq (@fig:profiling) and in situ hybridization (@fig:ligands1 and !@fig:ligands2). They are expressed in a diverse temporal and spatial patterns during brachiopod embryonic development.-->
 
-## Maternal load and profiling
+## Expression profiling
 
 To characterize the gene expression dynamics of Wnt signaling components during
 *T. transversa* embryonic development, we analyzed the stage-specific RNA-seq
 dataset covering representative developmental stages from unfertilized oocytes,
 cleavage, and gastrulation, to larval morphogenesis and post-metamorphosis
-juveniles [@Schiemann2017-wd, ACCESSION].
+juveniles.
 
 In the unfertilized oocytes, we detect high levels of the ligands *wnt4* and
 *wntA*, of the receptors *fz1/2/7*, *fz4* and *fz5/8*, and of the antagonist
@@ -547,9 +547,7 @@ Expression of diversin, jnk, strabismus, flamingo, prickle.
 non-canonical Wnt signaling pathway in *Terebratalia
 transversa*.](figures/cellpolarity.png){#fig:cellpolarity width=100%}
 
-<!--## Wnt signaling landscape-->
-
-## Unique ligand-receptor contexts coincide brachiopod body regions
+## Wnt signaling landscape
 
 <!--- Few Wnt ligands are maternally deposited in the egg-->
 <!--- Wnt ligands are progressively upregulated in two waves of activation at-->
@@ -557,7 +555,6 @@ transversa*.](figures/cellpolarity.png){#fig:cellpolarity width=100%}
 <!--- Every Wnt ligand is expressed in partially overlapping domains in the-->
   <!--late gastrula stage at the onset of body specification-->
 <!--- Expression of some Wnt ligands fade after metamorphosis-->
-
 
 <!--Unique ligand-receptor contexts coincide brachiopod body regions-->
 
@@ -684,16 +681,6 @@ tissue fates of the different body regions of the brachiopod *T. transversa*.
 ## The Wnt complement of *T. transversa* is mostly complete 
 
 <!--TODO: Elaborate on Wnt complement discussion.-->
-
-<!--TODO: Remove genome synteny discussion.-->
-
-<!--Despite the frequent loss of individual Wnts in specific animal lineages [@Cho2010-eb; @Janssen2010-dc], genomic data revealed that some Wnts are contiguous in the genome of several animal lineages, indicating the existence of two ancestral gene clusters, *(wnt9)-wnt1-wnt6-wnt10* and *wnt5-wnt7* [@Nusse2001-rq; @Sullivan2007-xk; @Bolognesi2008-wm; @Cho2010-eb; @Janssen2010-dc].-->
-
-<!--We found two clusters with syntenic loci for *wnt1-wnt6-wnt10* and *wnt5-wnt7* that correspond to the putative ancestral Wnt clusters. Wnt synteny in *T. transversa* is similar to the arrangement of Wnt genes in the genome of the brachiopod *Lingula anatina* [@Luo2015-lm; @Luo2018-lj]. In *L. anatina*, however, *wnt9* is adjacent to *wnt1* and *wnt16* is located in the 5’ end of the *wnt5-wnt7* cluster scaffold [@Luo2015-lm; @Luo2018-lj].-->
-
-<!--Although we find no paralog duplications in the transcriptome of *T. transversa*, we found a remnant fragment of a Wnt gene adjacent to *wnt10* in the genome. The sequence orthology closely matches *wnt10* and the fragment is located at the 3’ of *wnt10*, where the duplicated copy of *L. anatina* is located. This suggests that *wnt10* duplication probably occurred early on the brachiopod lineage and was secondarily lost in the *T. transversa*.-->
-
-<!--Due to the preliminary nature of our genomic data, these observations still need to be corroborated by more contiguous assembly and data from additional brachiopod species.-->
 
 Metazoans have a diverse repertoire of Wnt genes with 13 subfamilies which
 evolved by ancient gene duplications [@Kusserow2005-xd; @Croce2009-vv;
