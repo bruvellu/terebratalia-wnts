@@ -1,5 +1,7 @@
 ---
-title: Involvement of Wnt signaling ligand-receptor context in brachiopod anteroposterior patterning
+title: Wnt signaling ligand--receptor context in brachiopod anteroposterior patterning
+#title: Wnt signaling landscape in brachiopod anteroposterior patterning
+#title: Involvement of Wnt signaling ligand-receptor context in brachiopod anteroposterior patterning
 #title: Expression of Wnt signaling components suggests that ligand-receptor context plays a role in the patterning of different brachiopod body regions
 #title: Wnt signaling ligand-receptor landscape during brachiopod anteroposterior patterning
 #title: Involvement of Wnt signaling in the embryonic patterning of brachiopod body regions
@@ -12,7 +14,6 @@ title: Involvement of Wnt signaling ligand-receptor context in brachiopod antero
 #title: Combinatorial landscape of Wnt-Frizzled expression domains along the anteroposterior axis of brachiopod embryos
 #title: Combinatorial landscape of Wnt-Frizzled expression domains suggests a role of Wnt signaling in the anteroposterior patterning of brachiopod embryos
 #title: Combinatorial expression of ligand-receptor suggests an axial patterning role for Wnt signaling in brachiopod embryos
-#title: Wnt signaling landscape in brachiopod anteroposterior patterning
 #title: Unique combinations of Wnt-Frizzled are expressed along the anteroposterior axis of the brachiopod *Terebratalia transversa*
 #title: Ligand-Receptor map reveals Wnt signaling landscape patterning the anteroposterior axis in the brachiopod *Terebratalia transversa*
 #title: Wnt-Frizzled combinatorial expression domains pattern the anteroposterior axis in the brachiopod *Terebratalia transversa*
@@ -28,13 +29,14 @@ tablenos-cleveref: True
 tablenos-plus-name: Table
 ...
 
-Bruno C. Vellutini^1,2^, José M. Martín-Durán^1,3^ and Andreas Hejnol^1,4^
+Bruno C. Vellutini^1,2^, José M. Martín-Durán^1,3^, Aina Børve^1,4^ and Andreas
+Hejnol^1,4^
 
 ^1^Sars International Centre for Marine Molecular Biology, University of
 Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
 
 ^2^ Max Planck Institute of Molecular Cell Biology and Genetics,
-Pfotenhauerstr. 108, 01307 Dresden, Germany.
+Pfotenhauerstraße 108, 01307 Dresden, Germany.
 
 ^3^ Queen Mary University of London, School of Biological and Chemical
 Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
