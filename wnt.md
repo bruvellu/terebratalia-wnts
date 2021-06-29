@@ -27,12 +27,21 @@ title: Wnt signaling ligand--receptor context in brachiopod anteroposterior patt
 #title: Ligand-Receptor map reveals Wnt signaling landscape patterning the anteroposterior axis in the brachiopod *Terebratalia transversa*
 #title: Ligand-receptor context of Wnt signaling during brachiopod anteroposterior patterning
 #title: Wnt-Frizzled combinatorial expression domains pattern the anteroposterior axis in the brachiopod *Terebratalia transversa*
+#author:
+#- Bruno
+#- Chema
+#- Aina
+#- Andi
 documentclass: article
+bibliography: wnt.bib 
+csl: biomed-central.csl
 geometry:
   - bindingoffset=2mm
   - hmargin=25mm
   - vmargin=25mm
-fignos-warning-level: 0
+link-citations: true
+colorlinks: true
+fignos-warning-level: 1
 fignos-cleveref: True
 fignos-plus-name: Figure
 tablenos-cleveref: True
@@ -468,17 +477,17 @@ the highest expressed Wnt ligands maternally loaded, suggesting they might be
 involved in the early signaling events that pattern the animal-vegetal axis.
 However, these specific ligands are not always deposited maternally in other
 bilaterians. While most animal lineages exhibit a maternal load of Wnt ligands
-(Table 1), there is considerable variability in which ligands are deposited in
-the eggs. Even within brachiopods there are significant differences in the
-maternal load of Wnt ligands (@fig:supplementary). This suggests that the
-identity of Wnt ligands deposited in the eggs of different bilaterians is
-highly labile and even vary among closely related groups with similar
-developmental modes.
+(@tbl:maternal), there is considerable variability in which ligands are
+deposited in the eggs. Even within brachiopods there are significant
+differences in the maternal load of Wnt ligands (@fig:supplementary). This
+suggests that the identity of Wnt ligands deposited in the eggs of different
+bilaterians is highly labile and even vary among closely related groups with
+similar developmental modes.
 
 In contrast, most species investigated so far load in their eggs the Frizzled
-receptor *fz1/2/7* (Table 1). This pattern is highly conserved among metazoans
-[@Bastin2015-oz]. The contrasting variability in the ligand identity and
-conservation of receptor identity suggests that the early role is deployed
+receptor *fz1/2/7* (@tbl:maternal). This pattern is highly conserved among
+metazoans [@Bastin2015-oz]. The contrasting variability in the ligand identity
+and conservation of receptor identity suggests that the early role is deployed
 regardless of the specific ligand deposited in the egg. Supports the idea that
 the receptor context rather than a specific wnt ligand might crucial for the
 signaling output [@Loh2016-pz].
@@ -493,11 +502,11 @@ During *T. transversa* embryonic development, Wnt ligands and Frizzled
 receptors are expressed in a complex landscape of domains along the
 anteroposterior axis (@fig:summary). By analyzing the combinatorial expression
 of Wnt ligands, receptors and antagonists, we can identify seven broad
-ectodermal territories, each with a unique transcriptional profile (Table 2).
-Frizzled receptors are expressed in broad domains while Wnt ligands are
-expressed in partially overlapping domains with differing anteroposterior or
-dorsoventral limits. Interestingly, these domains correspond to morphological
-landmarks along *T. transversa* larval body.
+ectodermal territories, each with a unique transcriptional profile
+(@tbl:landscape). Frizzled receptors are expressed in broad domains while Wnt
+ligands are expressed in partially overlapping domains with differing
+anteroposterior or dorsoventral limits. Interestingly, these domains correspond
+to morphological landmarks along *T. transversa* larval body.
 
 At the anteriormost tip, we observe a ligand-free zone where antagonists are
 expressed. At the posteriormost tip we find a receptor-free zone where only
@@ -952,20 +961,33 @@ width=100%}
 
 # Tables
 
-Table 1. Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs.
+Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs.
+{#tbl:maternal}
 
-Species                          Wnt ligands                                          Frizzled receptors
--------                          -----------                                          ------------------
-*Terebratalia transversa*        *wnt4* and *wntA* (this study)                       *fz1/2/7*, *fz5/8* and *fz4* (this study)
-*Lingula anatina*                *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]         *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] 
-*Platynereis dumerilii*          No maternal Wnts [@Pruitt2014-oy]                    *fz1/2/7* [@Bastin2015-oz]                               
-*Priapulus caudatus*             *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq]  -                                                        
-*Paracentrotus lividus*          *wnt7* [@Robert2014-xj]                              *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   
-*Strongylocentrotus purpuratus*  *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]           -                                                        
-*Saccoglossus kowalevskii*       *wnt4* and *wnt9* [@Darras2018-gm]                   *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   
-*Xenopus laevis*                 *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]             -                                                        
-*Danio rerio*                    *wnt8* [@Nasevicius1998-bm]                          -                                                        
-*Clytia hemisphaerica*           *wnt3* [@Momose2008-va]                              *fz1* and *fz3* [@Momose2008-va]                         
+| Species                         | Wnt ligands                                         | Frizzled receptors                                       |
+|---------------------------------|-----------------------------------------------------|----------------------------------------------------------|
+| *Terebratalia transversa*       | *wnt4* and *wntA* (this study)                      | *fz1/2/7*, *fz5/8* and *fz4* (this study)                |
+| *Lingula anatina*               | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] |
+| *Platynereis dumerilii*         | No maternal Wnts [@Pruitt2014-oy]                   | *fz1/2/7* [@Bastin2015-oz]                               |
+| *Priapulus caudatus*            | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] | -                                                        |
+| *Paracentrotus lividus*         | *wnt7* [@Robert2014-xj]                             | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   |
+| *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | -                                                        |
+| *Saccoglossus kowalevskii*      | *wnt4* and *wnt9* [@Darras2018-gm]                  | *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   |
+| *Xenopus laevis*                | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            | -                                                        |
+| *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
+| *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
+
+Table: Wnt signaling subregions in the brachiopod *T. transversa*.
+{#tbl:landscape}
+
+| Region                  | Antagonists   | Ligands                                          | Receptors           |
+|-------------------------|---------------|--------------------------------------------------|---------------------|
+| Anterior tip            | *dkk*, *sfrp* | -                                                | *fz1/2/7*, *fz5/8*  |
+| Apical lobe             | -             | *wntA*, *wnt8*, *wnt2*, *wnt5*                   | *fz1/2/7*, *fz4*    |
+| Apical--mantle boundary | -             | *wnt1*, *wnt7*, *wnt16*                          | *fz1/2/7*, *fz9/10* |
+| Mantle lobe             | -             | *wnt5*, *wnt16*                                  | *fz1/2/7*           |
+| Pedicle lobe            | -             | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7* | *fz9/10*            |
+| Posterior tip           | -             | *wnt6*, *wnt11*, *wnt5*                          | -                   |
 
 \newpage
 
