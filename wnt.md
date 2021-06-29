@@ -405,7 +405,9 @@ restricted to the apical ectodermal domains without any mesodermal transcripts
 (@fig:antagonists). *wif* follows a different pattern and is mainly expressed in
 the mesoderm throughout all developmental stages (@fig:antagonists).
 
-## Intracellular components
+## Additional components of the Wnt pathway
+
+<!--## Intracellular components-->
 
 *dvl* transcripts localize to a narrow ectodermal apical domain and the
 adjacent territory in the anterior mesoderm throughout development
@@ -425,7 +427,7 @@ downregulated and in the late larva stage *beta-catenin* transcripts are
 restricted to the anterior mesoderm and to the mesoderm associated with the
 chaetae sacs in the mantle lobe (@fig:intracellular).
 
-## Cell-polarity pathway
+<!--## Cell-polarity pathway-->
 
 <!--TODO: Integrate the pcp pathway into the manuscript.-->
 
@@ -437,7 +439,7 @@ Expression of diversin, jnk, strabismus, flamingo, prickle (@fig:intracellular).
 
 # Discussion
 
-## Wnt complement of *T. transversa* is conserved 
+## *T. transversa* shows a conserved ancestral Wnt complement 
 
 <!--TODO: Elaborate on Wnt complement discussion.-->
 
@@ -451,17 +453,41 @@ been lost at the base of the protostome lineage [@Cho2010-eb; @Janssen2010-dc].
 
 <!--Based on the available transcriptome, we found two copies of *wnt1* in *T. transversa*. While the lingulid brachiopod *Lingula anatina* also has lineage-specific duplications of *wnt1* and *wnt10* [@Luo2015-lm], our phylogenetic analysis suggests that *L. anatina* has a more recent lineage-specific duplication of *wnt1a*. The genes wnt1a and wnt1b seem to be an older duplication in spiralians.-->
 
-## Ligand--receptor context patterning brachiopod body regions
+## Metazoan eggs have a conserved Frizzled receptor and diverse load of Wnt ligands
 
+The early developmental role of Wnt signaling in specifying the embryonic
+primary axis has been shown to occur in different bilaterian lineages [@refs].
+However, in most cases, the identity of the ligand/receptor has not been
+demonstrated [@refs]. Nevertheless, Wnt signaling activity in early development
+depends upon the maternal load of pathway components deposited in the egg.
 
-<!--- Few Wnt ligands are maternally deposited in the egg-->
-<!--- Wnt ligands are progressively upregulated in two waves of activation at-->
-  <!--the blastula and gastrula stages-->
-<!--- Every Wnt ligand is expressed in partially overlapping domains in the-->
-  <!--late gastrula stage at the onset of body specification-->
-<!--- Expression of some Wnt ligands fade after metamorphosis-->
+<!--TODO: Examples of AV roles-->
 
-<!--Unique ligand-receptor contexts coincide brachiopod body regions-->
+We found that in the oocytes of *T. transversa*, *wnt4* and *wntA* mRNAs are
+the highest expressed Wnt ligands maternally loaded, suggesting they might be
+involved in the early signaling events that pattern the animal-vegetal axis.
+However, these specific ligands are not always deposited maternally in other
+bilaterians. While most animal lineages exhibit a maternal load of Wnt ligands
+(Table 1), there is considerable variability in which ligands are deposited in
+the eggs. Even within brachiopods there are significant differences in the
+maternal load of Wnt ligands (@fig:supplementary). This suggests that the
+identity of Wnt ligands deposited in the eggs of different bilaterians is
+highly labile and even vary among closely related groups with similar
+developmental modes.
+
+In contrast, most species investigated so far load in their eggs the Frizzled
+receptor *fz1/2/7* (Table 1). This pattern is highly conserved among metazoans
+[@Bastin2015-oz]. The contrasting variability in the ligand identity and
+conservation of receptor identity suggests that the early role is deployed
+regardless of the specific ligand deposited in the egg. Supports the idea that
+the receptor context rather than a specific wnt ligand might crucial for the
+signaling output [@Loh2016-pz].
+
+<!--TODO: Examples known ligand-receptor identities-->
+
+## Unique transcriptional subregions pattern the brachiopod larval body
+
+<!--Ligand--receptor context coincide with brachiopod body regions-->
 
 During *T. transversa* embryonic development, Wnt ligands and Frizzled
 receptors are expressed in a complex landscape of domains along the
@@ -690,37 +716,6 @@ transversa* this seems to be the same or different because the Frizzled
 receptors expressed in the apical-mantle boundary are fz1/2/7 and fz9/10.
 
 <!--TODO: Get examples of Wnt activity without Frizzled receptors.-->
-
-## Maternal Wnt ligand load is diverse but *fz1/2/7* is widespread in metazoan eggs
-
-The early developmental role of Wnt signaling in specifying the embryonic
-primary axis has been shown to occur in different bilaterian lineages [@refs].
-However, in most cases, the identity of the ligand/receptor has not been
-demonstrated [@refs]. Nevertheless, Wnt signaling activity in early development
-depends upon the maternal load of pathway components deposited in the egg.
-
-We found that in the oocytes of *T. transversa*, *wnt4* and *wntA* mRNAs are
-the highest expressed Wnt ligands maternally loaded, suggesting they might be
-involved in the early signaling events that pattern the animal-vegetal axis.
-However, these specific ligands are not always deposited maternally in other
-bilaterians. While most animal lineages exhibit a maternal load of Wnt ligands
-(Table 1), there is considerable variability in which ligands are deposited in
-the eggs. Even within brachiopods there are significant differences in the
-maternal load of Wnt ligands (@fig:supplementary).
-
-This suggests that the identity of Wnt ligands deposited in the eggs of
-different bilaterians is highly labile and even vary among closely related
-groups with similar developmental modes.
-
-In contrast, most species investigated so far load in their eggs the Frizzled
-receptor *fz1/2/7* (Table 1). This pattern is highly conserved among metazoans
-[@Bastin2015-oz]. The contrasting variability in the ligand identity and
-conservation of receptor identity suggests that the early role is deployed
-regardless of the specific ligand deposited in the egg. Supports the idea that
-the receptor context rather than a specific wnt ligand might crucial for the
-signaling output [@Loh2016-pz].
-
-<!--TODO: Examples of AV roles and ligand-receptor identity revealed.-->
 
 ## Conserved ligand--receptor combinations across the Wnt signaling landscape in metazoans
 
@@ -952,6 +947,25 @@ axis. There are common ligand--receptor combinations between the two animals
 forming unique transcriptional regions in the embryo that corresponds to
 differentiated body regions.](figures/comparative.png){#fig:comparative
 width=100%}
+
+\newpage
+
+# Tables
+
+Table 1. Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs.
+
+Species                          Wnt ligands                                          Frizzled receptors
+-------                          -----------                                          ------------------
+*Terebratalia transversa*        *wnt4* and *wntA* (this study)                       *fz1/2/7*, *fz5/8* and *fz4* (this study)
+*Lingula anatina*                *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]         *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] 
+*Platynereis dumerilii*          No maternal Wnts [@Pruitt2014-oy]                    *fz1/2/7* [@Bastin2015-oz]                               
+*Priapulus caudatus*             *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq]  -                                                        
+*Paracentrotus lividus*          *wnt7* [@Robert2014-xj]                              *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   
+*Strongylocentrotus purpuratus*  *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]           -                                                        
+*Saccoglossus kowalevskii*       *wnt4* and *wnt9* [@Darras2018-gm]                   *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   
+*Xenopus laevis*                 *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]             -                                                        
+*Danio rerio*                    *wnt8* [@Nasevicius1998-bm]                          -                                                        
+*Clytia hemisphaerica*           *wnt3* [@Momose2008-va]                              *fz1* and *fz3* [@Momose2008-va]                         
 
 \newpage
 
