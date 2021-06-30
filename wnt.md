@@ -862,11 +862,10 @@ sequencing, stage-specific transcriptome sequencing and in situ hybridization.
 
 ## Sequencing and assembly
 
-Genome sequenced Illumina paired ends and mate pairs. Sequenced PACBIO.
-Assembled using Platanus and improved using PBJelly. Reference transcriptome
-assembled with Trinity using this SRA. Stage-specific samples sequenced with
-Illumina single end. Expression quantified using Kallisto pseudoalignments to
-the reference transcriptome. Analyses using DESeq2 workflow.
+Reference transcriptome assembled with Trinity using this SRA. Stage-specific
+samples sequenced with Illumina single end. Expression quantified using
+Kallisto pseudoalignments to the reference transcriptome. Analyses using DESeq2
+workflow.
 
 ## Gene orthology
 
