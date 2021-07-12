@@ -271,23 +271,22 @@ development (@fig:intraseq).
 
 ## Wnt ligands
 
-To identify the spatial localization of Wnt genes in developing embryos of *T.
-transversa*, we analyzed the expression of the thirteen ligands from the early
-gastrula until the late larva stage by *in situ* hybridization (@fig:ligands1 and
-!@fig:ligands2).
+To uncover the spatial localization of Wnt genes in developing embryos of *T.
+transversa*, we analyzed the expression of the thirteen Wnt ligands between the
+early gastrula and the late larva stage by *in situ* hybridization
+(@fig:ligands1 and !@fig:ligands2).
+
+*wnt1* expression has been previously described [@Vellutini2016-lq]. In early
+and mid gastrula stages, it is expressed in a terminal position at the
+posterior blastopore lip (@fig:ligands1 and @Vellutini2016-lq). In late
+gastrula and early larva, this posterior domain acquires a subterminal position
+forming bilateral bands in the pedicle lobe, while a novel domain, a pair of
+narrow *wnt1* stripes appear in the apical lobe (@fig:ligands1 and
+@Vellutini2016-lq). In late larva, the posterior *wnt1* domain forms a ring
+subdividing the pedicle lobe, and a novel dorsal patch localized to the future
+shell expands (@fig:ligands1 and @Vellutini2016-lq).
 
 <!--TODO: Include the expression of wnt1b, if available.-->
-
-*wnt1* expression has been previously described in *T. transversa*
-[@Vellutini2016-lq]. The transcripts are detected in three distinct
-territories. A domain at the posterior end of the blastopore lip which expands
-laterally, acquires a subterminal position during gastrulation, and finally
-forms a ring of *wnt1* expression that subdivides the pedicle lobe in the late
-larva (@fig:ligands1 and @Vellutini2016-lq). At the late gastrula stage apical
-lobe cells bordering the mantle lobe begin to express *wnt1* forming a
-transversal stripe (@fig:ligands1 and @Vellutini2016-lq). Additionally, *wnt1*
-is expressed in a central mid body patch in the dorsal region
-[@Vellutini2016-lq].
 
 *wnt2* transcripts are not detected by in situ hybridization in the early and
 mid gastrula stages. At the late gastrula, broad bilateral bands of
@@ -908,52 +907,56 @@ fellowship (XXX) during the writing of this manuscript.
 
 ![Orthology assignment of *Terebratalia transversa* Wnt ligands. Phylogenetic
 analysis of the amino acid sequences including known metazoan Wnt
-genes.](figures/wnt-tree.png){#fig:wnt-tree width=100%}
+genes.](figures/1-tree.png){#fig:wnt-tree width=100%}
 
 <!--TODO: Replace tree for one with wnt1b-->
 
 ![Expression levels of Wnt ligands, Frizzled receptors and Wnt antagonists
 throughout *Terebratalia transversa* developmental
-stages.](figures/profiling.png){#fig:profiling width=100%}
+stages.](figures/2-profiling.png){#fig:profiling width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
 *Terebratalia transversa* (*wnt1*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*).
 Panels of *wnt1* expression originally published in @Vellutini2016-lq under a
 Creative Commons Attribution License and reprinted here for
-completion.](figures/ligands1.png){#fig:ligands1 width=100%}
+completion.](figures/3-ligands1.png){#fig:ligands1 width=100%}
 
-![Whole-mount colorimetric in situ hybridization of Wnt ligands in
+![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
 *Terebratalia transversa* (*wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* and
-*wntA*).](figures/ligands2.png){#fig:ligands2 width=100%}
+*wntA*).](figures/4-ligands2.png){#fig:ligands2 width=100%}
 
-![Whole-mount double-fluorescent in situ hybridization of Wnt ligands in
-*Terebratalia transversa*.](figures/doubles.png){#fig:doubles width=100%}
+![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in
+*Terebratalia transversa*. (A--D) *wnt1*+*wnt5*, (E--F) *wnt5*+*fz5/8*, (G--H)
+*wnt7*+*engrailed* (*en*), and (I--L) *wnt1*+*wnt8*. In the early gastrula
+stage the wide *wnt1* domain at the posterior region overlaps with a narrower
+*wnt5* territory at the posterior tip (A). Bilateral patches of *wnt5*... 
+](figures/5-doubles.png){#fig:doubles width=100%}
 
 ![Whole-mount colorimetric in situ hybridization of Frizzled receptors in
-*Terebratalia transversa*.](figures/frizzled.png){#fig:receptors width=100%}
+*Terebratalia transversa*.](figures/6-frizzled.png){#fig:receptors width=100%}
 
 ![Whole-mount colorimetric in situ hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/antagonists.png){#fig:antagonists
+*Terebratalia transversa*.](figures/7-antagonists.png){#fig:antagonists
 width=100%}
 
 ![Whole-mount colorimetric in situ hybridization of intracellular components of
 the Wnt signaling pathway in *Terebratalia
-transversa*.](figures/intracellular.png){#fig:intracellular width=100%}
+transversa*.](figures/8-intracellular.png){#fig:intracellular width=100%}
 
 ![Whole-mount colorimetric in situ hybridization of the
 non-canonical Wnt signaling pathway in *Terebratalia
-transversa*.](figures/cellpolarity.png){#fig:cellpolarity width=100%}
+transversa*.](figures/9-cellpolarity.png){#fig:cellpolarity width=100%}
 
 ![Summary of Wnt signaling gene expression territories in the ectoderm of the
 brachiopod *Terebratalia transversa* during
-gastrulation.](figures/summary.png){#fig:summary width=100%}
+gastrulation.](figures/10-summary.png){#fig:summary width=100%}
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
 Broad receptor territories are essentially the same along the anteroposterior
 axis. There are common ligand--receptor combinations between the two animals
 forming unique transcriptional regions in the embryo that corresponds to
-differentiated body regions.](figures/comparative.png){#fig:comparative
+differentiated body regions.](figures/11-comparative.png){#fig:comparative
 width=100%}
 
 \newpage
