@@ -1,5 +1,40 @@
 ---
 title: Wnt signaling ligand--receptor context in brachiopod anteroposterior patterning
+documentclass: article
+bibliography: wnt.bib 
+csl: biomed-central.csl
+geometry:
+  - bindingoffset=2mm
+  - hmargin=25mm
+  - vmargin=25mm
+link-citations: true
+colorlinks: true
+fignos-warning-level: 1
+fignos-cleveref: True
+fignos-plus-name: Figure
+tablenos-cleveref: True
+tablenos-plus-name: Table
+---
+
+Bruno C. Vellutini^1,2^, José M. Martín-Durán^1,3^, Aina Børve^1,4^ and Andreas
+Hejnol^1,4,5^
+
+^1^Sars International Centre for Marine Molecular Biology, University of
+Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
+
+^2^ Max Planck Institute of Molecular Cell Biology and Genetics,
+Pfotenhauerstraße 108, 01307 Dresden, Germany.
+
+^3^ Queen Mary University of London, School of Biological and Chemical
+Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
+
+^4^Department of Biological Sciences, Molecular Biology, University of Bergen,
+Thormøhlensgate 55, 5006 Bergen, Norway.
+
+^5^ Jena University
+
+<!--Outline:
+
 #title: Wnt signaling landscape in brachiopod anteroposterior patterning
 #title: Involvement of Wnt signaling ligand-receptor context in brachiopod anteroposterior patterning
 #title: Involvement of Wnt signaling in the embryonic patterning of brachiopod body regions
@@ -32,39 +67,6 @@ title: Wnt signaling ligand--receptor context in brachiopod anteroposterior patt
 #- Chema
 #- Aina
 #- Andi
-documentclass: article
-bibliography: wnt.bib 
-csl: biomed-central.csl
-geometry:
-  - bindingoffset=2mm
-  - hmargin=25mm
-  - vmargin=25mm
-link-citations: true
-colorlinks: true
-fignos-warning-level: 1
-fignos-cleveref: True
-fignos-plus-name: Figure
-tablenos-cleveref: True
-tablenos-plus-name: Table
-...
-
-Bruno C. Vellutini^1,2^, José M. Martín-Durán^1,3^, Aina Børve^1,4^ and Andreas
-Hejnol^1,4^
-
-^1^Sars International Centre for Marine Molecular Biology, University of
-Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
-
-^2^ Max Planck Institute of Molecular Cell Biology and Genetics,
-Pfotenhauerstraße 108, 01307 Dresden, Germany.
-
-^3^ Queen Mary University of London, School of Biological and Chemical
-Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
-
-^4^Department of Biological Sciences, Molecular Biology, University of Bergen,
-Thormøhlensgate 55, 5006 Bergen, Norway.
-
-
-<!--Outline:
 
     # Background
 
@@ -914,11 +916,11 @@ fellowship (XXX) during the writing of this manuscript.
 
 ![Orthology assignment of *Terebratalia transversa* Wnt ligands. Phylogenetic
 analysis of the amino acid sequences including known metazoan Wnt
-genes.](figures/1-tree.png){#fig:wnt-tree width=100%}
+genes.](figures/Fig1.jpg){#fig:wnt-tree width=100%}
 
 ![Expression levels of Wnt ligands, Frizzled receptors and Wnt antagonists
 throughout *Terebratalia transversa* developmental
-stages.](figures/2-profiling.png){#fig:profiling width=100%}
+stages.](figures/Fig2.jpg){#fig:profiling width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
 *Terebratalia transversa* (*wnt1*, *wnt1b*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and
@@ -926,49 +928,45 @@ stages.](figures/2-profiling.png){#fig:profiling width=100%}
 arrowheads demarcate the mantle--pedicle boundary. The panels for *wnt1* were
 originally published in @Vellutini2016-lq under a Creative Commons Attribution
 License and reprinted here for
-completion.](figures/3-ligands1.png){#fig:ligands1 width=100%}
+completion.](figures/Fig3.jpg){#fig:ligands1 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
 *Terebratalia transversa* (*wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* and
 *wntA*). Black arrowheads indicate the apical--mantle boundary. White
 arrowheads demarcate the mantle--pedicle
-boundary.](figures/4-ligands2.png){#fig:ligands2 width=100%}
+boundary.](figures/Fig4.jpg){#fig:ligands2 width=100%}
 
 ![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in
 *Terebratalia transversa*. (A--D) *wnt1*+*wnt5*, (E--F) *wnt5*+*fz5/8*, (G--H)
 *wnt7*+*engrailed* (*en*), and (I--L) *wnt1*+*wnt8*. In the early gastrula
 stage the wide *wnt1* domain at the posterior region overlaps with a narrower
-*wnt5* territory at the posterior tip (A). Bilateral patches of *wnt5*... 
-](figures/5-doubles.png){#fig:doubles width=100%}
+*wnt5* territory at the posterior tip (A). Bilateral patches of *wnt5*...
+](figures/Fig5.jpg){#fig:doubles width=100%}
 
 ![Whole-mount colorimetric in situ hybridization of Frizzled receptors in
 *Terebratalia transversa*. Black arrowheads indicate the apical--mantle
 boundary. White arrowheads demarcate the mantle--pedicle
-boundary.](figures/6-receptors.png){#fig:receptors width=100%}
+boundary.](figures/Fig6.jpg){#fig:receptors width=100%}
 
 ![Whole-mount colorimetric in situ hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/7-antagonists.png){#fig:antagonists
+*Terebratalia transversa*.](figures/Fig7.jpg){#fig:antagonists
 width=100%}
 
 ![Whole-mount colorimetric in situ hybridization of intracellular components of
 the Wnt signaling pathway in *Terebratalia
-transversa*.](figures/8-intracellular.png){#fig:intracellular width=100%}
-
-![Whole-mount colorimetric in situ hybridization of the
-non-canonical Wnt signaling pathway in *Terebratalia
-transversa*.](figures/9-cellpolarity.png){#fig:cellpolarity width=100%}
+transversa*.](figures/Fig8.jpg){#fig:intracellular
+width=100%}
 
 ![Summary of Wnt signaling ectodermal territories in the brachiopod
 *Terebratalia transversa*. Ventral view of bilateral stage.
-](figures/10-summary.png){#fig:summary width=100%}
+](figures/Fig9.jpg){#fig:summary width=100%}
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
 Broad receptor territories are essentially the same along the anteroposterior
 axis. There are common ligand--receptor combinations between the two animals
 forming unique transcriptional regions in the embryo that corresponds to
-differentiated body regions.](figures/11-comparative.png){#fig:comparative
-width=100%}
+differentiated body regions.](figures/Fig10.jpg){#fig:comparative width=100%}
 
 \newpage
 
@@ -1006,6 +1004,22 @@ Table: Wnt signaling subregions in the brachiopod *T. transversa*.
 
 # Supplementary material
 
+## Figures
+
+![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia
+transversa*.](figures/S-ligands.png){#fig:s-ligands tag=S1 width=100%}
+
+![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in
+*Terebratalia transversa*.](figures/FigS2.jpg){#fig:s-doubles tag=S2
+width=100%}
+
+![Whole-mount colorimetric *in situ* hybridization of the cell polarity
+(non-canonical) Wnt signaling pathway in *Terebratalia
+transversa*.](figures/FigS3.jpg){#fig:polarity tag=S3 width=100%}
+
+
+
+
 ![Orthology assignment of *Terebratalia transversa* Frizzled receptors.
 Phylogenetic analysis of the amino acid sequences of known metazoan *fz*
 genes.](figures/fz-tree.png){#fig:fz-tree width=100%}
@@ -1033,11 +1047,4 @@ genes.](figures/axin-tree.png){#fig:axin-tree width=100%}
 ![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *bcat*.
 Phylogenetic analysis of the amino acid sequences of known metazoan *bcat*
 genes.](figures/bcat-tree.png){#fig:bcat-tree width=100%}
-
-![Expression levels of Wnt signaling intracellular components throughout
-*Terebratalia transversa* developmental
-stages.](figures/intraseq.png){#fig:intraseq width=100%}
-
-![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in
-*Terebratalia transversa*.](figures/S-doubles.png){#fig:supp-doubles width=100%}
 
