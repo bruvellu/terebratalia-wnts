@@ -1006,16 +1006,25 @@ Table: Wnt signaling subregions in the brachiopod *T. transversa*.
 
 ## Figures
 
-![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia
-transversa*.](figures/S-ligands.png){#fig:s-ligands tag=S1 width=100%}
+![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
+*Terebratalia transversa*.](figures/FigS1.jpg){#fig:s-ligands tag=S1
+width=100%}
 
-![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in
-*Terebratalia transversa*.](figures/FigS2.jpg){#fig:s-doubles tag=S2
+![Whole-mount fluorescent double-fluorescent *in situ* hybridization of Wnt
+ligands in *Terebratalia transversa*.](figures/FigS2.jpg){#fig:s-doubles tag=S2
+width=100%}
+
+![Whole-mount colorimetric *in situ* hybridization of Frizzled receptors in
+*Terebratalia transversa*.](figures/FigS3.jpg){#fig:s-receptors tag=S3
+width=100%}
+
+![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
+*Terebratalia transversa*.](figures/FigS4.jpg){#fig:s-antagonists tag=S4
 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity
 (non-canonical) Wnt signaling pathway in *Terebratalia
-transversa*.](figures/FigS3.jpg){#fig:polarity tag=S3 width=100%}
+transversa*.](figures/FigS5.jpg){#fig:polarity tag=S5 width=100%}
 
 
 

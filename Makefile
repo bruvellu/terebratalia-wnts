@@ -4,8 +4,6 @@ FILTERS=--filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-citeproc
 FIGDIR=`realpath ../1-figures`
 FIGOUT=`realpath ./figures`
 
-# TODO Convert and figures to figure directory
-
 all:
 	# Cleanup figure directory
 	rm -r ${FIGOUT}/*
@@ -23,7 +21,9 @@ all:
 	# Supplementary
 	ln -s ${FIGDIR}/04-ligands/s-ligands.png ${FIGOUT}/FigS1.png
 	ln -s ${FIGDIR}/09-doubles/s-doubles.png ${FIGOUT}/FigS2.png
-	ln -s ${FIGDIR}/08-noncanonical/noncanonical.png ${FIGOUT}/FigS3.png
+	ln -s ${FIGDIR}/05-receptors/s-receptors.png ${FIGOUT}/FigS3.png
+	ln -s ${FIGDIR}/06-inhibitors/s-inhibitors.png ${FIGOUT}/FigS4.png
+	ln -s ${FIGDIR}/08-noncanonical/noncanonical.png ${FIGOUT}/FigS5.png
 	# Convert to jpg for lightness
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGOUT}/*.png
 	mkdir ${FIGOUT}/source
