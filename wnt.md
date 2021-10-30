@@ -1022,9 +1022,13 @@ width=100%}
 *Terebratalia transversa*.](figures/FigS4.jpg){#fig:s-antagonists tag=S4
 width=100%}
 
+![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
+*Terebratalia transversa*.](figures/FigS5.jpg){#fig:s-antagonists tag=S5
+width=100%}
+
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity
 (non-canonical) Wnt signaling pathway in *Terebratalia
-transversa*.](figures/FigS5.jpg){#fig:polarity tag=S5 width=100%}
+transversa*.](figures/FigS6.jpg){#fig:polarity tag=S6 width=100%}
 
 
 
