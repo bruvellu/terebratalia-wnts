@@ -914,34 +914,41 @@ fellowship (XXX) during the writing of this manuscript.
 
 # Figures
 
-![Orthology assignment of *Terebratalia transversa* Wnt ligands. Phylogenetic
-analysis of the amino acid sequences including known metazoan Wnt
-genes.](figures/Fig1.jpg){#fig:wnt-tree width=100%}
+![Orthology assignment of *Terebratalia transversa* Wnt ligands. Maximum
+likelihood phylogenetic analysis using the amino acid sequences of known
+metazoan Wnt genes. Color-coding represents Wnt subfamilies. Numbers show the
+bootstrap branch support values. *T. transversa* orthologs are in bold and
+outlined by a box.](figures/Fig1.jpg){#fig:wnt-tree width=100%}
 
-![Expression levels of Wnt ligands, Frizzled receptors and Wnt antagonists
-throughout *Terebratalia transversa* developmental
-stages.](figures/Fig2.jpg){#fig:profiling width=100%}
+![Expression of Wnt signaling components throughout *Terebratalia transversa*
+development. Heatmap shows the log normalized counts averaged between
+replicates from stage-specific RNA-seq data. The stages sampled for *in situ*
+hybridization are highlighted in magenta.](figures/Fig2.jpg){#fig:profiling
+width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
-*Terebratalia transversa* (*wnt1*, *wnt1b*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and
-*wnt7*). Black arrowheads indicate the apical--mantle boundary. White
-arrowheads demarcate the mantle--pedicle boundary. The panels for *wnt1* were
-originally published in @Vellutini2016-lq under a Creative Commons Attribution
-License and reprinted here for
-completion.](figures/Fig3.jpg){#fig:ligands1 width=100%}
+![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia
+transversa* (*wnt1*, *wnt1b*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*). Black
+arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the
+mantle--pedicle boundary. The panels for *wnt1* were originally published in
+@Vellutini2016-lq under a Creative Commons Attribution License and reprinted
+here for completion.](figures/Fig3.jpg){#fig:ligands1 width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
+![Whole-mount *in situ* hybridization of Wnt ligands in
 *Terebratalia transversa* (*wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* and
 *wntA*). Black arrowheads indicate the apical--mantle boundary. White
 arrowheads demarcate the mantle--pedicle
 boundary.](figures/Fig4.jpg){#fig:ligands2 width=100%}
 
 ![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in
-*Terebratalia transversa*. (A--D) *wnt1*+*wnt5*, (E--F) *wnt5*+*fz5/8*, (G--H)
-*wnt7*+*engrailed* (*en*), and (I--L) *wnt1*+*wnt8*. In the early gastrula
-stage the wide *wnt1* domain at the posterior region overlaps with a narrower
-*wnt5* territory at the posterior tip (A). Bilateral patches of *wnt5*...
-](figures/Fig5.jpg){#fig:doubles width=100%}
+*Terebratalia transversa*. (A--D) Expression of *wnt1* (magenta) and *wnt5*
+(green) for early gastrula (A), late gastrula (B) and early larva (C) in
+ventral views, and for early larva in dorsal view (D). (E--F) Expression of
+*wnt5* (green) and *fz5/8* (magenta) for early gastrula (E) and late gastrula
+(F) in ventral views. (G--H) Expression of *wnt7* (green) *engrailed* (*en*)
+    (magenta) in ventral (G) and dorsal (H) views. (I--L) Expression of *wnt1*
+    (magenta) and *wnt8* (green) for early gastrula (I) and early larva (J--L)
+    in ventral view (J), optical section through mid-body (K) and dorsal view
+    (L). ](figures/Fig5.jpg){#fig:doubles width=100%}
 
 ![Whole-mount colorimetric in situ hybridization of Frizzled receptors in
 *Terebratalia transversa*. Black arrowheads indicate the apical--mantle
