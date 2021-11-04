@@ -945,35 +945,30 @@ boundary.](figures/Fig4.jpg){#fig:ligands2 width=100%}
 ventral views, and for early larva in dorsal view (D). (E--F) Expression of
 *wnt5* (green) and *fz5/8* (magenta) for early gastrula (E) and late gastrula
 (F) in ventral views. (G--H) Expression of *wnt7* (green) *engrailed* (*en*)
-    (magenta) in ventral (G) and dorsal (H) views. (I--L) Expression of *wnt1*
-    (magenta) and *wnt8* (green) for early gastrula (I) and early larva (J--L)
-    in ventral view (J), optical section through mid-body (K) and dorsal view
-    (L). ](figures/Fig5.jpg){#fig:doubles width=100%}
+(magenta) in ventral (G) and dorsal (H) views. (I--L) Expression of *wnt1*
+(magenta) and *wnt8* (green) for early gastrula (I) and early larva (J--L)
+in ventral view (J), optical section through mid-body (K) and dorsal view
+(L).](figures/Fig5.jpg){#fig:doubles width=100%}
 
-![Whole-mount colorimetric in situ hybridization of Frizzled receptors in
+![Whole-mount *in situ* hybridization of Frizzled receptors in
 *Terebratalia transversa*. Black arrowheads indicate the apical--mantle
 boundary. White arrowheads demarcate the mantle--pedicle
 boundary.](figures/Fig6.jpg){#fig:receptors width=100%}
 
-![Whole-mount colorimetric in situ hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/Fig7.jpg){#fig:antagonists
-width=100%}
-
-![Whole-mount colorimetric in situ hybridization of intracellular components of
-the Wnt signaling pathway in *Terebratalia
-transversa*.](figures/Fig8.jpg){#fig:intracellular
-width=100%}
+![Whole-mount *in situ* hybridization of antagonists and intracellular
+components of the Wnt pathway in *Terebratalia
+transversa*.](figures/Fig7.jpg){#fig:components width=100%}
 
 ![Summary of Wnt signaling ectodermal territories in the brachiopod
 *Terebratalia transversa*. Ventral view of bilateral stage.
-](figures/Fig9.jpg){#fig:summary width=100%}
+](figures/Fig8.jpg){#fig:summary width=100%}
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
 Broad receptor territories are essentially the same along the anteroposterior
 axis. There are common ligand--receptor combinations between the two animals
 forming unique transcriptional regions in the embryo that corresponds to
-differentiated body regions.](figures/Fig10.jpg){#fig:comparative width=100%}
+differentiated body regions.](figures/Fig9.jpg){#fig:comparative width=100%}
 
 \newpage
 
