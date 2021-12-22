@@ -172,7 +172,9 @@ work on gene expression Hox, segmentation, hedgehog, gastrulation, etc. The
 larval body is typically subdivided into lobes that involve Wnt signaling.
 
 The goal of this study is to investigate if Wnt signaling has a role in
-patterning the different body regions using T. transversa.
+patterning the different body regions using T. transversa. We analyzed
+stage-specific RNA-seq data and spatiotemporal expression of Wnt signaling
+components.
 
 We find that Frizzled expression occurs in broad domains that cover almost the
 whole brachiopod extension. Wnt ligands are expressed in subregions, stripes or
