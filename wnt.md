@@ -129,22 +129,25 @@ Thormøhlensgate 55, 5006 Bergen, Norway.
 
 # Abstract
 
-<!--TODO: Revise abstract-->
-
-Wnt signaling is crucial for the anteroposterior patterning of bilaterians.
-Receptor-context determines the signaling outcome. However, a combined analysis
-of Wnt ligands and Frizzled receptors is often lacking. Here, we analyze the
-developmental expression of Wnt components in the brachiopod *Terebratalia
-transversa*, a spiralian whose larval body is subdivided into distinct regions.
+Wnt signaling is crucial for the anteroposterior patterning of bilaterians. It
+has a role in axial determination, fate specification and other key embryonic
+events. The signaling outcome is highly complex and dependent on the local
+receptor-context for Wnt ligand in the tissue. While the expression of Wnt
+ligands has been analyzed in diverse taxa, the combined analysis of Wnt ligands
+and Frizzled receptors is often lacking. Here, we analyze the developmental
+expression of Wnt components in the brachiopod *Terebratalia transversa*, a
+spiralian whose larval body is subdivided by distinct morphological boundaries.
 We find that Frizzled receptors are expressed in broad domains while Wnt
 ligands are expressed in localized overlapping territories along the
-anteroposterior axis. These domains express unique combinations of ligands,
-receptors and antagonists of the Wnt pathway which coincide with morphological
-boundaries, suggesting the ligand-receptor context of Wnt signaling plays a key
-role in the patterning and morphogenesis of the different larval body regions
-of the brachiopod *T. transversa*. We find that some ligand-receptor contexts
-might be evolutionary conserved and important to the evolution of bilaterian
-body patterns.
+anteroposterior axis. We identify a series of transcriptional subregion, with
+Wnt antagonists at the anterior end, and a receptor-free zone at the posterior
+end, and each subregion expresses a unique ligand--receptor combination which
+coincides with the morphological boundaries that divide the brachiopod body.
+Our expression data suggests that the ligand--receptor context plays a key role
+in the differential patterning, and subsequent morphogenesis of the larval body
+regions of the brachiopod *T. transversa*, and other animals. This suggests
+that the shuffling of ligand--receptor contexts (Wnt code), might be important
+to the evolution of bilaterian body diversity.
 
 # Background
 
@@ -184,9 +187,22 @@ body patterns.
 
 <!--## *T. transversa* has a complete set of Wnt ligands-->
 
-We surveyed the available transcriptome of *T. transversa* for ligands,
-receptors, antagonists and other components of the Wnt pathways by sequence
-similarity to known genes.
+We searched for *T. transversa* Wnt genes 
+
+We searched the transcriptome of *T. transversa* for Wnt ligands, receptors and
+antagonists by sequence similarity to known Wnt genes.
+
+We identified Wnt orthologs by sequence similarity searches. to known Wnt
+signaling components.
+
+To identify Wnt signaling components in the brachiopod *T. transversa*, we
+searched the transcriptome 
+
+of known in the transcriptome of
+
+We performed sequence similarity searches in the transcriptome of 
+
+by sequence similarity to known genes.
 
 Wnt ligands are secreted glycoproteins... [@wntligands]. We find thirteen Wnt
 ligands in *T. transversa* transcriptome. To determine their orthology, we
@@ -868,6 +884,8 @@ samples sequenced with Illumina single end. Expression quantified using
 Kallisto pseudoalignments to the reference transcriptome. Analyses using DESeq2
 workflow.
 
+([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn]))
+
 ## Gene orthology
 
 Protein sequences were aligned using maftt, the informative blocks selected
@@ -956,12 +974,13 @@ boundary. White arrowheads demarcate the mantle--pedicle
 boundary.](figures/Fig6.jpg){#fig:receptors width=100%}
 
 ![Whole-mount *in situ* hybridization of antagonists and intracellular
-components of the Wnt pathway in *Terebratalia
-transversa*.](figures/Fig7.jpg){#fig:components width=100%}
+components of the Wnt pathway in *Terebratalia transversa*. Black arrowheads
+indicate the apical--mantle boundary. White arrowheads demarcate the
+mantle--pedicle boundary.](figures/Fig7.jpg){#fig:components width=100%}
 
-![Summary of Wnt signaling ectodermal territories in the brachiopod
-*Terebratalia transversa*. Ventral view of bilateral stage.
-](figures/Fig8.jpg){#fig:summary width=100%}
+![Summary of Wnt signaling landscape in *Terebratalia transversa*. The
+schematic drawings show the ectodermal expression domains on the ventral
+region of a late gastrula stage.](figures/Fig8.jpg){#fig:summary width=100%}
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
