@@ -202,58 +202,19 @@ shuffling matter for bilaterian evolution.
 
 # Results
 
-<!--TODO: Describe results by gene family or combine stories?-->
+We searched the transcriptome of *T. transversa* for ligands, receptors,
+antagonists, and other pathway components by sequence similarity to known
+genes. To determine their orthology, we aligned the amino acid sequences to
+representative bilaterian Wnt genes and performed a phylogenetic analysis. 
 
-## Gene complement
-
-<!--## *T. transversa* has a complete set of Wnt ligands-->
-
-We searched for *T. transversa* Wnt genes 
-
-We searched the transcriptome of *T. transversa* for Wnt ligands, receptors and
-antagonists by sequence similarity to known Wnt genes.
-
-We identified Wnt orthologs by sequence similarity searches. to known Wnt
-signaling components.
-
-To identify Wnt signaling components in the brachiopod *T. transversa*, we
-searched the transcriptome 
-
-of known in the transcriptome of
-
-We performed sequence similarity searches in the transcriptome of 
-
-by sequence similarity to known genes.
+## Wnt ligands
 
 Wnt ligands are secreted glycoproteins... [@wntligands]. We find thirteen Wnt
-ligands in *T. transversa* transcriptome. To determine their orthology, we
-aligned the amino acid sequences to representative bilaterian Wnt genes and
-performed a phylogenetic analysis. We find that *T. transversa* has a single
+ligands in *T. transversa* transcriptome. We find that *T. transversa* has a single
 ortholog for each Wnt subfamily, except for *wnt1* with two paralogs, and for
 *wnt3* which is absent (@fig:wnt-tree).
 
 <!--TODO: Additional tree to solve history of wnt1 paralogs-->
-
-Frizzled receptors are transmembrane proteins... [@fzreceptors]. We identify
-four orthologs of Frizzled receptors in *T. transversa* referred here as
-*fz1/2/7*, *fz4*, *fz5/8* and *fz9/10* (@fig:fz-tree). We found no *fz3/6*.
-
-The secreted frizzled-related protein (*sfrp*) are known Wnt antagonists...
-[@sfrp]. We identify a single *sfrp* protein in *T. transversa* transcriptomic
-data, an ortholog of *sfrp1/2/5*; no matches for *sfrp3/4* (@fig:sfrp-tree). In
-addition, we identify an ortholog of dickkopf (*dkk*) (@fig:dkk-tree), a Wnt
-antagonist that... [@dkk], and an ortholog for Wnt inhibitory factor (*wif*)
-(@fig:wif-tree), a protein that... [@wif].
-
-Finally, we identify *T. transversa* orthologs for intracellular components
-related to the Wnt pathway. The gene dishevelled (*dsh*), a key regulator of
-Wnt pathways... [@dsh] (@fig:dsh-tree), *axin* (@fig:axin-tree), a protein that
-interacts with *dsh*... [@axin], and beta-catenin (*bcat*) (@fig:axin-tree),
-the effector protein that mediates downstream gene activity... [@bcat].
-
-<!--We analyzed the expression of *T. transversa* Wnt ligands using RNA-seq (@fig:profiling) and in situ hybridization (@fig:ligands1 and !@fig:ligands2). They are expressed in a diverse temporal and spatial patterns during brachiopod embryonic development.-->
-
-## Expression dynamics
 
 To characterize the expression dynamics of Wnt signaling components during *T.
 transversa* embryonic development, we analyzed the stage-specific RNA-seq
@@ -261,7 +222,7 @@ dataset (ACCESSION) covering representative developmental stages from
 unfertilized oocytes, cleavage, and gastrulation, to larval morphogenesis and
 post-metamorphosis juveniles.
 
-<!--Wnt ligands-->
+<!--Wnt profiling-->
 
 We detect high levels of *wnt4* and *wntA* transcripts maternally loaded in the
 unfertilized oocyte (@fig:profiling). Other Wnt genes, such as *wnt5*, *wnt6*,
@@ -286,29 +247,7 @@ begin to decay after gastrulation. After metamorphosis, we detect a notable
 downregulation of *wnt7* and *wnt16* in the juvenile individuals
 (@fig:profiling).
 
-<!--Frizzled receptors-->
-
-Transcripts of *fz1/2/7*, *fz4* and *fz5/8* are maternally deposited and highly
-expressed until the late blastula stage while *fz9/10* expression increases at
-the onset of gastrulation (@fig:profiling). The levels of *fz1/2/7* and *fz4*
-remain high while *fz9/10* and *fz5/8* expression decrease in the juvenile
-stages (@fig:profiling).
-
-<!--Wnt antagonists-->
-
-While *sfrp1/2/5* is highly expressed throughout development, *dkk* is
-upregulated at the late blastula stage and downregulated in the juvenile stages
-(@fig:profiling). *wif* expression is relatively constant along the
-developmental stages with a peak at the late gastrula stage (@fig:profiling).
-
-<!--Intracellular components-->
-
-The three genes are highly expressed in every developmental stage and, while
-*dvl* and *axin* maternal levels decrease after the mid blastula stage, the
-amount of *beta-catenin* transcripts remains constant throughout throughout
-development (@fig:intraseq).
-
-## Wnt ligands
+<!--Wnt expression-->
 
 To uncover the spatial localization of Wnt genes in developing embryos of *T.
 transversa*, we analyzed the expression of the thirteen Wnt ligands between the
@@ -410,6 +349,22 @@ opening lining the anterior and mid endoderm.
 
 ## Frizzled receptors
 
+<!--Frizzled orthology-->
+
+Frizzled receptors are transmembrane proteins... [@fzreceptors]. We identify
+four orthologs of Frizzled receptors in *T. transversa* referred here as
+*fz1/2/7*, *fz4*, *fz5/8* and *fz9/10* (@fig:fz-tree). We found no *fz3/6*.
+
+<!--Frizzled profiling-->
+
+Transcripts of *fz1/2/7*, *fz4* and *fz5/8* are maternally deposited and highly
+expressed until the late blastula stage while *fz9/10* expression increases at
+the onset of gastrulation (@fig:profiling). The levels of *fz1/2/7* and *fz4*
+remain high while *fz9/10* and *fz5/8* expression decrease in the juvenile
+stages (@fig:profiling).
+
+<!--Frizzled expression-->
+
 *fz1/2/7* is expressed in the ectoderm and mesoderm in the early gastrula
 (@fig:receptors). During gastrulation the transcripts are slightly cleared from
 the pedicle lobe and *fz1/2/7* remains expressed in anterior ecto and
@@ -443,6 +398,24 @@ early larva stage (@fig:receptors).
 
 ## Wnt antagonists
 
+<!--Antagonist orthology-->
+
+The secreted frizzled-related protein (*sfrp*) are known Wnt antagonists...
+[@sfrp]. We identify a single *sfrp* protein in *T. transversa* transcriptomic
+data, an ortholog of *sfrp1/2/5*; no matches for *sfrp3/4* (@fig:sfrp-tree). In
+addition, we identify an ortholog of dickkopf (*dkk*) (@fig:dkk-tree), a Wnt
+antagonist that... [@dkk], and an ortholog for Wnt inhibitory factor (*wif*)
+(@fig:wif-tree), a protein that... [@wif].
+
+<!--Antagonist profiling-->
+
+While *sfrp1/2/5* is highly expressed throughout development, *dkk* is
+upregulated at the late blastula stage and downregulated in the juvenile stages
+(@fig:profiling). *wif* expression is relatively constant along the
+developmental stages with a peak at the late gastrula stage (@fig:profiling).
+
+<!--Antagonist expression-->
+
 *sfrp* is expressed in an apical ectodermal domain and in a narrow anterior
 mesoderm patch in a pattern that closely recapitulates the expression of
 *fz5/8* (@fig:antagonists). In the early larva we detect an additional bilateral
@@ -452,7 +425,24 @@ restricted to the apical ectodermal domains without any mesodermal transcripts
 (@fig:antagonists). *wif* follows a different pattern and is mainly expressed in
 the mesoderm throughout all developmental stages (@fig:antagonists).
 
-## Additional components of the Wnt pathway
+## Additional components
+
+<!--Components orthology-->
+
+Finally, we identify *T. transversa* orthologs for intracellular components
+related to the Wnt pathway. The gene dishevelled (*dsh*), a key regulator of
+Wnt pathways... [@dsh] (@fig:dsh-tree), *axin* (@fig:axin-tree), a protein that
+interacts with *dsh*... [@axin], and beta-catenin (*bcat*) (@fig:axin-tree),
+the effector protein that mediates downstream gene activity... [@bcat].
+
+<!--Components profiling-->
+
+The three genes are highly expressed in every developmental stage and, while
+*dvl* and *axin* maternal levels decrease after the mid blastula stage, the
+amount of *beta-catenin* transcripts remains constant throughout throughout
+development (@fig:intraseq).
+
+<!--Components expression-->
 
 <!--## Intracellular components-->
 
