@@ -347,6 +347,17 @@ gastrula and early larva stages (@fig:ligands2). At the late larva *wntA* is
 expressed in a pair of mesodermal bands that extend adjacent to the mouth
 opening lining the anterior and mid endoderm.
 
+<!--FIXME: Previous results. Something to use?-->
+
+<!--*T. transversa* Wnt ligands are expressed in diverse ectodermal domains in all body regions except the apical portion of the apical lobe. The anteriormost Wnt transcripts are bilateral anterior territories of *wnt5* and *wnt8* that we detect in the early and mid gastrula stages. At the same stage we also observe lateral patches of *wnt16* next to the blastopore. Many Wnt genes are expressed at the posterior portion of the blastoporal lip, such as *wnt1*, *wnt6* and *wnt11*, but Wnt ligands are notably absent from the anterior portion of the blastoporal lip. In addition, Wnt ligands are also expressed in the mantle lobe (e.g., *wnt5*), the middle section of the larval body, and in more localized endodermal and mesodermal tissues (e.g. *wnt6* and *wnt9*).-->
+
+<!--In summary, the expression territories of Wnt ligands in *T. transversa* partially overlap and can be divided into four groups of genes. Anterior domains in the apical lobe (*wnt2*, *wnt8*, *wnt5*, *wntA*), mid body domains in the mantle lobe (mainly *wnt5* and *wnt16*), subterminal domains in the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and terminal domains in the pedicle lobe (*wnt5*, *wnt6*, *wnt11*).-->
+
+<!--The early expression domains at the anterior and posterior regions initially overlap. However, as embryonic development progresses, these territories differentiate into distinct subregions of the larval body. For instance, the overlapping domains at the posterior portion of the blastopore will segregate and occupy different subregions of the pedicle lobe in the late larva stage. -->
+
+<!--In addition, *wnt1* and *wnt7* have domains of expression at the boundaries between the apical and mantle lobes, and between the subterminal and terminal portions of the pedicle lobe. These Wnt domains differentially overlap with the receptor territories forming a complex landscape of ligand-receptor combinations.-->
+
+
 ## Frizzled receptors
 
 <!--Frizzled orthology-->
@@ -395,6 +406,12 @@ which extend from the posterior portion of the apical lobe to the anterior
 portion of the pedicle lobe (@fig:receptors). *fz9/10* is broadly expressed in
 the mesoderm throughout development and is also detected in the endoderm of the
 early larva stage (@fig:receptors).
+
+<!--FIXME: Previous results. Something to use?-->
+
+<!--Frizzled receptors are expressed in complex spatial patterns that include broad non-overlapping ectodermal domains. However, they are also detected in specific mesodermal and endodermal tissues in the developing *T. transversa* embryos. Except for *fz1/2/7*, which is expressed almost ubiquitously, *fz4* and *fz5/8* are expressed in anterior subregions of the apical lobe and *fz9/10* is predominantly more posterior in the mantle and pedicle lobes (@fig:receptors).-->
+
+<!--In summary, Frizzled receptors are expressed along the anteroposterior axis of the gastrulating embryo except for the posterior terminal portion of the pedicle lobe. These domains can be divided into five unique territories formed by a distinct combination of each receptor. At the anterior most portion of the apical lobe (*fz1/2/7* and *fz5/8*), at the medial portion of the apical lobe (*fz1/2/7* and *fz4*), at the posteriormost portion of the apical lobe and anterior most portion of the mantle lobe (*fz1/2/7* and *fz9/10*), the middle and posterior portion of the mantle lobe (*fz1/2/7*), and at the anterior portion of the pedicle lobe (*fz9/10*). The terminal region is free of Frizzled expression during gastrulation and only *fz4* and *fz1/2/7* are upregulated in the late larva stage.-->
 
 ## Wnt antagonists
 
@@ -490,38 +507,6 @@ been lost at the base of the protostome lineage [@Cho2010-eb; @Janssen2010-dc].
 
 <!--Based on the available transcriptome, we found two copies of *wnt1* in *T. transversa*. While the lingulid brachiopod *Lingula anatina* also has lineage-specific duplications of *wnt1* and *wnt10* [@Luo2015-lm], our phylogenetic analysis suggests that *L. anatina* has a more recent lineage-specific duplication of *wnt1a*. The genes wnt1a and wnt1b seem to be an older duplication in spiralians.-->
 
-## Metazoan eggs have a conserved Frizzled receptor and diverse load of Wnt ligands
-
-The early developmental role of Wnt signaling in specifying the embryonic
-primary axis has been shown to occur in different bilaterian lineages [@refs].
-However, in most cases, the identity of the ligand/receptor has not been
-demonstrated [@refs]. Nevertheless, Wnt signaling activity in early development
-depends upon the maternal load of pathway components deposited in the egg.
-
-<!--TODO: Examples of AV roles-->
-
-We found that in the oocytes of *T. transversa*, *wnt4* and *wntA* mRNAs are
-the highest expressed Wnt ligands maternally loaded, suggesting they might be
-involved in the early signaling events that pattern the animal-vegetal axis.
-However, these specific ligands are not always deposited maternally in other
-bilaterians. While most animal lineages exhibit a maternal load of Wnt ligands
-(@tbl:maternal), there is considerable variability in which ligands are
-deposited in the eggs. Even within brachiopods there are significant
-differences in the maternal load of Wnt ligands (@fig:supplementary). This
-suggests that the identity of Wnt ligands deposited in the eggs of different
-bilaterians is highly labile and even vary among closely related groups with
-similar developmental modes.
-
-In contrast, most species investigated so far load in their eggs the Frizzled
-receptor *fz1/2/7* (@tbl:maternal). This pattern is highly conserved among
-metazoans [@Bastin2015-oz]. The contrasting variability in the ligand identity
-and conservation of receptor identity suggests that the early role is deployed
-regardless of the specific ligand deposited in the egg. Supports the idea that
-the receptor context rather than a specific wnt ligand might crucial for the
-signaling output [@Loh2016-pz].
-
-<!--TODO: Examples known ligand-receptor identities-->
-
 ## Unique transcriptional subregions pattern the brachiopod larval body
 
 <!--Ligand--receptor context coincide with brachiopod body regions-->
@@ -529,12 +514,14 @@ signaling output [@Loh2016-pz].
 During *T. transversa* embryonic development, Wnt ligands and Frizzled
 receptors are expressed in a complex landscape of domains along the
 anteroposterior axis (@fig:summary). By analyzing the combinatorial expression
-of Wnt ligands, receptors and antagonists, we can identify seven broad
-ectodermal territories, each with a unique transcriptional profile
-(@tbl:landscape). Frizzled receptors are expressed in broad domains while Wnt
-ligands are expressed in partially overlapping domains with differing
-anteroposterior or dorsoventral limits. Interestingly, these domains correspond
-to morphological landmarks along *T. transversa* larval body.
+of Wnt ligands, receptors and antagonists, we can identify six broad ectodermal
+territories, each with a unique transcriptional profile (@tbl:landscape).
+Frizzled receptors are expressed in broad domains while Wnt ligands are
+expressed in partially overlapping domains with differing anteroposterior or
+dorsoventral limits. Interestingly, these domains correspond to morphological
+landmarks along *T. transversa* larval body.
+
+<!--Our gene expression data reveals a complex landscape of Wnt signaling components along the anteroposterior axis of the brachiopod *T. transversa* (@fig:summary). These include six broad ectodermal territories with unique combinations of Wnt ligands and Frizzled receptors.-->
 
 At the anteriormost tip, we observe a ligand-free zone where antagonists are
 expressed. At the posteriormost tip we find a receptor-free zone where only
@@ -637,78 +624,18 @@ can be involved in setting up the identities or differentially patterning the
 tissue fates of the different body regions of the brachiopod *T. transversa*.
 
 <!--TODO: Discuss mesodermal expression?-->
-
 <!--TODO: Discuss axin, dishevelled, bcat?-->
-
-<!--TODO: Cleanup! Text below comes from Results-->
-
-*T. transversa* Wnt ligands are expressed in diverse ectodermal domains in all
-body regions except the apical portion of the apical lobe. The anteriormost Wnt
-transcripts are bilateral anterior territories of *wnt5* and *wnt8* that we
-detect in the early and mid gastrula stages. At the same stage we also observe
-lateral patches of *wnt16* next to the blastopore. Many Wnt genes are expressed
-at the posterior portion of the blastoporal lip, such as *wnt1*, *wnt6* and
-*wnt11*, but Wnt ligands are notably absent from the anterior portion of the
-blastoporal lip. In addition, Wnt ligands are also expressed in the mantle lobe
-(e.g., *wnt5*), the middle section of the larval body, and in more localized
-endodermal and mesodermal tissues (e.g. *wnt6* and *wnt9*).
-
-In summary, the expression territories of Wnt ligands in *T. transversa*
-partially overlap and can be divided into four groups of genes. Anterior
-domains in the apical lobe (*wnt2*, *wnt8*, *wnt5*, *wntA*), mid body domains
-in the mantle lobe (mainly *wnt5* and *wnt16*), subterminal domains in the
-pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and terminal domains in the
-pedicle lobe (*wnt5*, *wnt6*, *wnt11*).
-
-The early expression domains at the anterior and posterior regions initially
-overlap. However, as embryonic development progresses, these territories
-differentiate into distinct subregions of the larval body. For instance, the
-overlapping domains at the posterior portion of the blastopore will segregate
-and occupy different subregions of the pedicle lobe in the late larva stage. 
-
-In addition, *wnt1* and *wnt7* have domains of expression at the boundaries
-between the apical and mantle lobes, and between the subterminal and terminal
-portions of the pedicle lobe. These Wnt domains differentially overlap with the
-receptor territories forming a complex landscape of ligand-receptor
-combinations.
-
-Frizzled receptors are expressed in complex spatial patterns that include broad
-non-overlapping ectodermal domains. However, they are also detected in specific
-mesodermal and endodermal tissues in the developing *T. transversa* embryos.
-Except for *fz1/2/7*, which is expressed almost ubiquitously, *fz4* and *fz5/8*
-are expressed in anterior subregions of the apical lobe and *fz9/10* is
-predominantly more posterior in the mantle and pedicle lobes (@fig:receptors).
-
-In summary, Frizzled receptors are expressed along the anteroposterior axis of
-the gastrulating embryo except for the posterior terminal portion of the
-pedicle lobe. These domains can be divided into five unique territories formed
-by a distinct combination of each receptor. At the anterior most portion of the
-apical lobe (*fz1/2/7* and *fz5/8*), at the medial portion of the apical lobe
-(*fz1/2/7* and *fz4*), at the posteriormost portion of the apical lobe and
-anterior most portion of the mantle lobe (*fz1/2/7* and *fz9/10*), the middle
-and posterior portion of the mantle lobe (*fz1/2/7*), and at the anterior
-portion of the pedicle lobe (*fz9/10*). The terminal region is free of Frizzled
-expression during gastrulation and only *fz4* and *fz1/2/7* are upregulated in
-the late larva stage.
-
-<!--TODO: Cleanup! Text below comes from discussion-->
-
 <!--TODO: How does Wnt signaling intersects with Hox expression?-->
 
-Our gene expression data reveals a complex landscape of Wnt signaling
-components along the anteroposterior axis of the brachiopod *T. transversa*
-(@fig:summary). These include seven broad ectodermal territories with unique
-combinations of Wnt ligands and Frizzled receptors. While the domains of
-expression of most Wnt ligands are restricted to a single body region, *wnt1*,
-*wnt5* and *wnt7* are expressed in multiple body regions, and different
-receptor contexts.
+## Wnt ligands under different receptor-contexts
 
-*wnt5* is expressed in the apical lobe, in the mantle lobe and in the terminal
-portion of the pedicle lobe. Therefore, the expression of the ligand overlaps
-with the expression of the receptors *fz1/2/7* and *fz4* in the apical lobe,
-*fz1/2/7* in the mantle lobe and no Frizzled in the pedicle lobe. These
-different receptor contexts coincide with different morphological outcomes of
-these body regions.
+*wnt1*, *wnt5* and *wnt7* are expressed in multiple body regions, and
+different receptor contexts. *wnt5* is expressed in the apical lobe, in the
+mantle lobe and in the terminal portion of the pedicle lobe. Therefore, the
+expression of the ligand overlaps with the expression of the receptors
+*fz1/2/7* and *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe and no
+Frizzled in the pedicle lobe. These different receptor contexts coincide with
+different morphological outcomes of these body regions.
 
 The posterior region of the apical lobe where *wnt5* and other Wnts are
 expressed, corresponds to a region that undergoes intense cell proliferation
@@ -716,8 +643,6 @@ forming an enlarged appearance in the late larva. The region expresses *fz4*
 which is associated with the activation of the *beta-catenin* cascade
 (canonical Wnt pathway) [@refs], and therefore could be mediating the cell
 proliferation in the apical lobe.
-
-<!--TODO: Check morphological description of the apical lobe morphology.-->
 
 The mantle lobe, in contrast, *wnt5* only overlaps by *fz1/2/7*. The region
 undergoes dramatic morphogenetic changes during development, where the tissues
@@ -729,16 +654,11 @@ signaling cascade in the mantle lobe of *T. transversa* might be mediated by
 *fz1/2/7*. We thus speculate that the developmental mechanism involved in the
 elongation of the mantle lobe is convergent extension.
 
+<!--TODO: Get examples of Wnt activity without Frizzled receptors.-->
+
 The activity of Wnt ligands without Frizzled receptors has been described in
 [@refs]. That might be the case for the terminal wnt5 domain in the pedicle
 lobe.
-
-These observations suggest that in the case of *wnt5* the receptor context, and
-possibly the presence of other ligands, might play a role in determining the
-signaling being activated. And therefore, be important for the differentiation
-of brachiopod larval body regions.
-
-<!--TODO: Continue from here.-->
 
 Another example is *wnt1* and *wnt7* where in the region containing *fz1/2/7*
 and *fz9/10* the stripes coincide with the deep epithelial invagination of the
@@ -752,9 +672,42 @@ or suggested that the receptor mediating wnt1 signaling is fzX [@refs]. In *T.
 transversa* this seems to be the same or different because the Frizzled
 receptors expressed in the apical-mantle boundary are fz1/2/7 and fz9/10.
 
-<!--TODO: Get examples of Wnt activity without Frizzled receptors.-->
+These observations suggest that the receptor context, and possibly the presence
+of other ligands, might play a role in determining the signaling being
+activated. And therefore, be important for the differentiation of brachiopod
+larval body regions.
 
-## Conserved ligand--receptor combinations across the Wnt signaling landscape in metazoans
+## Maternal load conserved Frizzled receptor and diverse load of Wnt ligands
+
+The early developmental role of Wnt signaling in specifying the embryonic
+primary axis has been shown to occur in different bilaterian lineages [@refs].
+However, in most cases, the identity of the ligand/receptor has not been
+demonstrated [@refs]. Nevertheless, Wnt signaling activity in early development
+depends upon the maternal load of pathway components deposited in the egg.
+
+We found that in the oocytes of *T. transversa*, *wnt4* and *wntA* mRNAs are
+the highest expressed Wnt ligands maternally loaded, suggesting they might be
+involved in the early signaling events that pattern the animal-vegetal axis.
+However, these specific ligands are not always deposited maternally in other
+bilaterians. While most animal lineages exhibit a maternal load of Wnt ligands
+(@tbl:maternal), there is considerable variability in which ligands are
+deposited in the eggs. Even within brachiopods there are significant
+differences in the maternal load of Wnt ligands (@fig:supplementary). This
+suggests that the identity of Wnt ligands deposited in the eggs of different
+bilaterians is highly labile and even vary among closely related groups with
+similar developmental modes.
+
+In contrast, most species investigated so far load in their eggs the Frizzled
+receptor *fz1/2/7* (@tbl:maternal). This pattern is highly conserved among
+metazoans [@Bastin2015-oz]. The contrasting variability in the ligand identity
+and conservation of receptor identity suggests that the early role is deployed
+regardless of the specific ligand deposited in the egg. Supports the idea that
+the receptor context rather than a specific wnt ligand might crucial for the
+signaling output [@Loh2016-pz].
+
+## Conserved ligand--receptor subregions between spiralian and deuterostomes
+
+<!--TODO: Remove these first paragraphs and keep only hemichordate?-->
 
 If the ligand-receptor context plays a role in specifying different brachiopod
 body regions, we wondered how conserved these transcriptional subregions are
@@ -796,17 +749,13 @@ complicating the identification of common or divergent ligand-receptor contexts
 
 <!--TODO: Are the Frizzled domains conserved, at least?-->
 
-In the deuterostomes, however, the Wnt signaling landscape of hemichordates has
-been analyzed in detail [@Darras2018-gm], and thus allow for a more complete
+In the deuterostomes the Wnt signaling landscape of hemichordates has been
+analyzed in detail [@Darras2018-gm], and thus allow for a more complete
 comparison to the brachiopod findings. The spatial arrangement of Frizzled
-domains is quite similar between *T. transversa* and *Saccoglossus kowalevskii*
+domains is similar between *T. transversa* and *Saccoglossus kowalevskii*
 (@fig:comparative). In a closer comparison, we can also identify that many Wnt
 ligands are also expressed in similar positions along the anteroposterior axis
 of the two species (@fig:comparative). However, there is also differences.
-
-<!--TODO: Cite other hemichordate papers?-->
-
-<!--TODO: Are these microregions conserved in other animals?-->
 
 By compiling the patterns, we can identify a common set of ligand-receptor
 territories that are similar between brachiopods and hemichordates
@@ -836,6 +785,8 @@ regions can differ from group to group.
 <!--For example, that is the case for the apical-mantle boundary and the collar-trunk boundary as the head-trunk boundary. These boundaries occur at the interface of different molecular contexts.-->
 
 <!--TODO: Collect more convincing references.-->
+
+## Role of ligand--receptor changes to bilaterian evolution
 
 A common consensus is that axial patterning genes of bilaterians are conserved
 and inherited from the last common ancestor [@refs]. The similar arrangement of
