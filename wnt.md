@@ -146,26 +146,45 @@ coincides with the morphological boundaries that divide the brachiopod body.
 Our expression data suggests that the ligand--receptor context plays a key role
 in the differential patterning, and subsequent morphogenesis of the larval body
 regions of the brachiopod *T. transversa*, and other animals. This suggests
-that the shuffling of ligand--receptor contexts (Wnt code), might be important
-to the evolution of bilaterian body diversity.
+that the shuffling of ligand--receptor contexts, might be important to the
+evolution of bilaterian body diversity.
 
 # Background
 
 <!--TODO: Draft paragraphs for introduction-->
 
-- Wnt signaling is crucial for embryonic development in multiple ways.
-- One major role is anteroposterior patterning and developmental boundaries.
-- Receptor context might be crucial for signaling outcome.
-- Brachiopods are important spiralian evo-devo organisms.
-- Larval body is subdivided into lobes that involve Wnt signaling.
-- Investigate Wnt signaling role in patterning body regions.
+Wnt signaling is crucial for embryonic development in multiple ways. It is
+involved in fate specification, organogenesis, etc. There is an early role in
+axis determination. But also a major role is anteroposterior patterning of the
+body regions.
 
-- Find Wnt/Frizzled expression coincides with body regions and boundaries.
-- Each subregion has a unique ligand-receptor context.
-- Receptors are more conserved while ligands more labile.
-- Some ligand-receptor combinations are conserved in other animals.
-- Suggests that Wnt play a role in patterning larval body regions.
-- And that receptor context might matter for signaling outcome.
+It has been increasingly recognized that receptor context is crucial for
+signaling outcome. That multiple ligand receptor combinations might trigger
+different pathways and differentiation. For example, ... . Thus understanding
+the receptor context for the Wnt expression is important.
+
+Most Wnt work has been focused in deuterostomes and arthropods. The Spiralia is
+another major bilaterian clade with great diversity and crucial to understand
+bilaterian evolution.
+
+Brachiopods are important spiralian evo-devo organisms. There is substantial
+work on gene expression Hox, segmentation, hedgehog, gastrulation, etc. The
+larval body is typically subdivided into lobes that involve Wnt signaling.
+
+The goal of this study is to investigate if Wnt signaling has a role in
+patterning the different body regions using T. transversa.
+
+We find that Frizzled expression occurs in broad domains that cover almost the
+whole brachiopod extension. Wnt ligands are expressed in subregions, stripes or
+patches, often partially overlapping.
+
+Each subregion has a unique ligand-receptor context. Antagonists are restricted
+to the anterior region and receptor is cleared from the posterior region.
+Ligand receptor coincides with body regions and morphological boundaries.
+Suggests that Wnt play a role in patterning brachiopod larval body regions.
+Some ligand-receptor combinations are conserved in other animals. Receptors are
+more conserved while ligands more labile. Indicates, that receptor context
+shuffling matter for bilaterian evolution.
 
 <!--At the Fz receptor, the binding of proteins other than Wnt can antagonize signaling. Specific antagonists include Dickkopf (Dkk), Wnt inhibitory factor 1 (WIF-1),[50][51] secreted Frizzled-related proteins (SFRP), Cerberus, Frzb, Wise, SOST, and Naked cuticle. These constitute inhibitors of Wnt signaling. However, other molecules also act as activators. Norrin and R-Spondin2 activate Wnt signaling in the absence of Wnt ligand.-->
 
