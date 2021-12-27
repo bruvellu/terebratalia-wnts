@@ -209,10 +209,10 @@ representative bilaterian Wnt genes and performed a phylogenetic analysis.
 
 ## Wnt ligands
 
-Wnt ligands are secreted glycoproteins... [@wntligands]. We find thirteen Wnt
-ligands in *T. transversa* transcriptome. We find that *T. transversa* has a single
-ortholog for each Wnt subfamily, except for *wnt1* with two paralogs, and for
-*wnt3* which is absent (@fig:wnt-tree).
+Wnt ligands are secreted proteins... [@wntligands]. We find thirteen Wnt
+ligands in *T. transversa* transcriptome. We find that *T. transversa* has a
+single ortholog for each Wnt subfamily, except for *wnt1* with two paralogs,
+and for *wnt3* which is absent (@fig:wnt-tree).
 
 <!--TODO: Additional tree to solve history of wnt1 paralogs-->
 
@@ -225,9 +225,9 @@ post-metamorphosis juveniles.
 <!--Wnt profiling-->
 
 We detect high levels of *wnt4* and *wntA* transcripts maternally loaded in the
-unfertilized oocyte (@fig:profiling). Other Wnt genes, such as *wnt5*, *wnt6*,
-and *wnt16*, are also expressed in the oocytes, but at lower levels. The
-remaining Wnt ligands are barely detected at this stage.
+unfertilized oocyte (@fig:profiling). Other Wnt genes are expressed, such as
+*wnt1b*, *wnt5*, *wnt6*, and *wnt16*, but at lower levels. The remaining Wnt
+ligands are barely detected at this stage.
 
 The Wnt landscape changes at the late blastula stage (19h) when there is a
 concerted upregulation of *wnt1*, *wnt8*, *wnt10* and *wnt16* in the embryo
@@ -264,7 +264,12 @@ narrow *wnt1* stripes appear in the apical lobe (@fig:ligands1 and
 subdividing the pedicle lobe, and a novel dorsal patch localized to the future
 shell expands (@fig:ligands1 and @Vellutini2016-lq).
 
-<!--TODO: Include the expression of wnt1b, if available.-->
+*wnt1b* is expressed in a small, localized dorsal domain in the early, mid and
+late gastrula stages (@fig:ligands1). This apical domain becomes fragmented in
+the early larva and disappears in the late larva. In the early larva *wnt1b* is
+upregulated in a central ventral patch posterior to the mouth. In the late
+larva two novel domains appear below the mantle lobe and at the terminal
+posterior tip of the pedicle lobe (@fig:ligands1).
 
 *wnt2* transcripts are not detected by in situ hybridization in the early and
 mid gastrula stages. At the late gastrula, broad bilateral bands of
@@ -653,6 +658,8 @@ the activation of the cell polarity cascade (noncanonical Wnt pathway) and the
 signaling cascade in the mantle lobe of *T. transversa* might be mediated by
 *fz1/2/7*. We thus speculate that the developmental mechanism involved in the
 elongation of the mantle lobe is convergent extension.
+
+<!--TODO: Discuss how wnt1 antagonizes wnt5, see Torres1996-hs-->
 
 <!--TODO: Get examples of Wnt activity without Frizzled receptors.-->
 
