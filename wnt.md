@@ -352,7 +352,7 @@ gastrula and early larva stages (@fig:ligands2). At the late larva *wntA* is
 expressed in a pair of mesodermal bands that extend adjacent to the mouth
 opening lining the anterior and mid endoderm.
 
-<!--FIXME: Previous results. Something to use?-->
+<!--TODO: Previous results. Something to use?-->
 
 <!--*T. transversa* Wnt ligands are expressed in diverse ectodermal domains in all body regions except the apical portion of the apical lobe. The anteriormost Wnt transcripts are bilateral anterior territories of *wnt5* and *wnt8* that we detect in the early and mid gastrula stages. At the same stage we also observe lateral patches of *wnt16* next to the blastopore. Many Wnt genes are expressed at the posterior portion of the blastoporal lip, such as *wnt1*, *wnt6* and *wnt11*, but Wnt ligands are notably absent from the anterior portion of the blastoporal lip. In addition, Wnt ligands are also expressed in the mantle lobe (e.g., *wnt5*), the middle section of the larval body, and in more localized endodermal and mesodermal tissues (e.g. *wnt6* and *wnt9*).-->
 
@@ -361,7 +361,6 @@ opening lining the anterior and mid endoderm.
 <!--The early expression domains at the anterior and posterior regions initially overlap. However, as embryonic development progresses, these territories differentiate into distinct subregions of the larval body. For instance, the overlapping domains at the posterior portion of the blastopore will segregate and occupy different subregions of the pedicle lobe in the late larva stage. -->
 
 <!--In addition, *wnt1* and *wnt7* have domains of expression at the boundaries between the apical and mantle lobes, and between the subterminal and terminal portions of the pedicle lobe. These Wnt domains differentially overlap with the receptor territories forming a complex landscape of ligand-receptor combinations.-->
-
 
 ## Frizzled receptors
 
@@ -412,7 +411,7 @@ portion of the pedicle lobe (@fig:receptors). *fz9/10* is broadly expressed in
 the mesoderm throughout development and is also detected in the endoderm of the
 early larva stage (@fig:receptors).
 
-<!--FIXME: Previous results. Something to use?-->
+<!--TODO: Previous results. Something to use?-->
 
 <!--Frizzled receptors are expressed in complex spatial patterns that include broad non-overlapping ectodermal domains. However, they are also detected in specific mesodermal and endodermal tissues in the developing *T. transversa* embryos. Except for *fz1/2/7*, which is expressed almost ubiquitously, *fz4* and *fz5/8* are expressed in anterior subregions of the apical lobe and *fz9/10* is predominantly more posterior in the mantle and pedicle lobes (@fig:receptors).-->
 
@@ -447,15 +446,15 @@ restricted to the apical ectodermal domains without any mesodermal transcripts
 (@fig:antagonists). *wif* follows a different pattern and is mainly expressed in
 the mesoderm throughout all developmental stages (@fig:antagonists).
 
-## Additional components
+## Intracellular components
 
 <!--Components orthology-->
 
-Finally, we identify *T. transversa* orthologs for intracellular components
-related to the Wnt pathway. The gene dishevelled (*dsh*), a key regulator of
-Wnt pathways... [@dsh] (@fig:dsh-tree), *axin* (@fig:axin-tree), a protein that
-interacts with *dsh*... [@axin], and beta-catenin (*bcat*) (@fig:axin-tree),
-the effector protein that mediates downstream gene activity... [@bcat].
+We find *T. transversa* orthologs for intracellular components related to the
+Wnt pathway. The gene dishevelled (*dsh*), a key regulator of Wnt pathways...
+[@dsh] (@fig:dsh-tree), *axin* (@fig:axin-tree), a protein that interacts with
+*dsh*... [@axin], and beta-catenin (*bcat*) (@fig:axin-tree), the effector
+protein that mediates downstream gene activity... [@bcat].
 
 <!--Components profiling-->
 
@@ -465,8 +464,6 @@ amount of *beta-catenin* transcripts remains constant throughout throughout
 development (@fig:intraseq).
 
 <!--Components expression-->
-
-<!--## Intracellular components-->
 
 *dvl* transcripts localize to a narrow ectodermal apical domain and the
 adjacent territory in the anterior mesoderm throughout development
@@ -486,15 +483,32 @@ downregulated and in the late larva stage *beta-catenin* transcripts are
 restricted to the anterior mesoderm and to the mesoderm associated with the
 chaetae sacs in the mantle lobe (@fig:intracellular).
 
-<!--## Cell-polarity pathway-->
+## Cell polarity components
 
 <!--TODO: Integrate the pcp pathway into the manuscript.-->
 
-We identified *T. transversa* orthologs for the components of the cell polarity
-pathway (PCP Pathway, non-canonical Wnt Pathway) and analyzed their expression
-during the period of axial elongation (early to late gastrula).
+We identified *T. transversa* orthologs for components of the cell
+polarity pathway (PCP Pathway, non-canonical Wnt Pathway) and analyzed their
+expression during the period of axial elongation (early to late gastrula).
 
-Expression of diversin, jnk, strabismus, flamingo, prickle (@fig:intracellular).
+*diversin* is only expressed in the late gastrula stage. We detect transcripts
+in bilateral laterodorsal domains at the apical lobe and at the pedicle lobe (@fig:s-polarity).
+
+*jnk* is faintly expressed in the early gastrula. In the mid gastrula it is
+present in the archenteron posterior portion. In the late gastrula jnk
+expression is upregulated almost ubiquitously across the embryo, with the
+exception of ventral lateral regions in the apical lobe (@fig:s-polarity).
+
+*flamingo* transcripts are present throughout development in most embryonic
+tissues. Bilateral patches in the apical lobe become stronger in the late
+gastrula (@fig:s-polarity).
+
+*prickle* is expressed as a posterior patch in the early gastrula stage. In the
+late gastrula it is expressed in ventral bilateral patches in the apical lobe
+complementary to the areas absent of *jnk*. *prickle* is also upregulated in
+the mesodermal pouches (@fig:s-polarity).
+
+*strabismus* is expressed ubiquitously throughout development (@fig:s-polarity).
 
 # Discussion
 
@@ -1018,8 +1032,7 @@ width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity
 (non-canonical) Wnt signaling pathway in *Terebratalia
-transversa*.](figures/FigS6.jpg){#fig:polarity tag=S6 width=100%}
-
+transversa*.](figures/FigS6.jpg){#fig:s-polarity tag=S6 width=100%}
 
 
 
