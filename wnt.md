@@ -62,11 +62,6 @@ Thormøhlensgate 55, 5006 Bergen, Norway.
 #title: Ligand-Receptor map reveals Wnt signaling landscape patterning the anteroposterior axis in the brachiopod *Terebratalia transversa*
 #title: Ligand-receptor context of Wnt signaling during brachiopod anteroposterior patterning
 #title: Wnt-Frizzled combinatorial expression domains pattern the anteroposterior axis in the brachiopod *Terebratalia transversa*
-#author:
-#- Bruno
-#- Chema
-#- Aina
-#- Andi
 
     # Background
 
@@ -516,11 +511,11 @@ the mesodermal pouches (@fig:s-polarity).
 
 <!--TODO: Elaborate on Wnt complement discussion.-->
 
-Metazoans have a diverse repertoire of Wnt genes with 13 subfamilies which
-evolved by ancient gene duplications [@Kusserow2005-xd; @Croce2009-vv;
-@Cho2010-eb]. Our data suggests the brachiopod *T. transversa* has an almost
-complete set of Wnt genes, with the exception of *wnt3*, which is known to have
-been lost at the base of the protostome lineage [@Cho2010-eb; @Janssen2010-dc].
+Metazoans have an ancient repertoire of 13 Wnt subfamilies [@Kusserow2005-xd;
+@Croce2009-vv; @Cho2010-eb]. Our data suggests the brachiopod *T. transversa*
+has an almost complete set of Wnt genes, with the exception of *wnt3*, which is
+known to have been lost at the base of the protostome lineage [@Cho2010-eb;
+@Janssen2010-dc].
 
 <!--TODO: Incorporate discussion about duplications in brachiopoda and spiralia.-->
 
@@ -857,17 +852,33 @@ of ligand-receptor frizzled and other receptors in future comparative studies.
 
 ## Sample collection
 
-Adult brachiopods collected in FHL. Spawning procedures and samples for genome
-sequencing, stage-specific transcriptome sequencing and in situ hybridization.
+Adult *T. transversa* specimens were collected by dredging the rocky seabeds
+around Friday Harbor, San Juan Islands, USA. They were kept in a tank with
+running seawater at the Friday Harbor Laboratories (University of Washington).
+To obtain embryos, we dissected the gonads of ripe individuals and fertilized
+the gametes *in vitro* as previously described [@Reed1987-sd; @Freeman1993-zt].
+We maintained the embryos in glass bowls immersed in running seawater for a
+stable culturing temperature (around 7.6°C in January). At representative
+developmental stages (@tbl:samples), we collected samples for *in situ*
+hybridization and RNA-seq. The embryos were fixed in 4% formaldehyde at room
+temperature for 1h, washed thoroughly in 1x PBS with 0.1% Tween-20, and stored
+in 100% methanol at -20°C for *in situ* hybridizations. The samples for RNA-seq
+were preserved directly in RNAlater at room temperature. We collected two
+biological replicates. Each replicate contains the eggs of a single female
+fertilized with a sperm mix of three different males.
 
-## Sequencing and assembly
+## RNA sequencing and analyses
 
-Reference transcriptome assembled with Trinity using this SRA. Stage-specific
-samples sequenced with Illumina single end. Expression quantified using
-Kallisto pseudoalignments to the reference transcriptome. Analyses using DESeq2
-workflow.
+We extracted the total RNA from individual RNA-seq samples using Trizol. The
+samples were randomized and sequenced on four lanes of a Illumina HighSeq 2000
+using 50bp single-end reads at the EMBL Genomic Core Facilities (GENECORE). We
+quantified the transcript abundances using Kallisto v0.46.0 [@Bray2016-lm]. We
+pseudoaligned the reads of each sample to a reference transcriptome of *T.
+transversa* assembled from
+[SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn]).
 
-([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn]))
+ Analyses using DESeq2 workflow.
+
 
 ## Gene orthology
 
@@ -898,11 +909,11 @@ using Inkscape.
 
 # Acknowledgements
 
-Friday harbor laboratories and the boat staff for the help with adult
-collection. Yale J Passamaneck for the help with spawnings and sample
-collection. Katrine Worsaae for the help with cloning. S9 members for helpful
-discussions. Collection supported by XXX grant. BCV was supported by a EMBO
-fellowship (XXX) during the writing of this manuscript.
+We thank the staff and boat crew of the Friday Harbor Laboratories for the
+brachiopod collections. Yale J Passamaneck for the help with spawnings and
+sample collection. Katrine Worsaae for the help with cloning. S9 members for
+helpful discussions. Collection supported by XXX grant. BCV was supported by a
+EMBO fellowship (XXX) during the writing of this manuscript.
 
 # References
 
@@ -992,17 +1003,41 @@ Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs.
 | *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
 | *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
 
+\newpage
+
 Table: Wnt signaling subregions in the brachiopod *T. transversa*.
 {#tbl:landscape}
 
-| Region                  | Antagonists   | Ligands                                          | Receptors           |
-|-------------------------|---------------|--------------------------------------------------|---------------------|
-| Anterior tip            | *dkk*, *sfrp* | -                                                | *fz1/2/7*, *fz5/8*  |
-| Apical lobe             | -             | *wntA*, *wnt8*, *wnt2*, *wnt5*                   | *fz1/2/7*, *fz4*    |
-| Apical--mantle boundary | -             | *wnt1*, *wnt7*, *wnt16*                          | *fz1/2/7*, *fz9/10* |
-| Mantle lobe             | -             | *wnt5*, *wnt16*                                  | *fz1/2/7*           |
-| Pedicle lobe            | -             | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7* | *fz9/10*            |
-| Posterior tip           | -             | *wnt6*, *wnt11*, *wnt5*                          | -                   |
+| Region                    | Antagonists     | Ligands                                            | Receptors             |
+| ------------------------- | --------------- | -------------------------------------------------- | --------------------- |
+| Anterior tip              | *dkk*, *sfrp*   | (*wnt1b*)                                                  | *fz1/2/7*, *fz5/8*    |
+| Apical lobe               | -               | *wntA*, *wnt8*, *wnt2*, *wnt5*                     | *fz1/2/7*, *fz4*      |
+| Apical--mantle boundary   | -               | *wnt1*, *wnt7*, *wnt16*                            | *fz1/2/7*, *fz9/10*   |
+| Mantle lobe               | -               | *wnt5*, *wnt16*                                    | *fz1/2/7*             |
+| Pedicle lobe              | -               | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7*   | *fz9/10*              |
+| Posterior tip             | -               | *wnt6*, *wnt11*, *wnt5*                            | -                     |
+
+\newpage
+
+Table: Sampled developmental stages for the stage-specific transcriptome of the
+brachiopod *T. transversa*. {#tbl:samples}
+
+| Stage ID | Time post fertilization | Stage description                    |
+| -------- | ----------------------- | ------------------------------------ |
+| S01      | 0h                      | oocytes                              |
+| S02      | 8h                      | mid blastula                         |
+| S03      | 19h                     | late blastula                        |
+| S04      | 24h                     | moving late blastula                 |
+| S05      | 26h                     | early gastrula                       |
+| S06      | 37h                     | asymmetric gastrula                  |
+| S07      | 51h                     | bilateral gastrula                   |
+| S08      | 59h                     | bilobed                              |
+| S09      | 68h                     | trilobed                             |
+| S10      | 82h                     | early larva (first chaetae visible)  |
+| S11      | 98h                     | late larva (long chaetae, eye spots) |
+| S12      | 131h                    | competent larva                      |
+| S13      | 1d                      | juvenile                             |
+| S14      | 2d                      | juvenile                             |
 
 \newpage
 
