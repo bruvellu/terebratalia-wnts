@@ -857,28 +857,31 @@ around Friday Harbor, San Juan Islands, USA. They were kept in a tank with
 running seawater at the Friday Harbor Laboratories (University of Washington).
 To obtain embryos, we dissected the gonads of ripe individuals and fertilized
 the gametes *in vitro* as previously described [@Reed1987-sd; @Freeman1993-zt].
-We maintained the embryos in glass bowls immersed in running seawater for a
-stable culturing temperature (around 7.6°C in January). At representative
-developmental stages (@tbl:samples), we collected samples for *in situ*
-hybridization and RNA-seq. The embryos were fixed in 4% formaldehyde at room
+The embryos developed in glass bowls with filtered seawater, partially immersed
+in running seawater for a stable culturing temperature (around 7.6°C in
+January). Samples for *in situs* were fixed in 4% formaldehyde at room
 temperature for 1h, washed thoroughly in 1x PBS with 0.1% Tween-20, and stored
-in 100% methanol at -20°C for *in situ* hybridizations. The samples for RNA-seq
-were preserved directly in RNAlater at room temperature. We collected two
-biological replicates. Each replicate contains the eggs of a single female
-fertilized with a sperm mix of three different males.
+in 100% methanol at -20°C. Samples for RNA-seq were preserved directly in
+RNAlater at representative developmental stages (@tbl:samples). We collected
+two biological replicates, each containing the eggs of a single female
+fertilized with the sperm of three different males.
 
 ## RNA sequencing and analyses
 
-We extracted the total RNA from individual RNA-seq samples using Trizol. The
-samples were randomized and sequenced on four lanes of a Illumina HighSeq 2000
-using 50bp single-end reads at the EMBL Genomic Core Facilities (GENECORE). We
-quantified the transcript abundances using Kallisto v0.46.0 [@Bray2016-lm]. We
-pseudoaligned the reads of each sample to a reference transcriptome of *T.
-transversa* assembled from
-[SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn]).
-
- Analyses using DESeq2 workflow.
-
+We extracted the total RNA of individual RNA-seq samples using Trizol. The 28
+samples were randomized on four lanes of a Illumina HighSeq 2000 at the EMBL
+Genomic Core Facilities (GENECORE). We sequenced 24±5 million 50bp single-end
+reads on average across samples. We quantified the transcript abundances using
+Kallisto v0.46.0 [@Bray2016-lm] to pseudoaligned the reads to a reference
+transcriptome of *T. transversa* (assembled from
+[SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])). The
+percentage of uniquely mapped reads was high for all samples (85.6±1.7%). We
+used DESeq2 [@Love2014-hs] to estimate the library size factors and the data
+dispersion, and to homogenize the variance across expression ranks
+(variance-stabilizing transformation) for sample clustering and visualization.
+We used pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz] packages to
+create plots in R [@Development_Core_Team2005-ki] running RStudio Desktop
+[@RStudio_Team2020-wr].
 
 ## Gene orthology
 
