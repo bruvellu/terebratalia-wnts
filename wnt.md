@@ -899,26 +899,41 @@ resulting trees using the Interactive Tree Of Life web application
 [@Letunic2016-pn]. The gene orthology analyses and source files are available
 in the repository [TODO].
 
-## Cloning and gene expression
+## Cloning and *in situ* hybridization
 
-Gene specific primers were designed for relevant genes based on the reference
-transcriptome. Fragments were amplified and cloned into pGemT vectors.
-Antisense probes were amplified using T7 or SP6 polymerase and synthesized with
-DiG-UTPs. Embryos were permeabilized with protk, hybridized at 62 deg with
-antisense probes for two days, probes were washed and embryos were incubated
-with anti-dig antibody overnight, and colorimetric reaction was performed
-nbt/bcip to reveal the in situ localization of transcripts. Double fluorescent
-in situs were performed in the same manner but using probes fluo/hrp
-nucleotides. For signal enhancement we performed an amplification step and
-detergent wash to remove unspecific background.
+We designed gene-specific primer pairs for the identified *T. transversa* Wnt
+signaling components using Primer3 [@Untergasser2012-se]. We targeted the
+coding sequence to obtain product sizes between 800--1200 bp. We synthesized
+cDNA using the SMARTer RACE cDNA Amplification kit (Clontech), and amplified
+the fragments by PCR, and cloned them into pGEM-T Easy Vector. We amplified
+antisense sequences using T7 or SP6 polymerase, and synthesized DIG-labeled
+riboprobes with MEGAscript kit (Ambion). We then followed established protocols
+in *T. transversa* for single colorimetric *in situ* hybridization
+[@Hejnol2008-pk; @Santagata2012-he], and double fluorescent *in situ*
+hybridization [@Vellutini2016-lq; @Martin-Duran2016-qa]. The primer pairs are
+available in the repository [TODO] and the cloned sequences were deposited in
+the GenBank (XXX--XXX).
 
-## Microscopy and image processing
+## Microscopy
 
-Embryos were mounted between coverslip and glass slide in 80% glycerol and
+We mounted the embryos between a glass slide and a coverslip, supported by clay
+feet, in 70% glycerol.
+
+WEmbryos were mounted between coverslip and glass slide in 80% glycerol and
 representative embryos were imaged under Zeiss Axio with Axiocam color camera.
 Fluorescent samples were imaged in a Leica SP5 confocal microscope. Image
 levels were adjusted using Fiji/ImageJ or GIMP and figure plates assembled
 using Inkscape.
+
+We mounted in situ embryos in 70% glycerol in PTw. We imaged the samples with a
+Zeiss AxioCam HRc mounted on a Zeiss Axioscope A1, using differential
+interference contrast technique (Nomarski) for in situ hybridizations and a
+fluorescent lamp for the MAPK antibody staining. We used a Confocal Leica TCS
+SP5 to image fluorescent samples. Colorimetric in situ hybridizations were also
+scanned under the confocal using reflection microscopy [182]. We processed all
+resulting confocal stacks in Fiji [171]. When necessary, we adjusted the
+distribution of intensity levels to improve contrast with Fiji or GIMP. We
+created vector graphics and assembled the figure plates using Inkscape.
 
 # Acknowledgements
 
