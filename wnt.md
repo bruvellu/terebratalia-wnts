@@ -885,9 +885,19 @@ create plots in R [@Development_Core_Team2005-ki] running RStudio Desktop
 
 ## Gene orthology
 
-Protein sequences were aligned using maftt, the informative blocks selected
-using gblocks and the best tree was calculated using maximum likelihood raxml.
-The resulting tree illustration was generated using the python library.
+We used the sequences of known Wnt signaling components to identify similar
+sequences in the reference transcriptome of *T. transversa* using BLAST+
+[@Camacho2009-jo]. Our searches yield several candidates. To resolve their
+orthology, we aligned the obtained protein sequences of *T. transversa* with
+well-annotated genes from other metazoans using MAFFT 7.310 [@Katoh2013-mz].
+Using GBlocks 0.91b [@Talavera2007-fl], we removed non-informative sections of
+the alignment and inspected the multiple sequence alignment visually using
+UGENE [@Okonechnikov2012-mr]. We used the blocked alignments as input to run a
+maximum likelihood phylogenetic analysis using automatic model recognition and
+rapid bootstrap options of RAxML 8.2.12 [@Stamatakis2014-bm]. We rendered the
+resulting trees using the Interactive Tree Of Life web application
+[@Letunic2016-pn]. The gene orthology analyses and source files are available
+in the repository [TODO].
 
 ## Cloning and gene expression
 
