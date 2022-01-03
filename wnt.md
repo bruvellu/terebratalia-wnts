@@ -914,26 +914,16 @@ hybridization [@Vellutini2016-lq; @Martin-Duran2016-qa]. The primer pairs are
 available in the repository [TODO] and the cloned sequences were deposited in
 the GenBank (XXX--XXX).
 
-## Microscopy
+## Microscopy and image processing
 
 We mounted the embryos between a glass slide and a coverslip, supported by clay
-feet, in 70% glycerol.
-
-WEmbryos were mounted between coverslip and glass slide in 80% glycerol and
-representative embryos were imaged under Zeiss Axio with Axiocam color camera.
-Fluorescent samples were imaged in a Leica SP5 confocal microscope. Image
-levels were adjusted using Fiji/ImageJ or GIMP and figure plates assembled
-using Inkscape.
-
-We mounted in situ embryos in 70% glycerol in PTw. We imaged the samples with a
-Zeiss AxioCam HRc mounted on a Zeiss Axioscope A1, using differential
-interference contrast technique (Nomarski) for in situ hybridizations and a
-fluorescent lamp for the MAPK antibody staining. We used a Confocal Leica TCS
-SP5 to image fluorescent samples. Colorimetric in situ hybridizations were also
-scanned under the confocal using reflection microscopy [182]. We processed all
-resulting confocal stacks in Fiji [171]. When necessary, we adjusted the
-distribution of intensity levels to improve contrast with Fiji or GIMP. We
-created vector graphics and assembled the figure plates using Inkscape.
+feet, in 70% glycerol in PBS. We used a Zeiss AxioCam HRc mounted on a Zeiss
+Axioscope A1 to image the samples under differential interference contrast
+technique (Nomarski). For fluorescent samples, we scanned volumetric stacks in
+a Confocal Leica TCS SP5 microscope and generated maximum intensity projections
+using Fiji [@Schindelin2012-di]. We adjusted the distribution of intensity
+levels to improve the contrast using Fiji or GIMP. We made illustrations and
+assembled figure plates using Inkscape.
 
 # Acknowledgements
 
