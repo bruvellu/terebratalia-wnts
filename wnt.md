@@ -207,7 +207,8 @@ representative bilaterian Wnt genes and performed a phylogenetic analysis.
 Wnt ligands are secreted proteins... [@wntligands]. We find thirteen Wnt
 ligands in *T. transversa* transcriptome. We find that *T. transversa* has a
 single ortholog for each Wnt subfamily, except for *wnt1* with two paralogs,
-and for *wnt3* which is absent (@fig:wnt-tree).
+and for *wnt3* which is absent (@fig:wnt-tree). This additional copy of *wnt1*,
+named as wnt1b, is highly divergent (@fig:wnt1-tree).
 
 <!--TODO: Additional tree to solve history of wnt1 paralogs-->
 
@@ -513,13 +514,17 @@ the mesodermal pouches (@fig:s-polarity).
 
 Metazoans have an ancient repertoire of 13 Wnt subfamilies [@Kusserow2005-xd;
 @Croce2009-vv; @Cho2010-eb]. Our data suggests the brachiopod *T. transversa*
-has an almost complete set of Wnt genes, with the exception of *wnt3*, which is
-known to have been lost at the base of the protostome lineage [@Cho2010-eb;
-@Janssen2010-dc].
-
-<!--TODO: Incorporate discussion about duplications in brachiopoda and spiralia.-->
-
-<!--Based on the available transcriptome, we found two copies of *wnt1* in *T. transversa*. While the lingulid brachiopod *Lingula anatina* also has lineage-specific duplications of *wnt1* and *wnt10* [@Luo2015-lm], our phylogenetic analysis suggests that *L. anatina* has a more recent lineage-specific duplication of *wnt1a*. The genes wnt1a and wnt1b seem to be an older duplication in spiralians.-->
+has a conserved set of Wnt genes. Only one Wnt is missing---*wnt3*, which has
+been lost at the base of the protostome lineage [@Cho2010-eb;
+@Janssen2010-dc]---and only *wnt1b* has duplicated. Duplications in Wnt genes
+are common. The brachiopod *Lingula anatina* duplicated *wnt1* and *wnt10*
+[@Luo2015-lm]. Our phylogenetic analysis suggests the duplication of *wnt1* in
+*T. transversa* and *L. anatina* occurred independently. The sequence of *T.
+transversa* *wnt1b* is highly divergent compared to other protostome orthologs,
+suggesting a rapid evolution and supporting the hypothesis of a
+lineage-specific duplication. The unusual expression of *wnt1b* compared to the
+other ligands suggests that it might have evolved novel functions, or different
+regulatory mechanisms.
 
 ## Unique transcriptional subregions pattern the brachiopod larval body
 
