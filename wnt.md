@@ -934,7 +934,7 @@ assembled figure plates using Inkscape.
 
 We thank the Friday Harbor Laboratories boat crew for collecting the
 brachiopods. Yale Passamaneck for helping with the spawnings. Katrine Worsaae
-for the initial cloning batch. The members of S9 lab for the helpful
+for the initial cloning batch. Members of the Hejnol Lab for the helpful
 discussions. The study was funded by the Sars Centre core budget and by The
 European Research Council Community’s Framework Program Horizon 2020
 (2014–2020) ERC grant agreement 648861. The animal collections were supported
