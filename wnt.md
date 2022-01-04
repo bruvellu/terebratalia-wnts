@@ -197,28 +197,26 @@ shuffling matter for bilaterian evolution.
 
 # Results
 
-We searched the transcriptome of *T. transversa* for ligands, receptors,
-antagonists, and other pathway components by sequence similarity to known
-genes. To determine their orthology, we aligned the amino acid sequences to
-representative bilaterian Wnt genes and performed a phylogenetic analysis. 
-
 ## Wnt ligands
 
-Wnt ligands are secreted proteins... [@wntligands]. We find thirteen Wnt
-ligands in *T. transversa* transcriptome. We find that *T. transversa* has a
-single ortholog for each Wnt subfamily, except for *wnt1* with two paralogs,
-and for *wnt3* which is absent (@fig:wnt-tree). This additional copy of *wnt1*,
-named as wnt1b, is highly divergent (@fig:wnt1-tree).
+<!--Wnt complement-->
 
-<!--TODO: Additional tree to solve history of wnt1 paralogs-->
+Wnt ligands are secreted glycoproteins with a conserved series of cysteine
+residues positioned along the coding sequence [@Nusse1992-oi]. They evolved at
+the root of metazoans from thirteen ancestral subfamilies [@Kusserow2005-xd;
+@Cho2010-eb]. We identified twelve of these Wnt subfamilies in the brachiopod
+*T. transversa*. The only missing is *wnt3*. Most other subfamilies are
+represented by a single ortholog with the exception of *wnt1*, which is
+duplicated (@fig:wnt-tree). One of the *wnt1* paralogs in *T. transversa*
+(*wnt1b*) shows a highly divergent sequence (@fig:wnt1-tree).
+
+<!--Wnt profiling-->
 
 To characterize the expression dynamics of Wnt signaling components during *T.
 transversa* embryonic development, we analyzed the stage-specific RNA-seq
 dataset (ACCESSION) covering representative developmental stages from
 unfertilized oocytes, cleavage, and gastrulation, to larval morphogenesis and
 post-metamorphosis juveniles.
-
-<!--Wnt profiling-->
 
 We detect high levels of *wnt4* and *wntA* transcripts maternally loaded in the
 unfertilized oocyte (@fig:profiling). Other Wnt genes are expressed, such as
@@ -1071,29 +1069,34 @@ brachiopod *T. transversa*. {#tbl:samples}
 
 ## Figures
 
+![Analysis of *Terebratalia transversa* *wnt1* paralogs. Maximum likelihood
+phylogenetic analysis of a multiple sequence alignment of amino acid sequences
+for wnt1 of diverse metazoans. Numbers show the bootstrap branch support
+values.](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=100%}
+
 ![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
-*Terebratalia transversa*.](figures/FigS1.jpg){#fig:s-ligands tag=S1
+*Terebratalia transversa*.](figures/FigS2.jpg){#fig:s-ligands tag=S2
 width=100%}
 
 ![Whole-mount fluorescent double-fluorescent *in situ* hybridization of Wnt
-ligands in *Terebratalia transversa*.](figures/FigS2.jpg){#fig:s-doubles tag=S2
+ligands in *Terebratalia transversa*.](figures/FigS3.jpg){#fig:s-doubles tag=S3
 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of Frizzled receptors in
-*Terebratalia transversa*.](figures/FigS3.jpg){#fig:s-receptors tag=S3
-width=100%}
-
-![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/FigS4.jpg){#fig:s-antagonists tag=S4
+*Terebratalia transversa*.](figures/FigS4.jpg){#fig:s-receptors tag=S4
 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
 *Terebratalia transversa*.](figures/FigS5.jpg){#fig:s-antagonists tag=S5
 width=100%}
 
+![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
+*Terebratalia transversa*.](figures/FigS6.jpg){#fig:s-antagonists tag=S6
+width=100%}
+
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity
 (non-canonical) Wnt signaling pathway in *Terebratalia
-transversa*.](figures/FigS6.jpg){#fig:s-polarity tag=S6 width=100%}
+transversa*.](figures/FigS7.jpg){#fig:s-polarity tag=S7 width=100%}
 
 
 
