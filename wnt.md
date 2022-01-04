@@ -857,17 +857,17 @@ of ligand-receptor frizzled and other receptors in future comparative studies.
 
 ## Sample collection
 
-Adult *T. transversa* specimens were collected by dredging the rocky seabeds
-around Friday Harbor, San Juan Islands, USA. They were kept in a tank with
-running seawater at the Friday Harbor Laboratories (University of Washington).
-To obtain embryos, we dissected the gonads of ripe individuals and fertilized
-the gametes *in vitro* as previously described [@Reed1987-sd; @Freeman1993-zt].
-The embryos developed in glass bowls with filtered seawater, partially immersed
-in running seawater for a stable culturing temperature (around 7.6°C in
-January). Samples for *in situs* were fixed in 4% formaldehyde at room
-temperature for 1h, washed thoroughly in 1x PBS with 0.1% Tween-20, and stored
-in 100% methanol at -20°C. Samples for RNA-seq were preserved directly in
-RNAlater at representative developmental stages (@tbl:samples). We collected
+Adult *T. transversa* (Sowerby, 1846) specimens were collected by dredging the
+rocky seabeds around Friday Harbor, San Juan Islands, USA. They were kept in a
+tank with running seawater at the Friday Harbor Laboratories (University of
+Washington). To obtain embryos, we dissected the gonads of ripe individuals and
+fertilized the gametes *in vitro* as previously described [@Reed1987-sd;
+@Freeman1993-zt]. The embryos developed in glass bowls with filtered seawater,
+partially immersed in running seawater for a stable culturing temperature
+(around 7.6°C in January). Samples for *in situs* were fixed in 4% formaldehyde
+at room temperature for 1h, washed thoroughly in 1x PBS with 0.1% Tween-20, and
+stored in 100% methanol at -20°C. Samples for RNA-seq were preserved directly
+in RNAlater at representative developmental stages (@tbl:samples). We collected
 two biological replicates, each containing the eggs of a single female
 fertilized with the sperm of three different males.
 
