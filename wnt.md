@@ -360,9 +360,11 @@ opening lining the anterior and mid endoderm.
 
 <!--Frizzled orthology-->
 
-Frizzled receptors are transmembrane proteins... [@fzreceptors]. We identify
-four orthologs of Frizzled receptors in *T. transversa* referred here as
-*fz1/2/7*, *fz4*, *fz5/8* and *fz9/10* (@fig:fz-tree). We found no *fz3/6*.
+Frizzled receptors are transmembrane proteins with an extracellular
+cystein-rich domain and seven hydrophobic transmembrane domains [@fzreceptors].
+They are found in metazoans and divided into four families. We identified four
+orthologs of Frizzled receptors in *T. transversa* referred here as *fz1/2/7*,
+*fz4*, *fz5/8* and *fz9/10* (@fig:fzd-tree). We found no *fz3/6*.
 
 <!--Frizzled profiling-->
 
@@ -1071,7 +1073,7 @@ brachiopod *T. transversa*. {#tbl:samples}
 
 ![Analysis of *Terebratalia transversa* *wnt1* paralogs. Maximum likelihood
 phylogenetic analysis of a multiple sequence alignment of amino acid sequences
-for wnt1 of diverse metazoans. Numbers show the bootstrap branch support
+for *wnt1* of diverse metazoans. Numbers show the bootstrap branch support
 values.](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
@@ -1082,27 +1084,29 @@ width=100%}
 ligands in *Terebratalia transversa*.](figures/FigS3.jpg){#fig:s-doubles tag=S3
 width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of Frizzled receptors in
-*Terebratalia transversa*.](figures/FigS4.jpg){#fig:s-receptors tag=S4
-width=100%}
+![Orthology assignment of *Terebratalia transversa* Frizzled receptors. Maximum
+likelihood phylogenetic analysis using the amino acid sequences of known
+metazoan Frizzled genes. Color-coding represents Frizzled subfamilies. Numbers
+show the bootstrap branch support values. *T. transversa* orthologs are in
+bold.](figures/FigS4.png){#fig:fzd-tree tag=S4 width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/FigS5.jpg){#fig:s-antagonists tag=S5
+![Whole-mount colorimetric *in situ* hybridization of Frizzled receptors in
+*Terebratalia transversa*.](figures/FigS5.jpg){#fig:s-receptors tag=S5
 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
 *Terebratalia transversa*.](figures/FigS6.jpg){#fig:s-antagonists tag=S6
 width=100%}
 
+![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
+*Terebratalia transversa*.](figures/FigS7.jpg){#fig:s-antagonists tag=S7
+width=100%}
+
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity
 (non-canonical) Wnt signaling pathway in *Terebratalia
-transversa*.](figures/FigS7.jpg){#fig:s-polarity tag=S7 width=100%}
+transversa*.](figures/FigS8.jpg){#fig:s-polarity tag=S8 width=100%}
 
 
-
-![Orthology assignment of *Terebratalia transversa* Frizzled receptors.
-Phylogenetic analysis of the amino acid sequences of known metazoan *fz*
-genes.](figures/fz-tree.png){#fig:fz-tree width=100%}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt antagonists secreted
 Frizzled-related proteins. Phylogenetic analysis of the amino acid sequences of
