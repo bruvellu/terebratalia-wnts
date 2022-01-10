@@ -25,9 +25,10 @@ all:
 	ln -s ${FIGDIR}/09-doubles/s-doubles.png ${FIGOUT}/FigS3.png
 	ln -s ${FIGDIR}/13-trees/fzd-tree.png ${FIGOUT}/FigS4.png
 	ln -s ${FIGDIR}/05-receptors/s-receptors.png ${FIGOUT}/FigS5.png
-	ln -s ${FIGDIR}/06-inhibitors/s-inhibitors.png ${FIGOUT}/FigS6.png
-	ln -s ${FIGDIR}/07-intracellular/s-intracellular.png ${FIGOUT}/FigS7.png
-	ln -s ${FIGDIR}/08-noncanonical/noncanonical.png ${FIGOUT}/FigS8.png
+	ln -s ${FIGDIR}/13-trees/sfrp-tree.png ${FIGOUT}/FigS6.png
+	ln -s ${FIGDIR}/06-inhibitors/s-inhibitors.png ${FIGOUT}/FigS7.png
+	ln -s ${FIGDIR}/07-intracellular/s-intracellular.png ${FIGOUT}/FigS8.png
+	ln -s ${FIGDIR}/08-noncanonical/noncanonical.png ${FIGOUT}/FigS9.png
 	# Convert to jpg for lightness
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGOUT}/*.png
 	mkdir ${FIGOUT}/source
