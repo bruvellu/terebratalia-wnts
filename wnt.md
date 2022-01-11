@@ -421,9 +421,10 @@ early larva stage (@fig:receptors).
 
 The secreted frizzled-related proteins (*sfrp*) are soluble proteins that
 antagonize Wnt activity by direct binding to Wnt ligands or to Frizzled
-receptors [@Kawano2003-bx]. The *sfrp* family can be divided into two
-subfamilies, *sfrp1/2/5* and *sfrp3/4* [@Kawano2003-bx; @Bovolenta2008-kb]. In
-*T. transversa* transcriptome, we only identified a *sfrp1/2/5* ortholog
+receptors [@Kawano2003-bx]. They have a cystein-rich domain with high-affinity
+to Wnt proteins. The *sfrp* family can be divided into two subfamilies,
+*sfrp1/2/5* and *sfrp3/4* [@Kawano2003-bx; @Bovolenta2008-kb]. In *T.
+transversa* transcriptome, we only identified a *sfrp1/2/5* ortholog
 (@fig:sfrp-tree). *sfrp1/2/5* is highly expressed throughout development
 (@fig:profiling). It localizes to an apical ectodermal domain and to a narrow
 anterior mesoderm patch in a pattern that recapitulates the expression of
@@ -431,18 +432,15 @@ anterior mesoderm patch in a pattern that recapitulates the expression of
 bilateral domain of *sfrp1/2/5* expression in the mesoderm of the mantle lobe
 (@fig:antagonists). 
 
-
-
-The wnt inhibitory factor (*wif*) acts by direct binding [@Hsieh1999-rt].
-
-(@fig:wif-tree)
-
-*wif* expression is relatively constant along
+The wnt inhibitory factor (*wif*) is another protein that inhibits Wnt activity
+by direct binding to Wnt proteins [@Hsieh1999-rt]. The protein has five EGF
+repeats and a typical unique *wif* domain which is shared with RYK receptor
+tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs]. In *T. transversa* we
+identified one *wif* gene (@fig:wif-tree). *wif* expression is constant along
 the developmental stages with a peak at the late gastrula stage
-(@fig:profiling).
-
- *wif* follows a different pattern and is mainly expressed in
-the mesoderm throughout all developmental stages (@fig:antagonists).
+(@fig:profiling). *wif* expression differs significantly from *sfrp1/2/5* and
+*dkk*. It is mainly expressed in the mesoderm throughout all developmental
+stages (@fig:antagonists).
 
 
 
@@ -452,8 +450,8 @@ antagonist that... [@dkk],
 *dkk* is upregulated at the late blastula stage and downregulated in the
 juvenile stages (@fig:profiling). 
 
-*dkk* expression is similar to *sfrp* except that it is
-restricted to the apical ectodermal domains without any mesodermal transcripts
+*dkk* expression is similar to *sfrp1/2/5* except that it is restricted to the
+apical ectodermal domains without any mesodermal transcripts
 (@fig:antagonists).
 
 ## Intracellular components
@@ -568,7 +566,7 @@ The anterior tip expresses *fz1/2/7* and *fz5/8*. There are no Wnt ligands
 expressed near the anterior tip, and given that Wnt ligands likely have a
 limited diffusion [@refs], it is unlikely that the Frizzled receptors at the
 anterior most tip interact with any Wnt ligand during the embryonic development
-of *T. transversa*. In this region, however, both *sfrp* and *dkk* are
+of *T. transversa*. In this region, however, both *sfrp1/2/5* and *dkk* are
 expressed at the tip of the apical lobe. This inhibitors have been implicated
 in determining neural fates [@refs] and are likely involved in the patterning
 and formation of the neuropile and apical organ which develop in the region
@@ -1050,7 +1048,7 @@ Table: Wnt signaling subregions in the brachiopod *T. transversa*.
 
 | Region                    | Antagonists     | Ligands                                            | Receptors             |
 | ------------------------- | --------------- | -------------------------------------------------- | --------------------- |
-| Anterior tip              | *dkk*, *sfrp*   | (*wnt1b*)                                                  | *fz1/2/7*, *fz5/8*    |
+| Anterior tip              | *dkk*, *sfrp1/2/5*   | (*wnt1b*)                                                  | *fz1/2/7*, *fz5/8*    |
 | Apical lobe               | -               | *wntA*, *wnt8*, *wnt2*, *wnt5*                     | *fz1/2/7*, *fz4*      |
 | Apical--mantle boundary   | -               | *wnt1*, *wnt7*, *wnt16*                            | *fz1/2/7*, *fz9/10*   |
 | Mantle lobe               | -               | *wnt5*, *wnt16*                                    | *fz1/2/7*             |
@@ -1117,23 +1115,23 @@ width=100%}
 *Terebratalia transversa*.](figures/FigS7.jpg){#fig:s-antagonists tag=S7
 width=100%}
 
+![Orthology assignment of *Terebratalia transversa* Wnt antagonist *wif*.
+Phylogenetic analysis of the amino acid sequences of known metazoan *wif*
+genes.](figures/FigS8.jpg){#fig:wif-tree tag=S8 width=100%}
+
 ![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/FigS8.jpg){#fig:s-antagonists tag=S8
+*Terebratalia transversa*.](figures/FigS9.jpg){#fig:s-antagonists tag=S9
 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity
 (non-canonical) Wnt signaling pathway in *Terebratalia
-transversa*.](figures/FigS9.jpg){#fig:s-polarity tag=S9 width=100%}
+transversa*.](figures/FigS10.jpg){#fig:s-polarity tag=S10 width=100%}
 
 
 
 ![Orthology assignment of *Terebratalia transversa* Wnt antagonist *dkk*.
 Phylogenetic analysis of the amino acid sequences of known metazoan *dkk*
 genes.](figures/dkk-tree.png){#fig:dkk-tree width=100%}
-
-![Orthology assignment of *Terebratalia transversa* Wnt antagonist *wif*.
-Phylogenetic analysis of the amino acid sequences of known metazoan *wif*
-genes.](figures/wif-tree.png){#fig:wif-tree width=100%}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *dsh*.
 Phylogenetic analysis of the amino acid sequences of known metazoan *dsh*
