@@ -436,11 +436,10 @@ The wnt inhibitory factor (*wif*) is another protein that inhibits Wnt activity
 by direct binding to Wnt proteins [@Hsieh1999-rt]. The protein has five EGF
 repeats and a typical unique *wif* domain which is shared with RYK receptor
 tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs]. In *T. transversa* we
-identified one *wif* gene (@fig:wif-tree). *wif* expression is constant along
-the developmental stages with a peak at the late gastrula stage
-(@fig:profiling). *wif* expression differs significantly from *sfrp1/2/5* and
-*dkk*. It is mainly expressed in the mesoderm throughout all developmental
-stages (@fig:antagonists).
+identified one *wif* gene (@fig:wif-tree). It has a relatively low and stable
+expression levels throughout development with a peak at the late gastrula stage
+(@fig:profiling). Unlike *sfrp1/2/5* and *dkk*, *wif* is mainly expressed in
+the mesoderm from gastrulation to the late larva stage (@fig:antagonists).
 
 
 
