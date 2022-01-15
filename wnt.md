@@ -432,6 +432,17 @@ anterior mesoderm patch in a pattern that recapitulates the expression of
 bilateral domain of *sfrp1/2/5* expression in the mesoderm of the mantle lobe
 (@fig:antagonists). 
 
+The *dickkopf* (*dkk*) are secreted glycoproteins that antagonize Wnt signaling
+by inhibiting the *lrp5/6* co-receptors [@Niehrs2006-kf; @Cruciat2013-zs]. They
+contain two cystein-rich domains which can be divided into two subfamilies,
+*dkk1/2/4* and *dkk3* [@Niehrs2006-kf]. In *T. transversa*, we identified a
+single *dkk* ortholog. It groups with a previously unidentified *dkk* subfamily
+that differs from the dkk1/2/4 and dkk3 subfamilies, and named hereafter as
+*dkk5* (@fig:dkk-tree). The expression of *T. transversa* *dkk5* is upregulated
+at the late blastula stage and downregulated in the juvenile stages
+(@fig:profiling). Spatially, the expression is confined to an apical ectodermal
+domains, similar to *sfrp1/2/5* (@fig:antagonists).
+
 The wnt inhibitory factor (*wif*) is another protein that inhibits Wnt activity
 by direct binding to Wnt proteins [@Hsieh1999-rt]. The protein has five EGF
 repeats and a typical unique *wif* domain which is shared with RYK receptor
@@ -440,18 +451,6 @@ identified one *wif* gene (@fig:wif-tree). It has a relatively low and stable
 expression levels throughout development with a peak at the late gastrula stage
 (@fig:profiling). Unlike *sfrp1/2/5* and *dkk*, *wif* is mainly expressed in
 the mesoderm from gastrulation to the late larva stage (@fig:antagonists).
-
-
-
-In addition, we identify an ortholog of dickkopf (*dkk*) (@fig:dkk-tree), a Wnt
-antagonist that... [@dkk],
-
-*dkk* is upregulated at the late blastula stage and downregulated in the
-juvenile stages (@fig:profiling). 
-
-*dkk* expression is similar to *sfrp1/2/5* except that it is restricted to the
-apical ectodermal domains without any mesodermal transcripts
-(@fig:antagonists).
 
 ## Intracellular components
 
@@ -521,8 +520,6 @@ the mesodermal pouches (@fig:s-polarity).
 
 ## *T. transversa* shows a conserved ancestral Wnt complement 
 
-<!--TODO: Elaborate on Wnt complement discussion.-->
-
 Metazoans have an ancient repertoire of 13 Wnt subfamilies [@Kusserow2005-xd;
 @Croce2009-vv; @Cho2010-eb]. Our data suggests the brachiopod *T. transversa*
 has a conserved set of Wnt genes. Only one Wnt is missing---*wnt3*, which has
@@ -536,6 +533,19 @@ suggesting a rapid evolution and supporting the hypothesis of a
 lineage-specific duplication. The unusual expression of *wnt1b* compared to the
 other ligands suggests that it might have evolved novel functions, or different
 regulatory mechanisms.
+
+Frizzled is missing fz3/6 which is vertebrate-specific. Single-copy of sfrp and
+wif inhibitors. dkk is interesting. T.transversa dkk3 does not group with the
+cnidarian dkk3 or human dkk3, but in a distinct group of mainly protostomes.
+While hemichordates have the two subfamilies of dkk3. This suggests there are
+two distinct families of dkk3. Structurally their domains differ. The ancestral
+dkk3 (no-wnt) gave rise to dkk1/dkk3protostome (yes-wnt). dkk3 is seemingly
+unrelated to Wnt signaling. But dkk3 has been shown to modulate wnt in one
+amphioxus species but another. Our phylogenetic analysis suggests that the
+three subfamilies of dkk were present in hemichordates and amphioxus. While
+wntdkk3 was lost in deuterostomes, dkk1 and nowntdkk3 was lost in protostomes.
+In summary, dkk found in protostomes is closer to dkk1-2-4 than dkk3.
+which is divergent and seemingly unrelated to Wnt signaling
 
 ## Unique transcriptional subregions pattern the brachiopod larval body
 
@@ -1114,23 +1124,23 @@ width=100%}
 *Terebratalia transversa*.](figures/FigS7.jpg){#fig:s-antagonists tag=S7
 width=100%}
 
+![Orthology assignment of *Terebratalia transversa* Wnt antagonist *dkk*.
+Phylogenetic analysis of the amino acid sequences of known metazoan *dkk*
+genes.](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=100%}
+
 ![Orthology assignment of *Terebratalia transversa* Wnt antagonist *wif*.
 Phylogenetic analysis of the amino acid sequences of known metazoan *wif*
-genes.](figures/FigS8.jpg){#fig:wif-tree tag=S8 width=100%}
+genes.](figures/FigS9.jpg){#fig:wif-tree tag=S9 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/FigS9.jpg){#fig:s-antagonists tag=S9
+*Terebratalia transversa*.](figures/FigS10.jpg){#fig:s-antagonists tag=S10
 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity
 (non-canonical) Wnt signaling pathway in *Terebratalia
-transversa*.](figures/FigS10.jpg){#fig:s-polarity tag=S10 width=100%}
+transversa*.](figures/FigS11.jpg){#fig:s-polarity tag=S11 width=100%}
 
 
-
-![Orthology assignment of *Terebratalia transversa* Wnt antagonist *dkk*.
-Phylogenetic analysis of the amino acid sequences of known metazoan *dkk*
-genes.](figures/dkk-tree.png){#fig:dkk-tree width=100%}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *dsh*.
 Phylogenetic analysis of the amino acid sequences of known metazoan *dsh*
