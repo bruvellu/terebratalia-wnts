@@ -456,36 +456,38 @@ the mesoderm from gastrulation to the late larva stage (@fig:antagonists).
 
 <!--Components orthology-->
 
-We find *T. transversa* orthologs for intracellular components related to the
-Wnt pathway. The gene dishevelled (*dsh*), a key regulator of Wnt pathways...
-[@dsh] (@fig:dsh-tree), *axin* (@fig:axin-tree), a protein that interacts with
-*dsh*... [@axin], and beta-catenin (*bcat*) (@fig:axin-tree), the effector
-protein that mediates downstream gene activity... [@bcat].
+The gene dishevelled (*dsh*) is a key Wnt signaling regulator [@dsh]. The
+protein has three conserved domains DIX, PDZ and DEP [@dsh]. The DIX domain is
+shared with *axin*, another key component of the Wnt pathway which interacts
+directly with dsh [@axin]. The interaction of both proteins regulate the
+complex of beta-catenin degradation, the effector protein that mediates
+downstream gene activity [@dsh; @bcat]. We identified a single *dsh*, *axin*,
+and beta-catenin orthologs in *T. transversa* (@fig:dsh-tree) (@fig:bcat-tree). 
 
 <!--Components profiling-->
 
-The three genes are highly expressed in every developmental stage and, while
-*dvl* and *axin* maternal levels decrease after the mid blastula stage, the
-amount of *beta-catenin* transcripts remains constant throughout throughout
-development (@fig:intraseq).
+The three genes are highly expressed in every developmental stage. *dsh* and
+*axin* levels decrease after the mid blastula stage, while *beta-catenin*
+transcript abundance remains constant throughout development
+(@fig:s-profiling).
 
 <!--Components expression-->
 
-*dvl* transcripts localize to a narrow ectodermal apical domain and the
-adjacent territory in the anterior mesoderm throughout development
-(@fig:intracellular). This apical domains are cleared in the late larva and
-*dvl* is upregulated in the mesoderm in the dorsal portion of the mantle lobe.
+*dsh* transcripts localize to a narrow apical domain in the ectoderm, and to
+adjacent territory in the anterior mesoderm (@fig:intracellular). The apical
+domain is cleared in the late larva and *dsh* is upregulated in the dorsal
+mesoderm of the mantle lobe.
 
-*axin* is broadly expressed in the early gastrula with higher expression at the
+*axin* is broadly expressed in the early gastrula with higher levels at the
 posterior end (@fig:intracellular). At the late gastrula and early larva it is
 mostly expressed in a pair of bilateral bands at the anterior portion of the
-pedicle lobe which correspond to the wnt1 domain, as well as in the mantle lobe
+pedicle lobe which correspond to the *wnt1* domain, as well as in the mantle lobe
 mesoderm adjacent to the endoderm (@fig:intracellular).
 
-*beta-catenin* is ubiquitously expressed in the ecto and mesoderm until the
+*beta-catenin* is ubiquitously expressed in the ectoderm and mesoderm until the
 late gastrula when the ectodermal transcripts are downregulated
-(@fig:intracellular). During larval development mesoderm expression is also
-downregulated and in the late larva stage *beta-catenin* transcripts are
+(@fig:intracellular). During larval development, mesoderm expression is also
+downregulated. In the late larva stage, *beta-catenin* transcripts are
 restricted to the anterior mesoderm and to the mesoderm associated with the
 chaetae sacs in the mantle lobe (@fig:intracellular).
 
@@ -1132,25 +1134,25 @@ genes.](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=100%}
 Phylogenetic analysis of the amino acid sequences of known metazoan *wif*
 genes.](figures/FigS9.jpg){#fig:wif-tree tag=S9 width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/FigS10.jpg){#fig:s-antagonists tag=S10
+![Orthology assignment of *Terebratalia transversa* Wnt intracellular component
+*dsh* and *axin*. Phylogenetic analysis of the amino acid sequences of known
+metazoan *dsh* and *axin* genes.](figures/FigS10.jpg){#fig:dsh-tree tag=S10
 width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of the cell polarity
-(non-canonical) Wnt signaling pathway in *Terebratalia
-transversa*.](figures/FigS11.jpg){#fig:s-polarity tag=S11 width=100%}
+![Orthology assignment of *Terebratalia transversa* Wnt intracellular component
+*bcat*. Phylogenetic analysis of the amino acid sequences of known metazoan
+*bcat* genes.](figures/FigS11){#fig:bcat-tree tag=S11 width=100%}
 
+![Expression of intracellular Wnt signaling components throughout *Terebratalia
+transversa* development. Heatmap shows the log normalized counts from
+stage-specific RNA-seq data.](figures/FigS12.jpg){#fig:s-profiling tag=S12
+width=100%}
 
+![Whole-mount colorimetric *in situ* hybridization of Wnt intracellular
+components in *Terebratalia
+transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=100%}
 
-![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *dsh*.
-Phylogenetic analysis of the amino acid sequences of known metazoan *dsh*
-genes.](figures/dsh-tree.png){#fig:dsh-tree width=100%}
-
-![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *axin*.
-Phylogenetic analysis of the amino acid sequences of known metazoan *axin*
-genes.](figures/axin-tree.png){#fig:axin-tree width=100%}
-
-![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *bcat*.
-Phylogenetic analysis of the amino acid sequences of known metazoan *bcat*
-genes.](figures/bcat-tree.png){#fig:bcat-tree width=100%}
+![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt
+signaling pathway in *Terebratalia
+transversa*.](figures/FigS14.jpg){#fig:s-polarity tag=S14 width=100%}
 
