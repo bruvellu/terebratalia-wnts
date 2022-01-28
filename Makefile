@@ -30,7 +30,7 @@ all:
 	ln -s ${FIGDIR}/13-trees/dkk-tree.png ${FIGOUT}/FigS8.png
 	ln -s ${FIGDIR}/13-trees/wif-tree.png ${FIGOUT}/FigS9.png
 	ln -s ${FIGDIR}/13-trees/dsh-tree.png ${FIGOUT}/FigS10.png
-	#ln -s ${FIGDIR}/13-trees/bcat-tree.png ${FIGOUT}/FigS11.png
+	ln -s ${FIGDIR}/13-trees/bcat-tree.png ${FIGOUT}/FigS11.png
 	ln -s ${FIGDIR}/03-profiling/s-profiling.png ${FIGOUT}/FigS12.png
 	ln -s ${FIGDIR}/07-intracellular/s-intracellular.png ${FIGOUT}/FigS13.png
 	ln -s ${FIGDIR}/08-polarity/polarity.png ${FIGOUT}/FigS14.png

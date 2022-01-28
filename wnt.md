@@ -1141,7 +1141,7 @@ width=100%}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt intracellular component
 *bcat*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*bcat* genes.](figures/FigS11){#fig:bcat-tree tag=S11 width=100%}
+*bcat* genes.](figures/FigS11.jpg){#fig:bcat-tree tag=S11 width=100%}
 
 ![Expression of intracellular Wnt signaling components throughout *Terebratalia
 transversa* development. Heatmap shows the log normalized counts from
