@@ -1,5 +1,5 @@
 ---
-title: Wnt signaling ligand--receptor context in brachiopod anteroposterior patterning
+title: Wnt signaling ligand--receptor landscape in brachiopod axial patterning
 documentclass: article
 bibliography: wnt.bib 
 csl: biomed-central.csl
@@ -454,15 +454,19 @@ the mesoderm from gastrulation to the late larva stage (@fig:antagonists).
 
 ## Intracellular components
 
+<!--TODO: Fix these paragraphs.-->
+
 <!--Components orthology-->
 
 The gene dishevelled (*dsh*) is a key Wnt signaling regulator [@dsh]. The
-protein has three conserved domains DIX, PDZ and DEP [@dsh]. The DIX domain is
-shared with *axin*, another key component of the Wnt pathway which interacts
-directly with dsh [@axin]. The interaction of both proteins regulate the
-complex of beta-catenin degradation, the effector protein that mediates
-downstream gene activity [@dsh; @bcat]. We identified a single *dsh*, *axin*,
-and beta-catenin orthologs in *T. transversa* (@fig:dsh-tree) (@fig:bcat-tree). 
+protein has three conserved domains (DIX, PDZ, and DEP domains), and two
+conserved regions, a cluster of basic residues before, and a proline-rich
+region after the PDZ domain [@Gao2010-wj]. The DIX domain is shared with
+*axin*, another key component of the Wnt pathway which interacts directly with
+dsh [@axin]. The interaction of both proteins regulate the complex of
+beta-catenin degradation, the effector protein that mediates downstream gene
+activity [@dsh; @bcat]. We identified a single *dsh*, *axin*, and beta-catenin
+orthologs in *T. transversa* (@fig:dsh-tree) (@fig:bcat-tree). 
 
 <!--Components profiling-->
 
