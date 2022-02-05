@@ -502,6 +502,10 @@ We identified *T. transversa* orthologs for components of the cell
 polarity pathway (PCP Pathway, non-canonical Wnt Pathway) and analyzed their
 expression during the period of axial elongation (early to late gastrula).
 
+*diversin* suppresses the cell fate pathway and stimulates the cell polarity
+pathway [Schwarz-Romond2002-td].
+
+
 *diversin* is only expressed in the late gastrula stage. We detect transcripts
 in bilateral laterodorsal domains at the apical lobe and at the pedicle lobe (@fig:s-polarity).
 
@@ -1160,7 +1164,12 @@ width=100%}
 components in *Terebratalia
 transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=100%}
 
+![Orthology assignment of *Terebratalia transversa* cell polarity component
+*diversin* (*ankrd6*). Phylogenetic analysis of the amino acid sequences of
+known metazoan *diversin* genes.](figures/FigS14.jpg){#fig:ankrd6-tree tag=S14
+width=100%}
+
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt
 signaling pathway in *Terebratalia
-transversa*.](figures/FigS14.jpg){#fig:s-polarity tag=S14 width=100%}
+transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=100%}
 

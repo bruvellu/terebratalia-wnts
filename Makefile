@@ -33,7 +33,8 @@ all:
 	ln -s ${FIGDIR}/13-trees/bcat-tree.png ${FIGOUT}/FigS11.png
 	ln -s ${FIGDIR}/03-profiling/s-profiling.png ${FIGOUT}/FigS12.png
 	ln -s ${FIGDIR}/07-intracellular/s-intracellular.png ${FIGOUT}/FigS13.png
-	ln -s ${FIGDIR}/08-polarity/polarity.png ${FIGOUT}/FigS14.png
+	ln -s ${FIGDIR}/13-trees/ankrd6-tree.png ${FIGOUT}/FigS14.png
+	ln -s ${FIGDIR}/08-polarity/polarity.png ${FIGOUT}/FigS15.png
 	# Convert to jpg for lightness
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGOUT}/*.png
 	mkdir ${FIGOUT}/source
