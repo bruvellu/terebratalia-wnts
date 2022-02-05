@@ -458,9 +458,7 @@ the mesoderm from gastrulation to the late larva stage (@fig:antagonists).
 
 ## Intracellular components
 
-<!--TODO: Fix these paragraphs.-->
-
-<!--Components orthology-->
+<!--Components orthology and profiling-->
 
 The gene dishevelled (*dsh*) is a central regulator of Wnt signaling pathways
 [@Wallingford2005-xp]. The protein has three conserved domains (DIX, PDZ, and
@@ -471,14 +469,10 @@ Wnt signaling that interacts directly with *dsh* [@Li1999-sy]. The interaction
 of *dsh* and *axin* controls the degradation of *β-catenin*, the downstream
 transcriptional activator of the canonical pathway [@Miller1996-rr]. In *T.
 transversa*, we identified single copies of *dsh*, *axin*, and *β-catenin*
-orthologs (@fig:dsh-tree and @fig:bcat-tree). 
-
-<!--Components profiling-->
-
-The three genes are highly-expressed in every developmental stage. *dsh* and
-*axin* levels decrease after the mid blastula stage, while the abundance of
-*β-catenin* transcripts remains stable throughout development
-(@fig:s-profiling).
+orthologs (@fig:dsh-tree and @fig:bcat-tree). The three genes are
+highly-expressed in every developmental stage. *dsh* and *axin* levels decrease
+after the mid blastula stage, while the abundance of *β-catenin* transcripts
+remains stable throughout development (@fig:s-profiling).
 
 <!--Components expression-->
 
@@ -490,8 +484,8 @@ mesoderm of the mantle lobe.
 *axin* is broadly expressed in the early gastrula with higher levels at the
 posterior end (@fig:intracellular). At the late gastrula and early larva it is
 mostly expressed in a pair of bilateral bands at the anterior portion of the
-pedicle lobe which correspond to the *wnt1* domain, as well as in the mantle lobe
-mesoderm adjacent to the endoderm (@fig:intracellular).
+pedicle lobe which correspond to the *wnt1* domain, as well as in the mantle
+lobe mesoderm adjacent to the endoderm (@fig:intracellular).
 
 *β-catenin* is ubiquitously expressed in the ectoderm and mesoderm until the
 late gastrula when the ectodermal transcripts are downregulated
@@ -632,9 +626,9 @@ Here we identified another ligand-receptor combination. The region is covered
 by *fz1/2/7* and the main ligand is *wnt5*. *wnt16* is also expressed but
 restricted to the ventral portion bordering the blastopore. Interestingly,
 *wnt5* regulates tissue elongation by controlling convergent extension in other
-animals [see refs in @Loh2016]. These morphogenetic changes might depend upon
-the activation of the cell polarity cascade (noncanonical Wnt pathway). Because
-the presence of *fz4* causes the activation of the *β-catenin* cascade
+animals [see refs in @Loh2016-pz]. These morphogenetic changes might depend
+upon the activation of the cell polarity cascade (noncanonical Wnt pathway).
+Because the presence of *fz4* causes the activation of the *β-catenin* cascade
 (canonical Wnt pathway) [@refs], the cascade signaling in the mantle lobe of
 *T. transversa* might be mediated by *fz1/2/7*. Therefore, the fact that *wnt5*
 expression correlates with the growing/elongating mantle lobe, and is expressed
@@ -699,11 +693,11 @@ The mantle lobe, in contrast, *wnt5* only overlaps by *fz1/2/7*. The region
 undergoes dramatic morphogenetic changes during development, where the tissues
 grow and elongate forming an extended mantle in the late larva. Interestingly,
 *wnt5* regulates tissue elongation by controlling convergent extension in other
-animals [see refs in @Loh2016]. These morphogenetic changes might depend upon
-the activation of the cell polarity cascade (noncanonical Wnt pathway) and the
-signaling cascade in the mantle lobe of *T. transversa* might be mediated by
-*fz1/2/7*. We thus speculate that the developmental mechanism involved in the
-elongation of the mantle lobe is convergent extension.
+animals [see refs in @Loh2016-pz]. These morphogenetic changes might depend
+upon the activation of the cell polarity cascade (noncanonical Wnt pathway) and
+the signaling cascade in the mantle lobe of *T. transversa* might be mediated
+by *fz1/2/7*. We thus speculate that the developmental mechanism involved in
+the elongation of the mantle lobe is convergent extension.
 
 <!--TODO: Discuss how wnt1 antagonizes wnt5, see Torres1996-hs-->
 
@@ -789,14 +783,14 @@ have not been described.
 
 The expression of Wnt genes in Ecdysozoa reveals that some domains are
 comparable [@refs]. However, in the priapulid Priapulus caudatus most Wnt genes
-are expressed at the posterior region of the embryo [@Hogvall2019]. Expression
-of Wnt ligands in Drosophila and other arthropods show similarities. However,
-the Frizzled domains do not entirely match what we find in *T. transversa*
-[@refs]. *D. melanogaster* fz2 expression, orthologous to *T. transversa* fz5/8
-is not expressed apically, but in the trunk, similar to T. transversa fz9/10
-[@refs]. In addition, arthropods lost many Wnt ligands in specific lineages
-complicating the identification of common or divergent ligand-receptor contexts
-[@refs].
+are expressed at the posterior region of the embryo [@Hogvall2019-wq].
+Expression of Wnt ligands in Drosophila and other arthropods show similarities.
+However, the Frizzled domains do not entirely match what we find in *T.
+transversa* [@refs]. *D. melanogaster* fz2 expression, orthologous to *T.
+transversa* fz5/8 is not expressed apically, but in the trunk, similar to T.
+transversa fz9/10 [@refs]. In addition, arthropods lost many Wnt ligands in
+specific lineages complicating the identification of common or divergent
+ligand-receptor contexts [@refs].
 
 <!--TODO: Research better and find some examples of comparable domains.-->
 
@@ -1025,21 +1019,26 @@ in ventral view (J), optical section through mid-body (K) and dorsal view
 boundary. White arrowheads demarcate the mantle--pedicle
 boundary.](figures/Fig6.jpg){#fig:receptors width=100%}
 
-![Whole-mount *in situ* hybridization of antagonists and intracellular
-components of the Wnt pathway in *Terebratalia transversa*. Black arrowheads
-indicate the apical--mantle boundary. White arrowheads demarcate the
-mantle--pedicle boundary.](figures/Fig7.jpg){#fig:components width=100%}
+![Whole-mount *in situ* hybridization of Wnt pathway antagonists in
+*Terebratalia transversa*. Black arrowheads indicate the apical--mantle
+boundary. White arrowheads demarcate the mantle--pedicle
+boundary.](figures/Fig7.jpg){#fig:antagonists width=100%}
+
+![Whole-mount *in situ* hybridization of intracellular components of the Wnt
+pathway in *Terebratalia transversa*. Black arrowheads indicate the
+apical--mantle boundary. White arrowheads demarcate the mantle--pedicle
+boundary.](figures/Fig8.jpg){#fig:intracellular width=100%}
 
 ![Summary of Wnt signaling landscape in *Terebratalia transversa*. The
 schematic drawings show the ectodermal expression domains on the ventral
-region of a late gastrula stage.](figures/Fig8.jpg){#fig:summary width=100%}
+region of a late gastrula stage.](figures/Fig9.jpg){#fig:summary width=100%}
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
 Broad receptor territories are essentially the same along the anteroposterior
 axis. There are common ligand--receptor combinations between the two animals
 forming unique transcriptional regions in the embryo that corresponds to
-differentiated body regions.](figures/Fig9.jpg){#fig:comparative width=100%}
+differentiated body regions.](figures/Fig10.jpg){#fig:comparative width=100%}
 
 \newpage
 
