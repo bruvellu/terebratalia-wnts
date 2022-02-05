@@ -3,10 +3,14 @@ title: Wnt signaling ligand--receptor landscape in brachiopod axial patterning
 documentclass: article
 bibliography: wnt.bib 
 csl: biomed-central.csl
+papersize: a4
 geometry:
   - bindingoffset=2mm
   - hmargin=25mm
   - vmargin=25mm
+fontsize: 11pt
+fontfamily: libertine
+linestretch: 1
 link-citations: true
 colorlinks: true
 fignos-warning-level: 1
@@ -458,21 +462,22 @@ the mesoderm from gastrulation to the late larva stage (@fig:antagonists).
 
 <!--Components orthology-->
 
-The gene dishevelled (*dsh*) is a key Wnt signaling regulator [@dsh]. The
-protein has three conserved domains (DIX, PDZ, and DEP domains), and two
-conserved regions, a cluster of basic residues before, and a proline-rich
-region after the PDZ domain [@Gao2010-wj]. The DIX domain is shared with
-*axin*, another key component of the Wnt pathway which interacts directly with
-dsh [@axin]. The interaction of both proteins regulate the complex of
-beta-catenin degradation, the effector protein that mediates downstream gene
-activity [@dsh; @bcat]. We identified a single *dsh*, *axin*, and beta-catenin
-orthologs in *T. transversa* (@fig:dsh-tree) (@fig:bcat-tree). 
+The gene dishevelled (*dsh*) is a central regulator of Wnt signaling pathways
+[@Wallingford2005-xp]. The protein has three conserved domains (DIX, PDZ, and
+DEP domains), and two conserved regions before and after the PDZ domain (a
+cluster of basic residues and a proline-rich region, respectively)
+[@Gao2010-wj]. The DIX domain is shared with *axin*, a negative regulator of
+Wnt signaling that interacts directly with *dsh* [@Li1999-sy]. The interaction
+of *dsh* and *axin* controls the degradation of *β-catenin*, the downstream
+transcriptional activator of the canonical pathway [@Miller1996-rr]. In *T.
+transversa*, we identified single copies of *dsh*, *axin*, and *β-catenin*
+orthologs (@fig:dsh-tree and @fig:bcat-tree). 
 
 <!--Components profiling-->
 
-The three genes are highly expressed in every developmental stage. *dsh* and
-*axin* levels decrease after the mid blastula stage, while *beta-catenin*
-transcript abundance remains constant throughout development
+The three genes are highly-expressed in every developmental stage. *dsh* and
+*axin* levels decrease after the mid blastula stage, while the abundance of
+*β-catenin* transcripts remains stable throughout development
 (@fig:s-profiling).
 
 <!--Components expression-->
@@ -488,10 +493,10 @@ mostly expressed in a pair of bilateral bands at the anterior portion of the
 pedicle lobe which correspond to the *wnt1* domain, as well as in the mantle lobe
 mesoderm adjacent to the endoderm (@fig:intracellular).
 
-*beta-catenin* is ubiquitously expressed in the ectoderm and mesoderm until the
+*β-catenin* is ubiquitously expressed in the ectoderm and mesoderm until the
 late gastrula when the ectodermal transcripts are downregulated
 (@fig:intracellular). During larval development, mesoderm expression is also
-downregulated. In the late larva stage, *beta-catenin* transcripts are
+downregulated. In the late larva stage, *β-catenin* transcripts are
 restricted to the anterior mesoderm and to the mesoderm associated with the
 chaetae sacs in the mantle lobe (@fig:intracellular).
 
@@ -629,7 +634,7 @@ restricted to the ventral portion bordering the blastopore. Interestingly,
 *wnt5* regulates tissue elongation by controlling convergent extension in other
 animals [see refs in @Loh2016]. These morphogenetic changes might depend upon
 the activation of the cell polarity cascade (noncanonical Wnt pathway). Because
-the presence of *fz4* causes the activation of the *beta-catenin* cascade
+the presence of *fz4* causes the activation of the *β-catenin* cascade
 (canonical Wnt pathway) [@refs], the cascade signaling in the mantle lobe of
 *T. transversa* might be mediated by *fz1/2/7*. Therefore, the fact that *wnt5*
 expression correlates with the growing/elongating mantle lobe, and is expressed
@@ -657,7 +662,7 @@ Finally, at the posterior tip of the T. transversa embryo there is a
 Frizzled-free zone where the ligands *wnt5*, *wnt6* and *wnt11* are expressed.
 One possibility is that these genes are interacting with other co-receptors
 [@refs]. It seems likely they are not signaling via the cell fate pathway
-mediated by beta-catenin (canonical). Such region might not respond to the
+mediated by β-catenin (canonical). Such region might not respond to the
 overactivation of the Wnt pathway, and retain the terminal identity, as in the
 wnt-independent posterior tip region described in @Darras. 
 
@@ -686,7 +691,7 @@ different morphological outcomes of these body regions.
 The posterior region of the apical lobe where *wnt5* and other Wnts are
 expressed, corresponds to a region that undergoes intense cell proliferation
 forming an enlarged appearance in the late larva. The region expresses *fz4*
-which is associated with the activation of the *beta-catenin* cascade
+which is associated with the activation of the *β-catenin* cascade
 (canonical Wnt pathway) [@refs], and therefore could be mediating the cell
 proliferation in the apical lobe.
 
