@@ -42,5 +42,5 @@ all:
 	rm -r ${FIGOUT}/source
 	# Convert files
 	pandoc ${FILE}.md ${FILTERS} --reference-doc=${TEMPLATE}.odt -o ${FILE}.odt
-	pandoc ${FILE}.md ${FILTERS} --pdf-engine=pdflatex -o ${FILE}.pdf
+	pandoc ${FILE}.md ${FILTERS} --pdf-engine=xelatex -o ${FILE}.pdf
 
