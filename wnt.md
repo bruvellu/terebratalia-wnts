@@ -502,28 +502,33 @@ We identified *T. transversa* orthologs for components of the cell
 polarity pathway (PCP Pathway, non-canonical Wnt Pathway) and analyzed their
 expression during the period of axial elongation (early to late gastrula).
 
-*diversin* suppresses the cell fate pathway and stimulates the cell polarity
-pathway [Schwarz-Romond2002-td].
+*diego* is a cytoplasmic protein that suppresses the cell fate pathway and
+stimulates the cell polarity pathway [Schwarz-Romond2002-td]. It contains six
+ankyrin repeat domains [@Feiguin2001] while its vertebrate counterpart
+*diversin* now known as *ankrd6* has eight [Schwarz-Romond2002-td]. We
+identified a *dgo* ortholog in T. transversa containing six ankyrin repeats
+(@fig:dgo-tree). *dgo* is only expressed in the late gastrula stage in
+bilateral laterodorsal domains at the apical lobe and at the pedicle lobe
+(@fig:s-polarity).
 
-
-*diversin* is only expressed in the late gastrula stage. We detect transcripts
-in bilateral laterodorsal domains at the apical lobe and at the pedicle lobe (@fig:s-polarity).
-
-*jnk* is faintly expressed in the early gastrula. In the mid gastrula it is
-present in the archenteron posterior portion. In the late gastrula jnk
-expression is upregulated almost ubiquitously across the embryo, with the
-exception of ventral lateral regions in the apical lobe (@fig:s-polarity).
+*prickle* competes with *diego* for *dishevelled* binding [@Jenny2005]. The
+protein contains a PET domain and three LIM domains [@Gubb1999-ba]. In *T.
+transversa* we identified a single *pk* ortholog (@fig:pk-tree). *pk* is
+expressed as a posterior patch in the early gastrula stage. In the late
+gastrula it is expressed in ventral bilateral patches in the apical lobe
+complementary to the areas absent of *jnk*. *prickle* is also upregulated in
+the mesodermal pouches (@fig:s-polarity).
 
 *flamingo* transcripts are present throughout development in most embryonic
 tissues. Bilateral patches in the apical lobe become stronger in the late
 gastrula (@fig:s-polarity).
 
-*prickle* is expressed as a posterior patch in the early gastrula stage. In the
-late gastrula it is expressed in ventral bilateral patches in the apical lobe
-complementary to the areas absent of *jnk*. *prickle* is also upregulated in
-the mesodermal pouches (@fig:s-polarity).
-
 *strabismus* is expressed ubiquitously throughout development (@fig:s-polarity).
+
+*jnk* is faintly expressed in the early gastrula. In the mid gastrula it is
+present in the archenteron posterior portion. In the late gastrula jnk
+expression is upregulated almost ubiquitously across the embryo, with the
+exception of ventral lateral regions in the apical lobe (@fig:s-polarity).
 
 # Discussion
 
@@ -1165,11 +1170,14 @@ components in *Terebratalia
 transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=100%}
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
-*diversin* (*ankrd6*). Phylogenetic analysis of the amino acid sequences of
-known metazoan *diversin* genes.](figures/FigS14.jpg){#fig:ankrd6-tree tag=S14
+*diego* (*diversin* or *ankrd6*). Phylogenetic analysis of the amino acid sequences of
+known metazoan *diego* genes.](figures/FigS14.jpg){#fig:dgo-tree tag=S14
 width=100%}
 
 ![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt
 signaling pathway in *Terebratalia
 transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=100%}
 
+![Orthology assignment of *Terebratalia transversa* cell polarity component
+*prickle*. Phylogenetic analysis of the amino acid sequences of known metazoan
+*prickle* genes.](figures/FigS16.jpg){#fig:pk-tree tag=S16 width=100%}
