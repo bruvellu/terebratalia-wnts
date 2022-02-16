@@ -504,24 +504,26 @@ expression during the period of axial elongation (early to late gastrula).
 
 *diego* is a cytoplasmic protein that suppresses the cell fate pathway and
 stimulates the cell polarity pathway [Schwarz-Romond2002-td]. It contains six
-ankyrin repeat domains [@Feiguin2001] while its vertebrate counterpart
+ankyrin repeat domains [@Feiguin2001-zd] while its vertebrate counterpart
 *diversin* now known as *ankrd6* has eight [Schwarz-Romond2002-td]. We
 identified a *dgo* ortholog in T. transversa containing six ankyrin repeats
 (@fig:dgo-tree). *dgo* is only expressed in the late gastrula stage in
 bilateral laterodorsal domains at the apical lobe and at the pedicle lobe
 (@fig:s-polarity).
 
-*prickle* competes with *diego* for *dishevelled* binding [@Jenny2005]. The
+*prickle* competes with *diego* for *dishevelled* binding [@Jenny2005-vf]. The
 protein contains a PET domain and three LIM domains [@Gubb1999-ba]. In *T.
 transversa* we identified a single *pk* ortholog (@fig:pk-tree). *pk* is
-expressed as a posterior patch in the early gastrula stage. In the late
-gastrula it is expressed in ventral bilateral patches in the apical lobe
-complementary to the areas absent of *jnk*. *prickle* is also upregulated in
-the mesodermal pouches (@fig:s-polarity).
+expressed as a posterior patch in the early gastrula stage (@fig:s-polarity).
+In the late gastrula it is expressed in ventral bilateral patches in the apical
+lobe complementary to the areas absent of *jnk* transcripts. *prickle* is also
+upregulated in the mesodermal pouches (@fig:s-polarity).
 
-*flamingo* transcripts are present throughout development in most embryonic
-tissues. Bilateral patches in the apical lobe become stronger in the late
-gastrula (@fig:s-polarity).
+*flamingo* is a seven-pass transmembrane cadherin that regulates cell polarity
+[@Usui1999-fv; @Chae1999-ci]. In *T. transversa* we identified one ortholog of
+fmi (@fig:fmi-tree). Transcripts are present throughout development in most
+embryonic tissues. Bilateral patches in the apical lobe become stronger in the
+late gastrula (@fig:s-polarity).
 
 *strabismus* is expressed ubiquitously throughout development (@fig:s-polarity).
 
@@ -1181,3 +1183,8 @@ transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=100%}
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *prickle*. Phylogenetic analysis of the amino acid sequences of known metazoan
 *prickle* genes.](figures/FigS16.jpg){#fig:pk-tree tag=S16 width=100%}
+
+![Orthology assignment of *Terebratalia transversa* cell polarity component
+*flamingo*. Phylogenetic analysis of the amino acid sequences of known metazoan
+*flamingo* genes.](figures/FigS17.jpg){#fig:fmi-tree tag=S17 width=100%}
+

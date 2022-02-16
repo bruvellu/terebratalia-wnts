@@ -36,6 +36,7 @@ all:
 	ln -s ${FIGDIR}/13-trees/dgo-tree.png ${FIGOUT}/FigS14.png
 	ln -s ${FIGDIR}/08-polarity/polarity.png ${FIGOUT}/FigS15.png
 	ln -s ${FIGDIR}/13-trees/pk-tree.png ${FIGOUT}/FigS16.png
+	ln -s ${FIGDIR}/13-trees/fmi-tree.png ${FIGOUT}/FigS17.png
 	# Convert to jpg for lightness
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGOUT}/*.png
 	mkdir ${FIGOUT}/source
