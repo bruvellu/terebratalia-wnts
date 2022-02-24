@@ -1,5 +1,5 @@
 ---
-title: Wnt signaling ligand--receptor landscape in brachiopod axial patterning
+title: Wnt ligand--receptor landscape in brachiopod axial patterning
 documentclass: article
 bibliography: wnt.bib 
 csl: biomed-central.csl
@@ -1187,4 +1187,13 @@ transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=100%}
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *flamingo*. Phylogenetic analysis of the amino acid sequences of known metazoan
 *flamingo* genes.](figures/FigS17.jpg){#fig:fmi-tree tag=S17 width=100%}
+
+![Orthology assignment of *Terebratalia transversa* cell polarity component
+*strabismus*. Phylogenetic analysis of the amino acid sequences of known
+metazoan *strabismus* genes.](figures/FigS18.jpg){#fig:stbm-tree tag=S18
+width=100%}
+
+![Orthology assignment of *Terebratalia transversa* cell polarity component
+*jnk*. Phylogenetic analysis of the amino acid sequences of known metazoan
+*jnk* genes.](figures/FigS19.jpg){#fig:jnk-tree tag=S19 width=100%}
 
