@@ -35,7 +35,10 @@ Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
 ^4^Department of Biological Sciences, Molecular Biology, University of Bergen,
 Thormøhlensgate 55, 5006 Bergen, Norway.
 
-^5^ Jena University
+^5^ Institute of Zoology, Friedrich Schiller University Jena, Erbertstraße 1,
+07743 Jena, Germany
+
+<!--Evolutionary Research and Phyletic Museum-->
 
 <!--Outline:
 
@@ -550,18 +553,48 @@ lineage-specific duplication. The unusual expression of *wnt1b* compared to the
 other ligands suggests that it might have evolved novel functions, or different
 regulatory mechanisms.
 
-Frizzled is missing fz3/6 which is vertebrate-specific. Single-copy of sfrp and
-wif inhibitors. dkk is interesting. T.transversa dkk3 does not group with the
-cnidarian dkk3 or human dkk3, but in a distinct group of mainly protostomes.
-While hemichordates have the two subfamilies of dkk3. This suggests there are
-two distinct families of dkk3. Structurally their domains differ. The ancestral
-dkk3 (no-wnt) gave rise to dkk1/dkk3protostome (yes-wnt). dkk3 is seemingly
-unrelated to Wnt signaling. But dkk3 has been shown to modulate wnt in one
-amphioxus species but another. Our phylogenetic analysis suggests that the
-three subfamilies of dkk were present in hemichordates and amphioxus. While
-wntdkk3 was lost in deuterostomes, dkk1 and nowntdkk3 was lost in protostomes.
-In summary, dkk found in protostomes is closer to dkk1-2-4 than dkk3.
-which is divergent and seemingly unrelated to Wnt signaling
+<!--Frizzled is missing fz3/6 which is vertebrate-specific. Single-copy of sfrp and wif inhibitors.-->
+
+dkk is interesting. T.transversa dkk3 does not group with the cnidarian dkk3 or
+human dkk3, but in a distinct group of mainly protostomes. While hemichordates
+have the two subfamilies of dkk3. This suggests there are two distinct families
+of dkk3. Structurally their domains differ. The ancestral dkk3 (no-wnt) gave
+rise to dkk1/dkk3protostome (yes-wnt). dkk3 is seemingly unrelated to Wnt
+signaling. But dkk3 has been shown to modulate wnt in one amphioxus species but
+another. Our phylogenetic analysis suggests that the three subfamilies of dkk
+were present in hemichordates and amphioxus. While wntdkk3 was lost in
+deuterostomes, dkk1 and nowntdkk3 was lost in protostomes. In summary, dkk
+found in protostomes is closer to dkk1-2-4 than dkk3. which is divergent and
+seemingly unrelated to Wnt signaling
+
+## Maternal load conserved Frizzled receptor and diverse load of Wnt ligands
+
+The early developmental role of Wnt signaling in specifying the embryonic
+primary axis has been shown to occur in different bilaterian lineages [@refs].
+However, in most cases, the identity of the ligand/receptor has not been
+demonstrated [@refs]. Nevertheless, Wnt signaling activity in early development
+depends upon the maternal load of pathway components deposited in the egg.
+
+We found that in the oocytes of *T. transversa*, *wnt4* and *wntA* mRNAs are
+the highest expressed Wnt ligands maternally loaded, suggesting they might be
+involved in the early signaling events that pattern the animal-vegetal axis.
+However, these specific ligands are not always deposited maternally in other
+bilaterians. While most animal lineages exhibit a maternal load of Wnt ligands
+(@tbl:maternal), there is considerable variability in which ligands are
+deposited in the eggs. Even within brachiopods there are significant
+differences in the maternal load of Wnt ligands (@fig:supplementary). This
+suggests that the identity of Wnt ligands deposited in the eggs of different
+bilaterians is highly labile and even vary among closely related groups with
+similar developmental modes.
+
+In contrast, most species investigated so far load in their eggs the Frizzled
+receptor *fz1/2/7* (@tbl:maternal). This pattern is highly conserved among
+metazoans [@Bastin2015-oz]. The contrasting variability in the ligand identity
+and conservation of receptor identity suggests that the early role is deployed
+regardless of the specific ligand deposited in the egg. Supports the idea that
+the receptor context rather than a specific wnt ligand might crucial for the
+signaling output [@Loh2016-pz].
+
 
 ## Unique transcriptional subregions pattern the brachiopod larval body
 
@@ -734,34 +767,6 @@ These observations suggest that the receptor context, and possibly the presence
 of other ligands, might play a role in determining the signaling being
 activated. And therefore, be important for the differentiation of brachiopod
 larval body regions.
-
-## Maternal load conserved Frizzled receptor and diverse load of Wnt ligands
-
-The early developmental role of Wnt signaling in specifying the embryonic
-primary axis has been shown to occur in different bilaterian lineages [@refs].
-However, in most cases, the identity of the ligand/receptor has not been
-demonstrated [@refs]. Nevertheless, Wnt signaling activity in early development
-depends upon the maternal load of pathway components deposited in the egg.
-
-We found that in the oocytes of *T. transversa*, *wnt4* and *wntA* mRNAs are
-the highest expressed Wnt ligands maternally loaded, suggesting they might be
-involved in the early signaling events that pattern the animal-vegetal axis.
-However, these specific ligands are not always deposited maternally in other
-bilaterians. While most animal lineages exhibit a maternal load of Wnt ligands
-(@tbl:maternal), there is considerable variability in which ligands are
-deposited in the eggs. Even within brachiopods there are significant
-differences in the maternal load of Wnt ligands (@fig:supplementary). This
-suggests that the identity of Wnt ligands deposited in the eggs of different
-bilaterians is highly labile and even vary among closely related groups with
-similar developmental modes.
-
-In contrast, most species investigated so far load in their eggs the Frizzled
-receptor *fz1/2/7* (@tbl:maternal). This pattern is highly conserved among
-metazoans [@Bastin2015-oz]. The contrasting variability in the ligand identity
-and conservation of receptor identity suggests that the early role is deployed
-regardless of the specific ligand deposited in the egg. Supports the idea that
-the receptor context rather than a specific wnt ligand might crucial for the
-signaling output [@Loh2016-pz].
 
 ## Conserved ligand--receptor subregions between spiralian and deuterostomes
 
