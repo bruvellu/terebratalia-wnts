@@ -67,42 +67,41 @@ brachiopod and bilaterian axial patterning and body diversity.
 
 # Background
 
-<!--TODO: Draft paragraphs for introduction-->
+<!--Significance of Wnt in anteroposterior patterning-->
+
+<!--TODO: Add some examples of AP patterning-->
 
 Wnt signaling is crucial for embryonic development in multiple ways. It is
-involved in fate specification, organogenesis, etc. There is an early role in
-axis determination. But also a major role is anteroposterior patterning of the
-body regions.
+involved in fate specification, organogenesis, and morphogenesis. In the early
+embryo it establishes the primary body axis. Later it is involved in
+anteroposterior patterning of different body regions.
 
-It has been increasingly recognized that receptor context is crucial for
-signaling outcome. That multiple ligand receptor combinations might trigger
-different pathways and differentiation. For example, ... . Thus understanding
-the receptor context for the Wnt expression is important.
+<!--Ligand--receptor context is important for signaling outcome-->
 
-Most Wnt work has been focused in deuterostomes and arthropods. The Spiralia is
-another major bilaterian clade with great diversity and crucial to understand
-bilaterian evolution.
+Wnt regulation is complex. It has been increasingly recognized that receptor
+context is crucial for the signaling outcome. Different ligand--receptor
+combinations can trigger different pathways and differentiation. For example,
+the same Wnt5 ligand can activate the canonical or non-canonical pathway
+depending on the Frizzled receptor expressed in the tissue. Therefore,
+understanding the receptor-context is crucial to understand Wnt function in
+development.
 
-Brachiopods are important spiralian evo-devo organisms. There is substantial
-work on gene expression Hox, segmentation, hedgehog, gastrulation, etc. The
-larval body is typically subdivided into lobes that involve Wnt signaling.
+<!--Spiralians are a major group still lacking Wnt data-->
 
-The goal of this study is to investigate if Wnt signaling has a role in
+<!--TODO: Fix messy paragraph-->
+
+The Spiralia is another major bilaterian clade with great diversity and crucial
+to understand bilaterian evolution. Wnt works has been focused in deuterostomes
+and arthropods which lost many Wnts. Brachiopods are important spiralian
+evo-devo organisms. There is substantial work on gene expression Hox,
+segmentation, hedgehog, gastrulation, etc. The larval body is typically
+subdivided into lobes that involve Wnt signaling. But it is unclear if Wnt
+plays a role in axial patterning. We investigate Wnt signaling in the
 patterning the different body regions using T. transversa. We analyzed
 stage-specific RNA-seq data and spatiotemporal expression of Wnt signaling
 components.
 
-We find that Frizzled expression occurs in broad domains that cover almost the
-whole brachiopod extension. Wnt ligands are expressed in subregions, stripes or
-patches, often partially overlapping.
-
-Each subregion has a unique ligand-receptor context. Antagonists are restricted
-to the anterior region and receptor is cleared from the posterior region.
-Ligand receptor coincides with body regions and morphological boundaries.
-Suggests that Wnt play a role in patterning brachiopod larval body regions.
-Some ligand-receptor combinations are conserved in other animals. Receptors are
-more conserved while ligands more labile. Indicates, that receptor context
-shuffling matter for bilaterian evolution.
+<!--We find that Frizzled expression occurs in broad domains that cover almost the whole brachiopod extension. Wnt ligands are expressed in subregions, stripes or patches, often partially overlapping. Each subregion has a unique ligand-receptor context. Antagonists are restricted to the anterior region and receptor is cleared from the posterior region. Ligand receptor coincides with body regions and morphological boundaries. Suggests that Wnt play a role in patterning brachiopod larval body regions. Some ligand-receptor combinations are conserved in other animals. Receptors are more conserved while ligands more labile. Indicates, that receptor context shuffling matter for bilaterian evolution.-->
 
 <!--At the Fz receptor, the binding of proteins other than Wnt can antagonize signaling. Specific antagonists include Dickkopf (Dkk), Wnt inhibitory factor 1 (WIF-1),[50][51] secreted Frizzled-related proteins (SFRP), Cerberus, Frzb, Wise, SOST, and Naked cuticle. These constitute inhibitors of Wnt signaling. However, other molecules also act as activators. Norrin and R-Spondin2 activate Wnt signaling in the absence of Wnt ligand.-->
 
