@@ -126,82 +126,76 @@ cysteine residues [@Nusse1992-oi]. They evolved at the root of metazoans having
 thirteen ancestral subfamilies [@Kusserow2005-xd; @Cho2010-eb]. We identified
 twelve of these Wnt subfamilies in the brachiopod *T. transversa*
 (@fig:wnt-tree). Most are represented by a single ortholog, with the exception
-of *wnt3*, which is missing, and of *wnt1*, which is duplicated. One of the
-*wnt1* paralogs is highly-divergent from other bilaterian *wnt1* genes at the
-sequence level, and we named it as *wnt1t* (@fig:wnt1-tree). Apart from these
-two cases, *T. transversa* has kept the ancestral complement of Wnt genes.
+of *wnt3* which is missing, and of *wnt1* which is duplicated. One of the
+*wnt1* paralogs is highly-divergent at the sequence level compared to other
+bilaterian *wnt1* genes; we named it *wnt1t* (@fig:wnt1-tree). Apart from these
+two cases, *T. transversa* has kept conserved the ancestral complement of
+bilaterian Wnt genes.
 
 <!--Wnt profiling-->
 To characterize the developmental dynamics of Wnt expression in *T.
 transversa*, we analyzed stage-specific RNA-seq data sampled from egg to
-juveniles (ACCESSION).
-
-We detect a large quantity of *wnt4* and *wntA* transcripts deposited in the
-unfertilized oocyte (@fig:profiling). A few other Wnt ligands, such as *wnt1t*,
-*wnt5*, *wnt6*, and *wnt16*, are also expressed, but at lower levels.
-
-We were able to determine the maternal load of Wnt genes In the unfertilized
-oocytes,
-
-Other Wnt genes, are expressed, , but at lower levels. The remaining Wnt
-ligands are barely detected at this stage.
-
-The Wnt landscape changes at the late blastula stage (19h) when there is a
-concerted upregulation of *wnt1*, *wnt8*, *wnt10* and *wnt16* in the embryo
-(@fig:profiling). *wnt8* and *wnt6* are the genes that undergo the greatest
-shift in expression levels. There is a second wave of activation at the onset
-of gastrulation with the increase of *wnt1*, *wnt5* and *wnt6* at the early
-gastrula. These transcriptional changes are followed by the upregulation of
-*wnt7* and *wnt11* at the mid gastrula, and finally, by the activation of
-*wnt2*, *wnt9* and *wnt10* at the late gastrula. Thus, different Wnt ligands
-are upregulated at different moments during embryogenesis, but between the late
-gastrula and early larva stages, all Wnts are expressed in the tissues of the
-developing *T. transversa* embryo.
-
-While the expression of *wnt1*, *wnt4*, *wnt5*, *wnt8*, *wnt9*, *wntA* remains
-high until the juvenile stages, the expression levels of *wnt6* and *wnt10*
-begin to decay after gastrulation. After metamorphosis, we detect a notable
-downregulation of *wnt7* and *wnt16* in the juvenile individuals
+juveniles (ACCESSION). In the unfertilized oocyte, we detect a great abundance
+of *wnt4* and *wntA* transcripts (@fig:profiling). Other Wnt ligands, such as
+*wnt1t*, *wnt5*, *wnt6*, and *wnt16*, are also expressed, but at lower levels.
+The expression profile remains similar during cleavage (8h) but shifts
+significantly at the late blastula stage (19h). A concerted upregulation of
+*wnt1*, *wnt8*, *wnt10* and *wnt16* occurs in the embryo, with *wnt8* and
+*wnt16* undergoing the greatest increase in expression (@fig:profiling). A
+second upregulation wave occurs during gastrulation. It begins in the early
+gastrula (26h) with *wnt1* and *wnt5*, is followed by *wnt6*, *wnt7*, and
+*wnt11* in the mid gastrula (37h), when finally *wnt2*, *wnt9*, and *wnt10* are
+upregulated in the late gastrula (51h). While *wnt1*, *wnt4*, *wnt5*, *wnt8*,
+*wnt9*, *wntA* remain highly expressed throughout development, *wnt6* and
+*wnt10* expression levels decay after gastrulation. Subsequently, *wnt7* and
+*wnt16* get notably downregulated in the juveniles after metamorphosis
 (@fig:profiling).
+
+<!--TODO: Merge back sentences into paragraph above-->
+
+These data show that Wnt ligands undergo two concerted upregulation events
+during development, one with blastulation and another with gastrulation,
+respectively. The expression levels peak between the late gastrula and the
+early larva stages, when all Wnt ligands are being expressed. These stages
+coincide with the elongation of the anteroposterior axis at the end of
+gastrulation, and with first morphological differentiation of the different
+larval lobes (body regions).
 
 <!--Wnt expression-->
 
-To uncover the spatial localization of Wnt genes in developing embryos of *T.
-transversa*, we analyzed the expression of the thirteen Wnt ligands between the
-early gastrula and the late larva stage by *in situ* hybridization
-(@fig:ligands1 and !@fig:ligands2).
+Next, we performed *in situ* hybridization in gastrula and larval stages to
+uncover the spatial localization of Wnt ligands during brachiopod axial
+patterning (@fig:ligands1 and !@fig:ligands2). The expression of *T.
+transversa* *wnt1* was previously described in @Vellutini2016-lq, and is only
+summarized here. There are two main domains. One posterior, initially expressed
+on the posterior blastopore lip, and later forming bilateral ventral bands on
+the pedicle lobe (@fig:ligands1, @fig:s-ligands, and @Vellutini2016-lq). And
+another anterior, first expressed in the late gastrula as a pair of narrow
+lateral stripes around the apical lobe (@fig:ligands1, @fig:s-ligands, and
+@Vellutini2016-lq). Additionally, *wnt1* is expressed in the dorsal shell
+primordium, and in a ring around a subdivision of the pedicle lobe
+[@Vellutini2016-lq].
 
-*wnt1* expression has been previously described [@Vellutini2016-lq]. In early
-and mid gastrula stages, it is expressed in a terminal position at the
-posterior blastopore lip (@fig:ligands1 and @Vellutini2016-lq). In late
-gastrula and early larva, this posterior domain acquires a subterminal position
-forming bilateral bands in the pedicle lobe, while a novel domain, a pair of
-narrow *wnt1* stripes appear in the apical lobe (@fig:ligands1 and
-@Vellutini2016-lq). In late larva, the posterior *wnt1* domain forms a ring
-subdividing the pedicle lobe, and a novel dorsal patch localized to the future
-shell expands (@fig:ligands1 and @Vellutini2016-lq).
+The expression of *wnt1t* differs from its paralog. *wnt1t* is expressed in an
+apical spot in the early gastrula (@fig:ligands1 and @fig:s-ligands). The spot
+acquires a dorsal position in the mid and late gastrula, becomes fragmented in
+the early larva, and disappears in the late larva (@fig:ligands1 and
+@fig:s-ligands). Two novel *wnt1t* domains appear in the early larva, a central
+ventral patch posterior to the mouth, and bilateral territories beneath the
+mantle lobe (@fig:ligands1 and @fig:s-ligands). In the late larva, the mantle
+lobe territories encircle the body, and a terminal domain appears at the
+posterior tip of the pedicle lobe (@fig:ligands1 and @fig:s-ligands).
 
-*wnt1t* is expressed in a small, localized dorsal domain in the early, mid and
-late gastrula stages (@fig:ligands1). This apical domain becomes fragmented in
-the early larva and disappears in the late larva. In the early larva *wnt1t* is
-upregulated in a central ventral patch posterior to the mouth. In the late
-larva two novel domains appear below the mantle lobe and at the terminal
-posterior tip of the pedicle lobe (@fig:ligands1).
+We only detected *wnt2* transcripts in the late gastrula and early larva
+stages. It is expressed in broad bilateral bands that encircle almost entirely
+the posterior portion of the apical lobe; the ventral and dorsal midlines are
+cleared of *wnt2* expression (@fig:ligands1 and @fig:s-ligands).
 
-*wnt2* transcripts are not detected by in situ hybridization in the early and
-mid gastrula stages. At the late gastrula, broad bilateral bands of
-*wnt2*-expressing cells encircle the posterior portion of the apical lobe but
-without reaching the ventral or dorsal midline (@fig:ligands1). The pattern
-persists at the early larva, but is cleared in the late larval stages
-(@fig:ligands1).
-
-*wnt4* is expressed at the posterior end in the early and mid gastrula stages
-(@fig:ligands1) but the transcripts are localized more dorsally than *wnt1*
-({@fig:doubles}A). In the early larva the domain shifts to a subterminal
-position at the pedicle lobe that partially overlaps with the posterior
-territory of *wnt1* ({@fig:doubles}B). In the late larva, *wnt4* is expressed
-in a ring at the anteriormost portion of the pedicle
-lobe (@fig:ligands1).
+Similar to *wnt1*, the *wnt4* ligand is expressed at the posterior end of
+gastrula stages and acquires a subterminal position in the pedicle lobe
+(@fig:ligands1 and @fig:s-ligands). Their domains, however, only partially
+overlap. *wnt4* transcripts are localized more dorsally than *wnt1*
+({@fig:s-doubles}A--C).
 
 *wnt5* exhibits three distinct ectodermal domains of expression in *T.
 transversa*. They localize to the apical, mantle and pedicle lobe of the larva
@@ -471,14 +465,16 @@ regulatory mechanisms.
 
 <!--Frizzled is missing fz3/6 which is vertebrate-specific. Single-copy of sfrp and wif inhibitors.-->
 
-dkk is interesting. T.transversa dkk3 does not group with the cnidarian dkk3 or
-human dkk3, but in a distinct group of mainly protostomes. While hemichordates
-have the two subfamilies of dkk3. This suggests there are two distinct families
-of dkk3. Structurally their domains differ. The ancestral dkk3 (no-wnt) gave
-rise to dkk1/dkk3protostome (yes-wnt). dkk3 is seemingly unrelated to Wnt
-signaling. But dkk3 has been shown to modulate wnt in one amphioxus species but
-another. Our phylogenetic analysis suggests that the three subfamilies of dkk
-were present in hemichordates and amphioxus. While wntdkk3 was lost in
+## There are two ancestral DKK3 subfamilies
+
+T.transversa dkk3 does not group with the cnidarian dkk3 or human dkk3, but in
+a distinct group of mainly protostomes. While hemichordates have the two
+subfamilies of dkk3. This suggests there are two distinct families of dkk3.
+Structurally their domains differ. The ancestral dkk3 (no-wnt) gave rise to
+dkk1/dkk3protostome (yes-wnt). dkk3 is seemingly unrelated to Wnt signaling.
+But dkk3 has been shown to modulate wnt in one amphioxus species but another.
+Our phylogenetic analysis suggests that the three subfamilies of dkk were
+present in hemichordates and amphioxus. While wntdkk3 was lost in
 deuterostomes, dkk1 and nowntdkk3 was lost in protostomes. In summary, dkk
 found in protostomes is closer to dkk1-2-4 than dkk3. which is divergent and
 seemingly unrelated to Wnt signaling
@@ -511,6 +507,9 @@ regardless of the specific ligand deposited in the egg. Supports the idea that
 the receptor context rather than a specific wnt ligand might crucial for the
 signaling output [@Loh2016-pz].
 
+## Wnt upregulation occurs in two steps and peaks with axial elongation
+
+<!--TODO: Relevance or drop it-->
 
 ## Unique transcriptional subregions pattern the brachiopod larval body
 
