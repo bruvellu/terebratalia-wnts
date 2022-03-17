@@ -121,26 +121,29 @@ components.
 
 <!--Wnt complement-->
 
-Wnt ligands are secreted glycoproteins with a conserved series of cysteine
-residues positioned along the coding sequence [@Nusse1992-oi]. They evolved at
-the root of metazoans from thirteen ancestral subfamilies [@Kusserow2005-xd;
-@Cho2010-eb]. We identified twelve of these Wnt subfamilies in the brachiopod
-*T. transversa*. The only missing is *wnt3*. Most other subfamilies are
-represented by a single ortholog with the exception of *wnt1*, which is
-duplicated (@fig:wnt-tree). One of the *wnt1* paralogs in *T. transversa*
-(*wnt1b*) shows a highly divergent sequence (@fig:wnt1-tree).
+Wnt ligands are secreted glycoproteins which contain a conserved series of
+cysteine residues [@Nusse1992-oi]. They evolved at the root of metazoans having
+thirteen ancestral subfamilies [@Kusserow2005-xd; @Cho2010-eb]. We identified
+twelve of these Wnt subfamilies in the brachiopod *T. transversa*
+(@fig:wnt-tree). Most are represented by a single ortholog, with the exception
+of *wnt3*, which is missing, and of *wnt1*, which is duplicated. One of the
+*wnt1* paralogs is highly-divergent from other bilaterian *wnt1* genes at the
+sequence level, and we named it as *wnt1t* (@fig:wnt1-tree). Apart from these
+two cases, *T. transversa* has kept the ancestral complement of Wnt genes.
 
 <!--Wnt profiling-->
+To characterize the developmental dynamics of Wnt expression in *T.
+transversa*, we analyzed stage-specific RNA-seq data sampled from egg to
+juveniles (ACCESSION).
 
-To characterize the expression dynamics of Wnt signaling components during *T.
-transversa* embryonic development, we analyzed the stage-specific RNA-seq
-dataset (ACCESSION) covering representative developmental stages from
-unfertilized oocytes, cleavage, and gastrulation, to larval morphogenesis and
-post-metamorphosis juveniles.
+We detect a large quantity of *wnt4* and *wntA* transcripts deposited in the
+unfertilized oocyte (@fig:profiling). A few other Wnt ligands, such as *wnt1t*,
+*wnt5*, *wnt6*, and *wnt16*, are also expressed, but at lower levels.
 
-We detect high levels of *wnt4* and *wntA* transcripts maternally loaded in the
-unfertilized oocyte (@fig:profiling). Other Wnt genes are expressed, such as
-*wnt1b*, *wnt5*, *wnt6*, and *wnt16*, but at lower levels. The remaining Wnt
+We were able to determine the maternal load of Wnt genes In the unfertilized
+oocytes,
+
+Other Wnt genes, are expressed, , but at lower levels. The remaining Wnt
 ligands are barely detected at this stage.
 
 The Wnt landscape changes at the late blastula stage (19h) when there is a
@@ -178,9 +181,9 @@ narrow *wnt1* stripes appear in the apical lobe (@fig:ligands1 and
 subdividing the pedicle lobe, and a novel dorsal patch localized to the future
 shell expands (@fig:ligands1 and @Vellutini2016-lq).
 
-*wnt1b* is expressed in a small, localized dorsal domain in the early, mid and
+*wnt1t* is expressed in a small, localized dorsal domain in the early, mid and
 late gastrula stages (@fig:ligands1). This apical domain becomes fragmented in
-the early larva and disappears in the late larva. In the early larva *wnt1b* is
+the early larva and disappears in the late larva. In the early larva *wnt1t* is
 upregulated in a central ventral patch posterior to the mouth. In the late
 larva two novel domains appear below the mantle lobe and at the terminal
 posterior tip of the pedicle lobe (@fig:ligands1).
@@ -456,13 +459,13 @@ Metazoans have an ancient repertoire of 13 Wnt subfamilies [@Kusserow2005-xd;
 @Croce2009-vv; @Cho2010-eb]. Our data suggests the brachiopod *T. transversa*
 has a conserved set of Wnt genes. Only one Wnt is missing---*wnt3*, which has
 been lost at the base of the protostome lineage [@Cho2010-eb;
-@Janssen2010-dc]---and only *wnt1b* has duplicated. Duplications in Wnt genes
+@Janssen2010-dc]---and only *wnt1t* has duplicated. Duplications in Wnt genes
 are common. The brachiopod *Lingula anatina* duplicated *wnt1* and *wnt10*
 [@Luo2015-lm]. Our phylogenetic analysis suggests the duplication of *wnt1* in
 *T. transversa* and *L. anatina* occurred independently. The sequence of *T.
-transversa* *wnt1b* is highly divergent compared to other protostome orthologs,
+transversa* *wnt1t* is highly divergent compared to other protostome orthologs,
 suggesting a rapid evolution and supporting the hypothesis of a
-lineage-specific duplication. The unusual expression of *wnt1b* compared to the
+lineage-specific duplication. The unusual expression of *wnt1t* compared to the
 other ligands suggests that it might have evolved novel functions, or different
 regulatory mechanisms.
 
@@ -920,7 +923,7 @@ hybridization are highlighted in magenta.](figures/Fig2.jpg){#fig:profiling
 width=100%}
 
 ![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia
-transversa* (*wnt1*, *wnt1b*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*). Black
+transversa* (*wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*). Black
 arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the
 mantle--pedicle boundary. The panels for *wnt1* were originally published in
 @Vellutini2016-lq under a Creative Commons Attribution License and reprinted
@@ -996,7 +999,7 @@ Table: Wnt signaling subregions in the brachiopod *T. transversa*.
 
 | Region                    | Antagonists     | Ligands                                            | Receptors             |
 | ------------------------- | --------------- | -------------------------------------------------- | --------------------- |
-| Anterior tip              | *dkk*, *sfrp1/2/5*   | (*wnt1b*)                                                  | *fz1/2/7*, *fz5/8*    |
+| Anterior tip              | *dkk*, *sfrp1/2/5*   | (*wnt1t*)                                                  | *fz1/2/7*, *fz5/8*    |
 | Apical lobe               | -               | *wntA*, *wnt8*, *wnt2*, *wnt5*                     | *fz1/2/7*, *fz4*      |
 | Apical--mantle boundary   | -               | *wnt1*, *wnt7*, *wnt16*                            | *fz1/2/7*, *fz9/10*   |
 | Mantle lobe               | -               | *wnt5*, *wnt16*                                    | *fz1/2/7*             |
