@@ -320,46 +320,45 @@ gastrulation.
 <!--Frizzled expression-->
 
 *fz1/2/7* transcripts are almost ubiquitous in the gastrula tissues
-(@fig:receptors). Our probe shows an anteroposterior gradient with stronger
+(@fig:fzdantag). Our probe shows an anteroposterior gradient with stronger
 signal on the apical region, in the anterior mesoderm, and in a pair of lateral
-ectodermal domains around the middle of the body (@fig:receptors and
+ectodermal domains around the middle of the body (@fig:fzdantag and
 @fig:s-receptors). Posterior transcripts are cleared from the pedicle lobe late
-in gastrulation (@fig:receptors). In the late larva, the expression of
-*fz1/2/7* becomes near ubiquitous with the activation of the gene on the
-terminal portion of the pedicle lobe (@fig:receptors).
+in gastrulation (@fig:fzdantag). In the late larva, the expression of *fz1/2/7*
+becomes near ubiquitous with the activation of the gene on the terminal portion
+of the pedicle lobe (@fig:fzdantag).
 
 *fz4* is expressed in a subapical ectodermal ring encircling the animal pole of
-the early gastrula (@fig:receptors and @fig:s-receptors). This domain remains
+the early gastrula (@fig:fzdantag and @fig:s-receptors). This domain remains
 strongly expressed until the late larva stage. *fz4* is also expressed in the
-anterior portion of the mesoderm in all developmental stages (@fig:receptors
-and @fig:s-receptors). Beginning in the late gastrula stage, we detect *fz4* in
-the dorsal ectoderm between the mantle and pedicle lobe. This domain becomes
+anterior portion of the mesoderm in all developmental stages (@fig:fzdantag and
+@fig:s-receptors). Beginning in the late gastrula stage, we detect *fz4* in the
+dorsal ectoderm between the mantle and pedicle lobe. This domain becomes
 stronger in the late larva as it expands around the pedicle lobe, beneath the
-mantle lobe, and is upregulated in the mantle mesoderm (@fig:receptors and
+mantle lobe, and is upregulated in the mantle mesoderm (@fig:fzdantag and
 @fig:s-receptors). An additional *fz4* domain appears in the late larva at the
-posterior tip of the pedicle lobe (@fig:receptors and @fig:s-receptors). The
+posterior tip of the pedicle lobe (@fig:fzdantag and @fig:s-receptors). The
 incremental appearance of *fz4* domains along development correlates well with
 the increase of *fz4* expression in the RNA-seq data (@fig:profiling)
 
 *fz5/8* is expressed on the apical cap from the early gastrula to the late
-larva, when dorsal transcripts begin to be cleared (@fig:receptors and
+larva, when dorsal transcripts begin to be cleared (@fig:fzdantag and
 @fig:s-receptors). This domain is complementary to the *fz4* domain in the
 apical lobe and does not overlap with the apical domain of *wnt5*
 ({@fig:doubles}E,F). During gastrulation, *fz5/8* is upregulated and remains
-expressed in a narrow portion of the anterior mesoderm (@fig:receptors and
+expressed in a narrow portion of the anterior mesoderm (@fig:fzdantag and
 @fig:s-receptors). We also detect in the late larva stage, novel transcripts of
-*fz5/8* in the mesoderm of chaetae sacs. (@fig:receptors and @fig:s-receptors)
+*fz5/8* in the mesoderm of chaetae sacs. (@fig:fzdantag and @fig:s-receptors)
 
 *fz9/10* transcripts surround the blastopore and most animal ectoderm of the
-early gastrula, except for the apical cap (@fig:receptors and
-@fig:s-receptors). In subsequent stages, the anterior limit of *fz9/10*
-expression locates to the posteriormost portion of the apical lobe, abutting
-the *fz4* domain posteriorly. The posterior limit of *fz9/10* reaches until the
-pedicle lobe where it overlaps with the subterminal expression of *wnt1*. The
-mantle lobe shows weaker *fz9/10* expression, and the terminal portion of the
-pedicle lobe is cleared from *fz9/10* transcripts (@fig:receptors and
-@fig:s-receptors). *fz9/10* is also expressed in the mesoderm throughout
-development.
+early gastrula, except for the apical cap (@fig:fzdantag and @fig:s-receptors).
+In subsequent stages, the anterior limit of *fz9/10* expression locates to the
+posteriormost portion of the apical lobe, abutting the *fz4* domain
+posteriorly. The posterior limit of *fz9/10* reaches until the pedicle lobe
+where it overlaps with the subterminal expression of *wnt1*. The mantle lobe
+shows weaker *fz9/10* expression, and the terminal portion of the pedicle lobe
+is cleared from *fz9/10* transcripts (@fig:fzdantag and @fig:s-receptors).
+*fz9/10* is also expressed in the mesoderm throughout development.
 
 <!--Frizzled summary-->
 
@@ -381,44 +380,58 @@ transversa* axial patterning.
 
 ## Wnt antagonists
 
-<!--Antagonist orthology-->
+To obtain a more comprehensive picture of the Wnt landscape in *T. transversa*,
+we also analyzed the expression of three Wnt signaling antagonists, a Secreted
+Frizzled-Related Protein (*sfrp*), a Dickkopf protein (*dkk*), and a Wnt
+Inhibitory Factor (*wif*).
 
-The secreted frizzled-related proteins (*sfrp*) are soluble proteins that
-antagonize Wnt activity by direct binding to Wnt ligands or to Frizzled
-receptors [@Kawano2003-bx]. They have a cystein-rich domain with high-affinity
-to Wnt proteins. The *sfrp* family can be divided into two subfamilies,
-*sfrp1/2/5* and *sfrp3/4* [@Kawano2003-bx; @Bovolenta2008-kb]. In *T.
-transversa* transcriptome, we only identified a *sfrp1/2/5* ortholog
-(@fig:sfrp-tree). *sfrp1/2/5* is highly expressed throughout development
-(@fig:profiling). It localizes to an apical ectodermal domain and to a narrow
-anterior mesoderm patch in a pattern that recapitulates the expression of
-*fz5/8* (@fig:antagonists). In the early larva, we detect an additional
-bilateral domain of *sfrp1/2/5* expression in the mesoderm of the mantle lobe
-(@fig:antagonists). 
+*sfrp* is a soluble protein that antagonizes Wnt activity by direct binding to
+Wnt ligands or to Frizzled receptors [@Kawano2003-bx]. It has a cystein-rich
+domain with high-affinity to Wnt proteins. The *sfrp* family can be divided
+into two subfamilies, *sfrp1/2/5* and *sfrp3/4* [@Kawano2003-bx;
+@Bovolenta2008-kb]. In *T. transversa*, we only identified a *sfrp1/2/5*
+ortholog (@fig:sfrp-tree). *sfrp1/2/5* is highly-expressed throughout
+development (@fig:profiling) with transcripts located in the anterior-most
+portion of the apical lobe ectoderm, and of the mesoderm---a pattern similar to
+the expression of *fz5/8* (@fig:fzdantag and @fig:s-antagonists). Transient
+mesodermal domains also appear in the mantle lobe of the early larva.
+Expression of *sfrp1/2/5* fades in the late larva except for patches on the
+dorsal side of the apical lobe (@fig:fzdantag and @fig:s-antagonists). 
 
-The *dickkopf* (*dkk*) are secreted glycoproteins that antagonize Wnt signaling
-by inhibiting the *lrp5/6* co-receptors [@Niehrs2006-kf; @Cruciat2013-zs]. They
-contain two cystein-rich domains which can be divided into two subfamilies,
-*dkk1/2/4* and *dkk3* [@Niehrs2006-kf]. In *T. transversa*, we identified a
-single *dkk* ortholog. It groups with a previously unidentified *dkk* subfamily
-that differs from the dkk1/2/4 and dkk3 subfamilies, and named hereafter as
-*dkk5* (@fig:dkk-tree). The expression of *T. transversa* *dkk5* is upregulated
-at the late blastula stage and downregulated in the juvenile stages
-(@fig:profiling). Spatially, the expression is confined to an apical ectodermal
-domains, similar to *sfrp1/2/5* (@fig:antagonists).
+*dkk* is a secreted glycoprotein containing two cystein-rich domains which
+antagonizes Wnt signaling by inhibiting *lrp5/6* co-receptors [@Niehrs2006-kf;
+@Cruciat2013-zs]. These proteins are generally divided in two subfamilies,
+*dkk1/2/4* and *dkk3* [@Niehrs2006-kf]. In *T. transversa*, however, we
+identified a single *dkk* ortholog that groups with a previously unidentified
+*dkk* subfamily, named hereafter as *dkk5* (@fig:dkk-tree). The expression of
+*dkk5* in *T. transversa* is upregulated in the late blastula and downregulated
+in the juvenile (@fig:profiling). It localizes to an apical ectodermal domain
+similar to the expression of *sfrp1/2/5*, but is slightly narrower and does not
+extend completely to the dorsal side (@fig:fzdantag and @fig:s-antagonists).
 
-The wnt inhibitory factor (*wif*) is another protein that inhibits Wnt activity
-by direct binding to Wnt proteins [@Hsieh1999-rt]. The protein has five EGF
-repeats and a typical unique *wif* domain which is shared with RYK receptor
-tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs]. In *T. transversa* we
-identified one *wif* gene (@fig:wif-tree). It has a relatively low and stable
-expression levels throughout development with a peak at the late gastrula stage
-(@fig:profiling). Unlike *sfrp1/2/5* and *dkk*, *wif* is mainly expressed in
-the mesoderm from gastrulation to the late larva stage (@fig:antagonists).
+*wif* is another protein that inhibits Wnt activity by direct binding to Wnt
+proteins [@Hsieh1999-rt]. The protein has five EGF repeats and a typical unique
+*wif* domain which is shared with RYK receptor tyrosine kinases [@Hsieh1999-rt;
+@Cruciat2013-zs]. In *T. transversa* we identified one *wif* gene ortholog
+(@fig:wif-tree). The expression levels are relatively low, and somewhat stable
+throughout development with a high peak in the late gastrula (@fig:profiling).
+Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in the mesoderm
+tissues from gastrulation to the late larva stage (@fig:fzdantag and
+@fig:s-antagonists).
 
-## Intracellular components
+Overall, during brachiopod axial patterning, the Wnt antagonists *sfrp1/2/5*
+and *dkk5* are confined to the anterior-most portion of the apical lobe, a
+region free of Wnt expression (@fig:summary).
 
-<!--Components orthology and profiling-->
+## Cell polarity components
+
+<!--TODO: Integrate the pcp pathway into the manuscript.-->
+
+We identified *T. transversa* orthologs for components of the cell
+polarity pathway (PCP Pathway, non-canonical Wnt Pathway) and analyzed their
+expression during the period of axial elongation (early to late gastrula).
+
+<!--TODO: Revise in the light of cell polarity-->
 
 The gene dishevelled (*dsh*) is a central regulator of Wnt signaling pathways
 [@Wallingford2005-xp]. The protein has three conserved domains (DIX, PDZ, and
@@ -429,38 +442,15 @@ Wnt signaling that interacts directly with *dsh* [@Li1999-sy]. The interaction
 of *dsh* and *axin* controls the degradation of *β-catenin*, the downstream
 transcriptional activator of the canonical pathway [@Miller1996-rr]. In *T.
 transversa*, we identified single copies of *dsh*, *axin*, and *β-catenin*
-orthologs (@fig:dsh-tree and @fig:bcat-tree). The three genes are
-highly-expressed in every developmental stage. *dsh* and *axin* levels decrease
-after the mid blastula stage, while the abundance of *β-catenin* transcripts
-remains stable throughout development (@fig:s-profiling).
-
-<!--Components expression-->
+orthologs (@fig:dsh-tree). The three genes are highly-expressed in every
+developmental stage. *dsh* and *axin* levels decrease after the mid blastula
+stage, while the abundance of *β-catenin* transcripts remains stable throughout
+development (@fig:s-profiling).
 
 *dsh* transcripts localize to a narrow apical domain in the ectoderm, and to
-adjacent territory in the anterior mesoderm (@fig:intracellular). The apical
-domain is cleared in the late larva and *dsh* is upregulated in the dorsal
-mesoderm of the mantle lobe.
-
-*axin* is broadly expressed in the early gastrula with higher levels at the
-posterior end (@fig:intracellular). At the late gastrula and early larva it is
-mostly expressed in a pair of bilateral bands at the anterior portion of the
-pedicle lobe which correspond to the *wnt1* domain, as well as in the mantle
-lobe mesoderm adjacent to the endoderm (@fig:intracellular).
-
-*β-catenin* is ubiquitously expressed in the ectoderm and mesoderm until the
-late gastrula when the ectodermal transcripts are downregulated
-(@fig:intracellular). During larval development, mesoderm expression is also
-downregulated. In the late larva stage, *β-catenin* transcripts are
-restricted to the anterior mesoderm and to the mesoderm associated with the
-chaetae sacs in the mantle lobe (@fig:intracellular).
-
-## Cell polarity components
-
-<!--TODO: Integrate the pcp pathway into the manuscript.-->
-
-We identified *T. transversa* orthologs for components of the cell
-polarity pathway (PCP Pathway, non-canonical Wnt Pathway) and analyzed their
-expression during the period of axial elongation (early to late gastrula).
+adjacent territory in the anterior mesoderm (@fig:polarity). The apical domain
+is cleared in the late larva and *dsh* is upregulated in the dorsal mesoderm of
+the mantle lobe.
 
 *diego* is a cytoplasmic protein that suppresses the cell fate pathway and
 stimulates the cell polarity pathway [Schwarz-Romond2002-td]. It contains six
@@ -469,28 +459,34 @@ ankyrin repeat domains [@Feiguin2001-zd] while its vertebrate counterpart
 identified a *dgo* ortholog in T. transversa containing six ankyrin repeats
 (@fig:dgo-tree). *dgo* is only expressed in the late gastrula stage in
 bilateral laterodorsal domains at the apical lobe and at the pedicle lobe
-(@fig:s-polarity).
+(@fig:polarity).
 
 *prickle* competes with *diego* for *dishevelled* binding [@Jenny2005-vf]. The
 protein contains a PET domain and three LIM domains [@Gubb1999-ba]. In *T.
 transversa* we identified a single *pk* ortholog (@fig:pk-tree). *pk* is
-expressed as a posterior patch in the early gastrula stage (@fig:s-polarity).
+expressed as a posterior patch in the early gastrula stage (@fig:polarity).
 In the late gastrula it is expressed in ventral bilateral patches in the apical
 lobe complementary to the areas absent of *jnk* transcripts. *prickle* is also
-upregulated in the mesodermal pouches (@fig:s-polarity).
+upregulated in the mesodermal pouches (@fig:polarity).
 
 *flamingo* is a seven-pass transmembrane cadherin that regulates cell polarity
 [@Usui1999-fv; @Chae1999-ci]. In *T. transversa* we identified one ortholog of
 fmi (@fig:fmi-tree). Transcripts are present throughout development in most
 embryonic tissues. Bilateral patches in the apical lobe become stronger in the
-late gastrula (@fig:s-polarity).
+late gastrula (@fig:polarity).
 
-*strabismus* is expressed ubiquitously throughout development (@fig:s-polarity).
+*strabismus* is expressed ubiquitously throughout development (@fig:polarity).
 
 *jnk* is faintly expressed in the early gastrula. In the mid gastrula it is
 present in the archenteron posterior portion. In the late gastrula jnk
 expression is upregulated almost ubiquitously across the embryo, with the
-exception of ventral lateral regions in the apical lobe (@fig:s-polarity).
+exception of ventral lateral regions in the apical lobe (@fig:polarity).
+
+<!--TODO: Confirm removal of axin and bcat-->
+
+<!--*axin* is broadly expressed in the early gastrula with higher levels at the posterior end (@fig:intracellular). At the late gastrula and early larva it is mostly expressed in a pair of bilateral bands at the anterior portion of the pedicle lobe which correspond to the *wnt1* domain, as well as in the mantle lobe mesoderm adjacent to the endoderm (@fig:intracellular).-->
+
+<!--*β-catenin* is ubiquitously expressed in the ectoderm and mesoderm until the late gastrula when the ectodermal transcripts are downregulated (@fig:intracellular). During larval development, mesoderm expression is also downregulated. In the late larva stage, *β-catenin* transcripts are restricted to the anterior mesoderm and to the mesoderm associated with the chaetae sacs in the mantle lobe (@fig:intracellular).-->
 
 # Discussion
 
@@ -997,27 +993,27 @@ in ventral view (J), optical section through mid-body (K) and dorsal view
 schematic drawings show the ectodermal expression domains on the ventral
 region of a late gastrula stage.](figures/Fig6.jpg){#fig:summary width=100%}
 
-![Whole-mount *in situ* hybridization of Frizzled receptors in
+![Whole-mount *in situ* hybridization of Frizzled receptors and Wnt antagonists in
 *Terebratalia transversa*. Black arrowheads indicate the apical--mantle
 boundary. White arrowheads demarcate the mantle--pedicle
-boundary.](figures/Fig7.jpg){#fig:receptors width=100%}
+boundary.](figures/Fig7.jpg){#fig:fzdantag width=100%}
 
-![Whole-mount *in situ* hybridization of Wnt pathway antagonists in
-*Terebratalia transversa*. Black arrowheads indicate the apical--mantle
-boundary. White arrowheads demarcate the mantle--pedicle
-boundary.](figures/Fig8.jpg){#fig:antagonists width=100%}
+![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt
+signaling pathway in *Terebratalia
+transversa*.](figures/Fig8.jpg){#fig:polarity width=100%}
 
-![Whole-mount *in situ* hybridization of intracellular components of the Wnt
-pathway in *Terebratalia transversa*. Black arrowheads indicate the
-apical--mantle boundary. White arrowheads demarcate the mantle--pedicle
-boundary.](figures/Fig9.jpg){#fig:intracellular width=100%}
+<!--![Whole-mount *in situ* hybridization of Frizzled receptors in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig7.jpg){#fig:receptors width=100%}-->
+
+<!--![Whole-mount *in situ* hybridization of Wnt pathway antagonists in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig8.jpg){#fig:antagonists width=100%}-->
+
+<!--![Whole-mount *in situ* hybridization of intracellular components of the Wnt pathway in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig9.jpg){#fig:intracellular width=100%}-->
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
 Broad receptor territories are essentially the same along the anteroposterior
 axis. There are common ligand--receptor combinations between the two animals
 forming unique transcriptional regions in the embryo that corresponds to
-differentiated body regions.](figures/Fig10.jpg){#fig:comparative width=100%}
+differentiated body regions.](figures/Fig9.jpg){#fig:comparative width=100%}
 
 \newpage
 
@@ -1126,42 +1122,36 @@ genes.](figures/FigS9.jpg){#fig:wif-tree tag=S9 width=100%}
 metazoan *dsh* and *axin* genes.](figures/FigS10.jpg){#fig:dsh-tree tag=S10
 width=100%}
 
-![Orthology assignment of *Terebratalia transversa* Wnt intracellular component
-*bcat*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*bcat* genes.](figures/FigS11.jpg){#fig:bcat-tree tag=S11 width=100%}
+<!--![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *bcat*. Phylogenetic analysis of the amino acid sequences of known metazoan *bcat* genes.](figures/FigS11.jpg){#fig:bcat-tree tag=S11 width=100%}-->
 
-![Expression of intracellular Wnt signaling components throughout *Terebratalia
+![Expression dynamics of cell polarity components throughout *Terebratalia
 transversa* development. Heatmap shows the log normalized counts from
-stage-specific RNA-seq data.](figures/FigS12.jpg){#fig:s-profiling tag=S12
+stage-specific RNA-seq data.](figures/FigS11.jpg){#fig:s-profiling tag=S11
 width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of Wnt intracellular
-components in *Terebratalia
-transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=100%}
+<!--![Whole-mount colorimetric *in situ* hybridization of Wnt intracellular components in *Terebratalia transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=100%}-->
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *diego* (*diversin* or *ankrd6*). Phylogenetic analysis of the amino acid sequences of
-known metazoan *diego* genes.](figures/FigS14.jpg){#fig:dgo-tree tag=S14
+known metazoan *diego* genes.](figures/FigS12.jpg){#fig:dgo-tree tag=S12
 width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt
-signaling pathway in *Terebratalia
-transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=100%}
+<!--![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt signaling pathway in *Terebratalia transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=100%}-->
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *prickle*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*prickle* genes.](figures/FigS16.jpg){#fig:pk-tree tag=S16 width=100%}
+*prickle* genes.](figures/FigS13.jpg){#fig:pk-tree tag=S13 width=100%}
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *flamingo*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*flamingo* genes.](figures/FigS17.jpg){#fig:fmi-tree tag=S17 width=100%}
+*flamingo* genes.](figures/FigS14.jpg){#fig:fmi-tree tag=S14 width=100%}
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *strabismus*. Phylogenetic analysis of the amino acid sequences of known
-metazoan *strabismus* genes.](figures/FigS18.jpg){#fig:stbm-tree tag=S18
+metazoan *strabismus* genes.](figures/FigS15.jpg){#fig:stbm-tree tag=S15
 width=100%}
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *jnk*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*jnk* genes.](figures/FigS19.jpg){#fig:jnk-tree tag=S19 width=100%}
+*jnk* genes.](figures/FigS16.jpg){#fig:jnk-tree tag=S16 width=100%}
 
