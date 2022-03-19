@@ -273,15 +273,24 @@ ectoderm in late gastrula and early larva stages (@fig:ligands2 and
 transcripts are detected in a pair of mesodermal bands next to the mouth and
 anterior endoderm (@fig:ligands2 and @fig:s-ligands).
 
-<!--TODO: Make summary paragraph citing Wnt summary figure-->
+<!--Wnt summary-->
 
-<!--*T. transversa* Wnt ligands are expressed in diverse ectodermal domains in all body regions except the apical portion of the apical lobe. The anteriormost Wnt transcripts are bilateral anterior territories of *wnt5* and *wnt8* that we detect in the early and mid gastrula stages. At the same stage we also observe lateral patches of *wnt16* next to the blastopore. Many Wnt genes are expressed at the posterior portion of the blastoporal lip, such as *wnt1*, *wnt6* and *wnt11*, but Wnt ligands are notably absent from the anterior portion of the blastoporal lip. In addition, Wnt ligands are also expressed in the mantle lobe (e.g., *wnt5*), the middle section of the larval body, and in more localized endodermal and mesodermal tissues (e.g. *wnt6* and *wnt9*).-->
-
-<!--In summary, the expression territories of Wnt ligands in *T. transversa* partially overlap and can be divided into four groups of genes. Anterior domains in the apical lobe (*wnt2*, *wnt8*, *wnt5*, *wntA*), mid body domains in the mantle lobe (mainly *wnt5* and *wnt16*), subterminal domains in the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and terminal domains in the pedicle lobe (*wnt5*, *wnt6*, *wnt11*).-->
-
-<!--The early expression domains at the anterior and posterior regions initially overlap. However, as embryonic development progresses, these territories differentiate into distinct subregions of the larval body. For instance, the overlapping domains at the posterior portion of the blastopore will segregate and occupy different subregions of the pedicle lobe in the late larva stage. -->
-
-<!--In addition, *wnt1* and *wnt7* have domains of expression at the boundaries between the apical and mantle lobes, and between the subterminal and terminal portions of the pedicle lobe. These Wnt domains differentially overlap with the receptor territories forming a complex landscape of ligand-receptor combinations.-->
+Overall, Wnt ligands are expressed in diverse ectodermal domains and different
+body regions throughout the embryonic development of *T. transversa*
+(@fig:ligands1 and @fig:ligands2). The domains initially overlap in the early
+gastrula (e.g., posterior blastopore lip), but as development progresses they
+segregate into distinct partially overlapping territories. We can divide these
+domains in four subregions based on their position along the anteroposterior
+axis, the posterior portion of the apical lobe (*wnt2*, *wnt8*, *wnt5*,
+*wntA*), the mantle lobe (mainly *wnt5* and *wnt16*), the subterminal portion
+of the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and the terminal
+portion of the pedicle lobe (*wnt5*, *wnt6*, *wnt11*) (@fig:summary). In
+addition, *wnt7* is expressed at the apical--mantle and mantle--pedicle
+boundaries and no Wnt ligand is expressed in anterior portion of the apical
+lobe with the exception of *wnt1t*. Each subregion expressing a group of Wnt
+ligands, also expresses a different combination of Frizzled receptors (see
+below), creating a complex ligand--receptor landscape for Wnt signaling during
+brachiopod axial patterning.
 
 ## Frizzled receptors
 
@@ -352,7 +361,7 @@ pedicle lobe is cleared from *fz9/10* transcripts (@fig:receptors and
 @fig:s-receptors). *fz9/10* is also expressed in the mesoderm throughout
 development.
 
-<!--TODO: Make summary paragraph citing Wnt summary figure-->
+<!--Frizzled summary-->
 
 In summary, Frizzled genes are expressed in broad ectodermal domains, each
 occupying a distinct position along the anteroposterior axis of *T. transversa*
@@ -366,7 +375,9 @@ portion (*fz1/2/7* and *fz4*), and the posterior-most section at the
 apical--mantle boundary (*fz1/2/7* and *fz9/10*). The mantle lobe contains a
 single region with predominant *fz1/2/7* expression, and the pedicle lobe
 contains two regions, the anterior portion expressing solely *fz9/10* and the
-Frizzled-free posterior portion (@fig:summary).
+Frizzled-free posterior portion (@fig:summary). The expression of Frizzleds
+creates a partitioned landscape of receptors for Wnt signaling during *T.
+transversa* axial patterning.
 
 ## Wnt antagonists
 
