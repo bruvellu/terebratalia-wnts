@@ -273,6 +273,8 @@ ectoderm in late gastrula and early larva stages (@fig:ligands2 and
 transcripts are detected in a pair of mesodermal bands next to the mouth and
 anterior endoderm (@fig:ligands2 and @fig:s-ligands).
 
+<!--TODO: Make summary paragraph citing Wnt summary figure-->
+
 <!--TODO: Previous results. Something to use?-->
 
 <!--*T. transversa* Wnt ligands are expressed in diverse ectodermal domains in all body regions except the apical portion of the apical lobe. The anteriormost Wnt transcripts are bilateral anterior territories of *wnt5* and *wnt8* that we detect in the early and mid gastrula stages. At the same stage we also observe lateral patches of *wnt16* next to the blastopore. Many Wnt genes are expressed at the posterior portion of the blastoporal lip, such as *wnt1*, *wnt6* and *wnt11*, but Wnt ligands are notably absent from the anterior portion of the blastoporal lip. In addition, Wnt ligands are also expressed in the mantle lobe (e.g., *wnt5*), the middle section of the larval body, and in more localized endodermal and mesodermal tissues (e.g. *wnt6* and *wnt9*).-->
@@ -287,60 +289,86 @@ anterior endoderm (@fig:ligands2 and @fig:s-ligands).
 
 <!--Frizzled orthology-->
 
-Frizzled receptors are transmembrane proteins with an extracellular
-cystein-rich domain and seven hydrophobic transmembrane domains
-[@Huang2004-di]. Metazoans show a variety of Frizzled proteins which can be
-divided into four subfamilies: *fz1/2/7*, *fz3/6*, *fz5/8*, *fz9/10*, and *fz4*
-[@MacDonald2012-ri]. In *T. transversa*, we identified four Frizzled proteins,
-a single ortholog for each subfamily with the exception of *fz3/6*
+Frizzleds are seven-pass transmembrane proteins with an extracellular
+cystein-rich domain that act as receptors in Wnt signaling pathways
+[@Huang2004-di]. Metazoans have a variety of Frizzled proteins generally
+divided in four subfamilies: *fz1/2/7*, *fz3/6*, *fz5/8*, *fz9/10*, and *fz4*
+[@MacDonald2012-ri]. Our survey in *T. transversa* identified a single ortholog
+for each Frizzled subfamily except for *fz3/6* which seems to be absent
 (@fig:fzd-tree).
 
 <!--Frizzled profiling-->
 
-Transcripts of *fz1/2/7*, *fz4* and *fz5/8* are maternally deposited and highly
-expressed until the late blastula stage while *fz9/10* expression increases at
-the onset of gastrulation (@fig:profiling). The levels of *fz1/2/7* and *fz4*
-remain high while *fz9/10* and *fz5/8* expression decrease in the juvenile
-stages (@fig:profiling).
+The expression of Frizzled receptors is less dynamic compared to the Wnt
+ligands, but each gene shows a unique profile throughout development.
+Transcripts of *fz1/2/7*, *fz4*, and *fz5/8* are present in the unfertilized
+oocyte, with *fz1/2/7* and *fz5/8* being highly-expressed, while the *fz9/10*
+is only upregulated at the onset of gastrulation (@fig:profiling). *fz1/2/7*
+expression remains high from oocyte to juvenile. *fz5/8* and *fz4* exhibit
+complementary expression profiles with the former peaking early before
+gastrulation, and the latter peaking later in the larval stages
+(@fig:profiling). Finally, the expression of *fz9/10* remains constant after
+gastrulation.
 
 <!--Frizzled expression-->
 
-*fz1/2/7* is expressed in the ectoderm and mesoderm in the early gastrula
-(@fig:receptors). During gastrulation the transcripts are slightly cleared from
-the pedicle lobe and *fz1/2/7* remains expressed in anterior ecto and
-mesodermal tissues. In the late larva stage, we also detect transcripts at the
+*fz1/2/7* transcripts are almost ubiquitous in the gastrula tissues
+(@fig:receptors). Our probe shows an anteroposterior gradient with stronger
+signal on the apical region, in the anterior mesoderm, and in a pair of lateral
+ectodermal domains around the middle of the body (@fig:receptors and
+@fig:s-receptors). Posterior transcripts are cleared from the pedicle lobe late
+in gastrulation (@fig:receptors). In the late larva, the expression of
+*fz1/2/7* becomes near ubiquitous with the activation of the gene on the
 terminal portion of the pedicle lobe (@fig:receptors).
 
-*fz4* is expressed in a subapical ectodermal ring encircling the animal pole in
-the early gastrula stage and in the anterior portion of the mesoderm
-(@fig:receptors and @fig:supplementary). The *fz4* ring demarcates the base of
-the apical lobe and, together with the anterior mesoderm domain, is expressed
-throughout development. In the larval stages we detect novel ectodermal domains
-of *fz4* at the boundary between the mantle and pedicle lobe and at the
-posterior tip of the pedicle lobe (@fig:receptors).
+*fz4* is expressed in a subapical ectodermal ring encircling the animal pole of
+the early gastrula (@fig:receptors and @fig:s-receptors). This domain remains
+strongly expressed until the late larva stage. *fz4* is also expressed in the
+anterior portion of the mesoderm in all developmental stages (@fig:receptors
+and @fig:s-receptors). Beginning in the late gastrula stage, we detect *fz4* in
+the dorsal ectoderm between the mantle and pedicle lobe. This domain becomes
+stronger in the late larva as it expands around the pedicle lobe, beneath the
+mantle lobe, and is upregulated in the mantle mesoderm (@fig:receptors and
+@fig:s-receptors). An additional *fz4* domain appears in the late larva at the
+posterior tip of the pedicle lobe (@fig:receptors and @fig:s-receptors). The
+incremental appearance of *fz4* domains along development correlates well with
+the increase of *fz4* expression in the RNA-seq data (@fig:profiling)
 
-*fz5/8* transcripts form an ectodermal apical domain in the early gastrula
-stage (@fig:receptors and @fig:supplementary). This domain is complementary to
-the *fz4* domain in the apical lobe. During gastrulation *fz5/8* begins to be
-expressed in the anterior portion of the mesoderm in a domain narrower than the
-*fz4* territory (@fig:receptors). In the late larva stage both anterior ecto
-and mesodermal domains continue to be expressed, and *fz5/8* transcripts are
-also detected in the mesoderm of chaetae sacs (@fig:receptors).
+*fz5/8* is expressed on the apical cap from the early gastrula to the late
+larva, when dorsal transcripts begin to be cleared (@fig:receptors and
+@fig:s-receptors). This domain is complementary to the *fz4* domain in the
+apical lobe and does not overlap with the apical domain of *wnt5*
+({@fig:doubles}E,F). During gastrulation, *fz5/8* is upregulated and remains
+expressed in a narrow portion of the anterior mesoderm (@fig:receptors and
+@fig:s-receptors). We also detect in the late larva stage, novel transcripts of
+*fz5/8* in the mesoderm of chaetae sacs. (@fig:receptors and @fig:s-receptors)
 
-*fz9/10* is expressed in a broad ectodermal territory around the blastopore lip
-in the early gastrula stage (@fig:receptors). Transcripts are progressively
-cleared first from the apical domain, then from the posterior portion of the
-embryo and *fz9/10* expression remains mostly in the middle portion of the body,
-which extend from the posterior portion of the apical lobe to the anterior
-portion of the pedicle lobe (@fig:receptors). *fz9/10* is broadly expressed in
-the mesoderm throughout development and is also detected in the endoderm of the
-early larva stage (@fig:receptors).
+*fz9/10* transcripts surround the blastopore and most animal ectoderm of the
+early gastrula, except for the apical cap (@fig:receptors and
+@fig:s-receptors). In subsequent stages, the anterior limit of *fz9/10*
+expression locates to the posteriormost portion of the apical lobe, abutting
+the *fz4* domain posteriorly. The posterior limit of *fz9/10* reaches until the
+pedicle lobe where it overlaps with the subterminal expression of *wnt1*. The
+mantle lobe shows weaker *fz9/10* expression, and the terminal portion of the
+pedicle lobe is cleared from *fz9/10* transcripts (@fig:receptors and
+@fig:s-receptors). *fz9/10* is also expressed in the mesoderm throughout
+development.
 
-<!--TODO: Previous results. Something to use?-->
+<!--TODO: Make summary paragraph citing Wnt summary figure-->
 
-<!--Frizzled receptors are expressed in complex spatial patterns that include broad non-overlapping ectodermal domains. However, they are also detected in specific mesodermal and endodermal tissues in the developing *T. transversa* embryos. Except for *fz1/2/7*, which is expressed almost ubiquitously, *fz4* and *fz5/8* are expressed in anterior subregions of the apical lobe and *fz9/10* is predominantly more posterior in the mantle and pedicle lobes (@fig:receptors).-->
-
-<!--In summary, Frizzled receptors are expressed along the anteroposterior axis of the gastrulating embryo except for the posterior terminal portion of the pedicle lobe. These domains can be divided into five unique territories formed by a distinct combination of each receptor. At the anterior most portion of the apical lobe (*fz1/2/7* and *fz5/8*), at the medial portion of the apical lobe (*fz1/2/7* and *fz4*), at the posteriormost portion of the apical lobe and anterior most portion of the mantle lobe (*fz1/2/7* and *fz9/10*), the middle and posterior portion of the mantle lobe (*fz1/2/7*), and at the anterior portion of the pedicle lobe (*fz9/10*). The terminal region is free of Frizzled expression during gastrulation and only *fz4* and *fz1/2/7* are upregulated in the late larva stage.-->
+In summary, Frizzled genes are expressed in broad ectodermal domains, each
+occupying a distinct position along the anteroposterior axis of *T. transversa*
+embryos (@fig:summary). *fz5/8*, *fz4*, and *fz9/10* territories are ordered
+from anterior to posterior with no overlap, while the expression of *fz1/2/7*
+is nearly ubiquitous. Only the tip of the pedicle lobe is free of Frizzled
+expression. We can divide the late gastrula body in five Frizzled receptor
+territories with unique transcriptional signatures. The apical lobe contains
+three regions, the anterior-most tip (*fz1/2/7* and *fz5/8*), the medial
+portion (*fz1/2/7* and *fz4*), and the posterior-most section at the
+apical--mantle boundary (*fz1/2/7* and *fz9/10*). The mantle lobe contains a
+single region with predominant *fz1/2/7* expression, and the pedicle lobe
+contains two regions, the anterior portion expressing solely *fz9/10* and the
+Frizzled-free posterior portion (@fig:summary).
 
 ## Wnt antagonists
 
@@ -638,6 +666,7 @@ can be involved in setting up the identities or differentially patterning the
 tissue fates of the different body regions of the brachiopod *T. transversa*.
 
 <!--TODO: Discuss mesodermal expression?-->
+<!--TODO: Comment on anterior mesoderm Frizzled expression-->
 <!--TODO: Discuss axin, dishevelled, bcat?-->
 <!--TODO: How does Wnt signaling intersects with Hox expression?-->
 
