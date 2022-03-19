@@ -275,8 +275,6 @@ anterior endoderm (@fig:ligands2 and @fig:s-ligands).
 
 <!--TODO: Make summary paragraph citing Wnt summary figure-->
 
-<!--TODO: Previous results. Something to use?-->
-
 <!--*T. transversa* Wnt ligands are expressed in diverse ectodermal domains in all body regions except the apical portion of the apical lobe. The anteriormost Wnt transcripts are bilateral anterior territories of *wnt5* and *wnt8* that we detect in the early and mid gastrula stages. At the same stage we also observe lateral patches of *wnt16* next to the blastopore. Many Wnt genes are expressed at the posterior portion of the blastoporal lip, such as *wnt1*, *wnt6* and *wnt11*, but Wnt ligands are notably absent from the anterior portion of the blastoporal lip. In addition, Wnt ligands are also expressed in the mantle lobe (e.g., *wnt5*), the middle section of the larval body, and in more localized endodermal and mesodermal tissues (e.g. *wnt6* and *wnt9*).-->
 
 <!--In summary, the expression territories of Wnt ligands in *T. transversa* partially overlap and can be divided into four groups of genes. Anterior domains in the apical lobe (*wnt2*, *wnt8*, *wnt5*, *wntA*), mid body domains in the mantle lobe (mainly *wnt5* and *wnt16*), subterminal domains in the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and terminal domains in the pedicle lobe (*wnt5*, *wnt6*, *wnt11*).-->
@@ -984,24 +982,24 @@ ventral views, and for early larva in dorsal view (D). (E--F) Expression of
 in ventral view (J), optical section through mid-body (K) and dorsal view
 (L).](figures/Fig5.jpg){#fig:doubles width=100%}
 
+![Summary of Wnt signaling landscape in *Terebratalia transversa*. The
+schematic drawings show the ectodermal expression domains on the ventral
+region of a late gastrula stage.](figures/Fig6.jpg){#fig:summary width=100%}
+
 ![Whole-mount *in situ* hybridization of Frizzled receptors in
 *Terebratalia transversa*. Black arrowheads indicate the apical--mantle
 boundary. White arrowheads demarcate the mantle--pedicle
-boundary.](figures/Fig6.jpg){#fig:receptors width=100%}
+boundary.](figures/Fig7.jpg){#fig:receptors width=100%}
 
 ![Whole-mount *in situ* hybridization of Wnt pathway antagonists in
 *Terebratalia transversa*. Black arrowheads indicate the apical--mantle
 boundary. White arrowheads demarcate the mantle--pedicle
-boundary.](figures/Fig7.jpg){#fig:antagonists width=100%}
+boundary.](figures/Fig8.jpg){#fig:antagonists width=100%}
 
 ![Whole-mount *in situ* hybridization of intracellular components of the Wnt
 pathway in *Terebratalia transversa*. Black arrowheads indicate the
 apical--mantle boundary. White arrowheads demarcate the mantle--pedicle
-boundary.](figures/Fig8.jpg){#fig:intracellular width=100%}
-
-![Summary of Wnt signaling landscape in *Terebratalia transversa*. The
-schematic drawings show the ectodermal expression domains on the ventral
-region of a late gastrula stage.](figures/Fig9.jpg){#fig:summary width=100%}
+boundary.](figures/Fig9.jpg){#fig:intracellular width=100%}
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.

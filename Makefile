@@ -13,11 +13,11 @@ all:
 	ln -s ${FIGDIR}/04-ligands/ligands1.png ${FIGOUT}/Fig3.png
 	ln -s ${FIGDIR}/04-ligands/ligands2.png ${FIGOUT}/Fig4.png
 	ln -s ${FIGDIR}/09-doubles/doubles.png ${FIGOUT}/Fig5.png
-	ln -s ${FIGDIR}/05-receptors/receptors.png ${FIGOUT}/Fig6.png
+	ln -s ${FIGDIR}/10-summary/summary.png ${FIGOUT}/Fig6.png
+	ln -s ${FIGDIR}/05-receptors/receptors.png ${FIGOUT}/Fig7.png
 	#ln -s ${FIGDIR}/12-components/components.png ${FIGOUT}/Fig7.png
-	ln -s ${FIGDIR}/06-antagonists/antagonists.png ${FIGOUT}/Fig7.png
-	ln -s ${FIGDIR}/07-intracellular/intracellular.png ${FIGOUT}/Fig8.png
-	ln -s ${FIGDIR}/10-summary/summary.png ${FIGOUT}/Fig9.png
+	ln -s ${FIGDIR}/06-antagonists/antagonists.png ${FIGOUT}/Fig8.png
+	ln -s ${FIGDIR}/07-intracellular/intracellular.png ${FIGOUT}/Fig9.png
 	ln -s ${FIGDIR}/11-comparative/comparative.png ${FIGOUT}/Fig10.png
 	# Supplementary
 	ln -s ${FIGDIR}/13-trees/wnt1-tree.png ${FIGOUT}/FigS1.png
