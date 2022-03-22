@@ -419,6 +419,8 @@ Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in the mesoderm
 tissues from gastrulation to the late larva stage (@fig:fzdantag and
 @fig:s-antagonists).
 
+<!--TODO: Something else?-->
+
 Overall, during brachiopod axial patterning, the Wnt antagonists *sfrp1/2/5*
 and *dkk5* are confined to the anterior-most portion of the apical lobe, a
 region free of Wnt expression (@fig:summary).
@@ -427,25 +429,29 @@ region free of Wnt expression (@fig:summary).
 
 <!--TODO: Integrate the pcp pathway into the manuscript.-->
 
-We identified *T. transversa* orthologs for components of the cell
-polarity pathway (PCP Pathway, non-canonical Wnt Pathway) and analyzed their
-expression during the period of axial elongation (early to late gastrula).
+The Wnt planar cell polarity pathway (PCP pathway) is important to polarize
+cells in an epithelial tissue and to orient morphogenetic processes [@PCPrefs].
+We identified *T. transversa* orthologs for components of the cell polarity
+pathway and analyzed their expression. We analyzed the core components
+dishevelled (*dsh*), *diego* (*dgo*, also known as *ankrd6* and *diversin*),
+*prickle* (*pk*), *flamingo* (*fmi*), *strabismus* (*stbm*, also known as *Van
+gogh*), and also the related *c-jun n-terminal kinase* (*jnk*).
 
 <!--TODO: Revise in the light of cell polarity-->
 
-The gene dishevelled (*dsh*) is a central regulator of Wnt signaling pathways
-[@Wallingford2005-xp]. The protein has three conserved domains (DIX, PDZ, and
-DEP domains), and two conserved regions before and after the PDZ domain (a
-cluster of basic residues and a proline-rich region, respectively)
-[@Gao2010-wj]. The DIX domain is shared with *axin*, a negative regulator of
-Wnt signaling that interacts directly with *dsh* [@Li1999-sy]. The interaction
-of *dsh* and *axin* controls the degradation of *β-catenin*, the downstream
-transcriptional activator of the canonical pathway [@Miller1996-rr]. In *T.
-transversa*, we identified single copies of *dsh*, *axin*, and *β-catenin*
-orthologs (@fig:dsh-tree). The three genes are highly-expressed in every
-developmental stage. *dsh* and *axin* levels decrease after the mid blastula
-stage, while the abundance of *β-catenin* transcripts remains stable throughout
-development (@fig:s-profiling).
+*dsh* is a central regulator of Wnt signaling pathways [@Wallingford2005-xp].
+The protein has three conserved domains (DIX, PDZ, and DEP domains), and two
+conserved regions before and after the PDZ domain (a cluster of basic residues
+and a proline-rich region, respectively) [@Gao2010-wj]. The DIX domain is
+shared with *axin*, a negative regulator of Wnt signaling that interacts
+directly with *dsh* [@Li1999-sy]. The interaction of *dsh* and *axin* controls
+the degradation of *β-catenin*, the downstream transcriptional activator of the
+canonical pathway [@Miller1996-rr]. In *T. transversa*, we identified a single
+copy of *dsh*, *axin*, and *β-catenin* orthologs (@fig:dsh-tree). The three
+genes are highly-expressed in every developmental stage. *dsh* and *axin*
+levels decrease after the mid blastula stage, while the abundance of
+*β-catenin* transcripts remains stable throughout development
+(@fig:s-profiling).
 
 *dsh* transcripts localize to a narrow apical domain in the ectoderm, and to
 adjacent territory in the anterior mesoderm (@fig:polarity). The apical domain
