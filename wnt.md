@@ -427,66 +427,77 @@ region free of Wnt expression (@fig:summary).
 
 ## Cell polarity components
 
-<!--TODO: Integrate the pcp pathway into the manuscript.-->
+Wnts can also regulate the planar polarity of epithelial cells. Proper planar
+cell polarity (PCP) during development is crucial to guide morphogenetic
+processes, such as convergent extension, and orient the formation of structures
+in organogenesis [@Simons2008-cj; @Gao2012-fh]. We identified the all the core
+components of the PCP pathway in *T. transversa*. We analyzed the expression of
+*dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as
+*ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as
+*stan* or *celsr*), *strabismus* (*stbm*, also known as *vang* or *vangl*), as
+well as the downstream transducer *c-jun n-terminal kinase* (*jnk*).
 
-The Wnt planar cell polarity pathway (PCP pathway) is important to polarize
-cells in an epithelial tissue and to orient morphogenetic processes [@PCPrefs].
-We identified *T. transversa* orthologs for components of the cell polarity
-pathway and analyzed their expression. We analyzed the core components
-dishevelled (*dsh*), *diego* (*dgo*, also known as *ankrd6* and *diversin*),
-*prickle* (*pk*), *flamingo* (*fmi*), *strabismus* (*stbm*, also known as *Van
-gogh*), and also the related *c-jun n-terminal kinase* (*jnk*).
+*dsh* is a central regulator of the cell fate and cell polarity Wnt pathways
+[@Wallingford2005-xp]. The protein has three conserved domains (DIX, PDZ, and
+DEP domains), and two conserved regions before and after the PDZ domain
+[@Gao2010-wj]. In *T. transversa*, we identified a single copy of *dsh*
+(@fig:dsh-tree) which is highly-expressed in every developmental stage
+(@fig:s-profiling). *dsh* transcripts localize to a narrow apical domain in the
+ectoderm, and to the adjacent anterior mesoderm (@fig:polarity).
 
-<!--TODO: Revise in the light of cell polarity-->
+<!--The apical domain is cleared in the late larva and *dsh* is upregulated in the dorsal mesoderm of the mantle lobe.-->
 
-*dsh* is a central regulator of Wnt signaling pathways [@Wallingford2005-xp].
-The protein has three conserved domains (DIX, PDZ, and DEP domains), and two
-conserved regions before and after the PDZ domain (a cluster of basic residues
-and a proline-rich region, respectively) [@Gao2010-wj]. The DIX domain is
-shared with *axin*, a negative regulator of Wnt signaling that interacts
-directly with *dsh* [@Li1999-sy]. The interaction of *dsh* and *axin* controls
-the degradation of *β-catenin*, the downstream transcriptional activator of the
-canonical pathway [@Miller1996-rr]. In *T. transversa*, we identified a single
-copy of *dsh*, *axin*, and *β-catenin* orthologs (@fig:dsh-tree). The three
-genes are highly-expressed in every developmental stage. *dsh* and *axin*
-levels decrease after the mid blastula stage, while the abundance of
-*β-catenin* transcripts remains stable throughout development
-(@fig:s-profiling).
+<!--The interaction of *dsh* and *axin* controls the degradation of *β-catenin*, the downstream transcriptional activator of the canonical pathway [@Miller1996-rr]. -->
 
-*dsh* transcripts localize to a narrow apical domain in the ectoderm, and to
-adjacent territory in the anterior mesoderm (@fig:polarity). The apical domain
-is cleared in the late larva and *dsh* is upregulated in the dorsal mesoderm of
-the mantle lobe.
+<!--The DIX domain is shared with *axin*, a negative regulator of Wnt signaling that interacts directly with *dsh* [@Li1999-sy]. -->
 
-*diego* is a cytoplasmic protein that suppresses the cell fate pathway and
-stimulates the cell polarity pathway [Schwarz-Romond2002-td]. It contains six
-ankyrin repeat domains [@Feiguin2001-zd] while its vertebrate counterpart
-*diversin* now known as *ankrd6* has eight [Schwarz-Romond2002-td]. We
-identified a *dgo* ortholog in T. transversa containing six ankyrin repeats
-(@fig:dgo-tree). *dgo* is only expressed in the late gastrula stage in
-bilateral laterodorsal domains at the apical lobe and at the pedicle lobe
+<!--The protein has three conserved domains (DIX, PDZ, and DEP domains), and two conserved regions before and after the PDZ domain (a cluster of basic residues and a proline-rich region, respectively) [@Gao2010-wj]. -->
+
+*dgo* is a cytoplasmic protein containing 6--8 ankyrin repeat domains that
+suppresses the cell fate Wnt pathway and stimulates the cell polarity pathway
+[@Feiguin2001-zd; @Schwarz-Romond2002-td]. The *T. transversa* *dgo* ortholog
+has six ankyrin repeats (@fig:dgo-tree). Developmental expression levels are
+low compared to the other genes we have analyzed (@fig:s-profiling). Yet, by
+*in situ* hybridization we were able to detect two pairs of bilateral
+ectodermal domains on the dorsal side of the late gastrula, one on the apical
+and another in the pedicle lobe (@fig:polarity).
+
+*pk* competes with *dgo* for *dsh* binding [@Jenny2005-vf]. The protein
+contains a PET domain and three LIM domains [@Gubb1999-ba]. In *T. transversa*
+we identified a single *pk* ortholog (@fig:pk-tree) that is highly-expressed
+throughout development (@fig:s-profiling). *pk* transcripts are initially
+expressed in a small patch posterior to the blastopore in the early gastrula
+(@fig:polarity). It is then upregulated on the apical lobe ectoderm, in
+bilateral ventral domains, and on the ventral mesoderm of the mantle lobe
 (@fig:polarity).
 
-*prickle* competes with *diego* for *dishevelled* binding [@Jenny2005-vf]. The
-protein contains a PET domain and three LIM domains [@Gubb1999-ba]. In *T.
-transversa* we identified a single *pk* ortholog (@fig:pk-tree). *pk* is
-expressed as a posterior patch in the early gastrula stage (@fig:polarity).
-In the late gastrula it is expressed in ventral bilateral patches in the apical
-lobe complementary to the areas absent of *jnk* transcripts. *prickle* is also
-upregulated in the mesodermal pouches (@fig:polarity).
-
-*flamingo* is a seven-pass transmembrane cadherin that regulates cell polarity
+*fmi* is a seven-pass transmembrane cadherin that regulates cell polarity
 [@Usui1999-fv; @Chae1999-ci]. In *T. transversa* we identified one ortholog of
-fmi (@fig:fmi-tree). Transcripts are present throughout development in most
-embryonic tissues. Bilateral patches in the apical lobe become stronger in the
-late gastrula (@fig:polarity).
+*fmi* (@fig:fmi-tree). It is expressed in every stage but the levels peak
+around the late gastrula (@fig:s-profiling). *fmi* transcripts are present in
+most ectodermal tissues with stronger signal on bilateral patches in the apical
+lobe of late gastrula (@fig:polarity).
 
-*strabismus* is expressed ubiquitously throughout development (@fig:polarity).
+*stbm* is a four-pass transmembrane protein that forms a signaling complex with
+*fmi* [@Katoh2013-mz; @Butler2017-gh]. In *T. transversa*, *stbm* expression is
+high early in development but decreases in the larval and juvenile stages
+(@fig:s-profiling). Spatially, it is ubiquitously expressed (@fig:polarity).
 
-*jnk* is faintly expressed in the early gastrula. In the mid gastrula it is
-present in the archenteron posterior portion. In the late gastrula jnk
-expression is upregulated almost ubiquitously across the embryo, with the
-exception of ventral lateral regions in the apical lobe (@fig:polarity).
+<!--TODO: Fetch reference for jnk-->
+
+*jnk* is a kinase and downstream transducer of the PCP pathway [@Refsjnk]. It
+is expressed in high-levels throughout development (@fig:s-profiling). The
+expression is faint in the early gastrula but becomes ubiquitous embryo in the
+late gastrula, with only the lateral portions of the apical lobe cleared of
+*jnk* expression (@fig:polarity).
+
+<!--TODO: Write summary paragraph-->
+
+Overall, dsh and pk are maternally deposited at high levels. Their expression
+is high throughout except for dgo, and mostly constant except for stbm fading
+in juvenile stages.
+
+<!--complementary to the areas absent of *jnk* transcripts.-->
 
 <!--TODO: Confirm removal of axin and bcat-->
 
