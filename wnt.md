@@ -430,7 +430,7 @@ region free of Wnt expression (@fig:summary).
 Wnts can also regulate the planar polarity of epithelial cells. Proper planar
 cell polarity (PCP) during development is crucial to guide morphogenetic
 processes, such as convergent extension, and orient the formation of structures
-in organogenesis [@Simons2008-cj; @Gao2012-fh]. We identified the all the core
+in organogenesis [@Simons2008-cj; @Gao2012-fh]. We identified the core
 components of the PCP pathway in *T. transversa*. We analyzed the expression of
 *dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as
 *ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as
@@ -455,12 +455,12 @@ ectoderm, and to the adjacent anterior mesoderm (@fig:polarity).
 
 *dgo* is a cytoplasmic protein containing 6--8 ankyrin repeat domains that
 suppresses the cell fate Wnt pathway and stimulates the cell polarity pathway
-[@Feiguin2001-zd; @Schwarz-Romond2002-td]. The *T. transversa* *dgo* ortholog
-has six ankyrin repeats (@fig:dgo-tree). Developmental expression levels are
-low compared to the other genes we have analyzed (@fig:s-profiling). Yet, by
-*in situ* hybridization we were able to detect two pairs of bilateral
-ectodermal domains on the dorsal side of the late gastrula, one on the apical
-and another in the pedicle lobe (@fig:polarity).
+[@Feiguin2001-zd; @Schwarz-Romond2002-td]. We found a single *dgo* ortholog in
+*T. transversa* with six ankyrin repeats (@fig:dgo-tree). Developmental
+expression levels are low compared to the other genes we have analyzed
+(@fig:s-profiling). Yet, by *in situ* hybridization we were able to detect two
+pairs of bilateral ectodermal domains on the dorsal side of the late gastrula,
+one on the apical and another in the pedicle lobe (@fig:polarity).
 
 *pk* competes with *dgo* for *dsh* binding [@Jenny2005-vf]. The protein
 contains a PET domain and three LIM domains [@Gubb1999-ba]. In *T. transversa*
@@ -483,21 +483,19 @@ lobe of late gastrula (@fig:polarity).
 high early in development but decreases in the larval and juvenile stages
 (@fig:s-profiling). Spatially, it is ubiquitously expressed (@fig:polarity).
 
-<!--TODO: Fetch reference for jnk-->
+*jnk* is a kinase that regulates epithelial metamorphosis and is a downstream
+transducer of the PCP pathway [@Noselli1999-sa]. It is expressed in high-levels
+throughout development (@fig:s-profiling). The expression is faint in the early
+gastrula but becomes ubiquitous embryo in the late gastrula, with only the
+lateral portions of the apical lobe cleared of *jnk* expression
+(@fig:polarity).
 
-*jnk* is a kinase and downstream transducer of the PCP pathway [@Refsjnk]. It
-is expressed in high-levels throughout development (@fig:s-profiling). The
-expression is faint in the early gastrula but becomes ubiquitous embryo in the
-late gastrula, with only the lateral portions of the apical lobe cleared of
-*jnk* expression (@fig:polarity).
-
-<!--TODO: Write summary paragraph-->
-
-Overall, dsh and pk are maternally deposited at high levels. Their expression
-is high throughout except for dgo, and mostly constant except for stbm fading
-in juvenile stages.
-
-<!--complementary to the areas absent of *jnk* transcripts.-->
+Overall, transcripts for most cell polarity components are maternally-deposited
+in the oocyte at high levels, except for *dgo*. While *fmi* and *stbm*
+expression is ubiquitous, *dsh*, *dgo*, and *pk* domains are expressed in the
+apical, dorsal, and ventral regions, respectively, and do not overlap. The
+location of *dgo* and *pk* apical lobe domains coincides with areas lacking
+*jnk* transcripts in the apical lobe.
 
 <!--TODO: Confirm removal of axin and bcat-->
 
