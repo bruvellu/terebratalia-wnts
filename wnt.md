@@ -505,25 +505,27 @@ location of *dgo* and *pk* apical lobe domains coincides with areas lacking
 
 # Discussion
 
-## *T. transversa* shows a conserved ancestral Wnt complement 
+## *T. transversa* has conserved the ancestral Wnt complement 
 
 Metazoans have an ancient repertoire of 13 Wnt subfamilies [@Kusserow2005-xd;
 @Croce2009-vv; @Cho2010-eb]. Our data suggests the brachiopod *T. transversa*
-has a conserved set of Wnt genes. Only one Wnt is missing---*wnt3*, which has
-been lost at the base of the protostome lineage [@Cho2010-eb;
-@Janssen2010-dc]---and only *wnt1t* has duplicated. Duplications in Wnt genes
-are common. The brachiopod *Lingula anatina* duplicated *wnt1* and *wnt10*
-[@Luo2015-lm]. Our phylogenetic analysis suggests the duplication of *wnt1* in
-*T. transversa* and *L. anatina* occurred independently. The sequence of *T.
-transversa* *wnt1t* is highly divergent compared to other protostome orthologs,
-suggesting a rapid evolution and supporting the hypothesis of a
-lineage-specific duplication. The unusual expression of *wnt1t* compared to the
-other ligands suggests that it might have evolved novel functions, or different
-regulatory mechanisms.
+retained most of these ancestral gene set with a single representative of each
+Wnt subfamily. The exception is *wnt3* which has been lost at the base of the
+protostome lineage [@Cho2010-eb; @Janssen2010-dc], and *wnt1* which is
+duplicated in *T. transversa*. Another brachiopod species, the linguliform
+*Lingula anatina*, also has two copies of *wnt1* [@Luo2015-lm], but our
+phylogenetic analysis indicate these *wnt1* duplication events in *T.
+transversa* and *L. anatina* occurred independently (@fig:wnt-tree and
+@fig:wnt1-tree). The highly-divergent sequence of *wnt1t* compared to other
+protostome orthologs suggests a rapid molecular evolution, supporting the
+hypothesis of lineage-specific duplication. Its divergent expression pattern
+compared to *wnt1*, and unusual anterior localization compared to the other Wnt
+ligands suggests it may have also evolved divergent developmental roles in *T.
+transversa*.
 
 <!--Frizzled is missing fz3/6 which is vertebrate-specific. Single-copy of sfrp and wif inhibitors.-->
 
-## There are two ancestral DKK3 subfamilies
+## *T. transversa* *dkk* belongs to an undescribed subfamily
 
 T.transversa dkk3 does not group with the cnidarian dkk3 or human dkk3, but in
 a distinct group of mainly protostomes. While hemichordates have the two
@@ -539,37 +541,41 @@ seemingly unrelated to Wnt signaling
 
 ## Maternal load conserved Frizzled receptor and diverse load of Wnt ligands
 
-The early developmental role of Wnt signaling in specifying the embryonic
-primary axis has been shown to occur in different bilaterian lineages [@refs].
-However, in most cases, the identity of the ligand/receptor has not been
-demonstrated [@refs]. Nevertheless, Wnt signaling activity in early development
-depends upon the maternal load of pathway components deposited in the egg.
+Early Wnt signaling specifies the primary embryonic axis in different
+bilaterians [@WntAxialSpecification]. In most cases, however, the identity of
+the ligands and receptors involved remains undetermined [@IdentityOfWntsAxis].
+We expect that early Wnt signaling depends on the maternal load of pathway
+components deposited in the egg. We found that unfertilized *T. transversa*
+oocytes carry a great abundance of high levels of *wnt4* and *wntA* mRNAs,
+suggesting these may be involved in early signaling events that pattern the
+animal--vegetal axis. We compared the maternal load of Wnt ligands across
+bilaterians to find if this pattern is conserved. While most metazoans have a
+maternal load of Wnt ligands, the specific genes deposited in the eggs differs
+considerable even within brachiopods (@tbl:maternal). In contrast, most species
+investigated so far load *fz1/2/7* transcripts in their eggs (@tbl:maternal), a
+pattern highly conserved across metazoans [@Bastin2015-oz]. This indicates the
+identity of maternally-deposited Wnt ligands is evolutionary labile, even
+between related groups with similar developmental modes. It also suggests the
+early Wnt signaling roles may be deployed regardless of the specific ligand
+deposited in the egg.
 
-We found that in the oocytes of *T. transversa*, *wnt4* and *wntA* mRNAs are
-the highest expressed Wnt ligands maternally loaded, suggesting they might be
-involved in the early signaling events that pattern the animal-vegetal axis.
-However, these specific ligands are not always deposited maternally in other
-bilaterians. While most animal lineages exhibit a maternal load of Wnt ligands
-(@tbl:maternal), there is considerable variability in which ligands are
-deposited in the eggs. Even within brachiopods there are significant
-differences in the maternal load of Wnt ligands (@fig:supplementary). This
-suggests that the identity of Wnt ligands deposited in the eggs of different
-bilaterians is highly labile and even vary among closely related groups with
-similar developmental modes.
+<!--TODO: Anything else about maternal load? Check figures.-->
 
-In contrast, most species investigated so far load in their eggs the Frizzled
-receptor *fz1/2/7* (@tbl:maternal). This pattern is highly conserved among
-metazoans [@Bastin2015-oz]. The contrasting variability in the ligand identity
-and conservation of receptor identity suggests that the early role is deployed
-regardless of the specific ligand deposited in the egg. Supports the idea that
-the receptor context rather than a specific wnt ligand might crucial for the
-signaling output [@Loh2016-pz].
-
-## Wnt upregulation occurs in two steps and peaks with axial elongation
+## Wnt expression peaks during axial elongation
 
 <!--TODO: Relevance or drop it-->
 
+We identified two waves of Wnt upregulation during *T. transversa* development.
+The first in late blastula and the second in late gastrulation when all Wnt
+ligands are expressed. This coincides with the period of axial elongation. Wnts
+are known to be involved in axial patterning and elongation
+[@WntAxialPatterningElongation]. The activation of Wnt genes, and their unique
+spatial localization suggests they may also be involved in brachiopod axial
+patterning.
+
 ## Unique transcriptional subregions pattern the brachiopod larval body
+
+<!--TODO: Continue from here-->
 
 <!--Ligand--receptor context coincide with brachiopod body regions-->
 
@@ -578,6 +584,8 @@ receptors are expressed in a complex landscape of domains along the
 anteroposterior axis (@fig:summary). By analyzing the combinatorial expression
 of Wnt ligands, receptors and antagonists, we can identify six broad ectodermal
 territories, each with a unique transcriptional profile (@tbl:landscape).
+
+
 Frizzled receptors are expressed in broad domains while Wnt ligands are
 expressed in partially overlapping domains with differing anteroposterior or
 dorsoventral limits. Interestingly, these domains correspond to morphological
