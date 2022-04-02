@@ -525,19 +525,18 @@ transversa*.
 
 <!--Frizzled is missing fz3/6 which is vertebrate-specific. Single-copy of sfrp and wif inhibitors.-->
 
-## *T. transversa* *dkk* belongs to an undescribed subfamily
-
-T.transversa dkk3 does not group with the cnidarian dkk3 or human dkk3, but in
-a distinct group of mainly protostomes. While hemichordates have the two
-subfamilies of dkk3. This suggests there are two distinct families of dkk3.
-Structurally their domains differ. The ancestral dkk3 (no-wnt) gave rise to
-dkk1/dkk3protostome (yes-wnt). dkk3 is seemingly unrelated to Wnt signaling.
-But dkk3 has been shown to modulate wnt in one amphioxus species but another.
-Our phylogenetic analysis suggests that the three subfamilies of dkk were
-present in hemichordates and amphioxus. While wntdkk3 was lost in
-deuterostomes, dkk1 and nowntdkk3 was lost in protostomes. In summary, dkk
-found in protostomes is closer to dkk1-2-4 than dkk3. which is divergent and
-seemingly unrelated to Wnt signaling
+*T. transversa* dkk3 belongs to an undescribed dkk subfamily. It does not group
+with the cnidarian dkk3 or human dkk3, but with a distinct subfamily of dkks
+with mainly protostomes. While hemichordates have the two subfamilies of dkk3.
+This suggests there are two distinct families of dkk3. Structurally their
+domains differ. The ancestral dkk3 (no-wnt) gave rise to dkk1/dkk3protostome
+(yes-wnt). dkk3 is seemingly unrelated to Wnt signaling. But dkk3 has been
+shown to modulate wnt in one amphioxus species but another. Our phylogenetic
+analysis suggests that the three subfamilies of dkk were present in
+hemichordates and amphioxus. While wntdkk3 was lost in deuterostomes, dkk1 and
+nowntdkk3 was lost in protostomes. In summary, dkk found in protostomes is
+closer to dkk1-2-4 than dkk3. which is divergent and seemingly unrelated to Wnt
+signaling
 
 ## Maternal load conserved Frizzled receptor and diverse load of Wnt ligands
 
