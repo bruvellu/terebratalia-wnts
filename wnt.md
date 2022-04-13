@@ -60,7 +60,6 @@ labile. This suggests that changes in ligand--receptor context by differential
 activation of Wnt ligands may be an important mechanisms for the evolution of
 brachiopod and bilaterian axial patterning and body diversity.
 
-
 <!--suggesting the ligand--receptor context of Wnt signaling may play a role in the differential patterning of brachiopod body axis. -->
 
 <!--Wnt antagonists at the anterior end, and a receptor-free zone at the posterior end.-->
@@ -505,11 +504,11 @@ areas lacking *jnk* transcripts in the apical lobe.
 
 # Discussion
 
-## *T. transversa* has conserved the ancestral Wnt complement 
+## *T. transversa* Wnt complement remained conserved throughout evolution
 
 <!--TODO: Develop further the Wnt complement evolution-->
 
-Metazoans have an ancient repertoire of 13 Wnt subfamilies [@Kusserow2005-xd;
+Metazoans have a repertoire of 13 Wnt subfamilies [@Kusserow2005-xd;
 @Croce2009-vv; @Cho2010-eb]. While deuterostomes retained most, *wnt3* which
 has been lost at the base of the protostome lineage [@Cho2010-eb;
 @Janssen2010-dc]. Arthropods show extensive losses of Wnt genes. Our data
@@ -580,6 +579,10 @@ deployed regardless of the specific ligand deposited in the egg.
 <!--We identified two waves of Wnt upregulation during *T. transversa* development. The first in late blastula and the second in late gastrulation when all Wnt ligands are expressed. This coincides with the period of axial elongation. Wnts are known to be involved in axial patterning and elongation [@WntAxialPatterningElongation]. The activation of Wnt genes, and their unique spatial localization suggests they may also be involved in brachiopod axial patterning.-->
 
 ## Unique Wnt--Fz territories coincide with larval body regions
+
+<!--@Kusserow2005-xd Expression of Wnt ligands is staggered domains spanning the entire oral--aboral axis except for the aboral pole.-->
+
+<!--Terebratalia most Wnts are expressed in the ectoderm, different than Nematostella where only five are in the ectoderm @Kusserow2005-xd.-->
 
 Wnt signaling components are expressed along the anteroposterior axis of *T.
 transversa* embryos in a complex landscape (@fig:summary). We identified six
