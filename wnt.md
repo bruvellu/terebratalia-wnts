@@ -40,29 +40,16 @@ Thormøhlensgate 55, 5006 Bergen, Norway.
 
 # Abstract
 
-Wnt pathways are crucial to pattern and shape the bilaterian embryo. They can
-determine the primary axial polarity, set up the cell fates of different
-regions, and trigger the tissue re-modelling which drives morphogenesis. These
-Wnt signaling outcomes are regulated by complex genetic interactions, and
-depend not only on the ligand expression but also on the local receptor-context
-in the tissue. Although the expression of Wnt ligands has been investigated in
-several animal groups, the combined expression analysis of ligand and receptor
-is often lacking. Here, we analyze the embryonic expression of Wnt signaling
-components in the brachiopod *Terebratalia transversa*, a spiralian with a
-larval body subdivided into distinct regions. We find that Frizzled receptors
-are expressed in broad domains while Wnt ligands are expressed in narrower
-overlapping territories, creating a series of unique transcriptional subregions
-along the anteroposterior axis which coincide with the different body regions
-and morphological boundaries of the brachiopod larva. Comparison to other
-groups reveals that, while some of these transcriptional subregions are
-conserved, the temporal and spatial expression of Wnt ligands is evolutionary
-labile. This suggests that changes in ligand--receptor context by differential
-activation of Wnt ligands may be an important mechanisms for the evolution of
-brachiopod and bilaterian axial patterning and body diversity.
+Wnt pathways are crucial for the patterning of the bilaterian embryo.
+They can determine the primary axial polarity, specify cell fates in the different regions of the body, and trigger the re-modelling of tissues during morphogenesis.
+These Wnt signaling outcomes are regulated by complex genetic interactions, and depend not only on the ligand expression but also on the local receptor-context in the tissue.
+Although the expression of Wnt ligands has been investigated in several animal groups, the combined expression analysis of ligand and receptor is often lacking.
+Here, we analyze the embryonic expression of Wnt signaling components in the brachiopod *Terebratalia transversa*, a spiralian with a larval body subdivided into distinct regions.
+We find that Frizzled receptors are expressed in broad domains while Wnt ligands are expressed in narrower overlapping territories, creating a series of unique transcriptional subregions along the anteroposterior axis which coincide with the different body regions and morphological boundaries of the brachiopod larva.
+Comparison to other groups reveals that, while some of these transcriptional subregions are conserved, the temporal and spatial expression of Wnt ligands is evolutionary labile.
+This suggests that changes in ligand--receptor context by differential activation of Wnt ligands may be an important mechanism for the evolution of brachiopod and bilaterian axial patterning and body diversity.
 
 <!--suggesting the ligand--receptor context of Wnt signaling may play a role in the differential patterning of brachiopod body axis. -->
-
-<!--Wnt antagonists at the anterior end, and a receptor-free zone at the posterior end.-->
 
 # Background
 
@@ -70,35 +57,30 @@ brachiopod and bilaterian axial patterning and body diversity.
 
 <!--TODO: Add some examples of AP patterning-->
 
-Wnt signaling is crucial for embryonic development in multiple ways. It is
-involved in fate specification, organogenesis, and morphogenesis. In the early
-embryo it establishes the primary body axis. Later it is involved in
-anteroposterior patterning of different body regions.
+Wnt signaling is crucial for embryonic development in multiple ways.
+It is involved in fate specification, organogenesis, and morphogenesis.
+In the early embryo it establishes the primary body axis.
+Later it is involved in anteroposterior patterning of different body regions.
 
 <!--Ligand--receptor context is important for signaling outcome-->
 
-Wnt regulation is complex. It has been increasingly recognized that receptor
-context is crucial for the signaling outcome. Different ligand--receptor
-combinations can trigger different pathways and differentiation. For example,
-the same Wnt5 ligand can activate the canonical or non-canonical pathway
-depending on the Frizzled receptor expressed in the tissue. Therefore,
-understanding the receptor-context is crucial to understand Wnt function in
-development.
+Wnt regulation is complex.
+It has been increasingly recognized that receptor context is crucial for the signaling outcome. 
+Different ligand--receptor combinations can trigger different pathways and differentiation.
+For example, the same Wnt5 ligand can activate the canonical or non-canonical pathway depending on the Frizzled receptor expressed in the tissue.
+Therefore, understanding the receptor-context is crucial to understand Wnt function in development.
 
 <!--Spiralians are a major group still lacking Wnt data-->
 
 <!--TODO: Fix messy paragraph-->
 
-The Spiralia is another major bilaterian clade with great diversity and crucial
-to understand bilaterian evolution. Wnt works has been focused in deuterostomes
-and arthropods which lost many Wnts. Brachiopods are important spiralian
-evo-devo organisms. There is substantial work on gene expression Hox,
-segmentation, hedgehog, gastrulation, etc. The larval body is typically
-subdivided into lobes that involve Wnt signaling. But it is unclear if Wnt
-plays a role in axial patterning. We investigate Wnt signaling in the
-patterning the different body regions using T. transversa. We analyzed
-stage-specific RNA-seq data and spatiotemporal expression of Wnt signaling
-components.
+The Spiralia is a major bilaterian clade with great diversity and crucial to understand bilaterian evolution.
+Wnt works has been focused in deuterostomes and arthropods which lost many Wnts.
+Brachiopods are important spiralian evo-devo organisms.
+There is substantial work on gene expression Hox, segmentation, hedgehog, gastrulation, etc. The larval body is typically subdivided into lobes that involve Wnt signaling.
+But it is unclear if Wnt plays a role in axial patterning.
+We investigate Wnt signaling in the patterning the different body regions using T. transversa.
+We analyzed stage-specific RNA-seq data and spatiotemporal expression of Wnt signaling components.
 
 <!--We find that Frizzled expression occurs in broad domains that cover almost the whole brachiopod extension. Wnt ligands are expressed in subregions, stripes or patches, often partially overlapping. Each subregion has a unique ligand-receptor context. Antagonists are restricted to the anterior region and receptor is cleared from the posterior region. Ligand receptor coincides with body regions and morphological boundaries. Suggests that Wnt play a role in patterning brachiopod larval body regions. Some ligand-receptor combinations are conserved in other animals. Receptors are more conserved while ligands more labile. Indicates, that receptor context shuffling matter for bilaterian evolution.-->
 
@@ -116,105 +98,54 @@ components.
 
 # Results
 
-## Wnt ligands
+## *T. transversa* has a conserved repertoire of Wnt genes
 
-<!--Wnt complement-->
+Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].
+Wnt proteins are ligands and activators of Wnt signaling pathways during the development of most,  if not all, animals [@Cadigan1997-vx].
+Metazoans have a large Wnt repertoire with thirteen subfamilies [@Kusserow2005-xd; @Cho2010-eb].
+To characterize the Wnt complement of the brachiopod *T. transversa*, we surveyed the transcriptomic and genomic resources for Wnt genes using similarity searches.
+We find thirteen Wnt genes with representative orthologs for twelve of the thirteen subfamilies (@fig:wnt-tree).
+The exception is *wnt3*, a gene known to have been lost at base of Protostomia [@Cho2010-eb], which is also missing from our datasets.
+*T. transversa* has two *wnt1* paralogs.
+One of the paralogs is highly-divergent at the sequence level when compared to other bilaterian *wnt1* genes (@fig:wnt1-tree); we named it *wnt1t*.
+Despite the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a single representative ortholog for the remaining subfamilies, suggesting this brachiopod has retained the ancestral repertoire of metazoan Wnt genes.
 
-Wnt ligands are secreted glycoproteins which contain a conserved series of
-cysteine residues [@Nusse1992-oi]. They evolved at the root of metazoans having
-thirteen ancestral subfamilies [@Kusserow2005-xd; @Cho2010-eb]. We identified
-twelve of these Wnt subfamilies in the brachiopod *T. transversa*
-(@fig:wnt-tree). Most are represented by a single ortholog, with the exception
-of *wnt3* which is missing, and of *wnt1* which is duplicated. One of the
-*wnt1* paralogs is highly-divergent at the sequence level compared to other
-bilaterian *wnt1* genes; we named it *wnt1t* (@fig:wnt1-tree). Apart from these
-two cases, *T. transversa* has kept conserved the ancestral complement of
-bilaterian Wnt genes.
+## Wnt ligands are upregulated during axial elongation
 
-<!--Wnt profiling-->
-To characterize the developmental dynamics of Wnt expression in *T.
-transversa*, we analyzed stage-specific RNA-seq data sampled from egg to
-juveniles (ACCESSION). In the unfertilized oocyte, we detect a great abundance
-of *wnt4* and *wntA* transcripts (@fig:profiling). Other Wnt ligands, such as
-*wnt1t*, *wnt5*, *wnt6*, and *wnt16*, are also expressed, but at lower levels.
-The expression profile remains similar during cleavage (8h) but shifts
-significantly at the late blastula stage (19h). A concerted upregulation of
-*wnt1*, *wnt8*, *wnt10* and *wnt16* occurs in the embryo, with *wnt8* and
-*wnt16* undergoing the greatest increase in expression (@fig:profiling). A
-second upregulation wave occurs during gastrulation. It begins in the early
-gastrula (26h) with *wnt1* and *wnt5*, is followed by *wnt6*, *wnt7*, and
-*wnt11* in the mid gastrula (37h), when finally *wnt2*, *wnt9*, and *wnt10* are
-upregulated in the late gastrula (51h). While *wnt1*, *wnt4*, *wnt5*, *wnt8*,
-*wnt9*, *wntA* remain highly expressed throughout development, *wnt6* and
-*wnt10* expression levels decay after gastrulation. Subsequently, *wnt7* and
-*wnt16* get notably downregulated in the juveniles after metamorphosis
-(@fig:profiling).
+To characterize the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
+We detect a great abundance of *wnt4* and *wntA* transcripts deposited maternally in the oocyte (@fig:profiling).
+Transcripts of other Wnts, such as *wnt1t* and *wnt6*, are present at lower levels.
+This expression profile remains unchanged after fertilization (mid blastula, 8h) but shifts significantly at the late blastula stage (19h) when a concerted upregulation of *wnt1*, *wnt8*, *wnt10* and *wnt16* occurs (@fig:profiling).
+Throughout gastrulation Wnt genes continue to be upregulated with *wnt1* and *wnt5* in the early gastrula (26h); *wnt6*, *wnt7*, and *wnt11* in the mid gastrula (37h); and *wnt2*, *wnt9*, and *wnt10* in the late gastrula (51h).
+Between the late gastrula and early larva stages, all Wnt genes are expressed.
+These stages coincide with the elongation of the anteroposterior axis, and differentiation of larval lobes that occur at the end of gastrulation.
+While most Wnt genes remain expressed, *wnt6* and *wnt10* expression levels decay after gastrulation, and *wnt7* and *wnt16* are downregulated in after metamorphosis (@fig:profiling).
 
-<!--TODO: Merge back sentences into paragraph above-->
+## Wnts are expressed in distinct, partially overlapping domains
 
-These data show that Wnt ligands undergo two concerted upregulation events
-during development, one with blastulation and another with gastrulation,
-respectively. The expression levels peak between the late gastrula and the
-early larva stages, when all Wnt ligands are being expressed. These stages
-coincide with the elongation of the anteroposterior axis at the end of
-gastrulation, and with first morphological differentiation of the different
-larval lobes (body regions).
+To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in gastrula and larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
-<!--Wnt expression-->
+*wnt1* is expressed at the posterior lip of the blastopore in gastrula stages (@fig:ligands1, @fig:s-ligands, and @Vellutini2016-lq).
+This domain expands laterally forming a broad posterior ventral band of *wnt1* expression in the early larva which in subsequent stages encircles a subdivision of the pedicle lobe.
+From the late gastrula stage, *wnt1* is also expressed anteriorly in a narrow stripe around the posteriormost region of the apical lobe, and in the dorsal shell primordium (@fig:ligands1, @fig:s-ligands, and @Vellutini2016-lq).
 
-Next, we performed *in situ* hybridization in gastrula and larval stages to
-uncover the spatial localization of Wnt ligands during brachiopod axial
-patterning (@fig:ligands1 and !@fig:ligands2).
+*wnt1t* expression domains differ significantly from its paralog.
+We detect *wnt1t* transcripts in a single apical spot on the dorsal region of gastrula stages (@fig:ligands1 and @fig:s-ligands).
+This single spot becomes fragmented into bilateral domains in the early larva, and disappear in the late larva.
+Three novel *wnt1t* domains appear in larval stages, a central patch of ventral tissue posterior to the mouth, a ring domain located beneath the mantle lobe, and a posterior spot in the terminal tip of the pedicle lobe (@fig:ligands1 and @fig:s-ligands).
 
-*wnt1* expression in *T. transversa* was previously described in
-@Vellutini2016-lq, and will only be summarized here. There are two main
-domains. One posterior, initially expressed on the posterior blastopore lip,
-and later forming bilateral ventral bands on the pedicle lobe (@fig:ligands1,
-@fig:s-ligands, and @Vellutini2016-lq). And another anterior, first expressed
-in the late gastrula as a pair of narrow lateral stripes around the apical lobe
-(@fig:ligands1, @fig:s-ligands, and @Vellutini2016-lq). Additionally, *wnt1* is
-expressed in the dorsal shell primordium, and in a ring around a subdivision of
-the pedicle lobe [@Vellutini2016-lq].
+*wnt2* is only expressed in the late gastrula and early larva stages.
+Broad bilateral bands encircle the posterior portion of the apical lobe almost entirely, only the ventral and dorsal midlines are cleared from *wnt2* expression (@fig:ligands1 and @fig:s-ligands).
 
-*wnt1t* expression differs from its paralog. It is expressed in an apical spot
-in the early gastrula which shifts dorsally in the mid and late gastrula
-(@fig:ligands1 and @fig:s-ligands). The single spot turns into sparsely weak
-spots, as if being fragmented, in the early larva before disappearing in the
-late larva (@fig:ligands1 and @fig:s-ligands). Two novel *wnt1t* domains appear
-in the early larva, a central ventral patch posterior to the mouth, and
-bilateral territories beneath the mantle lobe (@fig:ligands1 and
-@fig:s-ligands). In the late larva, the mantle lobe territories encircle the
-body and a terminal domain appears at the posterior tip of the pedicle lobe
-(@fig:ligands1 and @fig:s-ligands).
+*wnt4* is expressed at the posterior end of the embryo during gastrula stages, and acquires a subterminal position within the pedicle lobe (@fig:ligands1 and @fig:s-ligands).
+The pattern is similar to *wnt1* but *wnt4* transcripts are localized more dorsally ({@fig:s-doubles}A--C).
 
-*wnt2* transcripts are only detectable through *in situ* hybridization in the
-late gastrula and early larva stages. It is expressed in broad bilateral bands
-that encircle almost entirely the posterior portion of the apical lobe, with
-only the ventral and dorsal midlines cleared from *wnt2* expression
-(@fig:ligands1 and @fig:s-ligands).
-
-*wnt4* is expressed at the posterior end of gastrula stages, subsequently
-acquiring a subterminal position within the pedicle lobe (@fig:ligands1 and
-@fig:s-ligands). The pattern is similar to *wnt1*, but *wnt4* transcripts are
-localized more dorsally and the domains only partially overlap
-({@fig:s-doubles}A--C).
-
-*wnt5* is expressed in three distinct domains in the apical, mantle, and
-pedicle lobe, respectively. The transcripts line the posterior end of the
-blastopore lip in the early gastrula (@fig:ligands1). In contrast to the
-posterior domain of *wnt1*, the posterior domain of *wnt5* is narrower
-({@fig:doubles}A), and maintains its terminal position until the late larva,
-when the expression is cleared from its terminal portion with the subdivision
-of the pedicle lobe (@fig:ligands1 and @fig:s-ligands). *wnt5* is also
-expressed in broad territories around the mantle and apical lobes from mid
-gastrula to early larva (@fig:ligands1 and @fig:s-ligands). While the apical
-lobe domain fades in the late larva, the mantle lobe expression of *wnt5*
-remains strong lining up the leading edge of the growing mantle tissue
-(@fig:ligands1 and @fig:s-ligands). The expression domains of *wnt5* and *wnt1*
-partially overlap in the apical lobe, but occupy distinct areas in the mantle
-and pedicle lobe, which precede and coincide with the morphological
-regionalization of the larval body parts ({@fig:doubles}B,C and
-{@fig:s-doubles}G).
+*wnt5* is expressed in three distinct domains in the apical, mantle, and pedicle lobe, respectively.
+The transcripts also line the posterior blastopore lip in the early gastrula (@fig:ligands1) but, in contrast to *wnt1*, the *wnt5* domain is narrower ({@fig:doubles}A).
+This posterior domain maintains a terminal position until the late larva stage when the tip of the pedicle lobe is cleared (@fig:ligands1 and @fig:s-ligands).
+*wnt5* is also expressed in broad territories around the mantle and apical lobes from mid gastrula to early larva (@fig:ligands1 and @fig:s-ligands).
+While the apical lobe domain fades in the late larva, the mantle lobe expression of *wnt5* remains strong on the leading edge of the growing mantle tissue (@fig:ligands1 and @fig:s-ligands).
+The expression domains of *wnt5* and *wnt1* occupy distinct regions along the anteroposterior which coincide with regionalization of the larval lobes ({@fig:doubles}B,C and {@fig:s-doubles}G).
 
 *wnt6* early expression localizes to the posterior blastopore lip
 (@fig:ligands1 and @fig:s-ligands). This domain fades by the early larva stage
