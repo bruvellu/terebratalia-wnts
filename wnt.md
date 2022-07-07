@@ -121,7 +121,7 @@ Between the late gastrula and early larva stages, all Wnt genes are expressed.
 These stages coincide with the elongation of the anteroposterior axis, and differentiation of larval lobes that occur at the end of gastrulation.
 While most Wnt genes remain expressed, *wnt6* and *wnt10* expression levels decay after gastrulation, and *wnt7* and *wnt16* are downregulated in after metamorphosis (@fig:profiling).
 
-## Wnts are expressed in distinct, partially overlapping domains
+## Wnts are expressed partially overlapping domains along the anteroposterior axis
 
 To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in gastrula and larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
@@ -147,80 +147,34 @@ This posterior domain maintains a terminal position until the late larva stage w
 While the apical lobe domain fades in the late larva, the mantle lobe expression of *wnt5* remains strong on the leading edge of the growing mantle tissue (@fig:ligands1 and @fig:s-ligands).
 The expression domains of *wnt5* and *wnt1* occupy distinct regions along the anteroposterior which coincide with regionalization of the larval lobes ({@fig:doubles}B,C and {@fig:s-doubles}G).
 
-*wnt6* early expression localizes to the posterior blastopore lip
-(@fig:ligands1 and @fig:s-ligands). This domain fades by the early larva stage
-when wnt6 is upregulated in a restrict mid-body portion of endoderm tissues
-(@fig:ligands1 and @fig:s-ligands). In the late larva, *wnt6* is also expressed
-faintly in the apical and pedicle lobe (@fig:ligands1).
+*wnt6* transcripts localize to the posterior blastopore lip until the late gastrula stage (@fig:ligands1 and @fig:s-ligands).
+This domain is cleared on the early larva stage and *wnt6* is activated in the mid-body endoderm (@fig:ligands1 and @fig:s-ligands).
+In the late larva, we also detect *wnt6* expression in the apical and pedicle lobes (@fig:ligands1).
 
-*wnt7* transcripts are detected early in gastrulation on a laterodorsal stripe
-which comes to demarcate precisely the boundary between apical and mantle lobes
-(@fig:ligands1 and @fig:s-ligands). The stripe overlaps with the
-*engrailed*-expressing cells at the anteriormost region of the mantle lobe
-({@fig:doubles}G,H and {@fig:s-doubles}I; see also [@Vellutini2016-lq]). An
-additional *wnt7* stripe appears on the pedicle lobe in the early larva. This
-posterior stripe partially overlaps with the pedicle lobe domain of
-*engrailed*, and is positioned exactly in between the posterior territories of
-*wnt1* and *wnt5* ({@fig:doubles}G,H and {@fig:s-doubles}I).
+*wnt7* initiates as a lateral pair of anterior stripes which progressively extend around the entire embryo circumference in the early larva stage (@fig:ligands1 and @fig:s-ligands).
+This *wnt7* stripe demarcates the boundary between the apical and the mantle lobe, overlapping with *engrailed*-expressing cells at the anteriormost region of the mantle lobe ({@fig:doubles}G,H and {@fig:s-doubles}I; see also [@Vellutini2016-lq]).
+In the early larva, a posterior stripe of *wnt7* appears on the pedicle lobe demarcating another boundary, the subdivision of the pedicle lobe into subterminal and terminal regions.
+This stripe is positioned between the posterior territories of *wnt1* and *wnt5* in the pedicle lobe, and partially overlaps with the *engrailed* domain ({@fig:doubles}G,H and {@fig:s-doubles}I).
 
-*wnt8* is highly-expressed in the blastula (@fig:profiling). At this stage,
-transcripts occupy most of the embryo’s posterior region (@fig:s-ligands).
-While the apical expression is cleared, the early gastrula contains a wide
-posterodorsal domain and a pair of broad anterolateral territories
-(@fig:ligands2 and @fig:s-ligands). The posterior *wnt8* domain is cleared
-during gastrulation, but the anterior territories expand ventrally and dorsally
-encircling the apical lobe (@fig:ligands2 and @fig:s-ligands). The latter
-partially overlap with the anterior expression of *wnt1* in the apical lobe
-({@fig:doubles}I--L and {@fig:s-doubles}H).
+*wnt8* expression is broadly upregulated on the vegetal pole of blastula stages (@fig:profiling and @fig:s-ligands).
+At the gastrula stage, the transcripts are cleared from the anterior blastopore lip, and two distinct domains remain: a pair of broad lateral territories in the apical lobe, and a wide posterodorsal domain in the pedicle lobe (@fig:ligands2 and @fig:s-ligands).
+While the posterior domain clears during gastrulation, the anterior territories expand ventrally and dorsally encircling the apical lobe (@fig:ligands2 and @fig:s-ligands).
+These anterior *wnt8* territories partially overlap with the anterior expression of *wnt1* ({@fig:doubles}I--L and {@fig:s-doubles}H).
 
-*wnt9* expression only shows in the late gastrula stage. It is expressed in
-cells being internalized near the central portion of the blastopore
-(@fig:ligands2 and @fig:s-ligands). In the late larva, we detect *wnt9*
-transcripts in the central portion of the endoderm and in a distinct pair of
-anterior putative mesodermal domains (@fig:ligands2 and @fig:s-ligands).
+*wnt9* is initially detected in ventral cells which are being internalized within the blastopore of late gastrula embryos (@fig:ligands2 and @fig:s-ligands).
+They form a contiguous patch of mesodermal and endodermal cells expressing *wnt9* in the early larva.
+While the endodermal domain becomes elongated along the central portion of the gut, the mesodermal expression develops into a distinct bilateral pair of anterior domains (@fig:ligands2 and @fig:s-ligands).
 
-*wnt10* is expressed in a faint posterior domain which localizes to the pedicle
-lobe of the larva (@fig:ligands2 and @fig:s-ligands).
+*wnt10* is expressed in a posterior domain on the subterminal region of the pedicle lobe in gastrula and larval stages (@fig:ligands2 and @fig:s-ligands).
 
-*wnt11*, on the other hand, is strongly expressed during gastrulation in a
-posterodorsal position (@fig:ligands2 and @fig:s-ligands). This domain entirely
-encircles the pedicle lobe in the early larva but is reduced to a thin stripe
-in the late larva (@fig:ligands2 and @fig:s-ligands). In addition, we detect
-*wnt11* transcripts in the endoderm, localizing to the mid and posterior
-portions of the gut in the early larva stage (@fig:ligands2 and
-@fig:s-ligands).
+*wnt11* shows a terminal posterior domain during gastrulation that encircles the pedicle lobe in the early larva, and is reduced to a thin subterminal ventral stripe in the late larva (@fig:ligands2 and @fig:s-ligands).
+We also detect *wnt11* endodermal transcripts in the central and posterior portions of the gut of the early larva stage (@fig:ligands2 and @fig:s-ligands).
 
-*wnt16* transcripts are expressed around the blastopore in the early gastrula
-(@fig:ligands2 and @fig:s-ligands). The domain is restricted to lateral patches
-which line the edge of the blastopore, and finally are brought together during
-blastopore closure forming a central, heart-shaped domain in the early larva
-(@fig:ligands2 and @fig:s-ligands). The *wnt16*-expressing cells appear to be
-internalized during gastrulation be part of the anterior mesoderm.
+*wnt16* is expressed in lateral patches around the blastopore which are progressively brought together with the closure of the blastopore during gastrulation forming a central, heart-shaped domain in the early larva (@fig:ligands2 and @fig:s-ligands).
+These *wnt16*-expressing cells localize to a central portion of the mantle lobe mesoderm (@fig:ligands2 and @fig:s-ligands).
 
-*wntA* is expressed in a pair of broad ventral domains on the apical lobe
-ectoderm in late gastrula and early larva stages (@fig:ligands2 and
-@fig:s-ligands). In the late larva, these domains are cleared, and *wntA*
-transcripts are detected in a pair of mesodermal bands next to the mouth and
-anterior endoderm (@fig:ligands2 and @fig:s-ligands).
-
-<!--Wnt summary-->
-
-Overall, Wnt ligands are expressed in diverse ectodermal domains and different
-body regions throughout the embryonic development of *T. transversa*
-(@fig:ligands1 and @fig:ligands2). The domains initially overlap in the early
-gastrula (e.g., posterior blastopore lip), but as development progresses they
-segregate into distinct partially overlapping territories. We can divide these
-domains in four subregions based on their position along the anteroposterior
-axis, the posterior portion of the apical lobe (*wnt2*, *wnt8*, *wnt5*,
-*wntA*), the mantle lobe (mainly *wnt5* and *wnt16*), the subterminal portion
-of the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and the terminal
-portion of the pedicle lobe (*wnt5*, *wnt6*, *wnt11*) (@fig:summary). In
-addition, *wnt7* is expressed at the apical--mantle and mantle--pedicle
-boundaries and no Wnt ligand is expressed in anterior portion of the apical
-lobe with the exception of *wnt1t*. Each subregion expressing a group of Wnt
-ligands, also expresses a different combination of Frizzled receptors (see
-below), creating a complex ligand--receptor landscape for Wnt signaling during
-brachiopod axial patterning.
+*wntA* appears in the late gastrula as paired ventral domains at the posteriormost portion of the apical lobe (@fig:ligands2 and @fig:s-ligands).
+These anterior ectodermal domains are cleared in the late larva, when *wntA* expression is activated in a pair of anterior mesodermal bands next to the mouth (@fig:ligands2 and @fig:s-ligands).
 
 ## Frizzled receptors
 
@@ -434,6 +388,28 @@ areas lacking *jnk* transcripts in the apical lobe.
 <!--*β-catenin* is ubiquitously expressed in the ectoderm and mesoderm until the late gastrula when the ectodermal transcripts are downregulated (@fig:intracellular). During larval development, mesoderm expression is also downregulated. In the late larva stage, *β-catenin* transcripts are restricted to the anterior mesoderm and to the mesoderm associated with the chaetae sacs in the mantle lobe (@fig:intracellular).-->
 
 # Discussion
+
+<!--TODO: Incorporate into discussion-->
+
+<!--Wnt summary-->
+
+Overall, Wnt ligands are expressed in diverse ectodermal domains and different
+body regions throughout the embryonic development of *T. transversa*
+(@fig:ligands1 and @fig:ligands2). The domains initially overlap in the early
+gastrula (e.g., posterior blastopore lip), but as development progresses they
+segregate into distinct partially overlapping territories. We can divide these
+domains in four subregions based on their position along the anteroposterior
+axis, the posterior portion of the apical lobe (*wnt2*, *wnt8*, *wnt5*,
+*wntA*), the mantle lobe (mainly *wnt5* and *wnt16*), the subterminal portion
+of the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and the terminal
+portion of the pedicle lobe (*wnt5*, *wnt6*, *wnt11*) (@fig:summary). In
+addition, *wnt7* is expressed at the apical--mantle and mantle--pedicle
+boundaries and no Wnt ligand is expressed in anterior portion of the apical
+lobe with the exception of *wnt1t*. Each subregion expressing a group of Wnt
+ligands, also expresses a different combination of Frizzled receptors (see
+below), creating a complex ligand--receptor landscape for Wnt signaling during
+brachiopod axial patterning.
+
 
 ## *T. transversa* Wnt complement remained conserved throughout evolution
 
