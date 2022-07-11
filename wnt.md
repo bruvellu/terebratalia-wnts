@@ -102,15 +102,14 @@ We analyzed stage-specific RNA-seq data and spatiotemporal expression of Wnt sig
 
 Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].
 Wnt proteins are ligands and activators of Wnt signaling pathways during the development of most,  if not all, animals [@Cadigan1997-vx].
-Metazoans have a large Wnt repertoire with thirteen subfamilies [@Kusserow2005-xd; @Cho2010-eb].
+Metazoans have a large Wnt repertoire with thirteen subfamilies [@Kusserow2005-xd; @Croce2009-vv; @Cho2010-eb].
 To characterize the Wnt complement of the brachiopod *T. transversa*, we surveyed the transcriptomic and genomic resources for Wnt genes using similarity searches.
-We find thirteen Wnt genes with representative orthologs for twelve of the thirteen subfamilies (@fig:wnt-tree).
-The exception is *wnt3*, a gene known to have been lost at base of Protostomia [@Cho2010-eb], which is also missing from our datasets.
-*T. transversa* has two *wnt1* paralogs.
-One of the paralogs is highly-divergent at the sequence level when compared to other bilaterian *wnt1* genes (@fig:wnt1-tree); we named it *wnt1t*.
-Despite the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a single representative ortholog for the remaining subfamilies, suggesting this brachiopod has retained the ancestral repertoire of metazoan Wnt genes.
+We find that twelve of the thirteen Wnt subfamilies are present in the brachiopod with a total of thirteen Wnt genes (@fig:wnt-tree).
+*T. transversa* is missing *wnt3*, a gene known to have been lost at base of Protostomia [@Cho2010-eb; @Janssen2010-dc], and has two has two copies of *wnt1*.
+One of the *wnt1* paralogs---named hereafter *wnt1t*---is highly-divergent at the sequence level compared to other *wnt1* orthologs across bilaterians, and our phylogenetic analysis suggests it originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
+Despite the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a single representative ortholog for the remaining subfamilies, suggesting the ancestral repertoire of metazoan Wnt genes has remained conserved in this brachiopod.
 
-## Wnts are upregulated in concert during gastrulation and axial elongation
+## Wnts are upregulated in concert during axial elongation
 
 To characterize the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
 We detect a great abundance of *wnt4* and *wntA* transcripts deposited maternally in the oocyte (@fig:profiling).
@@ -121,7 +120,7 @@ Between the late gastrula and early larva stages, all Wnt genes are expressed.
 These stages coincide with the elongation of the anteroposterior axis, and differentiation of larval lobes that occur at the end of gastrulation.
 While most Wnt genes remain expressed, *wnt6* and *wnt10* expression levels decay after gastrulation, and *wnt7* and *wnt16* are downregulated in after metamorphosis (@fig:profiling).
 
-## Wnt ligand domains partially overlap along the anteroposterior axis
+## Wnts are expressed along the anteroposterior axis in partially overlapping domains
 
 To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in gastrula and larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
@@ -340,27 +339,9 @@ areas lacking *jnk* transcripts in the apical lobe.
 
 ## *T. transversa* Wnt complement remained conserved throughout evolution
 
-<!--TODO: Develop further the Wnt complement evolution-->
+<!--Another brachiopod species, the linguliform *Lingula anatina*, also has two copies of *wnt1* [@Luo2015-lm], but our phylogenetic analysis indicate these *wnt1* duplication events in *T. transversa* and *L. anatina* occurred independently (@fig:wnt-tree and @fig:wnt1-tree).-->
 
-Metazoans have a repertoire of 13 Wnt subfamilies [@Kusserow2005-xd;
-@Croce2009-vv; @Cho2010-eb]. While deuterostomes retained most, *wnt3* which
-has been lost at the base of the protostome lineage [@Cho2010-eb;
-@Janssen2010-dc]. Arthropods show extensive losses of Wnt genes. Our data
-suggests the brachiopod *T. transversa* retained most of these ancestral gene
-set with a single representative of each Wnt subfamily. 
-
-<!--TODO: Improve paragraph on wnt1 paralog-->
-
-We found *wnt1* is duplicated in *T. transversa*. Another brachiopod species,
-the linguliform *Lingula anatina*, also has two copies of *wnt1* [@Luo2015-lm],
-but our phylogenetic analysis indicate these *wnt1* duplication events in *T.
-transversa* and *L. anatina* occurred independently (@fig:wnt-tree and
-@fig:wnt1-tree). The highly-divergent sequence of *wnt1t* compared to other
-protostome orthologs suggests a rapid molecular evolution, supporting the
-hypothesis of lineage-specific duplication. Its divergent expression pattern
-compared to *wnt1*, and unusual anterior localization compared to the other Wnt
-ligands suggests it may have also evolved divergent developmental roles in *T.
-transversa*.
+<!--Its divergent expression pattern compared to *wnt1*, and unusual anterior localization compared to the other Wnt ligands suggests it may have also evolved divergent developmental roles in *T. transversa*.-->
 
 <!--Frizzled is missing fz3/6 which is vertebrate-specific. Single-copy of sfrp and wif inhibitors.-->
 
