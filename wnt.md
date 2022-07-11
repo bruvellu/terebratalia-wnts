@@ -101,7 +101,7 @@ We analyzed stage-specific RNA-seq data and spatiotemporal expression of Wnt sig
 ## *T. transversa* has a conserved repertoire of Wnt genes
 
 Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].
-Wnt proteins are ligands and activators of Wnt signaling pathways during the development of most,  if not all, animals [@Cadigan1997-vx].
+Wnt proteins are ligands and activators of Wnt signaling pathways during the development of most animals [@Cadigan1997-vx].
 Metazoans have a large Wnt repertoire with thirteen subfamilies [@Kusserow2005-xd; @Croce2009-vv; @Cho2010-eb].
 To characterize the Wnt complement of the brachiopod *T. transversa*, we surveyed the transcriptomic and genomic resources for Wnt genes using similarity searches.
 We find that twelve of the thirteen Wnt subfamilies are present in the brachiopod with a total of thirteen Wnt genes (@fig:wnt-tree).
@@ -175,13 +175,11 @@ These *wnt16*-expressing cells localize to a central portion of the mantle lobe 
 *wntA* appears in the late gastrula as paired ventral domains at the posteriormost portion of the apical lobe (@fig:ligands2 and @fig:s-ligands).
 These anterior ectodermal domains are cleared in the late larva, when *wntA* expression is activated in a pair of anterior mesodermal bands next to the mouth (@fig:ligands2 and @fig:s-ligands).
 
-## *T. transversa* has an almost complete Frizzled complement
+## Frizzled genes are expressed throughout development of *T. transversa*
 
 Frizzleds are seven-pass transmembrane proteins with an extracellular cystein-rich domain that act as receptors in Wnt signaling pathways [@Huang2004-di].
 Metazoans have a variety of Frizzled proteins generally divided into five subfamilies: *fz1/2/7*, *fz3/6*, *fz5/8*, *fz9/10*, and *fz4* [@MacDonald2012-ri].
 Our survey in *T. transversa* transcriptome identified a single ortholog for each Frizzled subfamily except for *fz3/6* which is absent (@fig:fzd-tree).
-
-## Frizzleds are expressed throughout development in unique expression profiles
 
 Frizzled receptors are almost ubiquitously expressed throughout *T. transversa* development.
 In the unfertilized oocyte *fz1/2/7* and *fz5/8* are highly-expressed (@fig:profiling).
@@ -190,7 +188,7 @@ The expression of *fz1/2/7* remains high from the oocyte to juvenile stages whil
 In contrast, *fz9/10* expression only increases during gastrulation, remaining relatively constant in subsequent stages.
 Changes in Frizzled expression occur in gradual but consistent waves of up or down regulation and, despite of being less variable than that of Wnt genes, each individual Frizzled shows a unique expression profile.
 
-## Frizzled receptors are expressed in broad domains across distinct body regions
+## Frizzled domains are broadly expressed in distinct body regions
 
 *fz1/2/7* transcripts are almost ubiquitous in gastrula tissues (@fig:fzdantag).
 We observe an anteroposterior gradient with stronger signal at the apical region, in the anterior mesoderm, and in a pair of lateral ectodermal domains in the middle of the body (@fig:fzdantag and @fig:s-receptors).
@@ -213,7 +211,7 @@ The posterior limit of *fz9/10* domain reaches the pedicle lobe where it overlap
 Mantle lobe expression is weak, and the terminal portion of the pedicle lobe is cleared from *fz9/10* transcripts (@fig:fzdantag and @fig:s-receptors).
 Throughout development *fz9/10* is expressed in the mesoderm.
 
-## Wnt antagonists are expressed in the anterior cap and mesoderm
+## Wnt antagonists are expressed in the anterior pole and mesodermal tissues
 
 To obtain a more comprehensive picture of the Wnt signaling landscape in *T. transversa*, we also analyzed the expression of three Wnt antagonists, Secreted Frizzled-Related Protein (*sfrp*), Dickkopf protein (*dkk*), and Wnt Inhibitory Factor (*wif*).
 
@@ -225,25 +223,27 @@ In *T. transversa*, we only identified a *sfrp1/2/5* ortholog (@fig:sfrp-tree).
 Transient mesodermal domains also appear in the mantle lobe of the early larva.
 Except for dorsal patches on the apical lobe, the expression of *sfrp1/2/5* fades in the late larva stage (@fig:fzdantag and @fig:s-antagonists). 
 
-DKK is a secreted glycoprotein containing two cystein-rich domains that antagonizes Wnt signaling by inhibiting *lrp5/6* co-receptors [@Niehrs2006-kf; @Cruciat2013-zs].
-These proteins are generally divided into two subfamilies, *dkk1/2/4* and *dkk3* [@Niehrs2006-kf]. In *T. transversa*, however, we identified a single *dkk* ortholog that groups with a previously unidentified *dkk* subfamily, named hereafter *dkk5* (@fig:dkk-tree).
+Dkk is a secreted glycoprotein containing two cystein-rich domains that antagonizes Wnt signaling by inhibiting *lrp5/6* co-receptors [@Niehrs2006-kf; @Cruciat2013-zs].
+These proteins are generally divided into two subfamilies, *dkk1/2/4* and *dkk3* [@Niehrs2006-kf].
+In *T. transversa*, however, we identified a single *dkk* ortholog that groups with a previously unidentified Dkk subfamily, named hereafter *dkk5* (@fig:dkk-tree).
+Our phylogenetic analysis reveals that non-vertebrate deuterostomes, such as hemichordates and cephalochordates, have orthologs for *dkk1/2/4*, *dkk3*, and *dkk5*, suggesting this was the ancestral Dkk repertoire of bilaterians, and that *dkk1/2/4* and *dkk5* were subsequently lost in protostomes and vertebrates, respectively (@fig:dkk-tree).
 The expression of *dkk5* in *T. transversa* is upregulated in the late blastula and downregulated in the juvenile (@fig:profiling).
 It localizes to an apical ectodermal domain similar to the expression of *sfrp1/2/5*, but the *dkk5* domain is narrower and does not extend completely to the dorsal side (@fig:fzdantag and @fig:s-antagonists).
 
-WIF is another protein that inhibits Wnt activity by direct binding to Wnt proteins [@Hsieh1999-rt].
+Wif is another protein that inhibits Wnt activity by direct binding to Wnt proteins [@Hsieh1999-rt].
 The protein has five EGF repeats and a typical *wif* domain which is shared with RYK receptor tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs].
 In *T. transversa* we identified one *wif* gene ortholog (@fig:wif-tree).
 The expression levels are relatively low and somewhat stable throughout development, with a peak in the late gastrula (@fig:profiling).
 Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues throughout the analyzed developmental stages (@fig:fzdantag and @fig:s-antagonists).
 
-## Planar cell polarity components are expressed during axial elongation
+## Planar cell polarity pathway components are expressed during axial elongation
 
 <!--TODO: Write better heading title-->
 
 Proper regulation of planar cell polarity (PCP) is crucial to guide morphogenetic processes, such as convergent extension, and to orient the formation of structures during development [@Simons2008-cj; @Gao2012-fh].
 Thus, we identified and analyzed the expression of the core components of the PCP pathway in *T. transversa*, namely *dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as *ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as *stan* or *celsr*), *strabismus* (*stbm*, also known as *vang* or *vangl*), as well as the downstream transducer *c-jun n-terminal kinase* (*jnk*).
 
-DSH is a central regulator of the cell fate and the cell polarity Wnt pathways [@Wallingford2005-xp].
+Dsh is a central regulator of the cell fate and the cell polarity Wnt pathways [@Wallingford2005-xp].
 The protein has three conserved domains (DIX, PDZ, and DEP domains), and two conserved regions before and after the PDZ domain [@Gao2010-wj].
 In *T. transversa*, we identified a single copy of *dsh* (@fig:dsh-tree) which is highly-expressed in every developmental stage (@fig:s-profiling).
 *dsh* transcripts localize to a narrow apical domain in the ectoderm, and to the adjacent anterior mesoderm (@fig:polarity).
@@ -254,24 +254,24 @@ In *T. transversa*, we identified a single copy of *dsh* (@fig:dsh-tree) which i
 
 <!--The protein has three conserved domains (DIX, PDZ, and DEP domains), and two conserved regions before and after the PDZ domain (a cluster of basic residues and a proline-rich region, respectively) [@Gao2010-wj]. -->
 
-DGO is a cytoplasmic protein containing 6--8 ankyrin repeat domains that suppresses the cell fate Wnt pathway and stimulates the cell polarity Wnt pathway [@Feiguin2001-zd; @Schwarz-Romond2002-td].
+Dgo is a cytoplasmic protein containing 6--8 ankyrin repeat domains that suppresses the cell fate Wnt pathway and stimulates the cell polarity Wnt pathway [@Feiguin2001-zd; @Schwarz-Romond2002-td].
 We found a single *dgo* ortholog in *T. transversa* with six ankyrin repeats (@fig:dgo-tree). 
 The expression levels are relatively low compared to the other genes we have analyzed in this study (@fig:s-profiling), but we detect two pairs of dorsal domains in the late gastrula, one located in the apical lobe and another in the pedicle lobe (@fig:polarity).
 
-PK is a protein that contains a PET domain and three LIM domains [@Gubb1999-ba] and competes with DGO for DSH binding [@Jenny2005-vf].
+Pk is a protein that contains a PET domain and three LIM domains [@Gubb1999-ba] and competes with DGO for DSH binding [@Jenny2005-vf].
 We identified a single *pk* ortholog in *T. transversa* (@fig:pk-tree) that is highly-expressed throughout development (@fig:s-profiling).
 *pk* transcripts are initially expressed in a small patch posterior to the blastopore in the early gastrula (@fig:polarity), which is then upregulated on the apical lobe ectoderm, in bilateral ventral domains, and on the ventral mesoderm of the mantle lobe (@fig:polarity).
 
-FMI is a seven-pass transmembrane cadherin that regulates cell polarity [@Usui1999-fv; @Chae1999-ci].
+Fmi is a seven-pass transmembrane cadherin that regulates cell polarity [@Usui1999-fv; @Chae1999-ci].
 In *T. transversa*, we identified one ortholog of *fmi* (@fig:fmi-tree).
 It is expressed in every stage with a peak around the late gastrula (@fig:s-profiling).
 *fmi* transcripts are present in most ectodermal tissues but show a stronger signal on bilateral patches in the apical lobe of late gastrula (@fig:polarity).
 
-STBM is a four-pass transmembrane protein that forms a signaling complex with FMI [@Katoh2013-mz; @Butler2017-gh].
+Stbm is a four-pass transmembrane protein that forms a signaling complex with FMI [@Katoh2013-mz; @Butler2017-gh].
 Expression of *stbm* in *T. transversa* is initially high and gradually decays during development (@fig:s-profiling).
 It is ubiquitously expressed in the tissues of gastrulating embryos (@fig:polarity).
 
-JNK is a kinase that regulates epithelial metamorphosis and is a downstream transducer of the PCP pathway [@Noselli1999-sa].
+Jnk is a kinase that regulates epithelial metamorphosis and is a downstream transducer of the PCP pathway [@Noselli1999-sa].
 It is highly-expressed throughout the development of *T. transversa* (@fig:s-profiling).
 The expression of *jnk* is ubiquitous in the late gastrula except for broad bilateral regions of the apical lobe (@fig:polarity).
 
@@ -337,7 +337,7 @@ expressed in the apical, dorsal, and ventral regions, respectively, and do not
 overlap. The location of *dgo* and *pk* apical lobe domains coincides with
 areas lacking *jnk* transcripts in the apical lobe.
 
-## *T. transversa* Wnt complement remained conserved throughout evolution
+<!--## *T. transversa* Wnt complement remained conserved throughout evolution-->
 
 <!--Another brachiopod species, the linguliform *Lingula anatina*, also has two copies of *wnt1* [@Luo2015-lm], but our phylogenetic analysis indicate these *wnt1* duplication events in *T. transversa* and *L. anatina* occurred independently (@fig:wnt-tree and @fig:wnt1-tree).-->
 
@@ -348,18 +348,7 @@ areas lacking *jnk* transcripts in the apical lobe.
 <!--dkk3 is thought to be unrelated to wnt but amphi has two and Ttra matches
 the one related to Wnt is a novel subfamily lost near the base of protostomes-->
 
-*T. transversa* dkk3 belongs to an undescribed dkk subfamily. It does not group
-with the cnidarian dkk3 or human dkk3, but with a distinct subfamily of dkks
-with mainly protostomes. While hemichordates have the two subfamilies of dkk3.
-This suggests there are two distinct families of dkk3. Structurally their
-domains differ. The ancestral dkk3 (no-wnt) gave rise to dkk1/dkk3protostome
-(yes-wnt). dkk3 is seemingly unrelated to Wnt signaling. But dkk3 has been
-shown to modulate wnt in one amphioxus species but another. Our phylogenetic
-analysis suggests that the three subfamilies of dkk were present in
-hemichordates and amphioxus. While wntdkk3 was lost in deuterostomes, dkk1 and
-nowntdkk3 was lost in protostomes. In summary, dkk found in protostomes is
-closer to dkk1-2-4 than dkk3. which is divergent and seemingly unrelated to Wnt
-signaling
+<!--*T. transversa* dkk3 belongs to an undescribed dkk subfamily. It does not group with the cnidarian dkk3 or human dkk3, but with a distinct subfamily of dkks with mainly protostomes. While hemichordates have the two subfamilies of dkk3. This suggests there are two distinct families of dkk3. Structurally their domains differ. The ancestral dkk3 (no-wnt) gave rise to dkk1/dkk3protostome (yes-wnt). dkk3 is seemingly unrelated to Wnt signaling. But dkk3 has been shown to modulate wnt in one amphioxus species but another. Our phylogenetic analysis suggests that the three subfamilies of dkk were present in hemichordates and amphioxus. While wntdkk3 was lost in deuterostomes, dkk1 and nowntdkk3 was lost in protostomes. In summary, dkk found in protostomes is closer to dkk1-2-4 than dkk3. which is divergent and seemingly unrelated to Wnt signaling-->
 
 ## Maternal load of Frizzled receptors is evolutionary conserved
 
