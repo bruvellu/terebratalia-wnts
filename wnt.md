@@ -332,12 +332,14 @@ the one related to Wnt is a novel subfamily lost near the base of protostomes-->
 <!--Subregion 1: Anteriormost region associated with neural genes, wnt antagonists and neural fates.-->
 <!--Genes: sfrp1/2/5, dkk5, fz1/2/7, fz5/8-->
 
-**Apical lobe anterior (subregion 1):** The anteriormost transcriptional subregion of *T. transversa* expresses the antagonists *sfrp1/2/5* and *dkk5*, the receptors *fz1/2/7* and *fz5/8*, and no Wnt ligands.
-sFRPs and Dkks pattern the anterior neuroectoderm and specify neural fates in several metazoans [@Range2013].
-sFRP antagonizes *wnt8* [@Lopez-Rios2008-gr].
-The subregion coincides with the expression of neural genes such as *homeobrain* and *nk2.1* in *T. transversa* [@Santagata2012-he].
-This subregion forms the anterior neuropile and apical organ in the larva [@Santagata2011].
-They might be involved in patterning the neuropile and apical organ of the brachiopod larva.
+**Apical lobe anterior (subregion 1):** The anteriormost transcriptional subregion of *T. transversa* expresses the Wnt antagonists *sfrp1/2/5* and *dkk5*, the receptors *fz1/2/7* and *fz5/8*, and no Wnt ligands.
+The anterior ectoderm in most metazoans lack the expression of Wnt proteins, and commonly express antagonists of the Wnt pathway.
+Wnt inhibition during axial patterning is associated with the specification of neural fates.
+This subregion forms the anterior neuropile and apical organ in the larva [@Santagata2011-ry], where neural genes, such as *foxq2*, *homeobrain*, and *nk2.1* are also expressed [@Santagata2012-he].
+The anterior neuroectoderm of sea urchins is regulated by the down-regulation the JNK pathway as result of genetic interactions between Fz5/8, sFRP and Dkk [@Range2013-gm; @Khadka2018-td].
+While fz5/8 activates sFRP and Dkk early expression in the anterior pole, the latter negatively repress fz5/8 signaling, consolidating the neuroectoderm identity [@Range2013-gm; @Khadka2018-td].
+A similar spatiotemporal arrangement occurs in the brachiopod with the three genes restricted to this subregion, which also shows lower expression of *jnk* in mid gastrula.
+This suggests that regulatory loop is involved in patterning the neuropile and apical organ of *T. transversa*.
 
 <!--Subregion 2: Posterior portion of the apical lobe that grow to become a disc-like structure.-->
 <!--Genes: fz1/2/7, fz4, wntA, wnt8, wnt2, wnt5-->
