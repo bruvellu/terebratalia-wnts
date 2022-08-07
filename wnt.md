@@ -283,34 +283,29 @@ The expression of *jnk* is ubiquitous in the late gastrula except for broad bila
 
 # Discussion
 
-## Combinatorial expression of Wnt signaling components forms six unique transcriptional subregions along *T. transversa* anteroposterior axis
+<!--Wnt ligands are expressed in diverse, mostly ectodermal domains throughout embryogenesis (@fig:ligands1 and @fig:ligands2).-->
 
-<!--We have investigated the spatiotemporal expression of Wnt signaling components in the brachiopod *T. transversa*. Wnt ligands are expressed in diverse, mostly ectodermal domains throughout embryogenesis (@fig:ligands1 and @fig:ligands2). These domains can initially overlap, for example in the posterior blastopore lip of the early gastrula, but as development progresses they segregate into distinct, partially overlapping territories often limited to a specific region of the larval body. Frizzled receptors, in contrast, are expressed in broad domains ordered from anterior to posterior with no overlaps, except for the nearly ubiquitous expression of *fz1/2/7*, and Wnt antagonists are confined to the anteriormost portion of the ectoderm (@fig:fzdantag). The combinatorial expression of these Wnt signaling components creates a complex ligand--receptor--antagonist landscape during the axial patterning of *T. transversa* (@fig:summary).-->
-
-Our work investigates the spatiotemporal expression of Wnt signaling components in brachiopod development.
-*T. transversa* Wnts are expressed in diverse, mostly ectodermal domains throughout embryogenesis (@fig:ligands1 and @fig:ligands2).
-Ligand activity peaks at the late gastrula during axial elongation.
-At this stage, the embryo resembles an oblong doughnut without morphological differences along the anteroposterior axis, but Wnt expression is already regionalized into specific regions of the body.
+Our work describes the developmental expression of Wnt signaling components in the brachiopod *T. transversa*.
+Wnt ligands, receptors, and antagonists, are expressed throughout embryogenesis, from the unfertilized egg to the juvenile stages, but the expression levels peak during gastrulation when the embryo’s body is elongating (@fig:profiling).
+Initially, Wnt genes are predominantly expressed in posterior overlapping domains.
+But as development progresses, these posterior domains segregate into distinct territories, and novel domains appear more anteriorly.
+By the late gastrula stage, while there are no morphological differences along the anteroposterior axis, the ectodermal expression of Wnt signaling components is already regionalized.
 
 We identified four main areas, each containing transcripts of different Wnt ligands in partially overlapping Wnt domains: the posterior portion of the apical lobe (*wnt2*, *wnt8*, *wnt5*, *wntA*), the mantle lobe (*wnt5* and *wnt16*), the subterminal portion of the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and the terminal portion of the pedicle lobe (*wnt5*, *wnt6*, *wnt11*) (@fig:summary).
 The domains show a clear anteroposterior organization.
 In addition, *wnt7* outlines the boundaries between two molecular territories, the apical--mantle boundary, and the pedicle lobe terminal and subterminal regions (@fig:summary).
+Different portions of the embryo express a unique set of Wnt domains, and one Wnt gene is often limited to a specific region of the body.
 While most Wnts are expressed in a single region, *wnt1*, *wnt5*, and  *wnt7* are expressed in different regions along the anteroposterior axis.
 Except for a localized dorsal spot of *wnt1t* transcripts, a gene that shows a divergent expression pattern compared to other Wnts, no Wnt ligand is expressed in the anterior portion of the apical lobe.
 
-<!--These domains can initially overlap. For example, the posterior blastopore expression in the early gastrula segregates into the terminal and subterminal domains of the pedicle lobe as development progresses (@fig:ligands1 and @fig:ligands2).-->
-
-Frizzled receptors are expressed in broader domains with *fz1/2/7* being nearly ubiquitous and only absent from the pedicle lobe (@fig:fzdantag and @fig:summary).
-The other Frizzleds show an anteroposterior organization with *fz5/8*, *fz4*, and *fz9/10* territories expressed at the anterior, medial, and posterior portion of the apical lobe, respectively, with no overlaps (@fig:fzdantag and @fig:summary).
+Frizzled genes are expressed in broader domains with *fz1/2/7* being nearly ubiquitous (@fig:fzdantag and @fig:summary).
+The remaining Frizzleds, *fz5/8*, *fz4*, and *fz9/10*, are expressed at the anterior, medial, and posterior portion of the apical lobe, respectively, with no overlaps, showing an anteroposterior organization (@fig:fzdantag and @fig:summary).
 No Frizzled receptor is expressed in the terminal portion of the pedicle lobe.
+In contrast, Wnt antagonists are confined to the anteriormost portion of the ectoderm (@fig:fzdantag).
 
-<!--The mantle lobe shows a predominant expression of *fz1/2/7*, and the pedicle lobe only expresses *fz9/10* at the subterminal region (@fig:summary).-->
-
-The combinatorial expression Wnt signaling components creates a complex transcriptional landscape at the late gastrula stage (@fig:summary).
+The combinatorial expression Wnt signaling components creates an intricate transcriptional landscape at the late gastrula stage (@fig:summary).
 We identified six subregions along the anteroposterior axis of *T. transversa*, each expressing a unique combination of Wnt ligands, receptors, and antagonists (@tbl:landscape).
 These molecular territories precede larval morphogenesis, and subsequently coincide with the morphological subdivisions of the larval body, suggesting that Wnt signaling is involved in the axial patterning of *T. transversa*.
-
-<!--, and Wnt antagonists are confined to the anteriormost portion of the ectoderm .-->
 
 <!--In summary, transcripts for most cell polarity components are maternally-deposited in the oocyte at high levels, except for *dgo*. While *fmi* and *stbm* expression is ubiquitous, *dsh*, *dgo*, and *pk* domains are expressed in the apical, dorsal, and ventral regions, respectively, and do not overlap. The location of *dgo* and *pk* apical lobe domains coincides with areas lacking *jnk* transcripts in the apical lobe.-->
 
