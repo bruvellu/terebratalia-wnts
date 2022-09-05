@@ -109,7 +109,7 @@ We find that twelve of the thirteen Wnt subfamilies are present in the brachiopo
 One of the *wnt1* paralogs---named hereafter *wnt1t*---is highly-divergent at the sequence level compared to other *wnt1* orthologs across bilaterians, and our phylogenetic analysis suggests it originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
 Despite the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a single representative ortholog for the remaining subfamilies, suggesting the ancestral repertoire of metazoan Wnt genes has remained conserved in this brachiopod.
 
-## Wnts are upregulated in concert during axial elongation
+## Wnts genes are upregulated in concert during axial elongation
 
 To characterize the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
 We detect a great abundance of *wnt4* and *wntA* transcripts deposited maternally in the oocyte (@fig:profiling).
@@ -120,7 +120,7 @@ Between the late gastrula and early larva stages, all Wnt genes are expressed.
 These stages coincide with the elongation of the anteroposterior axis, and differentiation of larval lobes that occur at the end of gastrulation.
 While most Wnt genes remain expressed, *wnt6* and *wnt10* expression levels decay after gastrulation, and *wnt7* and *wnt16* are downregulated in after metamorphosis (@fig:profiling).
 
-## Wnts are expressed along the anteroposterior axis in partially overlapping domains
+## Wnts are expressed in diverse, partially overlapping ectodermal domains
 
 To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in gastrula and larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
@@ -175,7 +175,7 @@ These *wnt16*-expressing cells localize to a central portion of the mantle lobe 
 *wntA* appears in the late gastrula as paired ventral domains at the posteriormost portion of the apical lobe (@fig:ligands2 and @fig:s-ligands).
 These anterior ectodermal domains are cleared in the late larva, when *wntA* expression is activated in a pair of anterior mesodermal bands next to the mouth (@fig:ligands2 and @fig:s-ligands).
 
-## Frizzled genes are expressed throughout development of *T. transversa*
+## Frizzled genes are expressed throughout embryogenesis
 
 Frizzleds are seven-pass transmembrane proteins with an extracellular cystein-rich domain that act as receptors in Wnt signaling pathways [@Huang2004-di].
 Metazoans have a variety of Frizzled proteins generally divided into five subfamilies: *fz1/2/7*, *fz3/6*, *fz5/8*, *fz9/10*, and *fz4* [@MacDonald2012-ri].
@@ -188,7 +188,7 @@ The expression of *fz1/2/7* remains high from the oocyte to juvenile stages whil
 In contrast, *fz9/10* expression only increases during gastrulation, remaining relatively constant in subsequent stages.
 Changes in Frizzled expression occur in gradual but consistent waves of up or down regulation and, despite of being less variable than that of Wnt genes, each individual Frizzled shows a unique expression profile.
 
-## Frizzled domains are broadly expressed in distinct body regions
+## Frizzled domains occupy broad but distinct regions of the body
 
 *fz1/2/7* transcripts are almost ubiquitous in gastrula tissues (@fig:fzdantag).
 We observe an anteroposterior gradient with stronger signal at the apical region, in the anterior mesoderm, and in a pair of lateral ectodermal domains in the middle of the body (@fig:fzdantag and @fig:s-receptors).
@@ -211,7 +211,7 @@ The posterior limit of *fz9/10* domain reaches the pedicle lobe where it overlap
 Mantle lobe expression is weak, and the terminal portion of the pedicle lobe is cleared from *fz9/10* transcripts (@fig:fzdantag and @fig:s-receptors).
 Throughout development *fz9/10* is expressed in the mesoderm.
 
-## Wnt antagonists are expressed in the anterior pole and mesodermal tissues
+## Expression of Wnt antagonists is limited to the anterior ectoderm and mesoderm
 
 To obtain a more comprehensive picture of the Wnt signaling landscape in *T. transversa*, we also analyzed the expression of three Wnt antagonists, Secreted Frizzled-Related Protein (*sfrp*), Dickkopf protein (*dkk*), and Wnt Inhibitory Factor (*wif*).
 
@@ -236,9 +236,7 @@ In *T. transversa* we identified one *wif* gene ortholog (@fig:wif-tree).
 The expression levels are relatively low and somewhat stable throughout development, with a peak in the late gastrula (@fig:profiling).
 Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues throughout the analyzed developmental stages (@fig:fzdantag and @fig:s-antagonists).
 
-## Planar cell polarity pathway components are expressed during axial elongation
-
-<!--TODO: Write better heading title-->
+## Cell polarity genes are expressed in patches during axial elongation
 
 Proper regulation of planar cell polarity (PCP) is crucial to guide morphogenetic processes, such as convergent extension, and to orient the formation of structures during development [@Simons2008-cj; @Gao2012-fh].
 Thus, we identified and analyzed the expression of the core components of the PCP pathway in *T. transversa*, namely *dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as *ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as *stan* or *celsr*), *strabismus* (*stbm*, also known as *vang* or *vangl*), as well as the downstream transducer *c-jun n-terminal kinase* (*jnk*).
@@ -283,13 +281,24 @@ The expression of *jnk* is ubiquitous in the late gastrula except for broad bila
 
 # Discussion
 
-<!--Wnt ligands are expressed in diverse, mostly ectodermal domains throughout embryogenesis (@fig:ligands1 and @fig:ligands2).-->
+Our work characterizes the expression of Wnt signaling components during brachiopod development.
+We find that *T. transversa* expresses Wnt ligands, Frizzled receptors, and Wnt antagonists, throughout embryogenesis, from the unfertilized oocyte to the juvenile stages.
+While many Wnt components are upregulated during blastula stages, their expression levels peak during gastrulation when the embryo is elongating (@fig:profiling).
+At this stage, all Wnt components analyzed in this study are expressed in diverse, mostly ectodermal domains.
+Before the morphology of the larva becomes evident, the expression of Wnt signaling components shows a clear anteroposterior organization with regionalized partitioned domains.
+By analyzing the combinatorial expression, we identify unique transcriptional subregions that 
+coincide with the future anteroposterior organization of the larva.
 
-Our work describes the developmental expression of Wnt signaling components in the brachiopod *T. transversa*.
-Wnt ligands, receptors, and antagonists, are expressed throughout embryogenesis, from the unfertilized egg to the juvenile stages, but the expression levels peak during gastrulation when the embryo’s body is elongating (@fig:profiling).
-Initially, Wnt genes are predominantly expressed in posterior overlapping domains.
-But as development progresses, these posterior domains segregate into distinct territories, and novel domains appear more anteriorly.
-By the late gastrula stage, while there are no morphological differences along the anteroposterior axis, the ectodermal expression of Wnt signaling components is already regionalized.
+## Combinatorial expression of Wnt signaling components creates a series of unique transcriptional subregions along the anteroposterior axis of *T. transversa*
+
+The combinatorial expression Wnt signaling components creates an intricate transcriptional landscape at the late gastrula stage (@fig:summary).
+We identified six subregions along the anteroposterior axis of *T. transversa*, each expressing a unique combination of Wnt ligands, receptors, and antagonists (@tbl:landscape).
+These molecular territories precede larval morphogenesis, and subsequently coincide with the morphological subdivisions of the larval body, suggesting that Wnt signaling is involved in the axial patterning of *T. transversa*.
+
+Frizzled genes are expressed in broader domains with *fz1/2/7* being nearly ubiquitous (@fig:fzdantag and @fig:summary).
+The remaining Frizzleds, *fz5/8*, *fz4*, and *fz9/10*, are expressed at the anterior, medial, and posterior portion of the apical lobe, respectively, with no overlaps, showing an anteroposterior organization (@fig:fzdantag and @fig:summary).
+No Frizzled receptor is expressed in the terminal portion of the pedicle lobe.
+In contrast, Wnt antagonists are confined to the anteriormost portion of the ectoderm (@fig:fzdantag).
 
 We identified four main areas, each containing transcripts of different Wnt ligands in partially overlapping Wnt domains: the posterior portion of the apical lobe (*wnt2*, *wnt8*, *wnt5*, *wntA*), the mantle lobe (*wnt5* and *wnt16*), the subterminal portion of the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and the terminal portion of the pedicle lobe (*wnt5*, *wnt6*, *wnt11*) (@fig:summary).
 The domains show a clear anteroposterior organization.
@@ -298,31 +307,7 @@ Different portions of the embryo express a unique set of Wnt domains, and one Wn
 While most Wnts are expressed in a single region, *wnt1*, *wnt5*, and  *wnt7* are expressed in different regions along the anteroposterior axis.
 Except for a localized dorsal spot of *wnt1t* transcripts, a gene that shows a divergent expression pattern compared to other Wnts, no Wnt ligand is expressed in the anterior portion of the apical lobe.
 
-Frizzled genes are expressed in broader domains with *fz1/2/7* being nearly ubiquitous (@fig:fzdantag and @fig:summary).
-The remaining Frizzleds, *fz5/8*, *fz4*, and *fz9/10*, are expressed at the anterior, medial, and posterior portion of the apical lobe, respectively, with no overlaps, showing an anteroposterior organization (@fig:fzdantag and @fig:summary).
-No Frizzled receptor is expressed in the terminal portion of the pedicle lobe.
-In contrast, Wnt antagonists are confined to the anteriormost portion of the ectoderm (@fig:fzdantag).
-
-The combinatorial expression Wnt signaling components creates an intricate transcriptional landscape at the late gastrula stage (@fig:summary).
-We identified six subregions along the anteroposterior axis of *T. transversa*, each expressing a unique combination of Wnt ligands, receptors, and antagonists (@tbl:landscape).
-These molecular territories precede larval morphogenesis, and subsequently coincide with the morphological subdivisions of the larval body, suggesting that Wnt signaling is involved in the axial patterning of *T. transversa*.
-
-<!--In summary, transcripts for most cell polarity components are maternally-deposited in the oocyte at high levels, except for *dgo*. While *fmi* and *stbm* expression is ubiquitous, *dsh*, *dgo*, and *pk* domains are expressed in the apical, dorsal, and ventral regions, respectively, and do not overlap. The location of *dgo* and *pk* apical lobe domains coincides with areas lacking *jnk* transcripts in the apical lobe.-->
-
-<!--## *T. transversa* Wnt complement remained conserved throughout evolution-->
-
-<!--Another brachiopod species, the linguliform *Lingula anatina*, also has two copies of *wnt1* [@Luo2015-lm], but our phylogenetic analysis indicate these *wnt1* duplication events in *T. transversa* and *L. anatina* occurred independently (@fig:wnt-tree and @fig:wnt1-tree).-->
-
-<!--Its divergent expression pattern compared to *wnt1*, and unusual anterior localization compared to the other Wnt ligands suggests it may have also evolved divergent developmental roles in *T. transversa*.-->
-
-<!--Frizzled is missing fz3/6 which is vertebrate-specific. Single-copy of sfrp and wif inhibitors.-->
-
-<!--dkk3 is thought to be unrelated to wnt but amphi has two and Ttra matches
-the one related to Wnt is a novel subfamily lost near the base of protostomes-->
-
-<!--*T. transversa* dkk3 belongs to an undescribed dkk subfamily. It does not group with the cnidarian dkk3 or human dkk3, but with a distinct subfamily of dkks with mainly protostomes. While hemichordates have the two subfamilies of dkk3. This suggests there are two distinct families of dkk3. Structurally their domains differ. The ancestral dkk3 (no-wnt) gave rise to dkk1/dkk3protostome (yes-wnt). dkk3 is seemingly unrelated to Wnt signaling. But dkk3 has been shown to modulate wnt in one amphioxus species but another. Our phylogenetic analysis suggests that the three subfamilies of dkk were present in hemichordates and amphioxus. While wntdkk3 was lost in deuterostomes, dkk1 and nowntdkk3 was lost in protostomes. In summary, dkk found in protostomes is closer to dkk1-2-4 than dkk3. which is divergent and seemingly unrelated to Wnt signaling-->
-
-## Wnt subregions coincide with morphological subdivisions of the larval body
+## Transcriptional subregions coincide with the morphological subdivisions of the larval body
 
 <!--Subregion 1: Anteriormost region associated with neural genes, wnt antagonists and neural fates.-->
 <!--Genes: sfrp1/2/5, dkk5, fz1/2/7, fz5/8-->
@@ -424,7 +409,13 @@ Therefore, the different ligand--receptor context can be involved in setting up 
 <!--TODO: Discuss axin, dishevelled, bcat?-->
 <!--TODO: How does Wnt signaling intersects with Hox expression?-->
 
-## Maternal load of Frizzled receptors is evolutionary conserved
+## The role of ligand--receptor shuffling in bilaterian axial evolution
+
+<!--## *T. transversa* Wnt complement remained conserved throughout evolution-->
+
+<!--Wnt subregions is evolutionary conserved for receptors but less so for ligands-->
+
+<!--Maternal load of Frizzled receptors is evolutionary conserved-->
 
 <!--## Maternal load of Wnt ligands is evolutionary diverse-->
 
@@ -456,7 +447,6 @@ deployed regardless of the specific ligand deposited in the egg.
 <!--We identified two waves of Wnt upregulation during *T. transversa* development. The first in late blastula and the second in late gastrulation when all Wnt ligands are expressed. This coincides with the period of axial elongation. Wnts are known to be involved in axial patterning and elongation [@WntAxialPatterningElongation]. The activation of Wnt genes, and their unique spatial localization suggests they may also be involved in brachiopod axial patterning.-->
 
 
-## Role of ligand--receptor context in axial patterning evolution
 
 <!--@Kusserow2005-xd Expression of Wnt ligands is staggered domains spanning the entire oral--aboral axis except for the aboral pole.-->
 
