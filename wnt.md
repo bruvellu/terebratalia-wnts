@@ -282,12 +282,23 @@ The expression of *jnk* is ubiquitous in the late gastrula except for broad bila
 # Discussion
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
-We find that *T. transversa* expresses Wnt ligands, Frizzled receptors, and Wnt antagonists, throughout embryogenesis, from the unfertilized oocyte to the juvenile stages.
-While many Wnt components are upregulated during blastula stages, their expression levels peak during gastrulation when the embryo is elongating (@fig:profiling).
-At this stage, all Wnt components analyzed in this study are expressed in diverse, mostly ectodermal domains.
+We find that the brachiopod *T. transversa* has a conserved repertoire of Wnt ligands, Frizzled receptors, Wnt antagonists, and components of the cell polarity pathway, showing almost no duplications or losses.
+These genes are expressed throughout embryogenesis, from the unfertilized oocyte to the post-metamorphic stages, and while some Wnt components are deposited maternally in the egg, most genes only get activated after fertilization (@fig:profiling).
+We identified two upregulation events of Wnt genes in *T. transversa*, one in the late blastula stage at the onset of gastrulation, and another in the mid to late gastrula stages during axial elongation.
+In the latter, when the embryo is elongating, every Wnt signaling component is expressed (@fig:profiling).
+We analyzed the spatial arrangement of these expression domains in the late gastrula stage and found they show an evident anteroposterior organization (@fig:summary).
+
+For instance, the expression of Wnt antagonists is limited to the anterior pole, a region lacking Wnt ligand expression, while Frizzled receptors are not expressed in the posterior pole.
+Wnt ligands are expressed in groups diverse domains and different receptor contexts are expressed in a variety of 
+
+
 Before the morphology of the larva becomes evident, the expression of Wnt signaling components shows a clear anteroposterior organization with regionalized partitioned domains.
 By analyzing the combinatorial expression, we identify unique transcriptional subregions that 
 coincide with the future anteroposterior organization of the larva.
+
+- The combinatorial expression forms unique transcriptional subregions
+- These subregions coincide with the divisions in the larval body
+
 
 ## Combinatorial expression of Wnt signaling components creates a series of unique transcriptional subregions along the anteroposterior axis of *T. transversa*
 
