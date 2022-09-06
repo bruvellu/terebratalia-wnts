@@ -295,29 +295,27 @@ These genes are expressed throughout embryogenesis, from the unfertilized oocyte
 While some Wnt components are already present in the egg, most only get activated after fertilization.
 We identified two events of Wnt upregulation, one in the late blastula at the onset of gastrulation, and another in the mid to late gastrula during axial elongation.
 In the late gastrula stage we detect transcripts of every Wnt signaling component both by RNA-seq (@fig:profiling) and by *in situ* hybridization (@fig:ligands1 and @fig:ligands2).
-Their spatial localization, however, is not ubiquitous but regionalized, with individual genes often limited to a specific region of the body, creating an intricate Wnt landscape along the anteroposterior axis that precedes the morphological differentiation of the larval body (@fig:summary).
+Their spatial localization, however, is not ubiquitous but regionalized, with individual genes often limited to a specific region of the body, creating an intricate Wnt landscape along the anteroposterior axis that precedes the morphological differentiation of the larval body ({@fig:summary}A).
 
 ## Unique transcriptional subregions along anteroposterior axis
 
 <!--## Combinatorial expression of Wnt signaling components creates a series of unique transcriptional subregions along the anteroposterior axis of *T. transversa*-->
 
-*T. transversa* Wnt signaling domains show an anteroposterior organization (@fig:summary).
+*T. transversa* Wnt signaling domains show an anteroposterior organization ({@fig:summary}A).
 Wnt antagonists, for instance, are confined to the anterior pole, a region that lacks the expression of Wnt ligands almost entirely.
 The Wnt ligands, in turn, are expressed more posteriorly in partially overlapping bands or stripes.
 These domains can be grouped into four abutting areas along the apical, mantle, and pedicle lobes, and the posterior pole.
 Similarly, Frizzled domains follow an anterior to posterior arrangement.
 But the domains are broader and show almost no overlap, except for *fz1/2/7* which is nearly ubiquitous.
 No Frizzled receptor is expressed in the terminal portion of the pedicle lobe.
-By integrating the combinatorial expression of ligands, receptors, and antagonists, we identified six unique transcriptional subregions in the anteroposterior axis of *T. transversa* (@tbl:landscape).
+By integrating the combinatorial expression of ligands, receptors, and antagonists, we identified six unique transcriptional subregions in the anteroposterior axis of *T. transversa* ({@fig:summary}A,B and @tbl:landscape).
 
 ## Transcriptional subregions coincide with larval morphology
 
-These molecular territories precede larval morphogenesis, and subsequently coincide with the morphological subdivisions of the larval body, suggesting that Wnt signaling is involved in the axial patterning of *T. transversa*.
+The six molecular territories precede larval morphogenesis, and subsequently coincide with the morphological subdivisions of the larval body, suggesting that Wnt signaling is involved in the axial patterning of *T. transversa*.
 
 While most Wnts are expressed in a single region, *wnt1*, *wnt5*, and  *wnt7* are expressed in different regions along the anteroposterior axis.
 In addition, *wnt7* outlines the boundaries between two molecular territories, the apical--mantle boundary, and the pedicle lobe terminal and subterminal regions (@fig:summary).
-
-Different portions of the embryo express a unique set of Wnt domains, and one Wnt gene is often limited to a specific region of the body.
 
 Except for a localized dorsal spot of *wnt1t* transcripts, a gene that shows a divergent expression pattern compared to other Wnts, no Wnt ligand is expressed in the anterior portion of the apical lobe.
 
@@ -679,6 +677,19 @@ differentiated body regions.](figures/Fig9.jpg){#fig:comparative width=100%}
 
 # Tables
 
+Table: Transcriptional identity of Wnt signaling subregions in the brachiopod *T. transversa*. {#tbl:landscape}
+
+| Region                    | Antagonists     | Ligands                                            | Receptors             |
+| ------------------------- | --------------- | -------------------------------------------------- | --------------------- |
+| Anterior tip              | *dkk*, *sfrp1/2/5*   | (*wnt1t*)                                                  | *fz1/2/7*, *fz5/8*    |
+| Apical lobe               | -               | *wntA*, *wnt8*, *wnt2*, *wnt5*                     | *fz1/2/7*, *fz4*      |
+| Apical--mantle boundary   | -               | *wnt1*, *wnt7*, *wnt16*                            | *fz1/2/7*, *fz9/10*   |
+| Mantle lobe               | -               | *wnt5*, *wnt16*                                    | *fz1/2/7*             |
+| Pedicle lobe              | -               | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7*   | *fz9/10*              |
+| Posterior tip             | -               | *wnt6*, *wnt11*, *wnt5*                            | -                     |
+
+\newpage
+
 Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs.
 {#tbl:maternal}
 
@@ -694,19 +705,6 @@ Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs.
 | *Xenopus laevis*                | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            | -                                                        |
 | *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
 | *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
-
-\newpage
-
-Table: Transcriptional identity of Wnt signaling subregions in the brachiopod *T. transversa*. {#tbl:landscape}
-
-| Region                    | Antagonists     | Ligands                                            | Receptors             |
-| ------------------------- | --------------- | -------------------------------------------------- | --------------------- |
-| Anterior tip              | *dkk*, *sfrp1/2/5*   | (*wnt1t*)                                                  | *fz1/2/7*, *fz5/8*    |
-| Apical lobe               | -               | *wntA*, *wnt8*, *wnt2*, *wnt5*                     | *fz1/2/7*, *fz4*      |
-| Apical--mantle boundary   | -               | *wnt1*, *wnt7*, *wnt16*                            | *fz1/2/7*, *fz9/10*   |
-| Mantle lobe               | -               | *wnt5*, *wnt16*                                    | *fz1/2/7*             |
-| Pedicle lobe              | -               | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7*   | *fz9/10*              |
-| Posterior tip             | -               | *wnt6*, *wnt11*, *wnt5*                            | -                     |
 
 \newpage
 
