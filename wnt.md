@@ -283,14 +283,18 @@ The expression of *jnk* is ubiquitous in the late gastrula except for broad bila
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
 We find that the brachiopod *T. transversa* has a conserved repertoire of Wnt ligands, Frizzled receptors, Wnt antagonists, and components of the cell polarity pathway, showing almost no duplications or losses.
-These genes are expressed throughout embryogenesis, from the unfertilized oocyte to the post-metamorphic stages, and while some Wnt components are deposited maternally in the egg, most genes only get activated after fertilization (@fig:profiling).
-We identified two upregulation events of Wnt genes in *T. transversa*, one in the late blastula stage at the onset of gastrulation, and another in the mid to late gastrula stages during axial elongation.
-In the latter, when the embryo is elongating, every Wnt signaling component is expressed (@fig:profiling).
-We analyzed the spatial arrangement of these expression domains in the late gastrula stage and found they show an evident anteroposterior organization (@fig:summary).
+These genes are expressed throughout embryogenesis, from the unfertilized oocyte to the post-metamorphic stages.
+While some Wnt components are already present in the egg, most only get activated after fertilization.
+We identified two events of Wnt upregulation, one in the late blastula at the onset of gastrulation, and another in the mid to late gastrula during axial elongation.
+In the late gastrula stage we detect transcripts of every Wnt signaling component both by RNA-seq (@fig:profiling) and by *in situ* hybridization (@fig:ligands1 and @fig:ligands2).
+Their spatial localization, however, is not ubiquitous but regionalized, with individual genes often limited to a specific region of the body, creating an intricate Wnt landscape along the anteroposterior axis that precedes the morphological differentiation of the larval body (@fig:summary).
+
+Wnt signaling expression domains in *T. transversa* show an anteroposterior organization.
+
+In contrast, Wnt antagonists are confined to the anteriormost portion of the ectoderm (@fig:fzdantag).
 
 For instance, the expression of Wnt antagonists is limited to the anterior pole, a region lacking Wnt ligand expression, while Frizzled receptors are not expressed in the posterior pole.
 Wnt ligands are expressed in groups diverse domains and different receptor contexts are expressed in a variety of 
-
 
 Before the morphology of the larva becomes evident, the expression of Wnt signaling components shows a clear anteroposterior organization with regionalized partitioned domains.
 By analyzing the combinatorial expression, we identify unique transcriptional subregions that 
@@ -309,10 +313,8 @@ These molecular territories precede larval morphogenesis, and subsequently coinc
 Frizzled genes are expressed in broader domains with *fz1/2/7* being nearly ubiquitous (@fig:fzdantag and @fig:summary).
 The remaining Frizzleds, *fz5/8*, *fz4*, and *fz9/10*, are expressed at the anterior, medial, and posterior portion of the apical lobe, respectively, with no overlaps, showing an anteroposterior organization (@fig:fzdantag and @fig:summary).
 No Frizzled receptor is expressed in the terminal portion of the pedicle lobe.
-In contrast, Wnt antagonists are confined to the anteriormost portion of the ectoderm (@fig:fzdantag).
 
 We identified four main areas, each containing transcripts of different Wnt ligands in partially overlapping Wnt domains: the posterior portion of the apical lobe (*wnt2*, *wnt8*, *wnt5*, *wntA*), the mantle lobe (*wnt5* and *wnt16*), the subterminal portion of the pedicle lobe (*wnt1*, *wnt4*, *wnt9* and *wnt10*), and the terminal portion of the pedicle lobe (*wnt5*, *wnt6*, *wnt11*) (@fig:summary).
-The domains show a clear anteroposterior organization.
 In addition, *wnt7* outlines the boundaries between two molecular territories, the apical--mantle boundary, and the pedicle lobe terminal and subterminal regions (@fig:summary).
 Different portions of the embryo express a unique set of Wnt domains, and one Wnt gene is often limited to a specific region of the body.
 While most Wnts are expressed in a single region, *wnt1*, *wnt5*, and  *wnt7* are expressed in different regions along the anteroposterior axis.
