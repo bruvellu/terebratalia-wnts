@@ -295,30 +295,11 @@ These genes are expressed throughout embryogenesis, from the unfertilized oocyte
 While some Wnt components are already present in the egg, most only get activated after fertilization.
 We identified two events of Wnt upregulation, one in the late blastula at the onset of gastrulation, and another in the mid to late gastrula during axial elongation.
 In the late gastrula stage we detect transcripts of every Wnt signaling component both by RNA-seq (@fig:profiling) and by *in situ* hybridization (@fig:ligands1 and @fig:ligands2).
-Their spatial localization, however, is not ubiquitous but regionalized, with individual genes often limited to a specific region of the body, creating an intricate Wnt landscape along the anteroposterior axis that precedes the morphological differentiation of the larval body ({@fig:summary}A).
+Their spatial localization, however, is not ubiquitous but regionalized, with individual genes often limited to a specific region of the body forming an intricate transcriptional landscape of abutting expression domains organized along the anteroposterior axis ({@fig:summary}A).
+We identified six distinct transcriptional territories in the late gastrula, each expressing a unique combination of ligands, receptors, and antagonists (@tbl:landscape).
+These territories precede larval morphogenesis and subsequently coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that the differential activation of Wnt signaling may be involved in patterning and regionalizing the anteroposterior axis of *T. transversa*.
 
-## Unique transcriptional subregions along anteroposterior axis
-
-<!--## Combinatorial expression of Wnt signaling components creates a series of unique transcriptional subregions along the anteroposterior axis of *T. transversa*-->
-
-*T. transversa* Wnt signaling domains show an anteroposterior organization ({@fig:summary}A).
-Wnt antagonists, for instance, are confined to the anterior pole, a region that lacks the expression of Wnt ligands almost entirely.
-The Wnt ligands, in turn, are expressed more posteriorly in partially overlapping bands or stripes.
-These domains can be grouped into four abutting areas along the apical, mantle, and pedicle lobes, and the posterior pole.
-Similarly, Frizzled domains follow an anterior to posterior arrangement.
-But the domains are broader and show almost no overlap, except for *fz1/2/7* which is nearly ubiquitous.
-No Frizzled receptor is expressed in the terminal portion of the pedicle lobe.
-By integrating the combinatorial expression of ligands, receptors, and antagonists, we identified six unique transcriptional subregions in the anteroposterior axis of *T. transversa* ({@fig:summary}A,B and @tbl:landscape).
-
-## Transcriptional subregions coincide with larval morphology
-
-The six molecular territories precede larval morphogenesis, and subsequently coincide with the morphological subdivisions of the larval body, suggesting that Wnt signaling is involved in the axial patterning of *T. transversa*.
-
-While most Wnts are expressed in a single region, *wnt1*, *wnt5*, and  *wnt7* are expressed in different regions along the anteroposterior axis.
-In addition, *wnt7* outlines the boundaries between two molecular territories, the apical--mantle boundary, and the pedicle lobe terminal and subterminal regions (@fig:summary).
-
-Except for a localized dorsal spot of *wnt1t* transcripts, a gene that shows a divergent expression pattern compared to other Wnts, no Wnt ligand is expressed in the anterior portion of the apical lobe.
-
+<!--## Combinatorial expression of Wnt signaling components creates a series of unique transcriptional subregions along the anteroposterior axis of *T. transversa* which coincide with the morphological subdivisions of the larval body-->
 
 <!--Subregion 1: Anteriormost region associated with neural genes, wnt antagonists and neural fates.-->
 <!--Genes: sfrp1/2/5, dkk5, fz1/2/7, fz5/8-->
@@ -414,6 +395,14 @@ Ligand competition for the same receptor might be another important aspect of re
 For example, *wnt1* antagonizes *wnt5* [@Torres1996-hs], an interaction that may be occurring in the brachiopod as the non-overlapping domains suggest.
 Ligands expressed in different receptor contexts which may be eliciting different fate outcomes and body region specification.
 Therefore, the different ligand--receptor context can be involved in setting up the identities or differentially patterning the tissue fates of the different larval body regions of the brachiopod *T. transversa*.
+
+
+While most Wnts are expressed in a single region, *wnt1*, *wnt5*, and  *wnt7* are expressed in different regions along the anteroposterior axis.
+In addition, *wnt7* outlines the boundaries between two molecular territories, the apical--mantle boundary, and the pedicle lobe terminal and subterminal regions (@fig:summary).
+
+Except for a localized dorsal spot of *wnt1t* transcripts, a gene that shows a divergent expression pattern compared to other Wnts, no Wnt ligand is expressed in the anterior portion of the apical lobe.
+
+
 
 <!--TODO: Discuss mesodermal expression?-->
 <!--TODO: Comment on anterior mesoderm Frizzled expression-->
