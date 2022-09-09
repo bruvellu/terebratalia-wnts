@@ -326,17 +326,15 @@ These territories precede larval morphogenesis and subsequently coincide with th
 -->
 
 Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].
-Activation of the Wnt/beta-catenin pathway specifies endomesoderm and induces posterior fates in early embryos, while its inhibition is associated with the differentiation of anterior and neural fates [@Petersen2009-wp; @Hikasa2013].
+Activation of the Wnt/beta-catenin pathway specifies endomesoderm and induces posterior fates in early embryos, while its inhibition is associated with the differentiation of anterior and neural fates [@Petersen2009-wp; @Hikasa2013-yl].
+Some of the key molecular players involved in the downregulation of Wnt signaling in the anterior neuroectoderm are transcription factor *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co], and a variety of genes such as sFRP and Dkk [@Cruciat2013-zs].
+Thus, in many metazoan embryos, the ectodermal tissues opposite to the gastrulation site, the aboral pole in cnidarians and the anterior pole in bilaterians, usually express antagonists of the Wnt pathway [@Petersen2009-wp].
+In *T. transversa*, the anterior pole gives rise to the larval apical organ and neuropile [@Santagata2011-ry] and the region expresses neural genes, such as six3/6 and *foxq2*, at least from the early gastrula [@Santagata2012-he].
+Our current work reveals Wnt antagonists, such as *sfrp1/2/5* and *dkk5*, are expressed in the same region, the anteriormost transcriptional territory which lacks the expression of Wnt ligands almost entirely.
+Interestingly, this molecular territory also expresses the receptors *fz1/2/7* and *fz5/8*, also known to negatively impact Wnt signaling which are known to inhibit beta-catenin signaling in sea urchins [@Range2013-gm; @Khadka2018-td].
+There, fz5/8 plays a role in the second phase of the anterior neuroectoderm patterning by activating sFRP and Dkk expression in the anterior pole and consolidating the neuroectoderm identity [@Range2013-gm; @Khadka2018-td].
 <!--Over activation of the Wnt pathway reduced dramatically the expression of anterior markers but their expression was not entirely abolished, suggesting that at least a remnant of anterior identity remains [@Martin-Duran2016-qa].-->
-The anterior neuroectoderm of metazoans is specified by six3/6 which antagonizes Wnt signaling [six3refs].
-Also Wnt inhibitors are involved [antagonistrefs].
-Thus, in many metazoan embryos, the ectodermal tissues opposite to the gastrulation site, the aboral pole in cnidarians and the anterior pole in bilaterians, usually express antagonists of the Wnt pathway.
-The anterior pole of *T. transversa* forms the larval apical organ and neuropile [@Santagata2011-ry] with expressing neural genes, such as six3/6 and *foxq2* [@Santagata2012-he].
-Our current work shows that Wnt antagonists confined to the anterior pole, with the anteriormost transcriptional territory expresses *sfrp1/2/5* and *dkk5* and lacks the expression of Wnt ligands almost entirely.
-Interestingly, this molecular territory also expresses the receptors *fz1/2/7* and *fz5/8*, also known to negatively impact Wnt signaling.
-In sea urchins, fz1/2/7 is known to inhibit beta-catenin signaling, and fz5/8 activates sFRP and Dkk early expression in the anterior pole, the latter negatively repress fz5/8 signaling, consolidating the neuroectoderm identity [@Range2013-gm; @Khadka2018-td].
-A similar spatiotemporal arrangement occurs in the brachiopod with the three genes restricted to this subregion.
-This suggests that regulatory loop is involved in patterning the neuropile and apical organ of *T. transversa*.
+The similarity in the spatial arrangement of these genes in anterior pole of *T. transversa* suggests that similar genetic interactions may be involved in the patterning of the brachiopod apical organ and neuropile.
 
 <!--Subregion 2: Posterior portion of the apical lobe that grow to become a disc-like structure.-->
 <!--Genes: fz1/2/7, fz4, wntA, wnt8, wnt2, wnt5-->
