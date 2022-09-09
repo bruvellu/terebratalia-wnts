@@ -296,8 +296,8 @@ The expression of *jnk* is ubiquitous in the late gastrula except for broad bila
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
 We find that the brachiopod *T. transversa* has a conserved repertoire of Wnt ligands, Frizzled receptors, Wnt antagonists, and components of the cell polarity pathway, showing almost no duplications or losses.
-These genes are expressed throughout embryogenesis, from the unfertilized oocyte to the post-metamorphic stages.
-While some Wnt components are already present in the egg, most only get activated after fertilization.
+These genes are expressed throughout embryogenesis, from the unfertilized oocyte, with some Wnt components already deposited in the egg, to the post-metamorphic juvenile stages.
+Most genes, however, only get activated after fertilization.
 We identified two events of Wnt upregulation, one in the late blastula at the onset of gastrulation, and another in the mid to late gastrula during axial elongation.
 In the late gastrula stage we detect transcripts of every Wnt signaling component both by RNA-seq (@fig:profiling) and by *in situ* hybridization (@fig:ligands1 and @fig:ligands2).
 Their spatial localization, however, is not ubiquitous but regionalized, with individual genes often limited to a specific region of the body forming an intricate transcriptional landscape of abutting expression domains organized along the anteroposterior axis ({@fig:summary}A).
@@ -325,32 +325,18 @@ These territories precede larval morphogenesis and subsequently coincide with th
 
 -->
 
-Wnt signaling sets the polarity of the primary embryonic axis in early development.
-Activation of the Wnt pathway is associated with the induction of posterior fates while Wnt inhibition is associated with anterior and neural fates [@Petersen2009-wp; @Hikasa2013].
-In most metazoans, the anterior ectoderm lacks Wnt expression and express antagonists of the Wnt pathway.
-*T. transversa* shows the same overall pattern.
-Wnt antagonists are confined to the anterior pole, a region that lacks the expression of Wnt ligands almost entirely, while Wnts are initially expressed mostly posterior to the blastopore.
-Over activation of the Wnt pathway reduced dramatically the expression of anterior markers and disrupted the morphology of the anterior lobe, but the expression of anterior markers six3/6, otx, and pax6 are not entirely abolished, suggesting that at least a remnant of anterior identity remains even in an over activation condition.
-This anterior identity may be maintained with the expression of Wnt antagonists.
-
-The anteriormost transcriptional subregion of *T. transversa*  forms the anterior neuropile and apical organ in the larva [@Santagata2011-ry].
-This subregion expresses the Wnt antagonists *sfrp1/2/5* and *dkk5*, the receptors *fz1/2/7* and *fz5/8*, and no Wnt ligands.
-The anterior neuroectoderm of metazoans is specified by six3/6 which antagonizes Wnt signaling [].
-Neural genes, such as six3/6, *foxq2*, *homeobrain*, and *nk2.1* are also expressed [@Santagata2012-he].
-The anterior neuroectoderm of sea urchins result of genetic interactions between Fz5/8, sFRP and Dkk [@Range2013-gm; @Khadka2018-td].
-While fz5/8 activates sFRP and Dkk early expression in the anterior pole, the latter negatively repress fz5/8 signaling, consolidating the neuroectoderm identity [@Range2013-gm; @Khadka2018-td].
+Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].
+Activation of the Wnt/beta-catenin pathway specifies endomesoderm and induces posterior fates in early embryos, while its inhibition is associated with the differentiation of anterior and neural fates [@Petersen2009-wp; @Hikasa2013].
+<!--Over activation of the Wnt pathway reduced dramatically the expression of anterior markers but their expression was not entirely abolished, suggesting that at least a remnant of anterior identity remains [@Martin-Duran2016-qa].-->
+The anterior neuroectoderm of metazoans is specified by six3/6 which antagonizes Wnt signaling [six3refs].
+Also Wnt inhibitors are involved [antagonistrefs].
+Thus, in many metazoan embryos, the ectodermal tissues opposite to the gastrulation site, the aboral pole in cnidarians and the anterior pole in bilaterians, usually express antagonists of the Wnt pathway.
+The anterior pole of *T. transversa* forms the larval apical organ and neuropile [@Santagata2011-ry] with expressing neural genes, such as six3/6 and *foxq2* [@Santagata2012-he].
+Our current work shows that Wnt antagonists confined to the anterior pole, with the anteriormost transcriptional territory expresses *sfrp1/2/5* and *dkk5* and lacks the expression of Wnt ligands almost entirely.
+Interestingly, this molecular territory also expresses the receptors *fz1/2/7* and *fz5/8*, also known to negatively impact Wnt signaling.
+In sea urchins, fz1/2/7 is known to inhibit beta-catenin signaling, and fz5/8 activates sFRP and Dkk early expression in the anterior pole, the latter negatively repress fz5/8 signaling, consolidating the neuroectoderm identity [@Range2013-gm; @Khadka2018-td].
 A similar spatiotemporal arrangement occurs in the brachiopod with the three genes restricted to this subregion.
 This suggests that regulatory loop is involved in patterning the neuropile and apical organ of *T. transversa*.
-
-* Lagutin2003-pw → six3 is a direct negative regulator of Wnt1 expression and regulates the regionalization of the vertebrate forebrain.
-* Wei2009-sz → six3 antagonizes Wnt signaling by downregulating Wnt expression in sea urchin.
-* Steinmetz2010-ps → six3 is expressed in the anterior end of bilaterians.
-* Posnien2011-nl → six3 represses wnt1 and regulates the patterning of the anterior central complex in beetle.
-* Sinigaglia2013-co → six3/6 is a key regulator of the aboral pole in cnidaria.
-* Range2013-gm → fz5/8 is required for the second phase of anterior neuroectoderm restriction, this restriction requires wnt1 and wnt8 via JNK pathway, fz1/2/7 and PKC are required for six3 and foxq2 and fz5/8 (maybe via Ca2+ pathway), fz1/2/7 is not a positive regulator of the anterior neuroectoderm but it inhibits the posterior Wnt/beta-catenin restriction mechanisms, fz5/8 activates dkk which antagonizes Wnt/beta-catenin.
-* Khadka2018-td → sfrp is required for the specification of the anterior neuroectoderm, it antagonizes fz5/8-jnk signaling inhibiting the downregulation of the anterior neuroectoderm in parallel to fz1/2/7 and dkk, fz5/8 is required to activate sfrp
-* Range2018-lt → six3 does not directly activate foxq2 or fz5/8 but antagonizes Wnt signaling
-* Lebedeva2021-ms → fz5/8 is expressed in the aboral side (aboral identity is the default)
 
 <!--Subregion 2: Posterior portion of the apical lobe that grow to become a disc-like structure.-->
 <!--Genes: fz1/2/7, fz4, wntA, wnt8, wnt2, wnt5-->
