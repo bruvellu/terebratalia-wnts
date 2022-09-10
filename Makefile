@@ -45,7 +45,9 @@ all:
 	mkdir ${FIGOUT}/source
 	mv ${FIGOUT}/*.png ${FIGOUT}/source/
 	# Remove source for now to avoid sync conflicts
-	rm -r ${FIGOUT}/source
+	#rm -r ${FIGOUT}/source
+	# Update references: wnt.bib
+	wget --content-disposition -N https://paperpile.com/eb/kLGboEXerY
 	# Convert files
 	pandoc ${FILE}.md ${FILTERS} --reference-doc=${TEMPLATE}.odt -o ${FILE}.odt
 	pandoc ${FILE}.md ${FILTERS} --reference-doc=${TEMPLATE}.docx -o ${FILE}.docx
