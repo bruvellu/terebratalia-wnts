@@ -325,6 +325,8 @@ These territories precede larval morphogenesis and subsequently coincide with th
 
 -->
 
+<!--Anterior pole patterning, a Wnt-free zone with Wnt antagonists-->
+
 Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].
 Activation of the Wnt/beta-catenin pathway specifies endomesoderm and induces posterior fates in early embryos, while its inhibition is associated with the differentiation of anterior and neural fates [@Petersen2009-wp; @Hikasa2013-yl].
 Some of the key molecular players involved in the downregulation of Wnt signaling in the anterior neuroectoderm are transcription factor *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co], and a variety of genes such as sFRP and Dkk [@Cruciat2013-zs].
@@ -336,15 +338,28 @@ There, fz5/8 plays a role in the second phase of the anterior neuroectoderm patt
 <!--Over activation of the Wnt pathway reduced dramatically the expression of anterior markers but their expression was not entirely abolished, suggesting that at least a remnant of anterior identity remains [@Martin-Duran2016-qa].-->
 The similarity in the spatial arrangement of these genes in anterior pole of *T. transversa* suggests that similar genetic interactions may be involved in the patterning of the brachiopod apical organ and neuropile.
 
-The posterior portion of the apical lobe is a transcriptional subregion expressing the receptors *fz1/2/7* and *fz4*, and the ligands *wntA*, *wnt8*, *wnt2*, and *wnt5*.
-*wntA* is expressed ventrally near the mouth, *wnt8* is expressed laterally, *wnt2* more dorsally, and *wnt5* encircles the whole circumference of the apical lobe.
+<!--Apical lobe patterning, similarities to head/brain regulation-->
+
+Adjacent to the anterior pole lays a transcriptional territory expressing the Frizzled receptors *fz1/2/7* and *fz4*, and several Wnt ligands (*wnt2*, *wnt5*, *wnt8*, and *wntA*) in *T. transversa* (@fig:summary).
+The earliest genes to be expressed in this region, which corresponds to the posterior portion of the apical lobe, are *wnt8*, *wnt5*, and *fz4* (@fig:ligands1, @fig:ligands2, @fig:fzdantag, @fig:s-ligands, and @fig:s-receptors).
+*wnt8* is commonly expressed in the posterior neuroectoderm in vertebrates [@Kelly1995-jv;  Hollyday1995-ym] and in the head/brain of spiders, annelids, and hemichordates [@Janssen2010-dc; @Pruitt2014-oy; @Darras2018-gm].
+In zebrafish, the anterior boundary of the *wnt8b* domain abuts the posterior boundary of the *fz8a* territory, and *wnt8b* is known to repress the expression of *fz8a* [@Kim2002-ze].
+*wnt8b* activity is important to establish a posterior identity that subdivides the neuroectoderm [@Erter2001-fl; @Lekven2001-jj; @Rhinn2005-ie].
+In *T. transversa*, the spatial arrangement of *fz5/8* and *wnt8* is the same as in zebrafish, suggesting a similar genetic interaction might be in place. 
+In addition, loss of *wnt8* function led to caudal expansion of *pax6* [@Dorsky2003-ud], a gene expressed slightly more anterior in the transcriptional territory in *T. transversa* [@Vellutini2016-lq].
+The correlation between brachiopod expression and genetic interaction suggests that these genes may be involved in the differentiation between anterior and posterior regions of the apical lobe.
+
+<!--wnt5 context-dependent role with fz4-->
+The subregion of the apical lobe of *T. transversa* indeed undergoes intense cell proliferation [@Martin-Duran2016-qa] which may be result in its enlarged appearance compared to the more narrow anteriormost part portion.
+
+wnt5 head patterning
 Some of these Wnts can be linked to head development.
-They are known to interact with...
 The region expresses *fz4* which is associated with the activation of the *β-catenin* cascade (canonical Wnt pathway). 
 Some of the Wnts are linked to cell proliferation.
-The subregion of the apical lobe of *T. transversa* indeed undergoes intense cell proliferation
-[@Martin-Duran2016-qa] which may be result in its enlarged appearance compared to the more narrow anteriormost part portion.
 Therefore, Wnts in this receptor context could be mediating the cell proliferation in the apical lobe.
+
+Mikels2006-ha → wnt5a inhibits canonical Wnt signaling post-translationally and activates it when fz4 is present in mice.
+Torres1996-hs → wnt5a antagonizes wnt1 by decreasing cell adhesion in Xenopus.
 
 <!--Subregion 3: Apical mantle boundary where a deep invagination forms with cell lobes-->
 <!--Genes: fz1/2/7, fz9/10, wnt1, wnt7-->
@@ -518,6 +533,10 @@ amphioxus and vertebrates shows that Frizzled territories are conserved
 [@refs] and some others not. In a metazoan context the expression in cnidarians
 where arrangement of the ancestral Wnt ligands is similar although the data on
 Frizzled is still lacking [@refs].
+
+The regionalized expression of Frizzleds suggests that each receptor may regulate the patterning of different body parts as previously suggested for hemichordates [@Darras2018-gm].
+
+Fz expression is highly regionalized along the A/P axis and suggests that the different receptors are responsible for patterning different regions of the axis.
 
 <!--TODO: Fix up this concluding paragraph-->
 
