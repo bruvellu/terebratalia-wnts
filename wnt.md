@@ -325,7 +325,7 @@ These territories precede larval morphogenesis and subsequently coincide with th
 
 -->
 
-<!--Anterior pole patterning, a Wnt-free zone with Wnt antagonists-->
+<!--Anterior pole patterning, a Wnt-free zone with Wnt antagonists regulated by fz5/8-->
 
 Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].
 Activation of the Wnt/beta-catenin pathway specifies endomesoderm and induces posterior fates in early embryos, while its inhibition is associated with the differentiation of anterior and neural fates [@Petersen2009-wp; @Hikasa2013-yl].
@@ -338,32 +338,33 @@ There, fz5/8 plays a role in the second phase of the anterior neuroectoderm patt
 <!--Over activation of the Wnt pathway reduced dramatically the expression of anterior markers but their expression was not entirely abolished, suggesting that at least a remnant of anterior identity remains [@Martin-Duran2016-qa].-->
 The similarity in the spatial arrangement of these genes in anterior pole of *T. transversa* suggests that similar genetic interactions may be involved in the patterning of the brachiopod apical organ and neuropile.
 
-<!--Apical lobe patterning, similarities to head/brain regulation-->
+<!--Posterior apical lobe as posterior neuroectoderm regulated by wnt8-->
 
 Adjacent to the anterior pole lays a transcriptional territory expressing the Frizzled receptors *fz1/2/7* and *fz4*, and several Wnt ligands (*wnt2*, *wnt5*, *wnt8*, and *wntA*) in *T. transversa* (@fig:summary).
-The earliest genes to be expressed in this region, which corresponds to the posterior portion of the apical lobe, are *wnt8*, *wnt5*, and *fz4* (@fig:ligands1, @fig:ligands2, @fig:fzdantag, @fig:s-ligands, and @fig:s-receptors).
-*wnt8* is commonly expressed in the posterior neuroectoderm in vertebrates [@Kelly1995-jv;  Hollyday1995-ym] and in the head/brain of spiders, annelids, and hemichordates [@Janssen2010-dc; @Pruitt2014-oy; @Darras2018-gm].
+The earliest genes to be expressed in this region, which corresponds to the posterior portion of the apical lobe, are *wnt8*, *wnt5*, and *fz4* (@fig:ligands1, !@fig:ligands2, !@fig:fzdantag, !@fig:s-ligands, and !@fig:s-receptors).
+*wnt8* is commonly expressed in the posterior neuroectoderm in vertebrates [@Kelly1995-jv;  @Hollyday1995-ym] and in the head/brain of spiders, annelids, and hemichordates [@Janssen2010-dc; @Pruitt2014-oy; @Darras2018-gm].
 In zebrafish, the anterior boundary of the *wnt8b* domain abuts the posterior boundary of the *fz8a* territory, and *wnt8b* is known to repress the expression of *fz8a* [@Kim2002-ze].
 *wnt8b* activity is important to establish a posterior identity that subdivides the neuroectoderm [@Erter2001-fl; @Lekven2001-jj; @Rhinn2005-ie].
 In *T. transversa*, the spatial arrangement of *fz5/8* and *wnt8* is the same as in zebrafish, suggesting a similar genetic interaction might be in place. 
 In addition, loss of *wnt8* function led to caudal expansion of *pax6* [@Dorsky2003-ud], a gene expressed slightly more anterior in the transcriptional territory in *T. transversa* [@Vellutini2016-lq].
 The correlation between brachiopod expression and genetic interaction suggests that these genes may be involved in the differentiation between anterior and posterior regions of the apical lobe.
 
-<!--wnt5 context-dependent role with fz4-->
-The subregion of the apical lobe of *T. transversa* indeed undergoes intense cell proliferation [@Martin-Duran2016-qa] which may be result in its enlarged appearance compared to the more narrow anteriormost part portion.
+<!--Cell proliferation of posterior apical lobe mediated by wnt5-->
 
-wnt5 head patterning
-Some of these Wnts can be linked to head development.
-The region expresses *fz4* which is associated with the activation of the *β-catenin* cascade (canonical Wnt pathway). 
-Some of the Wnts are linked to cell proliferation.
-Therefore, Wnts in this receptor context could be mediating the cell proliferation in the apical lobe.
+The expression of *wnt5* and *fz4* also encircle the posterior portion of the apical lobe in the late gastrula.
+*wnt5* is expressed in the head of mice [@Yamaguchi1999-zj], cephalochordates [@Schubert2001-cp], onychophorans [@Hogvall2014-yu].
+*wnt5* is usually associated with cell polarity pathway and it is known to regulate convergent extension movements [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru].
+It inhibits the canonical Wnt signaling post-translationally, but curiously, when *fz4* is co-expressed *wnt5a* activates Wnt/beta-catenin pathway in mice [@Mikels2006-ha].
+*wnt5a* itself also regulates cell proliferation [@Yamaguchi1999-zj].
+Interestingly, the posterior portion of the apical lobe that coincides with the expression domain of *wnt5* undergoes intense cell proliferation [@Martin-Duran2016-qa].
+These observations suggest that wnt5 may be activating the canonical Wnt pathway via fz4 to regulate cell proliferation and differentiate the posterior apical lobe.
 
-Mikels2006-ha → wnt5a inhibits canonical Wnt signaling post-translationally and activates it when fz4 is present in mice.
-Torres1996-hs → wnt5a antagonizes wnt1 by decreasing cell adhesion in Xenopus.
+<!--Apical mantle boundary patterned by wnt1 and wnt7-->
 
-<!--Subregion 3: Apical mantle boundary where a deep invagination forms with cell lobes-->
-<!--Genes: fz1/2/7, fz9/10, wnt1, wnt7-->
+<!--TODO: Continue with wnt1 and wnt7 on the apical--mantle boundary.-->
 
+The posterior end of *wnt5* expression partially overlaps with the *wnt1* head stripes ({@fig:doubles}B).
+wnt5a antagonizes wnt1 by decreasing cell adhesion in Xenopus [@Torres1996-hs].
 At the apical--mantle boundary the receptors *fz1/2/7* and *fz9/10*, and the ligands *wnt1* and *wnt7* are expressed.
 The boundary is abutted by *wnt1* (anterior) and *engrailed* (posterior) stripes [@Vellutini2016-lq]. 
 This arrangement is highly conserved in arthropod trunk segmentation and has a role in setting up the segment polarity.
@@ -451,10 +452,10 @@ Except for a localized dorsal spot of *wnt1t* transcripts, a gene that shows a d
 <!--## Maternal load of Wnt ligands is evolutionary diverse-->
 
 Early Wnt signaling specifies the primary embryonic axis in different
-bilaterians [@WntAxialSpecification]. Early Wnt signaling depends on the
+bilaterians [WntAxialSpecification]. Early Wnt signaling depends on the
 maternal load of pathway components deposited in the egg. Examples of known
 Wnt-Fz. In most cases, however, the identity of the ligands and receptors
-involved remains undetermined [@IdentityOfWntsAxis].
+involved remains undetermined [IdentityOfWntsAxis].
 
 We compared the maternal load of Wnt ligands across bilaterians to find if this
 pattern is conserved. While most metazoans have a maternal load of Wnt ligands,
@@ -529,10 +530,10 @@ Similar to the brachiopod, the transcriptional subregions in the hemichordate
 also coincide with the morphological body regions [@Darras2018-gm]. Comparing
 to other deuterostomes such as echinoderms [@Robert2014-xj], ascidians,
 amphioxus and vertebrates shows that Frizzled territories are conserved
-[@refs]. We can also identify some ligand-receptor context that appear often
-[@refs] and some others not. In a metazoan context the expression in cnidarians
+[refs]. We can also identify some ligand-receptor context that appear often
+[refs] and some others not. In a metazoan context the expression in cnidarians
 where arrangement of the ancestral Wnt ligands is similar although the data on
-Frizzled is still lacking [@refs].
+Frizzled is still lacking [refs].
 
 The regionalized expression of Frizzleds suggests that each receptor may regulate the patterning of different body parts as previously suggested for hemichordates [@Darras2018-gm].
 
@@ -541,7 +542,7 @@ Fz expression is highly regionalized along the A/P axis and suggests that the di
 <!--TODO: Fix up this concluding paragraph-->
 
 A common consensus is that axial patterning genes of bilaterians are conserved
-and inherited from the last common ancestor [@refs]. The similar arrangement of
+and inherited from the last common ancestor [refs]. The similar arrangement of
 our Wnt signaling patterning data support this view. It also supports the idea
 of a wnt code Different Wnts can pattern and specify different body regions
 according to their combinatorial territories [@Guder2006-fu]. The prevalence of
