@@ -340,24 +340,34 @@ The similarity in the spatial arrangement of these genes in anterior pole of *T.
 
 <!--Posterior apical lobe as posterior neuroectoderm regulated by wnt8-->
 
-Adjacent to the anterior pole lays a transcriptional territory expressing the Frizzled receptors *fz1/2/7* and *fz4*, and several Wnt ligands (*wnt2*, *wnt5*, *wnt8*, and *wntA*) in *T. transversa* (@fig:summary).
+Adjacent to the anterior pole lays a transcriptional territory expressing the Frizzled receptors *fz1/2/7* and *fz4*, and several Wnt ligands (*wnt2*, *wnt5*, *wnt8*, and *wntA*) (@fig:summary).
 The earliest genes to be expressed in this region, which corresponds to the posterior portion of the apical lobe, are *wnt8*, *wnt5*, and *fz4* (@fig:ligands1, !@fig:ligands2, !@fig:fzdantag, !@fig:s-ligands, and !@fig:s-receptors).
 *wnt8* is commonly expressed in the posterior neuroectoderm in vertebrates [@Kelly1995-jv;  @Hollyday1995-ym] and in the head/brain of spiders, annelids, and hemichordates [@Janssen2010-dc; @Pruitt2014-oy; @Darras2018-gm].
 In zebrafish, the anterior boundary of the *wnt8b* domain abuts the posterior boundary of the *fz8a* territory, and *wnt8b* is known to repress the expression of *fz8a* [@Kim2002-ze].
 *wnt8b* activity is important to establish a posterior identity that subdivides the neuroectoderm [@Erter2001-fl; @Lekven2001-jj; @Rhinn2005-ie].
 In *T. transversa*, the spatial arrangement of *fz5/8* and *wnt8* is the same as in zebrafish, suggesting a similar genetic interaction might be in place. 
-In addition, loss of *wnt8* function led to caudal expansion of *pax6* [@Dorsky2003-ud], a gene expressed slightly more anterior in the transcriptional territory in *T. transversa* [@Vellutini2016-lq].
-The correlation between brachiopod expression and genetic interaction suggests that these genes may be involved in the differentiation between anterior and posterior regions of the apical lobe.
+In addition, loss of *wnt8* function led to caudal expansion of *pax6* [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].
+The correlation between brachiopod expression and genetic interaction suggests that these genes may be involved in the differentiation between anterior pole and posterior apical lobe.
 
 <!--Cell proliferation of posterior apical lobe mediated by wnt5-->
 
-The expression of *wnt5* and *fz4* also encircle the posterior portion of the apical lobe in the late gastrula.
-*wnt5* is expressed in the head of mice [@Yamaguchi1999-zj], cephalochordates [@Schubert2001-cp], onychophorans [@Hogvall2014-yu].
-*wnt5* is usually associated with cell polarity pathway and it is known to regulate convergent extension movements [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru].
-It inhibits the canonical Wnt signaling post-translationally, but curiously, when *fz4* is co-expressed *wnt5a* activates Wnt/beta-catenin pathway in mice [@Mikels2006-ha].
-*wnt5a* itself also regulates cell proliferation [@Yamaguchi1999-zj].
-Interestingly, the posterior portion of the apical lobe that coincides with the expression domain of *wnt5* undergoes intense cell proliferation [@Martin-Duran2016-qa].
-These observations suggest that wnt5 may be activating the canonical Wnt pathway via fz4 to regulate cell proliferation and differentiate the posterior apical lobe.
+The other early Wnt ligand is *wnt5*.
+It is expressed not only around the posterior portion of the apical lobe, but also in the mantle lobe and in the terminal pole of *T. transversa* embryo.
+In other animals, *wnt5* regulates convergent extension of tissues during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz] as well as cell proliferation [@Yamaguchi1999-zj].
+It is commonly expressed in tissue outgrowths such as the tail and limb buds, but also in the brain [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu].
+Although *wnt5* is usually associated with cell polarity pathway, and a known inhibitor of the Wnt/beta-catenin pathway, the output of the signaling depends on the receptor availability.
+For example, in the presence of *fz4*, *wnt5a* activates Wnt/beta-catenin pathway in mice [@Mikels2006-ha].
+In *T. transversa*, the three domains of *wnt5* expression are located in distinct receptor contexts, *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A).
+Each of these regions undergo distinct morphogenetic changes.
+The posterior portion of the apical lobe undergoes intense cell proliferation [@Martin-Duran2016-qa], the mantle lobe undergoes dramatic tissue grow and elongation [@Stricker1985-gz], and the pedicle lobe narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf].
+The expression of *wnt5* in the mantle and pedicle suggests convergent extension is a possible morphogenetic mechanism driving tissue elongation.
+In addition, the observations raise the possibility that *wnt5* may control region-specific patterning via distinct receptor contexts.
+
+<!--While *fz4* activates the *β-catenin* cascade (canonical Wnt pathway), the cascade signaling in the mantle lobe of *T. transversa* might be mediated by *fz1/2/7*.-->
+<!--Our data on the cell polarity components shows strong expression of *jnk* which is associated with convergent extension.-->
+
+<!--*axin*, a read out the Wnt/beta-catenin pathway is mainly expressed in the anterior portion of the apical lobe [@Martin-Duran2016-qa].-->
+<!--jnk, a read out of the cell polarity pathway is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
 
 <!--Apical mantle boundary patterned by wnt1 and wnt7-->
 
@@ -375,18 +385,6 @@ The apical--mantle boundary is a major landmark demarcated by a deep epithelial 
 <!--Genes: fz1/2/7, wnt5, wnt16-->
 
 <!--TODO: Check how cell polarity might regulate CE and jnk roles-->
-
-This transcriptional subregion expresses the receptor *fz1/2/7* and the ligands *wnt5* and *wnt16*. Most notably,
-*wnt5* is expressed in a different receptor-context compared to the apical lobe where the co-expressed receptor is *fz4*.
-While *fz4* activates the *β-catenin* cascade (canonical Wnt pathway), the cascade signaling in
-the mantle lobe of *T. transversa* might be mediated by *fz1/2/7*.
-*wnt5* regulates tissue elongation by controlling convergent extension in other animals [see @Loh2016-pz].
-These morphogenetic changes might depend upon the activation of the cell polarity cascade (noncanonical Wnt pathway).
-Our data on the cell polarity components shows *pk* in the mantle, but strong expression of *jnk* which is associated with convergent extension.
-The mantle lobe undergoes dramatic morphogenetic changes during development.
-The tissues grow and elongate forming the mantle in the late larva. 
-*wnt5* expression correlates with the growing/elongating mantle lobe, and is expressed at the growing tips of late larva.
-It is therefore possible the developmental mechanism involved in the elongation of the mantle lobe is convergent extension.
 
 <!--Subregion 5: Anterior portion of the pedicle lobe a region that rounds up.-->
 <!--Genes: fz9/10, wnt1, wnt9, wnt4, wnt10, wnt7-->
