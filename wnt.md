@@ -113,6 +113,8 @@ We find that twelve of the thirteen Wnt subfamilies are present in the brachiopo
 One of the *wnt1* paralogs---named hereafter *wnt1t*---is highly-divergent at the sequence level compared to other *wnt1* orthologs across bilaterians, and our phylogenetic analysis suggests it originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
 Despite the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a single representative ortholog for the remaining subfamilies, suggesting the ancestral repertoire of metazoan Wnt genes has remained conserved in this brachiopod.
 
+<!--TODO: cite @prudhomme2002?-->
+
 ## Wnts genes are upregulated in concert during axial elongation
 
 To characterize the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
@@ -349,7 +351,7 @@ In *T. transversa*, the spatial arrangement of *fz5/8* and *wnt8* is the same as
 In addition, loss of *wnt8* function led to caudal expansion of *pax6* [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].
 The correlation between brachiopod expression and genetic interaction suggests that these genes may be involved in the differentiation between anterior pole and posterior apical lobe.
 
-<!--Cell proliferation of posterior apical lobe mediated by wnt5-->
+<!--Receptor-context dependent activation of wnt5-->
 
 The other early Wnt ligand is *wnt5*.
 It is expressed not only around the posterior portion of the apical lobe, but also in the mantle lobe and in the terminal pole of *T. transversa* embryo.
@@ -363,31 +365,25 @@ The posterior portion of the apical lobe undergoes intense cell proliferation [@
 The expression of *wnt5* in the mantle and pedicle suggests convergent extension is a possible morphogenetic mechanism driving tissue elongation.
 In addition, the observations raise the possibility that *wnt5* may control region-specific patterning via distinct receptor contexts.
 
-<!--While *fz4* activates the *β-catenin* cascade (canonical Wnt pathway), the cascade signaling in the mantle lobe of *T. transversa* might be mediated by *fz1/2/7*.-->
-<!--Our data on the cell polarity components shows strong expression of *jnk* which is associated with convergent extension.-->
-
-<!--*axin*, a read out the Wnt/beta-catenin pathway is mainly expressed in the anterior portion of the apical lobe [@Martin-Duran2016-qa].-->
-<!--jnk, a read out of the cell polarity pathway is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
+<!--TODO: Check how cell polarity might regulate CE and jnk roles-->
+<!--TODO: *axin*, a read out the Wnt/beta-catenin pathway is mainly expressed in the anterior portion of the apical lobe [@Martin-Duran2016-qa].-->
+<!--TODO: jnk, a read out of the cell polarity pathway is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
 
 <!--Apical mantle boundary patterned by wnt1 and wnt7-->
 
-<!--TODO: Continue with wnt1 and wnt7 on the apical--mantle boundary.-->
-
-The posterior boundary of the anterior *wnt5* expression domain partially overlaps with the narrow anterior stripes of *wnt1* expression ({@fig:doubles}B and {!@fig:summary}A).
-At the apical--mantle boundary the receptors *fz1/2/7* and *fz9/10*, and the ligands *wnt1* and *wnt7* are expressed.
-At the boundary there is a narrow ring of *wnt7*-positive cells. 
-wnt5a antagonizes wnt1 by decreasing cell adhesion in Xenopus [@Torres1996-hs].
+The expression domains of *wnt5* in the late gastrula are intercalated by expression domains of *wnt1* ({@fig:doubles}B and {!@fig:summary}A).
+Narrow stripes of *wnt1* transcripts in the posterior portion of the apical pole at the apical--mantle boundary, and in the anterior portion of the pedicle lobe at the mantle--pedicle boundary.
+In both, a ring of *wnt7*-positive cells abuts the *wnt1* domain posteriorly with a small overlap.
 The boundary is abutted by *wnt1* (anterior) and *engrailed* (posterior) stripes [@Vellutini2016-lq]. 
-This transcriptional subregion is associated with the whole tissue interface between apical and mantle lobe which will be invaginated during development.
+*wnt1* and *engrailed* are involved in establishing boundaries in the brain and trunk segments [@Ingham1992-tn; @Rhinn2001-ie].
+*wnt7* (ventral) is repressed by *en-1* (dorsal) in the limb bud [@Loomis1996-zx; @Chen2002-la].
+*wnt5a* antagonizes *wnt1* by decreasing cell adhesion in Xenopus [@Torres1996-hs].
 The apical--mantle boundary is a major landmark demarcated by a deep epithelial invagination dividing the head from trunk [@Vellutini2016-lq].
 
-<!--Subregion 4: Mantle lobe that outgrows-->
-<!--Genes: fz1/2/7, wnt5, wnt16-->
+<!--TODO: *wnt16* is involved in the morphogenetic movements of gastrulation in sea urchin [@Martinez-Bartolome2019-kk].-->
+<!--TODO: In T. transversa it is expressed around the sides of the blastopore and could be involved in blastopore closure.-->
 
-<!--TODO: Check how cell polarity might regulate CE and jnk roles-->
-
-<!--Subregion 5: Anterior portion of the pedicle lobe a region that rounds up.-->
-<!--Genes: fz9/10, wnt1, wnt9, wnt4, wnt10, wnt7-->
+Therefore, our work provides a great overview of the combinatorial landscape of Wnt signaling components providing initial evidence for putative genetic interactions patterning the anteroposterior axis in brachiopods.
 
 <!--TODO: Check developmental roles of fz9/10-->
 <!--TODO: Is the arrangement between wnt1 and wnt7 conserved?-->
