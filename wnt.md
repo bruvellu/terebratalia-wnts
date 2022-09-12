@@ -363,18 +363,13 @@ These observations suggest that wnt5 may be activating the canonical Wnt pathway
 
 <!--TODO: Continue with wnt1 and wnt7 on the apical--mantle boundary.-->
 
-The posterior end of *wnt5* expression partially overlaps with the *wnt1* head stripes ({@fig:doubles}B).
-wnt5a antagonizes wnt1 by decreasing cell adhesion in Xenopus [@Torres1996-hs].
+The posterior boundary of the anterior *wnt5* expression domain partially overlaps with the narrow anterior stripes of *wnt1* expression ({@fig:doubles}B and {!@fig:summary}A).
 At the apical--mantle boundary the receptors *fz1/2/7* and *fz9/10*, and the ligands *wnt1* and *wnt7* are expressed.
-The boundary is abutted by *wnt1* (anterior) and *engrailed* (posterior) stripes [@Vellutini2016-lq]. 
-This arrangement is highly conserved in arthropod trunk segmentation and has a role in setting up the segment polarity.
-In other animals it is known that the receptor mediating *wnt1* signaling is fz. 
 At the boundary there is a narrow ring of *wnt7*-positive cells. 
-*wnt7* has been described to be involved in boundaries and to interact with fz.
-In *T. transversa* we observe the same. 
+wnt5a antagonizes wnt1 by decreasing cell adhesion in Xenopus [@Torres1996-hs].
+The boundary is abutted by *wnt1* (anterior) and *engrailed* (posterior) stripes [@Vellutini2016-lq]. 
 This transcriptional subregion is associated with the whole tissue interface between apical and mantle lobe which will be invaginated during development.
 The apical--mantle boundary is a major landmark demarcated by a deep epithelial invagination dividing the head from trunk [@Vellutini2016-lq].
-This suggest the invagination is pre-patterned.
 
 <!--Subregion 4: Mantle lobe that outgrows-->
 <!--Genes: fz1/2/7, wnt5, wnt16-->
