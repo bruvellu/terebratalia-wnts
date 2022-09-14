@@ -364,11 +364,10 @@ In *T. transversa*, the three domains of *wnt5* expression are located in distin
 Each of these regions, whose boundaries are visible on the epithelial surface of the late gastrula, undergo distinct morphogenetic changes.
 The posterior portion of the apical lobe undergoes intense cell proliferation [@Martin-Duran2016-qa], the mantle lobe undergoes dramatic tissue grow and elongation [@Stricker1985-gz], and the pedicle lobe narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf].
 The expression of *wnt5* in the mantle and pedicle suggests convergent extension is a possible morphogenetic mechanism driving tissue elongation.
+<!--TODO: jnk, a read out of the cell polarity pathway is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
 In addition, the observations raise the possibility that *wnt5* may control region-specific patterning via distinct receptor contexts such as cell proliferation in the apical lobe and convergent extension in the mantle lobe.
 
 <!--TODO: Check how cell polarity might regulate CE and jnk roles-->
-<!--TODO: *axin*, a read out the Wnt/beta-catenin pathway is mainly expressed in the anterior portion of the apical lobe [@Martin-Duran2016-qa].-->
-<!--TODO: jnk, a read out of the cell polarity pathway is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
 
 <!--Wnt specifying regions and boundaries with wnt1 and wnt7-->
 
@@ -388,42 +387,42 @@ This suggests *wnt1*, *wnt7*, and *en* may play a role in the patterning of the 
 *wnt7* is also expressed at the interface of another boundary, between the subterminal and terminal portion of the pedicle lobe.
 During development, the anterior portion of the pedicle lobe gives rise to the posterior portion of the juvenile body while the posterior portion of the pedicle lobe gives rise to the juvenile pedicle [@Stricker1985-vf].
 In the late gastrula, these two territories are demarcated on the ventral side by *wnt1* anteriorly and *wnt5* posteriorly with *wnt7* expressed in between ({@fig:doubles}G,H and {!@fig:summary}A).
-Indicating that wnt7 may have a common role in the establishment of the boundaries between body domains.
+Indicating that *wnt7* may have a common role in the establishment of the boundaries between body domains.
 <!--Although the spatial arrangement of these three genes is similar to the apical--mantle boundary, the receptor-context is not identical and presumably only *fz9/10* is expressed in the subterminal pedicle lobe ({@fig:doubles}G,H and {!@fig:summary}A).-->
 <!--TODO: The region also expresses wnt4 and wnt10 in subdomains [wnt4wnt10].-->
 
-<!--TODO: Continue from here.-->
-
-While the subterminal portion of the pedicle lobe expresses fz9/10, the terminal end expresses no Frizzleds ({@fig:summary}A).
-Yet, there are three Wnt ligands expressed in the terminal pole: *wnt5*, *wnt6*, and *wnt11*.
-
+The terminal portion of the pedicle lobe expresses three Wnt ligands: *wnt5*, *wnt6*, and *wnt11* ({@fig:summary}A).
 *wnt6* posterior ectodermal expression is strong in early gastrulation but by the late gastrula the signal fades.
 It may have an earlier role such as in sea urchins where *wnt6* is necessary for the activation of endomesodermal gene regulatory network [@Croce2011-ae].
-
+Expression of wnt11 is broad and persists until the larval stage coinciding with the subdivision of the pedicle lobe.
 The subterminal pedicle lobe undergoes morphogenetic transformations during development and narrows its width in the larval stages.
 The posterior tip undergoes constriction in the late larva and is important for the settlement of the larva during metamorphosis.
+It remains unclear which morphogenetic processes are involved in the subdivision of the pedicle lobe, but *wnt11* mediates convergent extension in zebrafish gastrulation through the cell polarity pathway [@Heisenberg2000-kx; @Tada2000-dz] and may be involved in regulating cell shape changes.
 
-Standalone Wnt activity is mediated by this pathway.
-They are unlikely signaling via the cell fate pathway mediated by β-catenin (canonical). 
-This region might not respond to the overactivation of the Wnt pathway, and retain the terminal identity, as in the wnt-independent posterior tip region described [@Darras2018-gm].
+Interestingly, no Frizzled receptor genes are expressed in the terminal portion of the pedicle lobe ({@fig:summary}A).
+This raises the question whether any Wnt pathway is being activated in the terminal pole.
+Activation of the Wnt/beta-catenin is known to induce the expression of the intracellular component *axin2* in mice [@Jho_Eek-hoon2002-ey].
+In *T. transversa*, *axin* is mainly expressed in the subterminal portion of the pedicle lobe [@Martin-Duran2016-qa].
+This suggests that Wnt pathway in the late gastrula stage is mainly active in the subterminal portion of the pedicle lobe and not in the terminal pole.
+The posterior most region of hemichordates was shown to be wnt-insensitive to over-activation or suppression of Wnt signaling with the expression of posterior remaining unchanged [@Darras2018-gm].
+Similar to T. transversa, this region expresses no Frizzled receptors.
+Over-activation experiments in the brachiopod exhibits the posteriorization of fates with trunk genes being expressed more anteriorly but the expression of posterior markers *evx* and *cdx* remain also unchanged [@Martin-Duran2016-qa].
+This suggests that a wnt-insensitive as proposed in hemichordates may also be present in brachiopods.
 
-
-
+<!--TODO: Connection between FGF and Wnt from Andrikou2021-cc-->
 
 Overall, the specific ligand-receptor combinations expressed along the anteroposterior axis of *T. transversa* coincides with the major body regions and their subregions.
-There are three Wnt ligands expressed in different body regions, under different receptor contexts, *wnt1*, *wnt5*, and *wnt7*.
+There are three Wnt ligands expressed in different body regions, under different receptor contexts.
 Each region undergoes different fate and morphogenetic outcomes suggesting the receptor context, and possibly the combinatorial presence of other ligands, might play a role in determining the signaling being activated.
 Ligand competition for the same receptor might be another important aspect of regional specification.
 Ligands expressed in different receptor contexts which may be eliciting different fate outcomes and body region specification.
 Therefore, the different ligand--receptor context can be involved in setting up the identities or differentially patterning the tissue fates of the different larval body regions of the brachiopod *T. transversa*.
 
-While most Wnts are expressed in a single region, *wnt1*, *wnt5*, and  *wnt7* are expressed in different regions along the anteroposterior axis.
-
 <!--*wnt1t* transcripts localize to a dorsal spot.-->
 <!--We noticed that wnt10 is also expressed there in the late gastrula.-->
 <!--This might be due to the two genes being in the same locus and possibly share regulatory elements such as in zebrafish [@Lekven2019-gj].-->
 
-Our work provides a great overview of the combinatorial landscape of Wnt signaling components providing initial evidence for putative genetic interactions patterning the anteroposterior axis in brachiopods.
+<!--Our work provides a great overview of the combinatorial landscape of Wnt signaling components providing initial evidence for putative genetic interactions patterning the anteroposterior axis in brachiopods.-->
 
 <!--TODO: Discuss mesodermal and endodermal expression?-->
 <!--TODO: Comment on anterior mesoderm Frizzled expression-->
