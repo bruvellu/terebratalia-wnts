@@ -327,6 +327,8 @@ These territories precede larval morphogenesis and subsequently coincide with th
 
 -->
 
+<!--TODO: Conclude paragraphs giving the ligand--receptor context of each region-->
+
 <!--Anterior pole patterning, a Wnt-free zone with Wnt antagonists regulated by fz5/8-->
 
 Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].
@@ -411,18 +413,18 @@ This suggests that a wnt-insensitive as proposed in hemichordates may also be pr
 
 <!--TODO: Connection between FGF and Wnt from Andrikou2021-cc-->
 
-Overall, the specific ligand-receptor combinations expressed along the anteroposterior axis of *T. transversa* coincides with the major body regions and their subregions.
-There are three Wnt ligands expressed in different body regions, under different receptor contexts.
-Each region undergoes different fate and morphogenetic outcomes suggesting the receptor context, and possibly the combinatorial presence of other ligands, might play a role in determining the signaling being activated.
-Ligand competition for the same receptor might be another important aspect of regional specification.
-Ligands expressed in different receptor contexts which may be eliciting different fate outcomes and body region specification.
-Therefore, the different ligand--receptor context can be involved in setting up the identities or differentially patterning the tissue fates of the different larval body regions of the brachiopod *T. transversa*.
+Overall, we find that during axial elongation of the brachiopod *T. transversa*, the expression of Frizzled receptors is regionalized into broad domains which make up six unique receptor contexts along the anteroposterior axis.
+While Wnt antagonists are restricted to the anterior pole, Wnt ligands are expressed in different partially overlapping domains across the embryo.
+Most Wnts are expressed in a single region, and thus, only in a specific receptor context.
+Three ligands, *wnt1*, *wnt5*, and *wnt7*, are expressed in different regions along the axis, and thus the same ligand is expressed in different receptor contexts.
+The combinatorial expression of antagonists, ligands, and receptors, establishes unique transcriptional territories that precedes the larval morphogenesis.
+The localization and limits of these territories coincide with the subdivisions of the larval body, each undergoing a different fate and morphogenetic processes.
+The findings that a single Wnt ligand can either activate or inhibit Wnt/beta-catenin depending on the receptor availability [@Mikels2006-ha; @Van_Amerongen2008-oo] raised the comprehension that Wnt signaling pathways are not independent linear cascades but result from the combinatorial network of protein interactions where the developmental (or receptor) context dictates the signaling output [@Van_Amerongen2009-wk].
+Our work provides a comprehensive overview of the combinatorial landscape of Wnt signaling components and initial evidence that different ligand--receptor contexts may be involved in the regional specification of the anteroposterior axis of brachiopod embryos.
 
 <!--*wnt1t* transcripts localize to a dorsal spot.-->
 <!--We noticed that wnt10 is also expressed there in the late gastrula.-->
 <!--This might be due to the two genes being in the same locus and possibly share regulatory elements such as in zebrafish [@Lekven2019-gj].-->
-
-<!--Our work provides a great overview of the combinatorial landscape of Wnt signaling components providing initial evidence for putative genetic interactions patterning the anteroposterior axis in brachiopods.-->
 
 <!--TODO: Discuss mesodermal and endodermal expression?-->
 <!--TODO: Comment on anterior mesoderm Frizzled expression-->
@@ -430,6 +432,8 @@ Therefore, the different ligand--receptor context can be involved in setting up 
 <!--TODO: How does Wnt signaling intersects with Hox expression?-->
 
 ## Ligand--receptor shuffling in bilaterian axial evolution
+
+<!--Wnts are key players in body patterning because they act short range and can elicit cell fate and cell polarity outcomes in a combinatorial fashion depending on the developmental context, and thus generate lineage diversity and shape changes [@Loh2016-pz].-->
 
 <!--## *T. transversa* Wnt complement remained conserved throughout evolution-->
 
