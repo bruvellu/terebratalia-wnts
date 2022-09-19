@@ -272,11 +272,11 @@ It is expressed in every stage with a peak around the late gastrula (@fig:s-prof
 *fmi* transcripts are present in most ectodermal tissues but show a stronger signal on bilateral patches in the apical lobe of late gastrula (@fig:polarity).
 
 Stbm is a four-pass transmembrane protein that forms a signaling complex with FMI [@Katoh2013-mz; @Butler2017-gh].
-Expression of *stbm* in *T. transversa* is initially high and gradually decays during development (@fig:s-profiling).
+The expression of *T. transversa* *stbm* (@fig:stbm-tree) is initially high and gradually decays during development (@fig:s-profiling).
 It is ubiquitously expressed in the tissues of gastrulating embryos (@fig:polarity).
 
 Jnk is a kinase that regulates epithelial metamorphosis and is a downstream transducer of the PCP pathway [@Noselli1999-sa].
-It is highly-expressed throughout the development of *T. transversa* (@fig:s-profiling).
+The *jnk* ortholog in *T. transversa* (@fig:jnk-tree) is highly-expressed throughout the development (@fig:s-profiling).
 The expression of *jnk* is ubiquitous in the late gastrula except for broad bilateral regions of the apical lobe (@fig:polarity).
 
 <!--TODO: Confirm removal of axin and bcat-->
@@ -309,13 +309,6 @@ These territories precede larval morphogenesis and subsequently coincide with th
 ## Wnt ligand--receptor contexts in brachiopod axial patterning
 
 <!--
-- Wnt sets axial polarity
-- Anterior pole
-- Mantle lobe
-- Posterior pole
-- Wnt code in development
-- Wnt code in evolution
-
 - Wnt-free anterior pole patterned by FZ/sFRP/DKK interactions
 - Apical-mantle boundary with wnt1/wnt7 (check morphogenesis links)
 - Convergent extension of mantle lobe mediated by wnt5
@@ -324,7 +317,6 @@ These territories precede larval morphogenesis and subsequently coincide with th
 - Literature supports short-range and contextual output
 - Comparative data reveals labile deployment of ligands
 - Evolutionary shuffling as mechanism for axial diversification
-
 -->
 
 <!--TODO: Conclude paragraphs giving the ligand--receptor context of each region-->
@@ -409,7 +401,7 @@ Activation of the Wnt/beta-catenin is known to induce the expression of the intr
 In *T. transversa*, *axin* is mainly expressed in the subterminal portion of the pedicle lobe [@Martin-Duran2016-qa].
 This suggests that Wnt pathway in the late gastrula stage is mainly active in the subterminal portion of the pedicle lobe and not in the terminal pole.
 The posterior most region of hemichordates was shown to be wnt-insensitive to over-activation or suppression of Wnt signaling with the expression of posterior remaining unchanged [@Darras2018-gm].
-Similar to T. transversa, this region expresses no Frizzled receptors.
+Similar to *T. transversa*, this region expresses no Frizzled receptors.
 Over-activation experiments in the brachiopod exhibits the posteriorization of fates with trunk genes being expressed more anteriorly but the expression of posterior markers *evx* and *cdx* remain also unchanged [@Martin-Duran2016-qa].
 This suggests that a wnt-insensitive as proposed in hemichordates may also be present in brachiopods.
 
@@ -420,12 +412,12 @@ Overall, we find that during axial elongation of the brachiopod *T. transversa*,
 While Wnt antagonists are restricted to the anterior pole, Wnt ligands are expressed in different partially overlapping domains across the embryo.
 Most Wnts are expressed in a single region, and thus, only in a specific receptor context.
 Three ligands, *wnt1*, *wnt5*, and *wnt7*, are expressed in different regions along the axis, and thus the same ligand is expressed in different receptor contexts.
-The combinatorial expression of antagonists, ligands, and receptors, establishes unique transcriptional territories that precedes the larval morphogenesis.
+The combinatorial expression of antagonists, ligands, and receptors, establishes unique transcriptional territories that precede the larval morphogenesis.
 The localization and limits of these territories coincide with the subdivisions of the larval body, each undergoing a different fate and morphogenetic processes.
 The findings that a single Wnt ligand can either activate or inhibit Wnt/beta-catenin depending on the receptor availability [@Mikels2006-ha; @Van_Amerongen2008-oo] raised the comprehension that Wnt signaling pathways are not independent linear cascades but result from the combinatorial network of protein interactions where the developmental (or receptor) context dictates the signaling output [@Van_Amerongen2009-wk].
 Our work provides a comprehensive overview of the combinatorial landscape of Wnt signaling components and initial evidence that different ligand--receptor contexts may be involved in the regional specification of the anteroposterior axis of brachiopod embryos.
 
-<!--While the identity of the receptors remains poorly understood-->
+<!--The identity of the receptors remains poorly understood-->
 <!--*wnt1t* transcripts localize to a dorsal spot.-->
 <!--We noticed that wnt10 is also expressed there in the late gastrula.-->
 <!--This might be due to the two genes being in the same locus and possibly share regulatory elements such as in zebrafish [@Lekven2019-gj].-->
@@ -440,14 +432,19 @@ We thus wondered whether the transcriptional territories of Wnt signaling compon
 We first compared the load of maternal transcripts of Wnt signaling components in the unfertilized eggs of  bilaterians.
 Most metazoans have transcripts for ligands, antagonists, and receptors deposited maternally in the egg (@tbl:maternal).
 However, we observe a significant difference.
-While the composition of maternal Wnt ligands varies considerably between species, even within brachiopods (@tbl:maternal).
-In contrast, all species investigated so far show *fz1/2/7* transcripts in their eggs (@tbl:maternal).
-These data reveals that expression of *fz1/2/7* in the unfertilized egg is highly-conserved across metazoans as previously suggested [@Bastin2015-oz].
+While the composition of maternal Wnt ligands varies considerably even within brachiopods, the maternal load of Frizzled transcripts is less variable between species (@tbl:maternal).
+Almost all species investigated so far show the expression of *fz1/2/7* in the unfertilized egg in a highly-conserved pattern across metazoans [@Bastin2015-oz].
 The expression of maternal Wnt ligands, on the other hand, is evolutionary labile.
 This suggests that *fz1/2/7* may be crucial for the early activation of Wnt signaling in the embryo, and that the identity of the particular Wnt ligands deposited in the egg may be more variable and possibly have redundant function in activating the signaling.
 Therefore, during evolution the expression of ligands was more variable than that of receptors.
 
-We asked whether the transcriptional territories were arranged in similar ways during axial patterning in other groups.
+A comparative analysis of the expression of Wnt signaling components during anteroposterior patterning of bilaterians reveals a similar picture.
+We asked whether the transcriptional territories were arranged in similar ways in other groups.
+We compared our data on the brachiopod *T. transversa* with other species where the expression of Wnt signaling components has been analyzed in detail, the annelid Platynereis dumerilii 
+
+fz5/8 and fz4 associated with the head, and fz9/10 associated with the trunk.
+
+
 In the annelid *Platynereis dumerilii* we find several correspondent, putative homologous Wnt expression domains with *T. transversa*, despite the great differences in embryo architecture -- the annelid has fewer cells than the brachiopod at the moment of gastrulation [@Cho2010-eb; @Janssen2010-dc].
 For instance, the expression of Frizzled receptors in *P. dumerilii* are mostly similar to what we find in the brachiopod, following the same anteroposterior arrangement [@Bastin2015-oz].
 We can also identify Wnt ligands with comparable expression domains.
