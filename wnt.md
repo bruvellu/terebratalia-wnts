@@ -602,13 +602,7 @@ transversa*.](figures/Fig7.jpg){#fig:polarity width=100%}
 schematic drawings show the ectodermal expression domains on the ventral
 region of a late gastrula stage.](figures/Fig8.jpg){#fig:summary width=100%}
 
-![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
-*Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
-Broad receptor territories are essentially the same along the anteroposterior
-axis. There are common ligand--receptor combinations between the two animals
-forming unique transcriptional regions in the embryo that corresponds to
-differentiated body regions.](figures/Fig9.jpg){#fig:comparative width=100%}
-
+![Wnt signaling landscape in the hemichordate *Saccoglossus kowalevskii* and in the annelid *Platynereis dumerilii*. (A) Expression domains of Wnt ligands in relation to Frizzled receptors along the anteroposterior axis. (B) Consensus of Wnt signaling landscape in a generalized bilaterian.](figures/Fig9.jpg){#fig:comparative width=100%}
 
 <!--![Whole-mount *in situ* hybridization of Frizzled receptors in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig7.jpg){#fig:receptors width=100%}-->
 
@@ -755,3 +749,9 @@ width=100%}
 *jnk*. Phylogenetic analysis of the amino acid sequences of known metazoan
 *jnk* genes.](figures/FigS16.jpg){#fig:jnk-tree tag=S16 width=100%}
 
+![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
+*Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
+Broad receptor territories are essentially the same along the anteroposterior
+axis. There are common ligand--receptor combinations between the two animals
+forming unique transcriptional regions in the embryo that corresponds to
+differentiated body regions.](figures/FigS17.jpg){#fig:s-comparative tag=S17 width=100%}

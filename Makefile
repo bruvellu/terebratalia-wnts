@@ -40,6 +40,7 @@ all:
 	ln -s ${FIGDIR}/13-trees/fmi-tree.png ${FIGOUT}/FigS14.png
 	ln -s ${FIGDIR}/13-trees/stbm-tree.png ${FIGOUT}/FigS15.png
 	ln -s ${FIGDIR}/13-trees/jnk-tree.png ${FIGOUT}/FigS16.png
+	ln -s ${FIGDIR}/11-comparative/s-comparative.png ${FIGOUT}/FigS17.png
 	# Convert to jpg for lightness
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGOUT}/*.png
 	mkdir ${FIGOUT}/source
