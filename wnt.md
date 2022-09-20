@@ -55,18 +55,26 @@ This suggests that changes in ligand--receptor context by differential activatio
 
 <!--Wnt significance for anteroposterior patterning-->
 
-Wnt signaling is crucial for embryonic development in multiple ways.
-It is involved in fate specification, organogenesis, and morphogenesis.
-In the early embryo it establishes the primary body axis.
-Later it is involved in anteroposterior patterning of different body regions.
+Wnt signaling is crucial for animal embryonic development in multiple ways [@Cadigan1997-vx].
+It is involved in specifying fates and controlling morphogenetic movements, and it does so by regulating cell identity, cell proliferation, and cell polarity [].
+Wnts are often posterior positional effectors with polarizing activity as symmetry breaking signal [@Loh2016-pz].
+This function appears in different developmental processes in cells, such as establish cell polarity in early nematode embryos [@Goldstein2006-yw] or mediate binary cell fate decisions in early annelid [@Schneider2007-fz] and tunicate [@Hudson2013-lq] embryos, in tissues, such specifying and maintaining the anteroposterior polarity of trunk segments in [], and whole body such as the establishment of the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne].
+Wnt activity specifies endomesoderm in several animals [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh].
+Also plays a role in posterior growth [@Martin2009-lo].
+Later Wnts are involved in the regional specification and anteroposterior patterning of different body regions [@Kusserow2005-xd; @Guder2006-fu; @Darras2018-gm].
+In vertebrate, the anterior nervous system is regionalized by Wnt activity in vertebrates [@Mulligan2012-gu].
+How Wnt pathways orchestrate the regional patterning remains poorly understood.
 
 <!--Receptor context dictates the Wnt signaling outcome-->
 
 Wnt regulation is complex.
-It has been increasingly recognized that receptor context is crucial for the signaling outcome. 
-Different ligand--receptor combinations can trigger different pathways and differentiation.
-For example, the same Wnt5 ligand can activate the canonical or non-canonical pathway depending on the Frizzled receptor expressed in the tissue.
-Therefore, understanding the receptor--context is crucial to understand Wnt function in development.
+There are three main Wnt pathways, the Wnt/beta-catenin (cell fate or canonical pathway), the Wnt/PCP (cell polarity or non-canonical pathway), and the Wnt/calcium [].
+It has been increasingly recognized that Wnt signaling pathways are not independent linear cascades but function through a complex network of protein interactions to downstream that depends on the developmental context, availability of receptor and co-receptors [@Van_Amerongen2009-wk; @Niehrs2012-ku].
+In contrast to the original view where Wnts are divided into canonical and non-canonical, it has been shown that the same Wnt ligand can activate or inhibit different pathways depending on the receptor present in the tissue [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
+The receptor context dictates the signaling output.
+Pathways can signal in parallel allowing for a unified action such as in archenteron invagination and endomesoderm specification in cnidarians [@Kumburegama2011-cv] or the polarity and ectodermal fates in frogs [@Huang2014-mf].
+That means that Different ligand--receptor combinations can trigger different pathways and differentiation adding up to the complexity.
+It is thus crucial to understand the receptor--context to understand Wnt function in development.
 
 <!--The relevance of Spiralia and Brachiopoda-->
 
@@ -87,7 +95,7 @@ However, a full characterization of the Wnt complement and expression in brachio
 
 <!--Introduction’s closing paragraph-->
 
-In this study, we investigate the expression of Wnt signaling components in the patterning the different body regions using T. transversa.
+In this study, we investigate the expression of Wnt signaling components in the patterning the different body regions using *T. transversa*.
 We analyzed stage-specific RNA-seq data and spatiotemporal expression of Wnt signaling components.
 We find that Frizzled expression occurs in broad domains that cover almost the whole brachiopod extension.
 Wnt ligands are expressed in subregions, stripes or patches, often partially overlapping.
@@ -427,6 +435,8 @@ The combinatorial expression of antagonists, ligands, and receptors, establishes
 The localization and limits of these territories coincide with the subdivisions of the larval body, each undergoing a different fate and morphogenetic processes.
 The findings that a single Wnt ligand can either activate or inhibit Wnt/beta-catenin depending on the receptor availability [@Mikels2006-ha; @Van_Amerongen2008-oo] raised the comprehension that Wnt signaling pathways are not independent linear cascades but result from the combinatorial network of protein interactions where the developmental (or receptor) context dictates the signaling output [@Van_Amerongen2009-wk].
 Our work provides a comprehensive overview of the combinatorial landscape of Wnt signaling components and initial evidence that different ligand--receptor contexts may be involved in the regional specification of the anteroposterior axis of brachiopod embryos.
+
+<!--TODO: Therefore, Wnt not only controls the axial polarity/specification, but that at the anteroposterior patterning the combinatorial expression and receptor context play a role in the regionalization of the body into separate regions.-->
 
 <!--The identity of the receptors remains poorly understood-->
 <!--*wnt1t* transcripts localize to a dorsal spot.-->
