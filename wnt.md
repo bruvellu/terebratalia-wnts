@@ -55,7 +55,7 @@ Our comparative analysis indicates that while Frizzled expression is relatively 
 Wnt genes are crucial for animal embryogenesis [@Cadigan1997-vx].
 They regulate cell fate, proliferation, and polarity in a wide variety of developmental stages and processes, often acting as a symmetry-breaking signal [@Loh2016-pz].
 Wnt signals mediate cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq] and specify endomesodermal tissues before gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], playing an important role in the establishment of the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne].
-In parallel, Wnt activity controls morphogenetic movements of gastrulation such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy @Kumburegama2011-cv].
+In parallel, Wnt activity controls morphogenetic movements of gastrulation such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
 Wnts not only establish axial polarity, but also pattern different body regions along the anteroposterior axis [@Kusserow2005-xd; @Guder2006-fu; @Darras2018-gm], a function considered essential to generate tissue and shape diversity in metazoan evolution [@Loh2016-pz].
 Understanding this anteroposterior patterning role, however, remains a major challenge in developmental biology, mainly due to the complexity of Wnt signaling pathways.
 
