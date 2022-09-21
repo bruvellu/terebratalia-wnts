@@ -55,26 +55,26 @@ This suggests that changes in ligand--receptor context by differential activatio
 
 <!--Wnt significance for anteroposterior patterning-->
 
-Wnt signaling is crucial for animal embryonic development in multiple ways [@Cadigan1997-vx].
-It is involved in specifying fates and controlling morphogenetic movements, and it does so by regulating cell identity, cell proliferation, and cell polarity [].
-Wnts are often posterior positional effectors with polarizing activity as symmetry breaking signal [@Loh2016-pz].
-This function appears in different developmental processes in cells, such as establish cell polarity in early nematode embryos [@Goldstein2006-yw] or mediate binary cell fate decisions in early annelid [@Schneider2007-fz] and tunicate [@Hudson2013-lq] embryos, in tissues, such specifying and maintaining the anteroposterior polarity of trunk segments in [], and whole body such as the establishment of the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne].
-Wnt activity specifies endomesoderm in several animals [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh].
-Also plays a role in posterior growth [@Martin2009-lo].
-Later Wnts are involved in the regional specification and anteroposterior patterning of different body regions [@Kusserow2005-xd; @Guder2006-fu; @Darras2018-gm].
-In vertebrate, the anterior nervous system is regionalized by Wnt activity in vertebrates [@Mulligan2012-gu].
-How Wnt pathways orchestrate the regional patterning remains poorly understood.
+Wnt genes are crucial for animal embryogenesis [@Cadigan1997-vx].
+They regulate cell fate, proliferation, and polarity in a wide variety of developmental stages and processes, often acting as a symmetry-breaking signal [@Loh2016-pz].
+Wnt signals mediate cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq] and specify endomesodermal tissues before gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], playing an important role in the establishment of the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne].
+In parallel, Wnt activity controls morphogenetic movements of gastrulation such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy @Kumburegama2011-cv].
+Wnts not only establish axial polarity, but also pattern different body regions along the anteroposterior axis [@Kusserow2005-xd; @Guder2006-fu; @Darras2018-gm], a function considered essential to generate tissue and shape diversity in metazoan evolution [@Loh2016-pz].
+Understanding this anteroposterior patterning role, however, remains a major challenge in developmental biology, mainly due to the complexity of Wnt signaling pathways.
+
+Wnt signaling is activated when a Wnt protein (a secreted ligand) binds to a Frizzled protein (a membrane-bound receptor) and triggers downstream effects.
+But there are at least three pathways by which the signal can travel.
+The Wnt/beta-catenin pathway, also known as the canonical pathway, which generally regulates cell fates through the activity of beta-catenin, the Wnt/PCP pathway (planar cell polarity), a so-called non-canonical pathway which controls cell polarity and is involved in tissue morphogenesis, and the Wnt/calcium pathway, which regulates intracellular calcium levels important for convergent extension movements in vertebrates [@James2008-tt].
+Over the years, with the characterization of all thirteen subfamilies of Wnt ligands and the discovery of additional receptors, novel modulators (agonists and antagonists), as well as effector molecules, it has been increasingly recognized that Wnt signaling pathways are not linear cascades, but operate as a complex network of protein interactions where the downstream response depends on the local context [@Van_Amerongen2009-wk; @Niehrs2012-ku].
+For example, one Wnt can activate or inhibit different pathways depending on the availability of the receptor present in the tissue [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo], suggesting that different ligand--receptor combinations can dictate the signaling output.
+Therefore, to uncover the diverse Wnt developmental roles, it is essential to characterize and comprehend the particular ligand--receptor contexts throughout embryogenesis.
+
+<!--posterior growth [@Martin2009-lo]-->
+<!--In vertebrate, the anterior nervous system is regionalized by Wnt activity in vertebrates [@Mulligan2012-gu].-->
 
 <!--Receptor context dictates the Wnt signaling outcome-->
 
-Wnt regulation is complex.
-There are three main Wnt pathways, the Wnt/beta-catenin (cell fate or canonical pathway), the Wnt/PCP (cell polarity or non-canonical pathway), and the Wnt/calcium [].
-It has been increasingly recognized that Wnt signaling pathways are not independent linear cascades but function through a complex network of protein interactions to downstream that depends on the developmental context, availability of receptor and co-receptors [@Van_Amerongen2009-wk; @Niehrs2012-ku].
-In contrast to the original view where Wnts are divided into canonical and non-canonical, it has been shown that the same Wnt ligand can activate or inhibit different pathways depending on the receptor present in the tissue [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
-The receptor context dictates the signaling output.
-Pathways can signal in parallel allowing for a unified action such as in archenteron invagination and endomesoderm specification in cnidarians [@Kumburegama2011-cv] or the polarity and ectodermal fates in frogs [@Huang2014-mf].
-That means that Different ligand--receptor combinations can trigger different pathways and differentiation adding up to the complexity.
-It is thus crucial to understand the receptor--context to understand Wnt function in development.
+<!--Pathways can signal in parallel allowing for a unified action such as in archenteron invagination and endomesoderm specification in cnidarians [@Kumburegama2011-cv] or the polarity and ectodermal fates in frogs [@Huang2014-mf].-->
 
 <!--The relevance of Spiralia and Brachiopoda-->
 
