@@ -1,5 +1,6 @@
 ---
 title: Wnt signaling landscape during brachiopod anteroposterior patterning
+#title: Expression of Wnt signaling components in brachiopod development suggests a role in the differential patterning of different body regions along the anteroposterior axis
 documentclass: article
 bibliography: wnt.bib 
 csl: biomed-central.csl
@@ -42,18 +43,14 @@ Thormøhlensgate 55, 5006 Bergen, Norway.
 
 Wnt signaling pathways are crucial for the embryonic development of metazoans.
 They can determine the primary axial polarity, specify cell fates in the different regions of the body, and trigger the re-modelling of tissues during morphogenesis.
-These Wnt signaling outcomes are regulated by complex genetic interactions, and depend not only on the ligand expression but also on the local receptor-context in the tissue.
+These Wnt signaling outcomes are regulated by complex genetic interactions, and depend not only on the ligand expression but also on the local receptor--context in the tissue.
 Although the expression of Wnt ligands has been investigated in several animal groups, the combined expression analysis of ligand and receptor is often lacking.
 Here, we analyze the embryonic expression of Wnt signaling components in the brachiopod *Terebratalia transversa*, a spiralian with a larval body subdivided into distinct regions.
 We find that Frizzled receptors are expressed in broad domains while Wnt ligands are expressed in narrower overlapping territories, creating a series of unique transcriptional subregions along the anteroposterior axis which coincide with the different body regions and morphological boundaries of the brachiopod larva.
-Comparison to other groups reveals that, while some of these transcriptional subregions are conserved, the temporal and spatial expression of Wnt ligands is evolutionary labile.
-This suggests that changes in ligand--receptor context by differential activation of Wnt ligands may be an important mechanism for the evolution of brachiopod and bilaterian axial patterning and body diversity.
-
-<!--suggesting the ligand--receptor context of Wnt signaling may play a role in the differential patterning of brachiopod body axis. -->
+This suggests the differential regulation of Wnt signaling pathways may be involved in the regional patterning and morphogenesis of the brachiopod larval body subdivisions.
+Our comparative analysis indicates that while Frizzled expression is relatively conserved across metazoan groups, the expression of Wnts is evolutionary labile, suggesting that evolutionary ligand shuffling and receptor context switching may be a mechanism for the evolution of bilaterian axial diversity.
 
 # Background
-
-<!--Wnt significance for anteroposterior patterning-->
 
 Wnt genes are crucial for animal embryogenesis [@Cadigan1997-vx].
 They regulate cell fate, proliferation, and polarity in a wide variety of developmental stages and processes, often acting as a symmetry-breaking signal [@Loh2016-pz].
@@ -93,8 +90,6 @@ However, a full characterization of the Wnt signaling components in *T. transver
 <!--neuropeptides [@Thiel2017-nd; @Thiel2021-ct]-->
 <!--biomineralization [@Wernstrom2022-iv]-->
 <!--excretion [@Gasiorowski2021-yf]-->
-
-<!--Introduction’s closing paragraph-->
 
 In this study, we characterize the Wnt complement of the brachiopod *T. transversa* and investigate the spatiotemporal expression dynamics of Wnt signaling components throughout embryogenesis.
 We focus our analysis in the period of axial elongation when the different body regions are established.
