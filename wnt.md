@@ -1,6 +1,7 @@
 ---
-title: Wnt signaling landscape during brachiopod anteroposterior patterning
-#title: Expression of Wnt signaling components in brachiopod development suggests a role in the differential patterning of different body regions along the anteroposterior axis
+title: Wnt signaling landscape in brachiopod development
+#title: Wnt signaling landscape in brachiopod anteroposterior patterning
+#title: Expression of Wnt signaling components in brachiopod development suggests a role in anteroposterior patterning
 documentclass: article
 bibliography: wnt.bib 
 csl: biomed-central.csl
@@ -41,14 +42,15 @@ Thormøhlensgate 55, 5006 Bergen, Norway.
 
 # Abstract
 
-Wnt signaling pathways are crucial for the embryonic development of metazoans.
-They can determine the primary axial polarity, specify cell fates in the different regions of the body, and trigger the re-modelling of tissues during morphogenesis.
-These Wnt signaling outcomes are regulated by complex genetic interactions, and depend not only on the ligand expression but also on the local receptor--context in the tissue.
-Although the expression of Wnt ligands has been investigated in several animal groups, the combined expression analysis of ligand and receptor is often lacking.
-Here, we analyze the embryonic expression of Wnt signaling components in the brachiopod *Terebratalia transversa*, a spiralian with a larval body subdivided into distinct regions.
-We find that Frizzled receptors are expressed in broad domains while Wnt ligands are expressed in narrower overlapping territories, creating a series of unique transcriptional subregions along the anteroposterior axis which coincide with the different body regions and morphological boundaries of the brachiopod larva.
-This suggests the differential regulation of Wnt signaling pathways may be involved in the regional patterning and morphogenesis of the brachiopod larval body subdivisions.
-Our comparative analysis indicates that while Frizzled expression is relatively conserved across metazoan groups, the expression of Wnts is evolutionary labile, suggesting that evolutionary ligand shuffling and receptor context switching may be a mechanism for the evolution of bilaterian axial diversity.
+Wnt signaling pathways play multiple roles in metazoan development.
+They can determine the polarity of embryonic axes, control cell fate and proliferation, and regulate tissue morphogenesis.
+These different outcomes, however, are not directly regulated by individual ligands, but also depend on the presence of antagonists, and crucially, on the local availability of receptors.
+To comprehend Wnt developmental roles, it is thus important to analyze the combined expression of ligand and receptor which is often lacking, in particular in understudied animal groups.
+Here, we characterize the embryonic expression of Wnt signaling components in the brachiopod *Terebratalia transversa*, a spiralian with a larval body subdivided into distinct regions.
+We find that Frizzled receptors are expressed in broad, non-overlapping domains while Wnt ligands are expressed in narrower but more diverse overlapping territories showing an anteroposterior organization.
+The combinatorial expression of ligands, receptors, and antagonists, creates a series of unique transcriptional subregions along the anteroposterior axis which precede the formation of, and coincide with, the different morphological regions and boundaries of the brachiopod larval body.
+This suggests the differential activation of Wnt signaling may regulate the regional patterning and morphogenesis of the larval body subdivisions.
+Our comparative analysis indicates that while Frizzled expression is relatively conserved across metazoan groups, the expression of Wnts is evolutionary labile, suggesting that evolutionary shuffling of ligand--receptor context may act as a mechanism for the evolution of bilaterian axial diversity.
 
 # Background
 
