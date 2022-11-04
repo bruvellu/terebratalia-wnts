@@ -1,6 +1,6 @@
 FILE=wnt
 TEMPLATE=template
-FILTERS=--filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-citeproc
+FILTERS=--filter pandoc-fignos --filter pandoc-tablenos --citeproc
 FIGDIR=`realpath ../1-figures`
 FIGOUT=`realpath ./figures`
 
