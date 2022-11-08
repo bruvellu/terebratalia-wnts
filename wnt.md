@@ -290,7 +290,7 @@ Overall, the expression of the analyzed Wnt antagonists is restricted to the ant
 ## Cell polarity genes are expressed in patches during axial elongation
 
 Proper regulation of planar cell polarity (PCP) is crucial to guide morphogenetic processes, such as convergent extension, and to orient the formation of structures during development [@Simons2008-cj; @Gao2012-fh].
-We identified and analyzed the expression of the core components of the PCP pathway in *T. transversa*, namely *dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as *ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as *stan* or *celsr*), *strabismus* (*stbm*, also known as *vang* or *vangl*), as well as the downstream transducer *c-jun n-terminal kinase* (*jnk*).
+We identified the core components of the PCP pathway in *T. transversa*, namely *dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as *ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as *stan* or *celsr*), *strabismus* (*stbm*, also known as *vang* or *vangl*), as well as the downstream transducer *c-jun n-terminal kinase* (*jnk*), and analyzed the expression between the early and late gastrula stages.
 
 Dsh is a central regulator of the cell fate and the cell polarity Wnt pathways [@Wallingford2005-xp].
 The protein has three conserved domains (DIX, PDZ, and DEP domains), and two conserved regions before and after the PDZ domain [@Gao2010-wj].
@@ -324,7 +324,11 @@ Jnk is a kinase that regulates epithelial metamorphosis and is a downstream tran
 The *jnk* ortholog in *T. transversa* (@fig:jnk-tree) is highly expressed throughout the development (@fig:s-profiling).
 The expression of *jnk* is ubiquitous in the late gastrula except for broad bilateral regions of the apical lobe (@fig:polarity).
 
-<!--TODO: Write conclusion sentence for this section-->
+In conclusion, apart from the ubiquitous expression of *fmi* and *stbm*, the other cell polarity genes we analyzed (*dsh*, *dgo*, *pk*) are expressed in non-overlapping patches at different regions of the late gastrula stage of *T. transversa*, and it is at this stage, when the embryo is elongating, that *jnk*---a readout of the PCP pathway---becomes more widely expressed.
+
+<!--proximal/anterior: pk, stbm-->
+<!--distal/posterior: fz, dsh, dgo-->
+<!--both: fmi-->
 
 <!--TODO: Confirm removal of axin and bcat-->
 
