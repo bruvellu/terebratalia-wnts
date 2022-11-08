@@ -277,13 +277,15 @@ Our phylogenetic analysis reveals that non-vertebrate deuterostomes, such as hem
 The expression of *dkk5* in *T. transversa* is upregulated in the late blastula and downregulated in the juvenile (@fig:profiling).
 It localizes to an apical ectodermal domain similar to the expression of *sfrp1/2/5*, but the *dkk5* domain is narrower and does not extend completely to the dorsal side (@fig:fzdantag and @fig:s-antagonists).
 
+<!--TODO: Move dkk discussion to figure and only mention that it’s a novel dkk family? It feels a bit out of the flow in here-->
+
 Wif is another protein that inhibits Wnt activity by direct binding to Wnt proteins [@Hsieh1999-rt].
 The protein has five EGF repeats and a typical WIF domain which is shared with RYK receptor tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs].
-In *T. transversa* we identified one *wif* gene ortholog (@fig:wif-tree).
+In *T. transversa* we identified one *wif* ortholog (@fig:wif-tree).
 The expression levels are relatively low and somewhat stable throughout development, with a peak in the late gastrula (@fig:profiling).
 Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues throughout the analyzed developmental stages (@fig:fzdantag and @fig:s-antagonists).
 
-<!--TODO: Write a summarizing sentence here-->
+Overall, the expression of the analyzed Wnt antagonists is restricted to the anterior portion of the ectoderm (*sfrp1/2/5* and *dkk5*), and to the mesoderm (*wif*), regions which coincide with the absence or limited expression of Wnt ligands.
 
 ## Cell polarity genes are expressed in patches during axial elongation
 
