@@ -147,7 +147,7 @@ Metazoans have a large Wnt repertoire with 13 subfamilies [@Kusserow2005-xd; @Cr
 To characterize the Wnt complement of the brachiopod *T. transversa*, we surveyed the transcriptomic and genomic resources for Wnt genes using similarity searches to known genes.
 We find that 12 of the 13 Wnt subfamilies are present in the brachiopod with a total of 13 Wnt genes (@fig:wnt-tree).
 *T. transversa* is missing *wnt3*, a gene known to have been lost in Protostomia [@Cho2010-eb; @Janssen2010-dc], and has two copies of *wnt1*.
-One of the *wnt1* paralogs---named hereafter *wnt1t*---is highly-divergent at the sequence level compared to other *wnt1* orthologs across bilaterians, and our phylogenetic analysis suggests it originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
+One of the *wnt1* paralogs---named hereafter *wnt1t*---is highly divergent at the sequence level compared to other *wnt1* orthologs across bilaterians, and our phylogenetic analysis suggests it originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
 Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a single representative ortholog for the remaining subfamilies, suggesting that the ancestral repertoire of metazoan Wnt genes remained conserved.
 
 <!--TODO: cite @prudhomme2002?-->
@@ -266,7 +266,7 @@ sFRP is a soluble protein that antagonizes Wnt activity by directly binding to W
 It has a cysteine-rich domain with high-affinity to Wnt proteins.
 The sFRP family can be divided into two subfamilies, *sfrp1/2/5* and *sfrp3/4* [@Kawano2003-bx; @Bovolenta2008-kb].
 In *T. transversa*, we only identified a *sfrp1/2/5* ortholog (@fig:sfrp-tree).
-*sfrp1/2/5* is highly-expressed throughout development (@fig:profiling) with transcripts located in the anterior-most portion of the mesoderm and in the apical cap ectoderm---a pattern similar to the expression of *fz5/8* (@fig:fzdantag and @fig:s-antagonists).
+*sfrp1/2/5* is highly expressed throughout development (@fig:profiling) with transcripts located in the anterior-most portion of the mesoderm and in the apical cap ectoderm---a pattern similar to the expression of *fz5/8* (@fig:fzdantag and @fig:s-antagonists).
 Transient mesodermal domains also appear in the mantle lobe of the early larva.
 Except for dorsal patches on the apical lobe, the expression of *sfrp1/2/5* fades in the late larva stage (@fig:fzdantag and @fig:s-antagonists). 
 
@@ -319,7 +319,7 @@ The expression of *T. transversa* *stbm* (@fig:stbm-tree) is initially high and 
 It is ubiquitously expressed in the tissues of gastrulating embryos (@fig:polarity).
 
 Jnk is a kinase that regulates epithelial metamorphosis and is a downstream transducer of the PCP pathway [@Noselli1999-sa].
-The *jnk* ortholog in *T. transversa* (@fig:jnk-tree) is highly-expressed throughout the development (@fig:s-profiling).
+The *jnk* ortholog in *T. transversa* (@fig:jnk-tree) is highly expressed throughout the development (@fig:s-profiling).
 The expression of *jnk* is ubiquitous in the late gastrula except for broad bilateral regions of the apical lobe (@fig:polarity).
 
 <!--TODO: Write conclusion sentence for this section-->
@@ -487,7 +487,7 @@ The short-range activity of Wnts and their ability to elicit cell fate and cell 
 Most metazoans have transcripts for ligands, antagonists, and receptors deposited maternally in the egg (@tbl:maternal).
 However, we observe a significant difference.
 While the composition of maternal Wnt ligands varies considerably even within brachiopods, the maternal load of Frizzled transcripts is less variable between species (@tbl:maternal).
-Almost all species investigated so far show the expression of *fz1/2/7* in the unfertilized egg in a highly-conserved pattern across metazoans [@Bastin2015-oz].
+Almost all species investigated so far show the expression of *fz1/2/7* in the unfertilized egg in a highly conserved pattern across metazoans [@Bastin2015-oz].
 This suggests the function of *fz1/2/7* in early development may be conserved, while the greater variability of maternal Wnt ligands suggest a putative redundant function in the signaling activation---any Wnt may be present in the egg as long as it is capable of activating the pathway.
 
 <!--We thus wondered whether the transcriptional territories of Wnt signaling components we observe in brachiopod development is conserved in other animals, and how changes in these territories may relate to the morphological diversity of metazoans.-->
