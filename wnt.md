@@ -222,18 +222,18 @@ These anterior ectodermal domains are cleared in the late larva, when *wntA* exp
 
 Frizzleds are seven-pass transmembrane proteins with an extracellular cystein-rich domain that act as receptors in Wnt signaling pathways [@Huang2004-di].
 There are five Frizzled subfamilies in metazoans [@MacDonald2012-ri], but the subfamily *fz3/6* is only found in tunicates and vertebrates [@Croce2006-cy].
-In the brachiopod *T. transversa*, we identified a total of four Frizzled genes, each a single ortholog for the *fz1/2/7*, *fz5/8*, *fz9/10*, and *fz4* subfamilies (@fig:fzd-tree).
+In the brachiopod *T. transversa*, we identified a total of four Frizzled genes with a single ortholog for the *fz1/2/7*, *fz5/8*, *fz9/10*, and *fz4* subfamilies (@fig:fzd-tree).
 
 Frizzled receptors are almost ubiquitously expressed throughout *T. transversa* development.
 In the unfertilized oocyte *fz1/2/7* and *fz5/8* are highly expressed (@fig:profiling).
 The expression of *fz1/2/7* remains high from the oocyte to juvenile stages while the expression of *fz5/8* decays over time.
 *fz4*, which is initially expressed at lower levels, peaks late in development at the larval stages, showing the complementary expression profile of *fz5/8* which peaks before gastrulation (@fig:profiling).
 In contrast, *fz9/10* expression only increases during gastrulation, remaining relatively constant in subsequent stages.
-Changes in Frizzled expression occur in gradual but consistent waves of up or down regulation and, despite of being less variable than that of Wnt genes, each Frizzled shows a unique expression profile.
+Changes in Frizzled expression occur in gradual but consistent waves of up or down regulation and, despite being less variable than that of Wnt genes, each Frizzled shows a unique expression profile during development.
 
 ## Frizzled domains occupy broad but distinct regions of the body
 
-<!--TODO: Write intro sentence for this section-->
+We carried out *in situ* hybridizations for all Frizzled genes of *T. transversa* to reveal their domains of expression during axial elongation (@fig:fzdantag).
 
 *fz1/2/7* transcripts are almost ubiquitous in gastrula tissues (@fig:fzdantag).
 We observe an anteroposterior gradient with stronger signal at the apical region, in the anterior mesoderm, and in a pair of lateral ectodermal domains in the middle of the body (@fig:fzdantag and @fig:s-receptors).
@@ -256,7 +256,7 @@ The posterior limit of *fz9/10* domain reaches the pedicle lobe where it overlap
 Mantle lobe expression is weak, and the terminal portion of the pedicle lobe is cleared from *fz9/10* transcripts (@fig:fzdantag and @fig:s-receptors).
 Throughout development *fz9/10* is expressed in the mesoderm.
 
-<!--TODO: Write a conclusion sentence for this section-->
+Taken together, the expression domains of Frizzled receptors extend over broad but distinct regions of the body, and this arrangement along the anteroposterior axis remains constant throughout gastrulation and larval morphogenesis.
 
 ## Expression of Wnt antagonists is limited to the anterior ectoderm and mesoderm
 
