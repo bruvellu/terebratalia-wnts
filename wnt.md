@@ -367,20 +367,17 @@ Below we discuss the evidence for a Wnt-based control of axial patterning and th
 <!--TODO: Conclude paragraphs giving the ligand--receptor context of each region-->
 
 <!--Anterior pole patterning, a Wnt-free zone with Wnt antagonists regulated by fz5/8-->
+<!--Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].-->
 
-Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].
-Activation of the Wnt/beta-catenin pathway specifies endomesoderm and induces posterior fates in early embryos, while its inhibition is associated with the differentiation of anterior and neural fates [@Petersen2009-wp; @Hikasa2013-yl].
-Some of the key molecular players involved in the downregulation of Wnt signaling in the anterior neuroectoderm are transcription factor *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co], and a variety of genes such as sFRP and Dkk [@Cruciat2013-zs].
-In many metazoan embryos, the ectodermal tissues opposite to the gastrulation site---the aboral pole in cnidarians and the anterior pole in bilaterians---usually express antagonists of the Wnt pathway [@Petersen2009-wp].
-In *T. transversa*, the anterior pole gives rise to the larval apical organ and neuropile [@Santagata2011-ry] and the region expresses neural genes, such as *six3/6* and *foxq2*, at least from the early gastrula [@Santagata2012-he].
-Our current work reveals that Wnt antagonists, such as *sfrp1/2/5* and *dkk5*, are expressed in the same region, the anteriormost transcriptional territory which lacks the expression of Wnt ligands almost entirely ({@fig:summary}A).
-Interestingly, this molecular territory also expresses the receptors *fz1/2/7* and *fz5/8*, also known to inhibit Wnt/beta-catenin signaling in sea urchins [@Range2013-gm; @Khadka2018-td].
-There, *fz5/8* plays a role in the second phase of the anterior neuroectoderm patterning by activating *sFRP* and *Dkk* expression in the anterior pole and consolidating the neuroectoderm identity [@Range2013-gm; @Khadka2018-td].
+The inhibition of Wnt signaling is usually associated with anterior and neural fates.
+Many metazoan embryos express antagonists of the Wnt pathway in the tissues opposite to the gastrulation site in the anterior/aboral ectoderm [@Petersen2009-wp; @Hikasa2013-yl].
+Some of the key inhibitors of Wnt signaling are sFRP and Dkk [@Cruciat2013-zs] and the transcription factor *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co].
+In *T. transversa*, the anteriormost transcriptional territory lacks the expression of Wnt ligands almost entirely, and expresses the putative Wnt antagonists *sfrp1/2/5* and *dkk5* ({@fig:summary}A) as well as neural genes, such as *six3/6* and *foxq2* [@Santagata2012-he].
+In addition, it expresses the Frizzled receptor *fz5/8*, known to activate *sFRP* and *Dkk* expression and inhibit Wnt signaling in the anterior pole, helping to establish a neuroectoderm identity [@Range2013-gm; @Khadka2018-td].
+This region in *T. transversa* gives rise to the apical organ and neuropile of the larva [@Santagata2011-ry], suggesting that a that a similar regulatory logic based on Wnt inhibition may pattern the anterior pole of brachiopods.
+
 <!--Over activation of the Wnt pathway reduced dramatically the expression of anterior markers but their expression was not entirely abolished, suggesting that at least a remnant of anterior identity remains [@Martin-Duran2016-qa].-->
-The similarity in the spatial arrangement of these genes in anterior pole of *T. transversa* suggests that similar genetic interactions may be involved in the patterning of the brachiopod apical organ and neuropile.
-
 <!--TODO: @Marlow2014 conservation of wnt antagonist domains-->
-
 <!--Posterior apical lobe as posterior neuroectoderm regulated by wnt8-->
 
 Adjacent to the anterior pole lays a transcriptional territory expressing the Frizzled receptors *fz1/2/7* and *fz4*, and several Wnt ligands (*wnt2*, *wnt5*, *wnt8*, and *wntA*) (@fig:summary).
