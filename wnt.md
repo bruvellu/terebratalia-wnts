@@ -380,15 +380,15 @@ This region in *T. transversa* gives rise to the apical organ and neuropile of t
 <!--TODO: @Marlow2014 conservation of wnt antagonist domains-->
 <!--Posterior apical lobe as posterior neuroectoderm regulated by wnt8-->
 
-Adjacent to the anterior pole lays a transcriptional territory expressing the Frizzled receptors *fz1/2/7* and *fz4*, and several Wnt ligands (*wnt2*, *wnt5*, *wnt8*, and *wntA*) (@fig:summary).
-The earliest genes to be expressed in this region, which corresponds to the posterior portion of the apical lobe, are *wnt8*, *wnt5*, and *fz4* (@fig:ligands1, !@fig:ligands2, !@fig:fzdantag, !@fig:s-ligands, and !@fig:s-receptors).
-*wnt8* is commonly expressed in the posterior neuroectoderm in vertebrates [@Kelly1995-jv;  @Hollyday1995-ym] and in the head/brain of spiders, annelids, and hemichordates [@Janssen2010-dc; @Pruitt2014-oy; @Darras2018-gm].
-In zebrafish, the anterior boundary of the *wnt8b* domain abuts the posterior boundary of the *fz8a* territory, and *wnt8b* is known to repress the expression of *fz8a* [@Kim2002-ze].
-*wnt8b* activity is important to establish a posterior identity that subdivides the neuroectoderm [@Erter2001-fl; @Lekven2001-jj; @Rhinn2005-ie].
-In *T. transversa*, the spatial arrangement of *fz5/8* and *wnt8* is the same as in zebrafish, suggesting a similar genetic interaction might be in place. 
-In addition, loss of *wnt8* function led to caudal expansion of *pax6* in zebrafish [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].
+In contrast, the transcriptional territory adjacent to the anterior pole and positioned on the posterior portion of the apical lobe expresses several Wnt ligands (@fig:summary).
+*wnt8* and *fz4*, two of the earliest genes to be expressed in this region, abut the posterior boundary of the *fz5/8* domain in the anterior pole of *T. transversa* (@fig:ligands2, !@fig:doubles).
+*wnt8* is expressed in the posterior neuroectoderm of several metazoans, such as vertebrates, spiders, annelids, and hemichordates [@Kelly1995-jv; @Hollyday1995-ym; @Janssen2010-dc; @Pruitt2014-oy; @Darras2018-gm].
+In zebrafish, *wnt8b* represses *fz8a* [@Kim2002-ze] and establishes a posterior identity for the neuroectoderm [@Erter2001-fl; @Lekven2001-jj; @Rhinn2005-ie].
+This arrangement between *fz5/8* and *wnt8* recapitulates what we found in the brachiopod, and points to the possibility that a similar genetic interaction, in this case mediated by the *fz4* receptor, may pattern the differentiation between the anterior pole and posterior portion of the apical lobe.
+
+<!--The earliest genes to be expressed in this region, which corresponds to the posterior portion of the apical lobe, are *wnt8*, *wnt5*, and *fz4* (@fig:ligands1, !@fig:ligands2, !@fig:fzdantag, !@fig:s-ligands, and !@fig:s-receptors).-->
+<!--In addition, loss of *wnt8* function led to caudal expansion of *pax6* in zebrafish [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].-->
 <!--TODO: The region also expresses *wnt2* and *wntA* (ventral side) which are associated ..., respectively [@wnt2wntA].-->
-The correlation between brachiopod expression and genetic interaction suggests that these genes may be involved in the differentiation between anterior pole and posterior apical lobe.
 
 <!--Receptor-context dependent activation of wnt5-->
 
