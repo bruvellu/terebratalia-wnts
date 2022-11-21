@@ -390,7 +390,19 @@ This arrangement between *fz5/8* and *wnt8* recapitulates what we found in the b
 <!--In addition, loss of *wnt8* function led to caudal expansion of *pax6* in zebrafish [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].-->
 <!--TODO: The region also expresses *wnt2* and *wntA* (ventral side) which are associated ..., respectively [@wnt2wntA].-->
 
-<!--Receptor-context dependent activation of wnt5-->
+The apical lobe posterior end forms a deep epithelial invagination that divides the head and trunk domains of the body [@Vellutini2016-lq].
+*wnt1* and the transcription factor *engrailed* (*en*) are expressed in sharply juxtaposed domains at the apical--mantle boundary, in a pattern reminiscent of the segment polarity network in arthropods and the midbrain--hindbrain boundary in vertebrates [@Vellutini2016-lq].
+We found that *wnt7* is also expressed at the apical--mantle boundary.
+The ring domain of *wnt7* partially overlaps with the stripes of *wnt1* and *en* ({@fig:doubles}G,H and {!@fig:summary}A).
+The pattern, a broader stripe of *wnt1* with a narrow stripe of *wnt7* bordering a posterior stripe of *en* also occurs in the trunk segments of a beetle and a spider [@Janssen2010-dc].
+This suggests that *wnt1*, *wnt7*, and *en* may play a role in the patterning of the brachiopod apical--mantle boundary.
+
+<!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
+
+<!--, and *en* is known to repress *wnt7* in vertebrate limb buds [@Loomis1996-zx].-->
+<!--Both genes are involved in the establishment of compartment boundaries in a variety of developmental settings such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].-->
+
+<!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
 
 The gene *wnt5* has a prominent expression in brachiopod development.
 It is not only expressed in the posterior portion of the apical lobe, but also in the mantle lobe, and in the terminal pole of *T. transversa* embryo.
@@ -405,20 +417,8 @@ This suggests that *wnt5* signaling in the apical lobe is possibly mediated by *
 This raises the hypothesis that *wnt5* may control region-specific patterning via distinct receptor contexts, mediating the cell proliferation in the apical lobe and the convergent extension driving tissue elongation in the mantle lobe.
 
 <!--TODO: Revise sentences about putative protein interactions based on expression data-->
-
 <!--TODO: Check how cell polarity might regulate CE and jnk roles-->
 
-<!--Wnt specifying regions and boundaries with wnt1 and wnt7-->
-
-In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).
-The exceptions are the anterior pole and the anterior portion of the mantle lobe where the transcription factor *engrailed* (*en*) is expressed [@Vellutini2016-lq].
-*wnt1* and *en* domains form a sharp transcriptional boundary precisely at the apical--mantle boundary where a deep epithelial invagination divides the head and trunk domains [@Vellutini2016-lq].
-Both genes are involved in the establishment of compartment boundaries in a variety of developmental settings such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].
-Our analysis reveals that a ring of *wnt7*-positive cells are also present at the interface of the apical--mantle boundary, with narrow overlap with *wnt1* and *en* domains ({@fig:doubles}G,H and {!@fig:summary}A).
-A broader stripe of *wnt1* with a narrow stripe of *wnt7* bordering a posterior stripe of *en* also occurs in beetle and spider trunk segments [@Janssen2010-dc], and *en* is known to repress *wnt7* in vertebrate limb buds [@Loomis1996-zx].
-This suggests *wnt1*, *wnt7*, and *en* may play a role in the patterning of the brachiopod apical--mantle boundary.
-
-<!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
 
 <!--TODO: *wnt16* is involved in the morphogenetic movements of gastrulation in sea urchin [@Martinez-Bartolome2019-kk].-->
 <!--TODO: In T. transversa it is expressed around the sides of the blastopore and could be involved in blastopore closure.-->
