@@ -404,21 +404,20 @@ This suggests that *wnt1*, *wnt7*, and *en* may play a role in the patterning of
 
 <!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
 
-The gene *wnt5* has a prominent expression in brachiopod development.
-It is not only expressed in the posterior portion of the apical lobe, but also in the mantle lobe, and in the terminal pole of *T. transversa* embryo.
-In other animals, *wnt5* regulates convergent extension of tissues during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz] as well as cell proliferation [@Yamaguchi1999-zj].
-It is commonly expressed in tissue outgrowths such as the tail and limb buds, but also in the brain [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu].
-Although *wnt5* is a known inhibitor of beta-catenin and activator of the Wnt/PCP pathway, it activates the Wnt/beta-catenin pathway in the presence of *fz4* in mice [@Mikels2006-ha], indicating that the receptor availability plays a major role in modulating the signaling output for this gene.
-In *T. transversa*, each *wnt5* domain coexpresses a different Frizzled receptor, *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and no *fz* in the pedicle lobe, suggesting that *wnt5* is probably associated with distinct receptor contexts ({@fig:summary}A).
-Each of these regions, whose boundaries are already visible on the epithelial surface of the late gastrula, undergo distinct morphogenetic changes ({@fig:summary}B).
-The posterior portion of the apical lobe undergoes intense cell proliferation [@Martin-Duran2016-qa], the mantle lobe undergoes dramatic tissue grow and elongation [@Stricker1985-gz], and the pedicle lobe narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf] ({@fig:summary}B).
-This suggests that *wnt5* signaling in the apical lobe is possibly mediated by *fz4*, presumably activating Wnt/beta-catenin, while *wnt5* signaling in the mantle lobe is mediated by *fz1/2/7*, possibly activating the Wnt/PCP pathway.
-<!--TODO: jnk, a read out of the cell polarity pathway is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
-This raises the hypothesis that *wnt5* may control region-specific patterning via distinct receptor contexts, mediating the cell proliferation in the apical lobe and the convergent extension driving tissue elongation in the mantle lobe.
+The regions anterior and posterior to the apical--mantle boundary undergo entirely distinct morphogenetic changes ({@fig:summary}B).
+Tissues anterior to the boundary, located in the posterior portion of the apical lobe where *wnt8* and *fz4* are expressed, have an increased rate of cell proliferation during larval differentiation [@Martin-Duran2016-qa].
+Meanwhile, tissues posterior to the apical--mantle boundary, the mantle lobe itself, go through a dramatic growth and elongation [@Stricker1985-gz].
+Both regions show a prominent *wnt5* expression encircling the entire circumference of the embryo ({@fig:doubles} and {@fig:summary}A).
+In other animals, *wnt5* is expressed in tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and it regulates cell proliferation [@Yamaguchi1999-zj] and convergent extension movements during morphogenesis via Wnt/PCP pathway [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].
+Interestingly, *wnt5* signaling depends on the receptor availability, as it can switch to activating the Wnt/beta-catenin pathway in the presence of the receptor *fz4* [@Mikels2006-ha].
+In *T. transversa*, the Frizzled receptors expressed in the apical and mantle lobe are different (*fz4* and *fz1/2/7*, respectively), suggesting that *wnt5* is probably associated with distinct receptor contexts during development ({@fig:summary}A).
+This raises the hypothesis that the receptor availability may dictate the differential activation of Wnt/beta-catenin or Wnt/PCP pathway, and thus control the distinct outcomes of cell proliferation and convergent extension in the apical and mantle lobe of *T. transversa*.
+<!--Since *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobes (@fig:polarity), -->
+
+<!--the pedicle lobe narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf] ({@fig:summary}B).-->
 
 <!--TODO: Revise sentences about putative protein interactions based on expression data-->
 <!--TODO: Check how cell polarity might regulate CE and jnk roles-->
-
 
 <!--TODO: *wnt16* is involved in the morphogenetic movements of gastrulation in sea urchin [@Martinez-Bartolome2019-kk].-->
 <!--TODO: In T. transversa it is expressed around the sides of the blastopore and could be involved in blastopore closure.-->
