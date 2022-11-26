@@ -422,28 +422,18 @@ This raises the hypothesis that the receptor availability may dictate the differ
 <!--TODO: *wnt16* is involved in the morphogenetic movements of gastrulation in sea urchin [@Martinez-Bartolome2019-kk].-->
 <!--TODO: In T. transversa it is expressed around the sides of the blastopore and could be involved in blastopore closure.-->
 
-*wnt7* is also expressed at the interface of another brachiopod boundary between the subterminal and terminal portion of the pedicle lobe.
-During development, the anterior portion of the pedicle lobe gives rise to the posterior portion of the juvenile body while the posterior portion of the pedicle lobe gives rise to the juvenile pedicle [@Stricker1985-vf].
-In the late gastrula, these two territories are demarcated on the ventral side by *wnt1* anteriorly and *wnt5* posteriorly with *wnt7* expressed in between ({@fig:doubles}G,H and {!@fig:summary}A).
-Indicating that *wnt7* may have a common role in the establishment of the boundaries between body domains.
+<!--*wnt7* is also expressed at the interface of another brachiopod boundary between the subterminal and terminal portion of the pedicle lobe.-->
+<!--Indicating that *wnt7* may have a common role in the establishment of the boundaries between body domains.-->
 <!--Although the spatial arrangement of these three genes is similar to the apical--mantle boundary, the receptor-context is not identical and presumably only *fz9/10* is expressed in the subterminal pedicle lobe ({@fig:doubles}G,H and {!@fig:summary}A).-->
 <!--TODO: The region also expresses wnt4 and wnt10 in subdomains [wnt4wnt10].-->
 
-The terminal portion of the brachiopod pedicle lobe expresses three Wnt ligands: *wnt5*, *wnt6*, and *wnt11* ({@fig:summary}A).
-*wnt6* posterior expression is strong in early gastrulation and may have an earlier role as in sea urchins where *wnt6* is necessary for the activation of endomesodermal gene regulatory network [@Croce2011-ae].
-Expression of *wnt11*, on the other hand, is broad and persists until the larval stage ({@fig:ligands2}).
-It coincides with the subdivision of the pedicle lobe which undergoes constriction in the late larva.
-While the nature of these morphogenetic processes remain unclear, *wnt11*, a gene known to mediate convergent extension in zebrafish gastrulation through the Wnt/PCP pathway [@Heisenberg2000-kx; @Tada2000-dz], may have a role in the pedicle lobe morphogenesis in *T. transversa*.
+The pedicle lobe is subdivided into an anterior and a posterior (terminal) portion which undergoes constriction in the late larva [@Stricker1985-vf].
+These two territories are already demarcated in the late gastrula *wnt1* anteriorly and by *wnt5* and *wnt11* posteriorly ({@fig:doubles}G,H and {!@fig:summary}A).
+*wnt5*, as discussed above, and *wnt11* are known to mediate convergent extension through the Wnt/PCP pathway [@Heisenberg2000-kx; @Tada2000-dz] and may play a role in the morphogenesis of the terminal pole of *T. transversa*.
+The absence of *axin*, a readout of the Wnt/beta-catenin pathway [@Jho_Eek-hoon2002-ey], from the terminal pole of *T. transversa* [@Martin-Duran2016-qa], and the unchanged expression of the posterior markers *evx* and *cdx* when Wnt/beta-catenin is over-activated [@Martin-Duran2016-qa],
+suggests that the region is may be Wnt-insensitive as similar to what has been observed in the posterior-most region of hemichordates [@Darras2018-gm].
 
-Interestingly, no Frizzled receptor genes are expressed in the terminal portion of the pedicle lobe ({@fig:summary}A).
-This raises the question whether any Wnt pathway is being activated in the terminal pole.
-Activation of the Wnt/beta-catenin is known to induce the expression of the intracellular component *axin2* in mice [@Jho_Eek-hoon2002-ey].
-In *T. transversa*, *axin* is mainly expressed in the subterminal portion of the pedicle lobe [@Martin-Duran2016-qa].
-This suggests that Wnt pathway in the late gastrula stage is mainly active in the subterminal portion of the pedicle lobe and not in the terminal pole.
-The posterior-most region of hemichordates which also expresses no Frizzled receptors is Wnt-insensitive to over-activation or suppression of Wnt/beta-catenin signaling [@Darras2018-gm].
-Since the expression of posterior markers *evx* and *cdx* remain unchanged when Wnt/beta-catenin is over-activated in the brachiopod [@Martin-Duran2016-qa], it is possible that a Wnt-insensitive posterior region as proposed in hemichordates is also present in brachiopods.
-Further functional experiments are required to test this hypothesis.
-
+<!--*wnt6* posterior expression is strong in early gastrulation and may have an earlier role as in sea urchins where *wnt6* is necessary for the activation of endomesodermal gene regulatory network [@Croce2011-ae].-->
 <!--TODO: Mention that the subterminal portion of the pedicle has an attachment function?-->
 
 <!--TODO: Connection between FGF and Wnt from Andrikou2021-cc-->
