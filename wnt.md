@@ -348,12 +348,52 @@ In the late gastrula, we detect transcripts of every Wnt signaling component bot
 They form an intricate landscape of domains distributed along the anteroposterior axis ({@fig:summary}A).
 When considered in combination, we identified six distinct transcriptional territories, each expressing a unique set of ligands, receptors, and antagonists (@tbl:landscape).
 These territories not only precede the morphogenesis of the larval body, but also coincide with the morphological subdivisions of later stages ({@fig:summary}B).
-This suggests that the differential activation of Wnt signaling along the anteroposterior axis may contribute to the specification and differentiation of different body regions of brachiopods.
-Below we discuss the evidence for a Wnt-based control of axial patterning and the implications of our findings to the evolution of metazoan axial diversity.
+This suggests that the differential activation of Wnt signaling along the anteroposterior axis may contribute to the specification and differentiation of the different body regions of brachiopods.
+Below we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of our findings to the evolution of metazoan axial diversity.
 
-## Wnt ligand--receptor contexts in brachiopod axial patterning
+<!--TODO: Streamline middle section of the text-->
+
+## Wnt combinatorial landscape patterning brachiopod body subregions
 
 <!--
+
+# Apical lobe (ant/post)
+- Trilobed brachiopod larva subdivided into six subregions
+- Subregions correspond to unique Wnt signaling territories
+- Metazoan anterior patterning has antagonists and neuroectoderm
+- Brachiopod shows a very similar molecular pattern
+- Transcriptional territories give rise to ant/post apical lobe subregions
+- Conserved logic control apical lobe differentiation
+
+# Apical--mantle boundary
+- Between apical and mantle there is an invaginated boundary
+- Folded area correspond to a different Wnt combination
+- Pattern reminiscent of segment polarity boundary and brain
+- Wnt not only fields but also interface boundaries
+
+# Mantle lobe
+- Undergoes dramatic elongation morphogenesis
+- Profile dominated by wnt 
+- Expressed in growing tips in other metazoans
+- Linked to convergent extension and PCP
+- Hypothesis for the mechanism of mantle elongation
+
+# Pedicle lobe (ant/post)
+- Clear morphological subdivision
+- Transcriptional subdivision matches morphology
+- Main difference is absence of fz
+- Pattern also in other metazoans
+- Terminal pedicle lobe under same regulation
+
+# Receptor-contexts per subregion
+- Different regions have different landscapes
+- Supports the idea of Wnt-mediated patterning
+- But same Wnts also present in different contexts
+- Recall examples for wnt5 and wnt1 and wnt7
+- Supports the idea that receptor context matters
+- Uncovering this Wnt code is important
+- How conserved is it?
+
 - Wnt-free anterior pole patterned by FZ/sFRP/DKK interactions
 - Apical-mantle boundary with wnt1/wnt7 (check morphogenesis links)
 - Convergent extension of mantle lobe mediated by wnt5
@@ -364,10 +404,8 @@ Below we discuss the evidence for a Wnt-based control of axial patterning and th
 - Evolutionary shuffling as mechanism for axial diversification
 -->
 
-<!--TODO: Conclude paragraphs giving the ligand--receptor context of each region-->
-
-<!--Anterior pole patterning, a Wnt-free zone with Wnt antagonists regulated by fz5/8-->
-<!--Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].-->
+<!--We argue that different transcriptional territories correlate with different subregions.-->
+<!--Since they precede morphology and there are some conserved players, this suggests they may be patterning the regions. But they may also control downstream differentiation and morphogenesis.-->
 
 The inhibition of Wnt signaling is usually associated with anterior and neural fates.
 Many metazoan embryos express antagonists of the Wnt pathway in the tissues opposite to the gastrulation site in the anterior/aboral ectoderm [@Petersen2009-wp; @Hikasa2013-yl].
@@ -396,6 +434,8 @@ We found that *wnt7* is also expressed at the apical--mantle boundary.
 The ring domain of *wnt7* partially overlaps with the stripes of *wnt1* and *en* ({@fig:doubles}G,H and {!@fig:summary}A).
 The pattern, a broader stripe of *wnt1* with a narrow stripe of *wnt7* bordering a posterior stripe of *en* also occurs in the trunk segments of a beetle and a spider [@Janssen2010-dc].
 This suggests that *wnt1*, *wnt7*, and *en* may play a role in the patterning of the brachiopod apical--mantle boundary.
+
+<!--There are candidates for some of the patterning upstream, but it is unclear what is downstream of Wnt signaling and what is the mechanism generating this prominent epithelial invagination.-->
 
 <!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
 
@@ -435,18 +475,37 @@ suggests that the region is may be Wnt-insensitive as similar to what has been o
 
 <!--*wnt6* posterior expression is strong in early gastrulation and may have an earlier role as in sea urchins where *wnt6* is necessary for the activation of endomesodermal gene regulatory network [@Croce2011-ae].-->
 <!--TODO: Mention that the subterminal portion of the pedicle has an attachment function?-->
-
 <!--TODO: Connection between FGF and Wnt from Andrikou2021-cc-->
 <!--TODO: How does Wnt signaling intersects with Hox expression from @Schiemann2017-wd-->
 
+We identified that some of the transcriptional regions of *T. transversa* have comparable players in comparable regions of other animals such as the anterior antagonists with wnt8 fz5/8.
+This suggests that some of the patterning is conserved.
+We also found the association of known functions of some genes with the morphogenetic processes occurring in *T. transversa* such as the case of the mantle lobe and wnt5.
+This suggests a Wnt-based control of the axial patterning of brachiopods.
+Finally, in addition to the positional conservation of some wnts, we identified at least three cases of wnts being expressed in different receptor contexts, in different regions that undergo different fate and morphogenesis.
+This suggests that receptor context is important for brachiopod axial patterning and morphogenesis.
+The combinatorial expression of antagonists, ligands, and receptors, establishing unique transcriptional territories, raises the idea of a Wnt code.
+
+The idea that a specific combination of molecular players will result on a specific developmental outcome.
+The idea is reminiscent of the Hox code where the combinatorial expression of these homeobox transcription factors sets the identities of different regions along the anteroposterior axis.
+It gained air with the description of staggered domains along cnidarians but was also suggested in amphioxus tail bud.
+However, the realization that a single Wnt ligand can signal different outcomes makes the Wnt code a much more complex code to crack because we need data for many more genes.
+If there is a wnt code we expect to see similar combinations leading to similar developmental outcomes.
+So the question we asked was how conserved is the combinatorial expression of brachiopods in other metazoans and what does this tell us about the role of wnt signaling in axial evolution?
+
 Overall, we find that during axial elongation of the brachiopod *T. transversa*, the expression of Frizzled receptors is regionalized into broad domains which make up six unique receptor contexts along the anteroposterior axis.
-While Wnt antagonists are restricted to the anterior pole, Wnt ligands are expressed in different partially overlapping domains across the embryo.
-Most Wnts are expressed in a single location, and thus, only in a specific receptor context.
-Three ligands, *wnt1*, *wnt5*, and *wnt7*, are expressed in different regions along the axis, and thus the same ligand is expressed in different receptor contexts.
-The combinatorial expression of antagonists, ligands, and receptors, establishes unique transcriptional territories, a Wnt-code, that precede the larval morphogenesis.
+
 The localization and limits of these territories coincide with the subdivisions of the larval body, each undergoing a different fate and morphogenetic processes.
+
+Three ligands, *wnt1*, *wnt5*, and *wnt7*, are expressed in different regions along the axis, and thus the same ligand is expressed in different receptor contexts.
+
+
 The findings that a single Wnt ligand can either activate or inhibit Wnt/beta-catenin depending on the receptor availability [@Mikels2006-ha; @Van_Amerongen2008-oo] raised the comprehension that Wnt signaling pathways are not independent linear cascades but result from the combinatorial network of protein interactions where the developmental (or receptor) context dictates the signaling output [@Van_Amerongen2009-wk].
+
 Our work provides a comprehensive overview of the combinatorial landscape of Wnt signaling components and initial evidence that different ligand--receptor contexts may be involved in the regional specification of the anteroposterior axis of brachiopod embryos.
+
+<!--TODO: On hox code axial patterning, is there a described role for wnts?-->
+<!--TODO: Hox/Wnt interaction in Nematostella-->
 
 <!--TODO: Revise the use of the term Wnt-code-->
 <!--TODO: Are there such clear Wnt codes present in other animals? Use question as hook?-->
@@ -459,9 +518,7 @@ Our work provides a comprehensive overview of the combinatorial landscape of Wnt
 <!--This might be due to the two genes being in the same locus and possibly share regulatory elements such as in zebrafish [@Lekven2019-gj].-->
 
 <!--From literature: We conclude that distinct cellular identity codes are generated by the combinatorial activities of Wg, Dpp, EGF, and FGF signals -->
-<!--TODO: On hox code axial patterning, is there a described role for wnts?-->
 <!--TODO: Moreover Fz is conserved and Wnt is variable suggesting that shuffling of ligands may increase the diversity of body axis-->
-<!--TODO: Hox/Wnt interaction in Nematostella-->
 <!--TODO: Solid examples of differential affinity and combinatorial activity changing the outcome-->
 
 ## Ligand--receptor shuffling in bilaterian axial evolution
