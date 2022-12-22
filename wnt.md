@@ -341,15 +341,13 @@ In conclusion, apart from the ubiquitous expression of *fmi* and *stbm*, the oth
 -->
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
-We find that the brachiopod *T. transversa* has a conserved Wnt repertoire of ligands, receptors, antagonists, and components of the cell polarity pathway, showing just few duplications or losses.
-These genes are expressed throughout embryogenesis, from the unfertilized oocyte to the post-metamorphic juvenile stages.
-We identified two events of Wnt upregulation; one in the late blastula, at the onset of gastrulation, and another in the mid to late gastrula, during axial elongation.
-In the late gastrula, we detect transcripts of every Wnt signaling component both by RNA-seq (@fig:profiling) and by *in situ* hybridization (@fig:ligands1 and @fig:ligands2).
-They form an intricate landscape of domains distributed along the anteroposterior axis ({@fig:summary}A).
-When considered in combination, we identified six distinct transcriptional territories, each expressing a unique set of ligands, receptors, and antagonists (@tbl:landscape).
-These territories not only precede the morphogenesis of the larval body, but also coincide with the morphological subdivisions of later stages ({@fig:summary}B).
-This suggests that the differential activation of Wnt signaling along the anteroposterior axis may contribute to the specification and differentiation of the different body regions of brachiopods.
+We find that the brachiopod *T. transversa* has a conserved Wnt repertoire of ligands, receptors, antagonists, and components of the cell polarity pathway, showing few duplications or losses.
+These genes are expressed throughout embryogenesis, from the unfertilized oocyte to the post-metamorphic juvenile stages, but undergo two major upregulation events, one at the onset of gastrulation in the late blastula, and another during axial elongations in the late gastrula.
+In the latter, we detect transcripts of every Wnt signaling component both by RNA-seq (@fig:profiling) and by *in situ* hybridization (@fig:ligands1 and @fig:ligands2), forming an intricate landscape of expression domains distributed along the anteroposterior axis ({@fig:summary}A).
+We identified six distinct transcriptional territories, each expressing a unique set of ligands, receptors, and antagonists, whose boundaries coincide with the morphological subdivisions of later stages (@tbl:landscape and {@fig:summary}B).
 Below we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of our findings to the evolution of metazoan axial diversity.
+
+<!--This suggests that the differential activation of Wnt signaling along the anteroposterior axis may contribute to the specification and differentiation of the different body regions of brachiopods.-->
 
 <!--TODO: Streamline middle section of the text-->
 
@@ -714,14 +712,14 @@ region of a late gastrula stage.](figures/Fig8.jpg){#fig:summary width=100%}
 
 Table: Transcriptional identity of Wnt signaling territories in the brachiopod *T. transversa*. {#tbl:landscape}
 
-| Region                    | Antagonists     | Ligands                                            | Receptors             |
-| ------------------------- | --------------- | -------------------------------------------------- | --------------------- |
-| Anterior tip              | *dkk*, *sfrp1/2/5*   | (*wnt1t*)                                                  | *fz1/2/7*, *fz5/8*    |
-| Apical lobe               | -               | *wntA*, *wnt8*, *wnt2*, *wnt5*                     | *fz1/2/7*, *fz4*      |
-| Apical--mantle boundary   | -               | *wnt1*, *wnt7*, *wnt16*                            | *fz1/2/7*, *fz9/10*   |
-| Mantle lobe               | -               | *wnt5*, *wnt16*                                    | *fz1/2/7*             |
-| Pedicle lobe              | -               | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7*   | *fz9/10*              |
-| Posterior tip             | -               | *wnt6*, *wnt11*, *wnt5*                            | -                     |
+| Region                    | Antagonists        | Ligands                                            | Receptors             |
+| ------------------------- | ---------------    | -------------------------------------------------- | --------------------- |
+| Anterior tip              | *dkk*, *sfrp1/2/5* | (*wnt1t*)                                          | *fz1/2/7*, *fz5/8*    |
+| Apical lobe               | -                  | *wntA*, *wnt8*, *wnt2*, *wnt5*                     | *fz1/2/7*, *fz4*      |
+| Apical--mantle boundary   | -                  | *wnt1*, *wnt7*, *wnt16*                            | *fz1/2/7*, *fz9/10*   |
+| Mantle lobe               | -                  | *wnt5*, *wnt16*                                    | *fz1/2/7*             |
+| Pedicle lobe              | -                  | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7*   | *fz9/10*              |
+| Posterior tip             | -                  | *wnt6*, *wnt11*, *wnt5*                            | -                     |
 
 \newpage
 
