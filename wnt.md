@@ -434,19 +434,20 @@ The arrangement of *fz5/8* and *wnt8* domains in *T. transversa* suggests that a
 <!--In addition, loss of *wnt8* function led to caudal expansion of *pax6* in zebrafish [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].-->
 <!--TODO: The region also expresses *wnt2* and *wntA* (ventral side) which are associated ..., respectively [@wnt2wntA].-->
 
-The apical lobe posterior end forms a deep epithelial invagination that divides the head and trunk domains of the body [@Vellutini2016-lq].
-*wnt1* and the transcription factor *engrailed* (*en*) are expressed in sharply juxtaposed domains at the apical--mantle boundary, in a pattern reminiscent of the segment polarity network in arthropods and the midbrain--hindbrain boundary in vertebrates [@Vellutini2016-lq].
-We found that *wnt7* is also expressed at the apical--mantle boundary.
-The ring domain of *wnt7* partially overlaps with the stripes of *wnt1* and *en* ({@fig:doubles}G,H and {!@fig:summary}A).
-The pattern, a broader stripe of *wnt1* with a narrow stripe of *wnt7* bordering a posterior stripe of *en* also occurs in the trunk segments of a beetle and a spider [@Janssen2010-dc].
-This suggests that *wnt1*, *wnt7*, and *en* may play a role in the patterning of the brachiopod apical--mantle boundary.
+The boundary between the apical and mantle lobes is demarcated by a deep epithelial invagination delimited by sharply juxtaposed expression domains of *wnt1* and the homeobox transcription factor *engrailed* (*en*) [@Vellutini2016-lq].
+We found that the area contained in the invagination corresponds to a different transcriptional subregion which also exhibits the expression of *fz9/10* and *wnt7* ({@fig:summary}A).
+The spatial pattern of *wnt1*, *wnt7*, and *en* domains is similar to the segmental boundaries in arthropods [@Janssen2010-dc] and to the mid--hindbrain boundary in vertebrates [@Parr1993-ch; @Rhinn2001-ie] (see @Vellutini2016-lq for discussion).
+<!--Wnt7 is also known to interact with Fz9 *in vitro* [@Winn2005] and with *en* in limb dorsoventral patterning [@Loomis1996-zx; @Loomis1998].-->
+These genes are involved in the establishment of compartment boundaries in a variety of developmental settings, suggesting they may play a role in the patterning of the apical--mantle boundary of *T. transversa*.
 
-<!--There are candidates for some of the patterning upstream, but it is unclear what is downstream of Wnt signaling and what is the mechanism generating this prominent epithelial invagination.-->
+<!--wnt7 is expressed in the mid-hindbrain boundary in mouse @Parr1993-->
+<!--wnt7 is expressed in the mid-hindbrain boundary in zebrafish @Beretta2011-->
+<!--wnt7 and en interact in DV limb patterning @Loomis1998-->
+<!--such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].-->
 
 <!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
 
-<!--, and *en* is known to repress *wnt7* in vertebrate limb buds [@Loomis1996-zx].-->
-<!--Both genes are involved in the establishment of compartment boundaries in a variety of developmental settings such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].-->
+<!--*en* is known to repress *wnt7* in vertebrate limb buds [@Loomis1996-zx].-->
 
 <!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
 
