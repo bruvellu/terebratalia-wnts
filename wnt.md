@@ -342,10 +342,11 @@ In conclusion, apart from the ubiquitous expression of *fmi* and *stbm*, the oth
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
 We find that the brachiopod *T. transversa* has a conserved Wnt repertoire of ligands, receptors, antagonists, and components of the cell polarity pathway, showing few duplications or losses.
-These genes are expressed throughout embryogenesis, from the unfertilized oocyte to the post-metamorphic juvenile stages, but undergo two major upregulation events, one at the onset of gastrulation in the late blastula, and another during axial elongations in the late gastrula.
-In the latter, we detect transcripts of every Wnt signaling component both by RNA-seq (@fig:profiling) and by *in situ* hybridization (@fig:ligands1 and @fig:ligands2), forming an intricate landscape of expression domains distributed along the anteroposterior axis ({@fig:summary}A).
-We identified six distinct transcriptional territories, each expressing a unique set of ligands, receptors, and antagonists, whose boundaries coincide with the morphological subdivisions of later stages (@tbl:landscape and {@fig:summary}B).
-Below we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of our findings to the evolution of metazoan axial diversity.
+These genes are expressed throughout embryogenesis but undergo two major upregulation events, one at the onset of gastrulation and another during axial elongations.
+In the latter, transcripts of Wnt signaling components form an intricate landscape of expression domains distributed along the anteroposterior axis ({@fig:summary}A).
+We identified six distinct transcriptional territories, each expressing a unique set of ligands, receptors, and antagonists (@tbl:landscape and {@fig:summary}B).
+The boundaries of these territories coincide with the morphological subdivisions of later stages, suggesting they play a role in regionalizing the larval body during development.
+Below we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of a combinatorial Wnt code for the evolution of metazoan axial diversity.
 
 ## Wnt combinatorial landscape patterning brachiopod body subregions
 
@@ -432,6 +433,8 @@ The arrangement of *fz5/8* and *wnt8* domains in *T. transversa* suggests that a
 <!--The earliest genes to be expressed in this region, which corresponds to the posterior portion of the apical lobe, are *wnt8*, *wnt5*, and *fz4* (@fig:ligands1, !@fig:ligands2, !@fig:fzdantag, !@fig:s-ligands, and !@fig:s-receptors).-->
 <!--In addition, loss of *wnt8* function led to caudal expansion of *pax6* in zebrafish [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].-->
 <!--TODO: The region also expresses *wnt2* and *wntA* (ventral side) which are associated ..., respectively [@wnt2wntA].-->
+
+<!--TODO: Continue from here-->
 
 The apical lobe posterior end forms a deep epithelial invagination that divides the head and trunk domains of the body [@Vellutini2016-lq].
 *wnt1* and the transcription factor *engrailed* (*en*) are expressed in sharply juxtaposed domains at the apical--mantle boundary, in a pattern reminiscent of the segment polarity network in arthropods and the midbrain--hindbrain boundary in vertebrates [@Vellutini2016-lq].
