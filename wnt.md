@@ -402,14 +402,14 @@ Alt outline
 - Evolutionary shuffling as mechanism for axial diversification
 -->
 
-The apical lobe of *T. transversa* larva has two subregions, a narrower anterior dome and a wider posterior base ({@fig:summary}B).
-Each subregion shows a distinct transcriptional profile.
+The larval body of *T. transversa* is divided into an apical, a mantle, and a pedicle lobe [@Flammer1963-jk; @Vellutini2016-lq].
+The apical lobe has two morphologically distinct subregions, a narrower anterior dome and a wider posterior base which, during development show distinct Wnt transcriptional profiles ({@fig:summary}A,B).
 The anteriormost territory expresses the Frizzled receptor *fz5/8*, known to inhibit Wnt signaling and help establish a neuroectoderm identity by activating the expression of the Wnt antagonists *sFRP* and *Dkk* [@Range2013-gm; @Khadka2018-td].
 Accordingly, the anterior pole of *T. transversa* expresses *sfrp1/2/5* and *dkk5* and lacks the expression of Wnt ligands almost entirely ({@fig:summary}A).
 This region, which gives rise to the apical organ [@Santagata2011-ry], also expresses neural genes such as *foxq2* and *six3/6* [@Santagata2012-he], the latter being a key inhibitor of Wnt signaling [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co].
 In contrast, the posterior base of the apical lobe expresses several Wnt ligands and a different Frizzled receptor, *wnt8* and *fz4*, which abut the *fz5/8* domain posteriorly (@fig:ligands2, !@fig:doubles, and {@fig:summary}A).
 *wnt8* establishes a posterior identity for the neuroectoderm [@Erter2001-fl; @Lekven2001-jj; @Rhinn2005-ie] and is known to repress *fz8* in zebrafish [@Kim2002-ze].
-The arrangement of *fz5/8* and *wnt8* domains in *T. transversa* suggests that a similar regulatory logic may be involved in the patterning of the anterior and posterior subregions of apical lobe in larval brachiopods.
+The arrangement of *fz5/8* and *wnt8* domains in *T. transversa* suggests that a similar regulatory logic may pattern the apical lobe subregions in larval brachiopods.
 
 <!--TODO: DELETE PARAGRAPH-->
 <!--The inhibition of Wnt signaling is usually associated with anterior and neural fates.-->
@@ -433,8 +433,6 @@ The arrangement of *fz5/8* and *wnt8* domains in *T. transversa* suggests that a
 <!--The earliest genes to be expressed in this region, which corresponds to the posterior portion of the apical lobe, are *wnt8*, *wnt5*, and *fz4* (@fig:ligands1, !@fig:ligands2, !@fig:fzdantag, !@fig:s-ligands, and !@fig:s-receptors).-->
 <!--In addition, loss of *wnt8* function led to caudal expansion of *pax6* in zebrafish [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].-->
 <!--TODO: The region also expresses *wnt2* and *wntA* (ventral side) which are associated ..., respectively [@wnt2wntA].-->
-
-<!--TODO: Continue from here-->
 
 The apical lobe posterior end forms a deep epithelial invagination that divides the head and trunk domains of the body [@Vellutini2016-lq].
 *wnt1* and the transcription factor *engrailed* (*en*) are expressed in sharply juxtaposed domains at the apical--mantle boundary, in a pattern reminiscent of the segment polarity network in arthropods and the midbrain--hindbrain boundary in vertebrates [@Vellutini2016-lq].
