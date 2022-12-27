@@ -510,36 +510,18 @@ This suggests that the posterior pole of *T. transversa* may be Wnt-insensitive 
 
 <!--This suggests that the differential activation of Wnt signaling along the anteroposterior axis may contribute to the specification and differentiation of the different body regions of brachiopods.-->
 
-We identified that some of the transcriptional regions of *T. transversa* have comparable players in comparable regions of other animals such as the anterior antagonists with wnt8 fz5/8.
-This suggests that some of the patterning is conserved.
-We also found the association of known functions of some genes with the morphogenetic processes occurring in *T. transversa* such as the case of the mantle lobe and wnt5.
-This suggests a Wnt-based control of the axial patterning of brachiopods.
-Finally, in addition to the positional conservation of some wnts, we identified at least three cases of wnts being expressed in different receptor contexts, in different regions that undergo different fate and morphogenesis.
-This suggests that receptor context is important for brachiopod axial patterning and morphogenesis.
-The combinatorial expression of antagonists, ligands, and receptors, establishing unique transcriptional territories, raises the idea of a Wnt code.
+Overall, we provide a comprehensive overview of the combinatorial landscape of Wnt signaling components, and find a strong correlation between unique transcriptional subregions and the fate and morphogenesis of the different morphological subdivisions of the larval body.
+Three Wnt ligands (*wnt1*, *wnt5*, and *wnt7*) are expressed in different transcriptional territories, providing initial evidence that different ligand--receptor contexts may be involved in the regional specification of the anteroposterior axis of brachiopod embryos.
+Our data raises the idea that the combinatorial expression of antagonists, ligands, and receptors, establishes unique transcriptional territories which determine the fate and morphogenesis of the different body regions.
+Or in other words, the idea of a Wnt code where a specific combination of molecular players will result on a specific developmental outcome.
+This is reminiscent of the Hox code where their combinatorial expression sets the identities of the different regions along the anteroposterior axis [@HoxCode].
+A Wnt code was initially suggested with the observation of staggered domains along the axis of cnidarians and the tail bud of amphioxus [@WntCode].
+However, Wnt signaling pathways are not independent linear cascades.
+They result from an intricate combinatorial network of protein interactions [@Van_Amerongen2009-wk], where the developmental (or receptor) context dictates the signaling output [@Mikels2006-ha; @Van_Amerongen2008-oo].
+Therefore, the Wnt code is a much more complex code to crack compared to the Hox code because it depends on a larger number of molecular players.
+It is unclear however, how conserved is the combinatorial expression we describe for brachiopods in other metazoans and how does it relate to the axial evolution of metazoans.
 
-The idea that a specific combination of molecular players will result on a specific developmental outcome.
-The idea is reminiscent of the Hox code where the combinatorial expression of these homeobox transcription factors sets the identities of different regions along the anteroposterior axis.
-It gained air with the description of staggered domains along cnidarians but was also suggested in amphioxus tail bud.
-However, the realization that a single Wnt ligand can signal different outcomes makes the Wnt code a much more complex code to crack because we need data for many more genes.
-If there is a wnt code we expect to see similar combinations leading to similar developmental outcomes.
-So the question we asked was how conserved is the combinatorial expression of brachiopods in other metazoans and what does this tell us about the role of wnt signaling in axial evolution?
-
-Overall, we find that during axial elongation of the brachiopod *T. transversa*, the expression of Frizzled receptors is regionalized into broad domains which make up six unique receptor contexts along the anteroposterior axis.
-
-The localization and limits of these territories coincide with the subdivisions of the larval body, each undergoing a different fate and morphogenetic processes.
-
-Three ligands, *wnt1*, *wnt5*, and *wnt7*, are expressed in different regions along the axis, and thus the same ligand is expressed in different receptor contexts.
-
-
-The findings that a single Wnt ligand can either activate or inhibit Wnt/beta-catenin depending on the receptor availability [@Mikels2006-ha; @Van_Amerongen2008-oo] raised the comprehension that Wnt signaling pathways are not independent linear cascades but result from the combinatorial network of protein interactions where the developmental (or receptor) context dictates the signaling output [@Van_Amerongen2009-wk].
-
-Our work provides a comprehensive overview of the combinatorial landscape of Wnt signaling components and initial evidence that different ligand--receptor contexts may be involved in the regional specification of the anteroposterior axis of brachiopod embryos.
-
-<!--TODO: On hox code axial patterning, is there a described role for wnts?-->
 <!--TODO: Hox/Wnt interaction in Nematostella-->
-
-<!--TODO: Revise the use of the term Wnt-code-->
 <!--TODO: Are there such clear Wnt codes present in other animals? Use question as hook?-->
 <!--TODO: Therefore, Wnt not only controls the axial polarity/specification, but that at the anteroposterior patterning the combinatorial expression and receptor context play a role in the regionalization of the body into separate regions.-->
 <!--TODO: Discuss mesodermal and endodermal expression?-->
