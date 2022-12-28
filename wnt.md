@@ -728,22 +728,21 @@ region of a late gastrula stage.](figures/Fig8.jpg){#fig:summary width=100%}
 
 Table: Transcriptional identity of Wnt signaling territories in the brachiopod *T. transversa*. {#tbl:landscape}
 
-| Region                    | Antagonists        | Ligands                                            | Receptors             |
-| ------------------------- | ---------------    | -------------------------------------------------- | --------------------- |
-| Anterior tip              | *dkk*, *sfrp1/2/5* | (*wnt1t*)                                          | *fz1/2/7*, *fz5/8*    |
-| Apical lobe               | -                  | *wntA*, *wnt8*, *wnt2*, *wnt5*                     | *fz1/2/7*, *fz4*      |
-| Apical--mantle boundary   | -                  | *wnt1*, *wnt7*, *wnt16*                            | *fz1/2/7*, *fz9/10*   |
-| Mantle lobe               | -                  | *wnt5*, *wnt16*                                    | *fz1/2/7*             |
-| Pedicle lobe              | -                  | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7*   | *fz9/10*              |
-| Posterior tip             | -                  | *wnt6*, *wnt11*, *wnt5*                            | -                     |
+| Region                  | Antagonists        | Ligands                                          | Receptors           |
+| ------                  | -----------        | -------                                          | ---------           |
+| Anterior tip            | *dkk*, *sfrp1/2/5* | (*wnt1t*)                                        | *fz1/2/7*, *fz5/8*  |
+| Apical lobe             | -                  | *wntA*, *wnt8*, *wnt2*, *wnt5*                   | *fz1/2/7*, *fz4*    |
+| Apical--mantle boundary | -                  | *wnt1*, *wnt7*, *wnt16*                          | *fz1/2/7*, *fz9/10* |
+| Mantle lobe             | -                  | *wnt5*, *wnt16*                                  | *fz1/2/7*           |
+| Pedicle lobe            | -                  | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7* | *fz9/10*            |
+| Posterior tip           | -                  | *wnt6*, *wnt11*, *wnt5*                          | -                   |
 
 \newpage
 
-Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs.
-{#tbl:maternal}
+Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs. {#tbl:maternal}
 
 | Species                         | Wnt ligands                                         | Frizzled receptors                                       |
-|---------------------------------|-----------------------------------------------------|----------------------------------------------------------|
+| -------                         | -----------                                         | ------------------                                       |
 | *Terebratalia transversa*       | *wnt4* and *wntA* (this study)                      | *fz1/2/7*, *fz5/8* and *fz4* (this study)                |
 | *Lingula anatina*               | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] |
 | *Platynereis dumerilii*         | No maternal Wnts [@Pruitt2014-oy]                   | *fz1/2/7* [@Bastin2015-oz]                               |
@@ -755,10 +754,29 @@ Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs.
 | *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
 | *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
 
+<!--\newpage-->
+
+<!--Table: Evolution of Wnt signaling in metazoans. {#tbl:comparative}-->
+
+<!--| Group       | Wnt                                                                                              | Frizzled                            | Antagonists    | References                                           |-->
+<!--| -----       | ---                                                                                              | --------                            | -----------    | ----------                                           |-->
+<!--| Ctenophora  | *wnt6*, *wnt9*, *wntA*, *wntX*                                                                   | *fzA*, *fzB*                        | sfrp           | [@Pang2010-ds]                                       |-->
+<!--| Cnidaria    | *wnt1*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, *wnt7*, *wnt8*, *wnt10*, *wnt11*, *wnt16* *wntA*         | *fz1/2/7*, *fz4*, *fz5/8*, *fz9/10* | sfrp, dkk, wif | [@Kusserow2005-xd; @Lee2006-gr; @Niedermoser2022-ev] |-->
+<!--| Brachiopoda | *wnt1*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, *wnt7*, *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* *wntA* | *fz1/2/7*, *fz4*, *fz5/8*, *fz9/10* | sfrp, dkk, wif | (this study) [@Luo2015-lm; @Luo2018-lj]              |-->
+
+<!--| *Lingula anatina*               | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] |-->
+<!--| *Platynereis dumerilii*         | No maternal Wnts [@Pruitt2014-oy]                   | *fz1/2/7* [@Bastin2015-oz]                               |-->
+<!--| *Priapulus caudatus*            | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] | -                                                        |-->
+<!--| *Paracentrotus lividus*         | *wnt7* [@Robert2014-xj]                             | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   |-->
+<!--| *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | -                                                        |-->
+<!--| *Saccoglossus kowalevskii*      | *wnt4* and *wnt9* [@Darras2018-gm]                  | *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   |-->
+<!--| *Xenopus laevis*                | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            | -                                                        |-->
+<!--| *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |-->
+<!--| *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |-->
+
 \newpage
 
-Table: Sampled developmental stages for the stage-specific transcriptome of the
-brachiopod *T. transversa*. {#tbl:samples}
+Table: Sampled developmental stages for the stage-specific transcriptome of the brachiopod *T. transversa*. {#tbl:samples}
 
 | Stage ID | Time post fertilization | Stage description                    |
 | -------- | ----------------------- | ------------------------------------ |
