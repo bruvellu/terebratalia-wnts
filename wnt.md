@@ -342,11 +342,11 @@ In conclusion, apart from the ubiquitous expression of *fmi* and *stbm*, the oth
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
 We find that the brachiopod *T. transversa* has a conserved Wnt repertoire of ligands, receptors, antagonists, and components of the cell polarity pathway, showing few duplications or losses.
-These genes are expressed throughout embryogenesis but undergo two major upregulation events, one at the onset of gastrulation and another during axial elongations.
-In the latter, transcripts of Wnt signaling components form an intricate landscape of expression domains distributed along the anteroposterior axis ({@fig:summary}A).
-We identified six distinct transcriptional territories, each expressing a unique set of ligands, receptors, and antagonists (@tbl:landscape and {@fig:summary}B).
-The boundaries of these territories coincide with the morphological subdivisions of later stages, suggesting they play a role in regionalizing the larval body during development.
-Below we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of a combinatorial Wnt code for the evolution of metazoan axial diversity.
+These genes are expressed throughout embryogenesis but undergo two major upregulation events, one at the onset of gastrulation and another at the late gastrula during axial elongation.
+At this stage, Wnt components form an intricate landscape of expression domains along the anteroposterior axis ({@fig:summary}A).
+We identified six distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists, whose boundaries coincide with the morphological subdivisions of the larval body later stages (@tbl:landscape and {@fig:summary}B).
+This suggests the differential regulation of Wnt signaling may regionalize body of larval brachiopods during development.
+Below we discuss evidence for a Wnt-based control of brachiopod axial patterning and the implications of a combinatorial Wnt code for the evolution of metazoan axial diversity.
 
 ## Wnt combinatorial landscape patterning brachiopod body subregions
 
