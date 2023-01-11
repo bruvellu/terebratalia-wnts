@@ -754,25 +754,22 @@ Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs. {#t
 | *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
 | *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
 
-<!--\newpage-->
+\newpage
 
-<!--Table: Evolution of Wnt signaling in metazoans. {#tbl:comparative}-->
+Table: Molecular evolution of Wnt signaling components in metazoans. {#tbl:comparative}
 
-<!--| Group       | Wnt                                                                                              | Frizzled                            | Antagonists    | References                                           |-->
-<!--| -----       | ---                                                                                              | --------                            | -----------    | ----------                                           |-->
-<!--| Ctenophora  | *wnt6*, *wnt9*, *wntA*, *wntX*                                                                   | *fzA*, *fzB*                        | sfrp           | [@Pang2010-ds]                                       |-->
-<!--| Cnidaria    | *wnt1*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, *wnt7*, *wnt8*, *wnt10*, *wnt11*, *wnt16* *wntA*         | *fz1/2/7*, *fz4*, *fz5/8*, *fz9/10* | sfrp, dkk, wif | [@Kusserow2005-xd; @Lee2006-gr; @Niedermoser2022-ev] |-->
-<!--| Brachiopoda | *wnt1*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, *wnt7*, *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* *wntA* | *fz1/2/7*, *fz4*, *fz5/8*, *fz9/10* | sfrp, dkk, wif | (this study) [@Luo2015-lm; @Luo2018-lj]              |-->
+| Group           | Wnt                                                                   | Frizzled                    | Antagonists          | References                                            |
+| -----           | ---                                                                   | --------                    | -----------          | ----------                                            |
+| Ctenophora      | *6*, *9*, *A*, *X*                                                    | *A*, *B*                    | *sfrp*               | [@Pang2010-ds]                                        |
+| Cnidaria        | *1*, *2*, *3*, *4*, *5*, *6*, *7*, *8*, *10*, *11*, *16*, *A*         | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *dkk*, *wif* | [@Kusserow2005-xd; @Lee2006-gr; @Niedermoser2022-ev]  |
+| Vertebrata      |                                                                       |                             |                      |                                                       |
+| Cephalochordata | *1*, *2*, *3*, *4*, *5*, *6*, *7*, *8*, *9*, *10*, *11*, *16*         | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *dkk*, *wif* | [@Qian2013-jg]                                        |
+| Echinodermata   |                                                                       |                             |                      |                                                       |
+| Hemichordata    | *1*, *2*, *3*, *4*, *5*, *6*, *7*, *8*, *9*, *10*, *11*, *16*, *A*    | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *dkk*, *wif* |                                                       |
+| Brachiopoda     | *1*, *2*, *4*, *5*, *6*, *7*, *8*, *9*, *10*, *11*, *16*, *A*         | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *dkk*, *wif* | (this study) [@Luo2015-lm; @Luo2018-lj]               |
+| Annelida        | *1*, *2*, *4*, *5*, *6*, *7*, *8*, *9*, *10*, *11*, *16*, *A*         | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *wif*        | [@Janssen2010-dc; @Cho2010-eb; @Bastin2015-oz]        |
+| Arthropoda      | *1*, (*2*), (*4*), *5*, *6*, *7*, (*8*), *9*, *10*, *11*, (*16*), *A* | *1/2/7*, *4*, *5/8*, *9/10* | *wif*                | [@Janssen2010-dc; @Chavarria2021-ps; @Janssen2015-aj] |
 
-<!--| *Lingula anatina*               | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] |-->
-<!--| *Platynereis dumerilii*         | No maternal Wnts [@Pruitt2014-oy]                   | *fz1/2/7* [@Bastin2015-oz]                               |-->
-<!--| *Priapulus caudatus*            | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] | -                                                        |-->
-<!--| *Paracentrotus lividus*         | *wnt7* [@Robert2014-xj]                             | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   |-->
-<!--| *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | -                                                        |-->
-<!--| *Saccoglossus kowalevskii*      | *wnt4* and *wnt9* [@Darras2018-gm]                  | *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   |-->
-<!--| *Xenopus laevis*                | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            | -                                                        |-->
-<!--| *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |-->
-<!--| *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |-->
 
 \newpage
 
