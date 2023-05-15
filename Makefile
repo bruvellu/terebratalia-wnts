@@ -1,6 +1,7 @@
 FILE=wnt
-TEMPLATE=template
-FILTERS=--filter pandoc-fignos --filter pandoc-tablenos --citeproc
+RESOURCES=resources
+TEMPLATE=${RESOURCES}/template
+FILTERS=--lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos --citeproc
 FIGDIR=`realpath ../1-figures`
 FIGOUT=`realpath ./figures`
 
@@ -48,9 +49,9 @@ all:
 	# Remove source for now to avoid sync conflicts
 	#rm -r ${FIGOUT}/source
 	# Update references: wnt.bib
-	wget --content-disposition -N https://paperpile.com/eb/kLGboEXerY
+	wget -P resources/ --content-disposition -N https://paperpile.com/eb/kLGboEXerY
 	# Convert files
-	pandoc ${FILE}.md ${FILTERS} --reference-doc=${TEMPLATE}.odt -o ${FILE}.odt
+	#pandoc ${FILE}.md ${FILTERS} --reference-doc=${TEMPLATE}.odt -o ${FILE}.odt
 	pandoc ${FILE}.md ${FILTERS} --reference-doc=${TEMPLATE}.docx -o ${FILE}.docx
 	pandoc ${FILE}.md ${FILTERS} --pdf-engine=xelatex -o ${FILE}.pdf
 
