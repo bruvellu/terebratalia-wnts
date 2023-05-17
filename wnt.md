@@ -179,7 +179,7 @@ Between the late gastrula and early larva stages, all Wnt genes are expressed.
 Some, however, are downregulated after gastrulation, such as *wnt6* and *wnt10*, and after metamorphosis, such as *wnt7* and *wnt16* (@fig:profiling).
 Interestingly, the peak of Wnt expression late in gastrulation coincides with the elongation of the anteroposterior axis, and with the onset of the morphological differentiation of the larval lobes in *T. transversa*.
 
-## Wnts are expressed in diverse, partially overlapping ectodermal domains
+## Wnt domains partially overlap along the anteroposterior axis
 
 To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in gastrula and larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
@@ -247,7 +247,7 @@ The expression of *fz1/2/7* remains high from the oocyte to juvenile stages whil
 In contrast, *fz9/10* expression only increases during gastrulation, remaining relatively constant in subsequent stages.
 Changes in Frizzled expression occur in gradual but consistent waves of up or down regulation and, despite being less variable than that of Wnt genes, each Frizzled shows a unique expression profile during development.
 
-## Frizzled domains occupy broad but distinct regions of the body
+## Frizzled domains occupy broad but distinct body regions
 
 We carried out *in situ* hybridizations for all Frizzled genes of *T. transversa* to reveal their domains of expression during axial elongation (@fig:fzdantag).
 
@@ -274,7 +274,7 @@ Throughout development *fz9/10* is expressed in the mesoderm.
 
 Taken together, the expression domains of Frizzled receptors extend over broad but distinct regions of the body, and this arrangement along the anteroposterior axis remains constant throughout gastrulation and larval morphogenesis.
 
-## Expression of Wnt antagonists is limited to the anterior ectoderm and mesoderm
+## Expression of Wnt antagonists is limited to the anterior end
 
 To obtain a more comprehensive picture of the Wnt signaling landscape in *T. transversa*, we also analyzed the expression of three Wnt antagonists, Secreted Frizzled-Related Protein (*sfrp*), Dickkopf protein (*dkk*), and Wnt Inhibitory Factor (*wif*).
 
@@ -303,7 +303,7 @@ Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues t
 
 Overall, the expression of the analyzed Wnt antagonists is restricted to the anterior portion of the ectoderm (*sfrp1/2/5* and *dkk5*), and to the mesoderm (*wif*), regions which coincide with the absence or limited expression of Wnt ligands.
 
-## Cell polarity genes are expressed in patches during axial elongation
+## Planar cell polarity genes are expressed in patches during axial elongation
 
 Proper regulation of planar cell polarity (PCP) is crucial to guide morphogenetic processes, such as convergent extension, and to orient the formation of structures during development [@Simons2008-cj; @Gao2012-fh].
 We identified the core components of the PCP pathway in *T. transversa*, namely *dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as *ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as *stan* or *celsr*), *strabismus* (*stbm*, also known as *vang* or *vangl*), as well as the downstream transducer *c-jun n-terminal kinase* (*jnk*), and analyzed the expression between the early and late gastrula stages.
