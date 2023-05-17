@@ -91,12 +91,12 @@ We propose the evolutionary shuffling of Wnt gene expression to different recept
 Wnt genes are crucial for embryogenesis [@Cadigan1997-vx].
 They mediate cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq], specify endomesodermal tissues before gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], and establish the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne], often acting as a symmetry-breaking signal [@Loh2016-pz].
 In parallel, Wnt activity controls morphogenetic movements of gastrulation such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
-Finally, Wnts not only establish axial polarity, but also pattern different body regions along the anteroposterior axis [@Kusserow2005-xd; @Guder2006-fu; @Darras2018-gm], a function considered essential to generate tissue and shape diversity in metazoan evolution [@Loh2016-pz].
-Therefore Wnts are involved in many processes of embryogenesis from cell fate, cell polarity, and axial patterning.
+Finally, Wnt genes not only establish axial polarity, but also pattern different body regions along the anteroposterior axis [@Kusserow2005-xd; @Guder2006-fu; @Darras2018-gm], a function considered essential to generate tissue and shape diversity in metazoan evolution [@Loh2016-pz].
+Therefore Wnt genes are involved in many processes of embryogenesis from cell fate, cell polarity, and axial patterning.
 
 Wnt proteins---secreted ligands that activate Wnt signaling by binding to membrane-bound Frizzled receptors---transduce the signal in at least three interconnected pathways.
 The Wnt/beta-catenin pathway, also known as the canonical pathway, which generally regulates cell fates through the activity of beta-catenin, the Wnt/PCP pathway (planar cell polarity), a so-called non-canonical pathway which controls cell polarity and is involved in tissue morphogenesis, and the Wnt/calcium pathway, which regulates intracellular calcium levels important for convergent extension movements in vertebrates [@James2008-tt].
-With 13 subfamilies of Wnt genes, five subfamilies of Frizzleds, a number of receptors and co-receptors, as well as a series of agonists, antagonists, and downstream players and effector molecules involved in Wnt signaling, understanding this complexity remains a major challenge.
+With 13 subfamilies of Wnt genes, five subfamilies of Frizzled genes, a number of receptors and co-receptors, as well as a series of agonists, antagonists, and downstream players and effector molecules involved in Wnt signaling, understanding this complexity remains a major challenge.
 
 Over the years, it has been increasingly recognized that Wnt signaling pathways are not linear cascades, but operate as a complex network of protein interactions where the downstream response depends on the local context [@Van_Amerongen2009-wk; @Niehrs2012-ku].
 One Wnt ligand can activate, or inhibit, a different pathway depending on the availability of receptors in the tissue, suggesting that different ligand--receptor combinations dictate the signaling output [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
@@ -121,7 +121,7 @@ Our study focus in the rhynchonelliform brachiopod *Terebratalia transversa* (So
 In addition, a number of molecular studies revealed genes involved in anterior patterning [@Passamaneck2011-wj; @Santagata2012-he] and mesoderm development [@Passamaneck2015-aw], as well as the expression domains of *Hox* genes during axial patterning [@Schiemann2017-wd; @Gasiorowski2019-ab], and the role of FGF signaling in mesoderm formation [@Andrikou2021-cc] which provide informative data to integrate with Wnt data to understand axial patterning.
 
 In previous studies, we found that early Wnt signaling plays a role in the endomesoderm specification, and in the induction of posterior fates [@Martin-Duran2016-qa]. In late stages, *wnt1* expression also demarcates the head--trunk boundary between the larval lobes of *T. transversa* and is probably involved in the patterning of the boundary [@Vellutini2016-lq].
-Over-activation of the Wnt/beta-catenin pathway disrupts the molecular and morphological organization of the larval subdivisions [@Martin-Duran2016-qa; @Vellutini2016-lq], suggesting that Wnts may also regulate the regional specification and differentiation of the body along the anteroposterior axis.
+Over-activation of the Wnt/beta-catenin pathway disrupts the molecular and morphological organization of the larval subdivisions [@Martin-Duran2016-qa; @Vellutini2016-lq], suggesting that Wnt activity may also regulate the regional specification and differentiation of the body along the anteroposterior axis.
 However, a full characterization of Wnt signaling components and their developmental expression with the receptor context is lacking in brachiopods.
 
 <!--Toll [@Orus-Alcalde2021-ra]-->
@@ -147,7 +147,7 @@ This suggests that evolutionary shuffling of ligand expression may be one of the
 
 <!--TODO: The paragraphs below are more for the introduction.-->
 
-<!--The discovery of multiple wnt genes, their crucial developmental roles and their complex expression domains has raised ideas about a wnt code [@Guder2006-fu]. An idea that different wnts can pattern and specify different body regions according to their combinatorial territories. Much in parallel with the discovery of the Hox system. However, accumulated evidence reveals that the Wnt system is much more imbricated modular and multifunctional than the Hox patterning.-->
+<!--The discovery of multiple wnt genes, their crucial developmental roles and their complex expression domains has raised ideas about a wnt code [@Guder2006-fu]. An idea that different wnt genes can pattern and specify different body regions according to their combinatorial territories. Much in parallel with the discovery of the Hox system. However, accumulated evidence reveals that the Wnt system is much more imbricated modular and multifunctional than the Hox patterning.-->
 
 <!--First is the finding that wnt ligands are not long- but short-ranged signaling activity [@Loh2016-pz]. The consequence is that wnt function is more local and allow for more complex patterning outcomes.-->
 
@@ -168,11 +168,11 @@ Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a si
 
 <!--TODO: cite @prudhomme2002?-->
 
-## Wnts genes are upregulated in concert during axial elongation
+## Wnt genes are upregulated in concert during axial elongation
 
 To characterize the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
 We detect a great abundance of *wnt4* and *wntA* transcripts deposited maternally in the oocyte (@fig:profiling).
-Transcripts of other Wnts, such as *wnt1t* and *wnt6*, are present at lower levels.
+Transcripts of other Wnt genes, such as *wnt1t* and *wnt6*, are present at lower levels.
 This expression profile remains unchanged after fertilization (mid blastula, 8h) but shifts significantly at the late blastula stage (19h) when a concerted upregulation of *wnt1*, *wnt8*, *wnt10* and *wnt16* occurs (@fig:profiling).
 Throughout gastrulation Wnt genes continue to be upregulated with *wnt1* and *wnt5* in the early gastrula (26h); *wnt6*, *wnt7*, and *wnt11* in the mid gastrula (37h); and *wnt2*, *wnt9*, and *wnt10* in the late gastrula (51h).
 Between the late gastrula and early larva stages, all Wnt genes are expressed.
@@ -236,7 +236,7 @@ These anterior ectodermal domains are cleared in the late larva, when *wntA* exp
 
 ## Frizzled genes are expressed throughout embryogenesis
 
-Frizzleds are seven-pass transmembrane proteins with an extracellular cystein-rich domain that act as receptors in Wnt signaling pathways [@Huang2004-di].
+Frizzled genes encode seven-pass transmembrane proteins with an extracellular cystein-rich domain that act as receptors in Wnt signaling pathways [@Huang2004-di].
 There are five Frizzled subfamilies in metazoans [@MacDonald2012-ri], but the subfamily *fz3/6* is only found in tunicates and vertebrates [@Croce2006-cy].
 In the brachiopod *T. transversa*, we identified a total of four Frizzled genes with a single ortholog for the *fz1/2/7*, *fz5/8*, *fz9/10*, and *fz4* subfamilies (@fig:fzd-tree).
 
@@ -357,7 +357,7 @@ In conclusion, apart from the ubiquitous expression of *fmi* and *stbm*, the oth
 <!--
 - We identified transcriptional territories that match the morphology
 - Suggests that Wnt signaling patterns the brachiopod axis
-- Different Wnts per region but also same ligands in different receptor contexts
+- Different Wnt genes per region but also same ligands in different receptor contexts
 - Suggests the context matter for differential patterning
 - Comparison with other species reveal ligands are labile, receptors are conserved
 - Suggests that ligands are shuffled during bilaterian evolution
@@ -408,7 +408,7 @@ Pedicle lobe (ant/post)
 Receptor-contexts per subregion
 - Different regions have different landscapes
 - Supports the idea of Wnt-mediated patterning
-- But same Wnts also present in different contexts
+- But same Wnt genes also present in different contexts
 - Recall examples for wnt5 and wnt1 and wnt7
 - Supports the idea that receptor context matters
 - Uncovering this Wnt code is important
@@ -562,8 +562,7 @@ It is unclear however, how conserved is the combinatorial expression we describe
 
 <!--TODO: Make a proper revision of Wnt/Fz in metazoans-->
 <!--TODO: Pang2010-ds there was an expansion of Wnt/Fz in cnidarians. Check ctenophore expression.-->
-
-The short-range activity of Wnts and their ability to elicit cell fate and cell polarity responses in a combinatorial fashion depending on the developmental context, make the Wnt signaling pathways key players to generate cell lineage diversity and morphogenetic changes during the body patterning of metazoans [@Guder2006-fu; @Loh2016-pz].
+The short-range activity of Wnt proteins and their ability to elicit cell fate and cell polarity responses in a combinatorial fashion depending on the developmental context, make the Wnt signaling pathways key players to generate cell lineage diversity and morphogenetic changes during the body patterning of metazoans [@Guder2006-fu; @Loh2016-pz].
 Most metazoans have transcripts for ligands, antagonists, and receptors deposited maternally in the egg (@tbl:maternal).
 However, we observe a significant difference.
 While the composition of maternal Wnt ligands varies considerably even within brachiopods, the maternal load of Frizzled transcripts is less variable between species (@tbl:maternal).
@@ -582,17 +581,15 @@ Similar to *T. transversa*, both species show a conserved Wnt and Frizzled compl
 Despite the great differences in embryo architecture, the expression domains of Frizzled receptors follow the same anteroposterior arrangement with *fz5/8* associated with the head region, and *fz9/10* associated with the trunk region, while *fz1/2/7* is more broadly expressed, except for the posterior pole ({@fig:summary}A and {!@fig:comparative}A).
 They also coincide with the morphological body regions.
 In fact, Frizzled expression is almost identical between *T. transversa* and *S. kowalevskii*  (@fig:s-comparative).
-Although *fz4* expression varies in other metazoans, such as cnidarians [@Niedermoser2022-hm], echinoderms [@Robert2014-xj; @McCauley2013-uz] and cephalochordates [@Qian2013-jg], the relative positioning of the other Frizzleds along the anteroposterior axis after gastrulation is similar to what we find in the brachiopod.
+Although *fz4* expression varies in other metazoans, such as cnidarians [@Niedermoser2022-hm], echinoderms [@Robert2014-xj; @McCauley2013-uz] and cephalochordates [@Qian2013-jg], the relative positioning of the other Frizzled genes along the anteroposterior axis after gastrulation is similar to what we find in the brachiopod.
 As discussed above, *fz5/8* have an important role in anterior fates in bilaterians [@Range2013-gm] and aboral fates in cnidarians [@Leclere2016-ma].
-The regionalized expression of Frizzleds suggests that each receptor may regulate the patterning of different body parts, as previously proposed for hemichordates [@Darras2018-gm].
+The regionalized expression of Frizzled genes suggests that each receptor may regulate the patterning of different body parts, as previously proposed for hemichordates [@Darras2018-gm].
 The similarity in the Frizzled arrangements suggests it is a conserved feature of metazoans, possibly inherited from the last common metazoan ancestor ({@fig:comparative}B).
 
-<!--TODO: Check if Frizzleds are present in ctenophores and outgroups-->
-
-<!--TODO: Revise plural Wnts and Frizzleds in favor of Wnt ligands and Frizzled receptors-->
+<!--TODO: Check if Frizzled genes are present in ctenophores and outgroups-->
 
 In contrast, when comparing the spatial arrangement of Wnt ligands along the anteroposterior axis in different metazoans, only a few are expressed in similar locations or receptor contexts.
-We observe that *wnt2*, *wnt5*, and *wnt8* are commonly expressed anteriorly with *fz5/8* or *fz4*; *wnt1* and *wnt7* at the head--trunk boundary with *fz4* and *fz9/10*; and *wnt1*, *wnt4*, and *wnt6* at the posterior end with *fz9/10* or without Frizzleds ({@fig:summary}A and {!@fig:comparative}A).
+We observe that *wnt2*, *wnt5*, and *wnt8* are commonly expressed anteriorly with *fz5/8* or *fz4*; *wnt1* and *wnt7* at the head--trunk boundary with *fz4* and *fz9/10*; and *wnt1*, *wnt4*, and *wnt6* at the posterior end with *fz9/10* or without Frizzled expression ({@fig:summary}A and {!@fig:comparative}A).
 The expression of the other individual Wnt ligands, however, is variable among species, being located in different regions and different receptor contexts.
 This suggests that redeployment of Wnt ligand activity during anteroposterior patterning happened often during metazoan evolution.
 Changes in the ligand--receptor context provide a modular mechanism for changing the signaling outcomes of cell fates and morphogenetic events, and thus may have played a role in the evolutionary changes in axial patterning that drove the evolution of animal forms.
@@ -606,7 +603,7 @@ Investigating the receptor context and considering the unique combination of lig
 <!--TODO: Write a conclusions section-->
 
 <!--@Kusserow2005-xd Expression of Wnt ligands is staggered domains spanning the entire oral--aboral axis except for the aboral pole.-->
-<!--Terebratalia most Wnts are expressed in the ectoderm, different than Nematostella where only five are in the ectoderm @Kusserow2005-xd.-->
+<!--Terebratalia most Wnt genes are expressed in the ectoderm, different than Nematostella where only five are in the ectoderm @Kusserow2005-xd.-->
 
 <!--The expression of Wnt genes in Ecdysozoa reveals that some domains are comparable [@refs]. However, in the priapulid Priapulus caudatus most Wnt genes are expressed at the posterior region of the embryo [@Hogvall2019-wq]. Expression of Wnt ligands in Drosophila and other arthropods show similarities. However, the Frizzled domains do not entirely match what we find in *T. transversa* [@refs]. *D. melanogaster* fz2 expression, orthologous to *T. transversa* fz5/8 is not expressed apically, but in the trunk, similar to T. transversa fz9/10 [@refs]. In addition, arthropods lost many Wnt ligands in specific lineages complicating the identification of common or divergent ligand-receptor contexts [@refs].-->
 
@@ -768,7 +765,7 @@ Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs. {#t
 | -------                         | -----------                                         | ------------------                                       |
 | *Terebratalia transversa*       | *wnt4* and *wntA* (this study)                      | *fz1/2/7*, *fz5/8* and *fz4* (this study)                |
 | *Lingula anatina*               | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] |
-| *Platynereis dumerilii*         | No maternal Wnts [@Pruitt2014-oy]                   | *fz1/2/7* [@Bastin2015-oz]                               |
+| *Platynereis dumerilii*         | No maternal Wnt transcripts [@Pruitt2014-oy]                   | *fz1/2/7* [@Bastin2015-oz]                               |
 | *Priapulus caudatus*            | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] | -                                                        |
 | *Paracentrotus lividus*         | *wnt7* [@Robert2014-xj]                             | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   |
 | *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | -                                                        |
