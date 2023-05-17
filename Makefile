@@ -42,12 +42,10 @@ all:
 	ln -s ${FIGDIR}/13-trees/stbm-tree.png ${FIGOUT}/FigS15.png
 	ln -s ${FIGDIR}/13-trees/jnk-tree.png ${FIGOUT}/FigS16.png
 	ln -s ${FIGDIR}/11-comparative/s-comparative.png ${FIGOUT}/FigS17.png
-	# Convert to jpg for lightness
+	# Convert to JPG for visualization
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGOUT}/*.png
 	mkdir ${FIGOUT}/source
 	mv ${FIGOUT}/*.png ${FIGOUT}/source/
-	# Remove source for now to avoid sync conflicts
-	#rm -r ${FIGOUT}/source
 	# Update references: wnt.bib
 	wget -P resources/ --content-disposition -N https://paperpile.com/eb/kLGboEXerY
 	# Convert files

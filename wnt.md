@@ -43,7 +43,6 @@ institute:
 - biobergen: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
 - jena: Institute of Zoology and Evolutionary Research, Friedrich Schiller University Jena, Erbertstraße 1, 07743 Jena, Germany
 documentclass: article
-#documentclass: scrartcl
 bibliography: resources/wnt.bib 
 csl: resources/biomed-central.csl
 papersize: a4
@@ -68,25 +67,24 @@ tablenos-plus-name: Table
 
 # Abstract
 
-## Background
+#### Background:
 
-Wnt signaling pathways play multiple roles in metazoan development.
-They establish the polarity of embryonic axes, specify cell fate and proliferation, control the polarity of cells, and regulate tissue morphogenesis.
-How such distinct outcomes are regulated throughout development remains poorly understood.
-An emerging view suggests the developmental outcome of Wnt signaling depends not only on the identity of individual ligands, but on the availability of receptors, antagonists, and other pathway modulators in the tissue.
-Therefore, to comprehend Wnt regulation, it is crucial to elucidate the different local receptor contexts of Wnt activity throughout embryogenesis, data lacking for many animal groups.
-Here, we characterize the repertoire of Wnt signaling components and their spatio-temporal embryonic expression in the brachiopod *Terebratalia transversa*, a spiralian with a larval body subdivided into three distinct regions.
+Wnt signalling pathways are crucial for animal development.
+They are involved in determining embryonic axes and cell polarity, specifying cell fates and proliferation, and regulating tissue morphogenesis.
+Such distinct developmental outcomes depend upon the dynamic, often non-linear, local interactions between multiple ligands, receptors, antagonists, and other pathway modulators within embryonic tissues.
+However, how this complexity of Wnt signaling influenced the evolution of animal body patterns remains poorly understood because comprehensive expression analyses of Wnt signaling components are lacking for several animal groups.
 
-## Results
+#### Results:
 
-We find that Frizzled receptors are expressed in broad, non-overlapping domains while Wnt ligands are expressed in narrower but more diverse overlapping territories showing an anteroposterior organization.
-The combinatorial expression of ligands, receptors, and antagonists, creates a series of unique transcriptional territories along the anteroposterior axis which precede the formation of, and coincide with, the different morphological regions and boundaries of the brachiopod larval body.
-We also find that while the expression of Frizzleds is conserved across metazoan groups, the expression of Wnts is variable.
+In this work, we characterize the repertoire and spatio-temporal expression of Wnt signaling components in the brachiopod *Terebratalia transversa*.
+We find that *T. transversa* has a conserved set of ligands, receptors, and antagonists, which are expressed throughout embryogenesis, with Wnt genes being upregulated during axial elongation.
+At this stage, Wnt signaling components show a clear anteroposterior organization, with Frizzled genes expressed in broad, non-overlapping domains; Wnt genes expressed in narrower, overlapping domains; and antagonists limited to the anterior end.
+Their combinatorial expression forms a series of distinct transcriptional subregions along the anteroposterior axis which, precede the formation of, and coincide with, the different morphological subregions and tissue boundaries of the brachiopod larval body.
 
-## Conclusions
+#### Conclusions:
 
-Our data suggests the differential activation of Wnt signaling may regulate the regional patterning and morphogenesis of the body regions of the larval brachiopod.
-We propose The evolutionary comparison suggesting that the evolutionary shuffling of ligand expression to different receptor contexts may act as a mechanism for the evolution of bilaterian axial diversity.
+Our results suggest that the differential activation of Wnt signaling pathways, resulting from these combinatorial transcriptional territories, might control the patterning and morphogenesis of the brachiopod larval body regions.
+We propose the evolutionary shuffling of Wnt gene expression to different receptor-contexts may act as a mechanism for the evolution of bilaterian axial diversity.
 
 # Background
 
