@@ -363,65 +363,17 @@ In conclusion, apart from the ubiquitous expression of *fmi* and *stbm*, the oth
 - Suggests that ligands are shuffled during bilaterian evolution
 -->
 
+## Wnt combinatorial landscape patterning the brachiopod larval body subdivisions
+
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
-We find that the brachiopod *T. transversa* has a conserved Wnt repertoire of ligands, receptors, antagonists, and components of the cell polarity pathway, showing few duplications or losses.
-These genes are expressed throughout embryogenesis and undergo two major upregulation events---one at the onset of gastrulation and another during axial elongation.
-At this stage, Wnt components form an intricate landscape of expression domains along the anteroposterior axis ({@fig:summary}A).
-We identified six distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists, whose boundaries coincide with the morphological subdivisions of the larval body (@tbl:landscape and {@fig:summary}B).
-This suggests that the differential activation of Wnt signaling pathways through a combinatorial  code may play a role in regionalizing the brachiopod larval body during embryonic development.
-Below, we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of a Wnt combinatorial landscape for the evolution of metazoan axial diversity.
+We find that the brachiopod *T. transversa* has a conserved Wnt repertoire, showing few duplications or losses, and expresses these genes throughout embryogenesis.
+During axial elongation, Wnt genes undergo a major upregulation and form an intricate landscape of expression domains distributed along the anteroposterior axis ({@fig:summary}A).
+We identified six transcriptional subregions, each expressing distinct combinations of ligands, receptors, and antagonists (@tbl:landscape).
+Interestingly, these unique transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a Wnt signaling combinatorial logic may play a role in regionalizing the brachiopod anteroposterior axis during embryonic development.
 
-## Wnt combinatorial landscape patterning brachiopod body subregions
+<!--Below, we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of a Wnt combinatorial landscape for the evolution of metazoan axial diversity.-->
 
-<!--
-
-Apical lobe (ant/post)
-- Trilobed brachiopod larva subdivided into six subregions
-- Subregions correspond to unique Wnt signaling territories
-- Metazoan anterior patterning has antagonists and neuroectoderm
-- Brachiopod shows a very similar molecular pattern
-- Transcriptional territories give rise to ant/post apical lobe subregions
-- Conserved logic control apical lobe differentiation
-
-Apical--mantle boundary
-- Between apical and mantle there is an invaginated boundary
-- Folded area correspond to a different Wnt combination
-- Pattern reminiscent of segment polarity boundary and brain
-- Wnt not only fields but also interface boundaries
-
-Mantle lobe
-- Undergoes dramatic elongation morphogenesis
-- Profile dominated by wnt 
-- Expressed in growing tips in other metazoans
-- Linked to convergent extension and PCP
-- Hypothesis for the mechanism of mantle elongation
-
-Pedicle lobe (ant/post)
-- Clear morphological subdivision
-- Transcriptional subdivision matches morphology
-- Main difference is absence of fz
-- Pattern also in other metazoans
-- Terminal pedicle lobe under same regulation
-
-Receptor-contexts per subregion
-- Different regions have different landscapes
-- Supports the idea of Wnt-mediated patterning
-- But same Wnt genes also present in different contexts
-- Recall examples for wnt5 and wnt1 and wnt7
-- Supports the idea that receptor context matters
-- Uncovering this Wnt code is important
-- How conserved is it?
-
-Alt outline
-- Wnt-free anterior pole patterned by FZ/sFRP/DKK interactions
-- Apical-mantle boundary with wnt1/wnt7 (check morphogenesis links)
-- Convergent extension of mantle lobe mediated by wnt5
-- Fz-free posterior pole perhaps beta-catenin independent
-- Receptor-context for wnt1/wnt5/wnt7 raises Wnt code idea
-- Literature supports short-range and contextual output
-- Comparative data reveals labile deployment of ligands
-- Evolutionary shuffling as mechanism for axial diversification
--->
+<!--This suggests that the differential activation of Wnt signaling pathways through a -->
 
 The larval body of *T. transversa* is divided into an apical, a mantle, and a pedicle lobe [@Flammer1963-jk; @Vellutini2016-lq].
 The apical lobe is subdivided into a narrow dome (anterior) and a wide base (posterior), and these two morphological subregions show distinct Wnt transcriptional profiles during development ({@fig:summary}A,B).
@@ -544,9 +496,7 @@ In addition, at least three Wnt ligands (*wnt1*, *wnt5*, and *wnt7*) are express
 <!--TODO: Moreover Fz is conserved and Wnt is variable suggesting that shuffling of ligands may increase the diversity of body axis-->
 <!--TODO: Solid examples of differential affinity and combinatorial activity changing the outcome-->
 
-## Ligand--receptor shuffling in bilaterian axial evolution
-
-<!--TODO: Continue from here.-->
+## Wnt ligand--receptor shuffling during bilaterian evolution
 
 The idea of a Wnt code where a specific combination of molecular players will result on a specific developmental outcome.
 This is reminiscent of the Hox code where their combinatorial expression sets the identities of the different regions along the anteroposterior axis [@HoxCode].
