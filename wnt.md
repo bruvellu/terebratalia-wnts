@@ -369,11 +369,12 @@ Our work characterizes the expression of Wnt signaling components during brachio
 We find that the brachiopod *T. transversa* has a conserved Wnt repertoire, showing few duplications or losses, and expresses these genes throughout embryogenesis.
 During axial elongation, Wnt genes undergo a major upregulation and form an intricate landscape of expression domains distributed along the anteroposterior axis ({@fig:summary}A).
 We identified six transcriptional subregions, each expressing distinct combinations of ligands, receptors, and antagonists (@tbl:landscape).
-Interestingly, these unique transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a Wnt signaling combinatorial logic may play a role in regionalizing the brachiopod anteroposterior axis during embryonic development.
+Interestingly, these unique transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a Wnt-based combinatorial logic may play a role in regionalizing the brachiopod anteroposterior axis during embryonic development.
 
 <!--Below, we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of a Wnt combinatorial landscape for the evolution of metazoan axial diversity.-->
-
 <!--This suggests that the differential activation of Wnt signaling pathways through a -->
+
+<!--TODO: Re-write this paragraph with intent-->
 
 The larval body of *T. transversa* is divided into an apical, a mantle, and a pedicle lobe [@Flammer1963-jk; @Vellutini2016-lq].
 The apical lobe is subdivided into a narrow dome (anterior) and a wide base (posterior), and these two morphological subregions show distinct Wnt transcriptional profiles during development ({@fig:summary}A,B).
@@ -539,19 +540,21 @@ We observe that *wnt2*, *wnt5*, and *wnt8* are commonly expressed anteriorly wit
 The expression of the other individual Wnt ligands, however, is variable among species, being located in different regions and different receptor contexts.
 This suggests that redeployment of Wnt ligand activity during anteroposterior patterning happened often during metazoan evolution.
 Changes in the ligand--receptor context provide a modular mechanism for changing the signaling outcomes of cell fates and morphogenetic events, and thus may have played a role in the evolutionary changes in axial patterning that drove the evolution of animal forms.
-Investigating the receptor context and considering the unique combination of ligand--receptor is important for future comparative studies and to understand the evolution of axial patterning in metazoans.
 
 <!--TODO: Wnt as polarizing agent vs patterning system-->
 <!--TODO: What is the relationship to Hox expression and Wnt-code vs Hox-code-->
-
-# Conclusions
-
-<!--TODO: Write a conclusions section-->
 
 <!--@Kusserow2005-xd Expression of Wnt ligands is staggered domains spanning the entire oral--aboral axis except for the aboral pole.-->
 <!--Terebratalia most Wnt genes are expressed in the ectoderm, different than Nematostella where only five are in the ectoderm @Kusserow2005-xd.-->
 
 <!--The expression of Wnt genes in Ecdysozoa reveals that some domains are comparable [@refs]. However, in the priapulid Priapulus caudatus most Wnt genes are expressed at the posterior region of the embryo [@Hogvall2019-wq]. Expression of Wnt ligands in Drosophila and other arthropods show similarities. However, the Frizzled domains do not entirely match what we find in *T. transversa* [@refs]. *D. melanogaster* fz2 expression, orthologous to *T. transversa* fz5/8 is not expressed apically, but in the trunk, similar to T. transversa fz9/10 [@refs]. In addition, arthropods lost many Wnt ligands in specific lineages complicating the identification of common or divergent ligand-receptor contexts [@refs].-->
+
+# Conclusions
+
+In summary, we characterize the complement and expression of Wnt signaling components in a brachiopod.
+We find that the different morphological regions in the larval body express different combinations of Wnt ligands, receptors, and antagonists, with some ligands being expressed in different receptor-contexts in regions with disparate developmental outcomes.
+Our findings suggest that the differential activation of Wnt signaling pathways through this combinatorial landscape may be a mechanism to regionalize the anteroposterior axis of brachiopods.
+Investigating the combinatorial expression and receptor contexts is crucial for future Wnt comparative studies to understand the evolution of axial patterning in metazoans.
 
 # Methods
 
