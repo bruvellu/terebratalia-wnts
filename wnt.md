@@ -371,6 +371,13 @@ During axial elongation, Wnt genes undergo a major upregulation and form an intr
 We identified six transcriptional subregions, each expressing distinct combinations of ligands, receptors, and antagonists (@tbl:landscape).
 Interestingly, these unique transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a Wnt-based combinatorial logic may play a role in regionalizing the brachiopod anteroposterior axis during embryonic development.
 
+<!--TODO: Put here the combinatorial code?-->
+
+<!--Combinatorial logic for genetic regulation is a thing.-->
+<!--The most famous is the Hox code involved in axial patterning.-->
+<!--Some have proposed the existence of a Wnt code.-->
+<!--But Wnts are more complicated and to unveil the code, one needs to look at more genes.-->
+
 <!--Below, we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of a Wnt combinatorial landscape for the evolution of metazoan axial diversity.-->
 <!--This suggests that the differential activation of Wnt signaling pathways through a -->
 
@@ -578,8 +585,8 @@ We quantified the transcript abundances by pseudoaligning the reads to a referen
 using Kallisto v0.46.0 [@Bray2016-lm].
 Using DESeq2 [@Love2014-hs], we estimated the library size factors and data dispersion, and homogenized the variance across expression ranks applying a variance-stabilizing transformation before the expression analyses.
 We visualized the normalized expression data using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz].
-All analyses were performed in R [@Development_Core_Team2005-ki] running RStudio Desktop
-[@RStudio_Team2020-wr].
+All analyses were performed in R [@R_Core_Team1993-ki] running RStudio Desktop
+[@RStudio_Team2011-wr].
 
 <!--TODO: The percentage of uniquely mapped reads was high for all samples (85.6±1.7%). -->
 
