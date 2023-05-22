@@ -366,17 +366,26 @@ In conclusion, apart from the ubiquitous expression of *fmi* and *stbm*, the oth
 ## Wnt combinatorial landscape patterning the brachiopod larval body subdivisions
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
-We find that the brachiopod *T. transversa* has a conserved Wnt repertoire, showing few duplications or losses, and expresses these genes throughout embryogenesis.
-During axial elongation, Wnt genes undergo a major upregulation and form an intricate landscape of expression domains distributed along the anteroposterior axis ({@fig:summary}A).
-We identified six transcriptional subregions, each expressing distinct combinations of ligands, receptors, and antagonists (@tbl:landscape).
-Interestingly, these unique transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a Wnt-based combinatorial logic may play a role in regionalizing the brachiopod anteroposterior axis during embryonic development.
+We find that the brachiopod *T. transversa* has a conserved Wnt repertoire, showing few duplications or losses.
+Wnt genes are expressed throughout embryogenesis, but undergo a major upregulation during axial elongation, when they form an intricate landscape of expression domains along the anteroposterior axis ({@fig:summary}A).
+We identified six distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists (@tbl:landscape).
+Interestingly, these subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B).
+This suggests that a combinatorial logic for Wnt signaling modulation may play a role in regionalizing the anteroposterior axis of brachiopods during development.
 
-<!--TODO: Put here the combinatorial code?-->
+The idea of a combinatorial “Wnt code” was initially proposed based on the staggered expression of Wnt genes in the amphioxus tail bud and in sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd].
+Analogous to the “Hox code” where the combinatorial logic of nested expression domains is crucial to determine the regional tissue identities along an axis [@Hunt1991-xa].
+This combinatorial expression of Hox genes along the anteroposterior axis is relatively conserved and comparable across animal groups.
+But while the combinatorial effect of transcription factors is relatively straightforward, Wnt signaling pathways are non-linear cascades resulting from an intricate combinatorial network of protein interactions [@Van_Amerongen2009-wk] where the developmental (or receptor) context dictates the signaling output [@Mikels2006-ha; @Van_Amerongen2008-oo; @Niehrs2012-ku].
+The short-range activity of Wnt proteins and their ability to elicit cell fate and cell polarity responses in a combinatorial fashion depending on the developmental context, make the Wnt signaling pathways key players to generate cell lineage diversity and morphogenetic changes during the body patterning of metazoans [@Guder2006-fu; @Loh2016-pz].
+The existence of a “Wnt code” or “landscape” [@Guder2006-fu; @Janssen2010-dc; @Holstein2012-ec; @Holstein2022-er].
+However, it is unclear whether a “Wnt code” exists for the anteroposterior.
+Solving the “Wnt code” is harder and requires that not only the ligands be taken into account, but also the receptor context and combinatorial expression of pathway modulators.
+And it is unclear whether specific combination of Wnt genes give rise to particular outcomes, and how conserved Wnt anteroposterior expression it is across the animal phylogeny.
 
-<!--Combinatorial logic for genetic regulation is a thing.-->
-<!--The most famous is the Hox code involved in axial patterning.-->
-<!--Some have proposed the existence of a Wnt code.-->
-<!--But Wnts are more complicated and to unveil the code, one needs to look at more genes.-->
+<!--Hox/Wnt interactions have been described [@Bondos2006].-->
+<!--It occurs in Nematostella [@DuBuc2018].-->
+<!--How is it in Ttra?-->
+<!--(comparison of wnt and hox)-->
 
 <!--Below, we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of a Wnt combinatorial landscape for the evolution of metazoan axial diversity.-->
 <!--This suggests that the differential activation of Wnt signaling pathways through a -->
@@ -506,20 +515,8 @@ In addition, at least three Wnt ligands (*wnt1*, *wnt5*, and *wnt7*) are express
 
 ## Wnt ligand--receptor shuffling during bilaterian evolution
 
-The idea of a Wnt code where a specific combination of molecular players will result on a specific developmental outcome.
-This is reminiscent of the Hox code where their combinatorial expression sets the identities of the different regions along the anteroposterior axis [@HoxCode].
-A Wnt code was initially suggested with the observation of staggered domains along the axis of cnidarians and the tail bud of amphioxus [@WntCode].
-However, Wnt signaling pathways are not independent linear cascades.
-They result from an intricate combinatorial network of protein interactions [@Van_Amerongen2009-wk], where the developmental (or receptor) context dictates the signaling output [@Mikels2006-ha; @Van_Amerongen2008-oo].
-Therefore, the Wnt code is a much more complex code to crack compared to the Hox code because it depends on a larger number of molecular players.
-It is unclear however, how conserved is the combinatorial expression we describe for brachiopods in other metazoans and how does it relate to the axial evolution of metazoans.
-
-<!--TODO: Make a proper revision of Wnt/Fz in metazoans-->
-<!--TODO: Pang2010-ds there was an expansion of Wnt/Fz in cnidarians. Check ctenophore expression.-->
-The short-range activity of Wnt proteins and their ability to elicit cell fate and cell polarity responses in a combinatorial fashion depending on the developmental context, make the Wnt signaling pathways key players to generate cell lineage diversity and morphogenetic changes during the body patterning of metazoans [@Guder2006-fu; @Loh2016-pz].
 Most metazoans have transcripts for ligands, antagonists, and receptors deposited maternally in the egg (@tbl:maternal).
-However, we observe a significant difference.
-While the composition of maternal Wnt ligands varies considerably even within brachiopods, the maternal load of Frizzled transcripts is less variable between species (@tbl:maternal).
+But while the composition of maternal Wnt ligands varies considerably even within brachiopods, the maternal load of Frizzled transcripts is less variable between species (@tbl:maternal).
 Almost all species investigated so far show the expression of *fz1/2/7* in the unfertilized egg in a highly conserved pattern across metazoans [@Bastin2015-oz].
 This suggests the function of *fz1/2/7* in early development may be conserved, while the greater variability of maternal Wnt ligands suggest a putative redundant function in the signaling activation---any Wnt may be present in the egg as long as it is capable of activating the pathway.
 
