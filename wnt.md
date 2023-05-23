@@ -366,11 +366,12 @@ In conclusion, apart from the ubiquitous expression of *fmi* and *stbm*, the oth
 ## Wnt combinatorial landscape patterning the brachiopod larval body subdivisions
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
-We find that the brachiopod *T. transversa* has a conserved Wnt repertoire, showing few duplications or losses.
-Wnt genes are expressed throughout embryogenesis, but undergo a major upregulation during axial elongation, when they form an intricate landscape of expression domains along the anteroposterior axis ({@fig:summary}A).
+The brachiopod *T. transversa* has a conserved Wnt repertoire, showing few duplications or losses.
+Wnt genes are expressed throughout embryogenesis, but undergo a major upregulation event during axial elongation.
+At this stage, Wnt expression domains are distributed along the anteroposterior axis forming an intricate transcriptional landscape ({@fig:summary}A).
 We identified six distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists (@tbl:landscape).
-Interestingly, these subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B).
-This suggests that a combinatorial logic for Wnt signaling modulation may play a role in regionalizing the anteroposterior axis of brachiopods during development.
+These subregions precede the establishment of, and coincide with, the morphological subdivisions of the larval body ({@fig:summary}B).
+This correspondence between molecules and morphology suggests that a combinatorial logic modulating Wnt activity in different body regions may play a role in regionalizing the brachiopod anteroposterior axis.
 
 The idea of a combinatorial “Wnt code” was initially proposed based on the staggered expression of Wnt genes in the amphioxus tail bud and in sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd].
 Analogous to the “Hox code” where the combinatorial logic of nested expression domains is crucial to determine the regional tissue identities along an axis [@Hunt1991-xa].
