@@ -1,26 +1,9 @@
 ---
-title: Combinatorial landscape of Wnt signaling components during brachiopod anteroposterior patterning
-#title: Combinatorial Wnt landscape in brachiopod anteroposterior patterning
-#title: Wnt signaling combinatorial landscape during brachiopod anteroposterior patterning
-#title: Combinatorial landscape of Wnt expression patterning the brachiopod anteroposterior axis
-#title: Combinatorial landscape of Wnt expression patterning the brachiopod anteroposterior larval body subregions
-#title: Wnt combinatorial landscape during brachiopod anteroposterior patterning
-#title: Combinatorial Wnt code during brachiopod anteroposterior patterning
-#title: Combinatorial Wnt code patterning the anteroposterior axis of brachiopods
-#title: Combinatorial Wnt landscape patterning the anteroposterior axis of brachiopod embryos
-#title: Wnt signaling combinatorial expression regionalizes the anteroposterior axis of brachiopod embryos
-#title: Wnt signaling combinatorial expression suggests a role in brachiopod anteroposterior patterning
-#title: Combinatorial expression of Wnt signaling components during brachiopod anteroposterior patterning
-#title: Combinatorial expression of Wnt signaling components suggests a role in the anteroposterior patterning of brachiopod embryos
-#title: Combinatorial expression of Wnt signaling components regionalizes the anteroposterior axis of brachiopod embryos during development
-#title: Wnt signaling landscape during brachiopod anteroposterior patterning
-#title: Wnt signaling combinatorial landscape regionalizes the anteroposterior axis of brachiopod embryos
-#title: Brachiopod embryos express unique Wnt signaling territories along the anteroposterior axis
-#title: Wnt signaling landscape in brachiopod development suggests a role in anteroposterior patterning
+title: Combinatorial Wnt landscape during brachiopod anteroposterior patterning
 author:
 - Bruno C. Vellutini:
     correspondence: "yes"
-    institute: [sars, mpicbg]
+    institute: [sars, cbg]
     email: vellutini@mpi-cbg.de
     orcid: 0000-0002-0000-9465
 - José M. Martín-Durán:
@@ -28,19 +11,19 @@ author:
     email: chema.martin@qmul.ac.uk
     orcid: 0000-0002-2572-1061
 - Aina Børve:
-    institute: [sars, biobergen]
+    institute: [sars, uib]
     email: Aina.Borve@uib.no
     orcid: 0000-0003-0311-5156
 -  Andreas Hejnol:
     correspondence: "yes"
-    institute: [sars, biobergen, jena]
+    institute: [sars, uib, jena]
     email: andreas.hejnol@uni-jena.de
     orcid: 0000-0003-2196-8507
 institute:
 - sars: Sars International Centre for Marine Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
-- mpicbg: Max Planck Institute of Molecular Cell Biology and Genetics, Pfotenhauerstraße 108, 01307 Dresden, Germany.
+- cbg: Max Planck Institute of Molecular Cell Biology and Genetics, Pfotenhauerstraße 108, 01307 Dresden, Germany.
 - qmul: Queen Mary University of London, School of Biological and Chemical Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
-- biobergen: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
+- uib: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
 - jena: Institute of Zoology and Evolutionary Research, Friedrich Schiller University Jena, Erbertstraße 1, 07743 Jena, Germany
 documentclass: article
 bibliography: resources/wnt.bib 
@@ -52,10 +35,9 @@ geometry:
   - vmargin=25mm
 header-includes:
 - \usepackage[font={small}]{caption}
-#- \patchcmd{\@setauthors}{\centering}{\raggedright}{}{}
 fontsize: 11pt
 fontfamily: libertine
-linestretch: 1
+linestretch: 1.5
 link-citations: true
 colorlinks: true
 fignos-warning-level: 0
@@ -70,21 +52,26 @@ tablenos-plus-name: Table
 #### Background:
 
 Wnt signalling pathways are crucial for animal development.
-They are involved in determining embryonic axes and cell polarity, specifying cell fates and proliferation, and regulating tissue morphogenesis.
-Such distinct developmental outcomes depend upon the dynamic, often non-linear, local interactions between multiple ligands, receptors, antagonists, and other pathway modulators within embryonic tissues.
-However, how this complexity of Wnt signaling influenced the evolution of animal body patterns remains poorly understood because comprehensive expression analyses of Wnt signaling components are lacking for several animal groups.
+They establish embryonic axes, determine cell polarity, specify cell fates, and regulate tissue morphogenesis.
+Because of this multitude of roles in controlling developmental outcomes, Wnt pathways have been implicated as a central player in the evolution of animal body patterns.
+Wnt signaling pathways, however, are highly-dynamic, often non-linear, and the developmental outcome depends upon local interactions between multiple ligands, receptors, antagonists, and other modulators.
+Therefore, understanding the roles of Wnt in development and evolution require comprehensive expression analyses of Wnt signaling components.
+But these data are lacking for several animal groups.
 
 #### Results:
 
 In this work, we characterize the repertoire and spatio-temporal expression of Wnt signaling components in the brachiopod *Terebratalia transversa*.
-We find that *T. transversa* has a conserved set of ligands, receptors, and antagonists, which are expressed throughout embryogenesis, with Wnt genes being upregulated during axial elongation.
-At this stage, Wnt signaling components show a clear anteroposterior organization, with Frizzled genes expressed in broad, non-overlapping domains; Wnt genes expressed in narrower, overlapping domains; and antagonists limited to the anterior end.
-Their combinatorial expression forms a series of distinct transcriptional subregions along the anteroposterior axis which, precede the formation of, and coincide with, the different morphological subregions and tissue boundaries of the brachiopod larval body.
+We find that *T. transversa* has a conserved set of ligands, receptors, and antagonists, which are expressed throughout embryogenesis.
+Wnt genes are upregulated during axial elongation and are expressed in narrow, partially overlapping domains with an anteroposterior organization.
+Frizzled genes are expressed in broad, non-overlapping domains and antagonists are limited to the anterior end.
+Their combinatorial expression forms a series of distinct transcriptional subregions along the anteroposterior axis which, precede the formation of, and coincide with, the different morphological subdivisions and tissue boundaries of the brachiopod larval body.
+Across metazoa, the spatial arrangement of Frizzled genes is relatively conserved while that of Wnt genes is more variable.
 
 #### Conclusions:
 
-Our results suggest that the differential activation of Wnt signaling pathways, resulting from these combinatorial transcriptional territories, might control the patterning and morphogenesis of the brachiopod larval body regions.
-We propose the evolutionary shuffling of Wnt gene expression to different receptor-contexts may act as a mechanism for the evolution of bilaterian axial diversity.
+Our results suggest that the differential activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of the brachiopod larva during embryonic development.
+And that a combinatorial control of Wnt signaling might provide the underlying basis for the differential patterning and morphogenesis.
+Our data support that the evolutionary shuffling of Wnt expression to different receptor-contexts may act as a mechanism for the evolution of bilaterian axial diversity.
 
 # Background
 
