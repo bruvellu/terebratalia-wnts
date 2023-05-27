@@ -555,9 +555,10 @@ Investigating the combinatorial expression and receptor contexts is crucial for 
 
 ## Sample collection
 
-*T. transversa* (Sowerby, 1846) adult specimens were collected by dredging the rocky seabeds around Friday Harbor, San Juan Islands, USA, and kept in a seawater table with running seawater at the Friday Harbor Laboratories (University of Washington).
+*T. transversa* (Sowerby, 1846) adult specimens were collected by dredging the rocky seabeds around Friday Harbor, San Juan Islands, USA.
+We kept in a seawater table with running seawater at the Friday Harbor Laboratories (University of Washington).
 To obtain embryos, we dissected the gonads of ripe individuals and fertilized the gametes *in vitro* as previously described [@Reed1987-sd; @Freeman1993-zt].
-We cultured the embryos in “E” ware glass bowls (i.e. glassware never exposed to chemicals) with filtered seawater and temperature around 7.6 °C.
+We cultured the embryos in E-ware glass bowls (i.e. glassware never exposed to chemicals) with filtered seawater and temperature around 7.6 °C.
 Water in culturing bowls was exchanged daily.
 Using a glass pipette, we collected samples for RNA sequencing and for *in situ* hybridization at representative developmental stages (@tbl:samples).
 For the RNA-seq samples, we collected two biological replicates, each containing the eggs of a single female fertilized with mixed sperm from three different males.
@@ -595,7 +596,7 @@ We synthesized cDNA from a mix of total RNA from all developmental stages using 
 For each identified ortholog transcript, we designed gene-specific primer pairs within the coding sequence, with product sizes ranging between 800--1200bp, using Primer3 [@Untergasser2012-se].
 We cloned each fragment into a pGEM-T Easy Vector and amplified the antisense sequences using T7 or SP6 polymerase.
 DIG-labeled riboprobes were synthesized with the MEGAscript kit (Ambion).
-We then followed established protocols for single colorimetric *in situ* hybridization [@Hejnol2008-pk; @Santagata2012-he], and double fluorescent *in situ* hybridization [@Vellutini2016-lq; @Martin-Duran2016-qa] in *T. transversa*.
+We then followed the established protocols in *T. transversa* for single colorimetric *in situ* hybridization [@Hejnol2008-pk; @Santagata2012-he], and double fluorescent *in situ* hybridization [@Vellutini2016-lq; @Martin-Duran2016-qa].
 
 <!--TODO: The primer pairs are available in the repository [TODO] and the cloned sequences were deposited in the GenBank (XXX--XXX).-->
 
@@ -609,7 +610,7 @@ Illustrations and figure plates were assembled using Inkscape.
 
 # Acknowledgements
 
-We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for helping with the spawnings, Katrine Worsaae for the initial clonings, and members of the Hejnol Lab for the helpful discussions.
+We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for helping with the spawnings and sample collections, Katrine Worsaae for the initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
 The study was funded by the Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014–2020) ERC grant agreement 648861 to AH.
 The animal collections were supported by Meltzer Research Fund grant.
 BCV was supported by an EMBO Long-Term Fellowship during the writing of this manuscript (ALTF 74-2018).
