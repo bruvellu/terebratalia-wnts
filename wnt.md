@@ -353,20 +353,14 @@ In conclusion, *fmi* and *stbm* are expressed ubiquitously while the other cell 
 - Suggests that ligands are shuffled during bilaterian evolution
 -->
 
-## Correspondence between Wnt transcriptional landscape and morphological subdivisions
-
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
 The brachiopod *T. transversa* has a conserved Wnt repertoire, showing few duplications or losses.
 Wnt genes are expressed throughout embryogenesis, but undergo a major upregulation event during axial elongation.
 At this stage, Wnt expression domains are distributed along the anteroposterior axis forming an intricate transcriptional landscape ({@fig:summary}A).
-We identified six distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists (@tbl:landscape).
-These subregions precede the establishment of, and coincide with, the morphological subdivisions of the larval body ({@fig:summary}B).
-The larval body of *T. transversa* is divided into an apical, a mantle, and a pedicle lobe [@Flammer1963-jk; @Vellutini2016-lq].
-The apical and pedicle lobes are further subdivided into narrower and wider regions, and the boundary between apical and mantle lobes exhibits a deep epithelial invagination [@Vellutini2016-lq].
-These morphological subregions show distinct Wnt transcriptional profiles during development ({@fig:summary}A,B).
-This correspondence between molecules and morphology suggests that a combinatorial logic modulating Wnt activity in different body regions may play a role in regionalizing the brachiopod anteroposterior axis.
-
-<!--Regions expressing different genes give rise to different body regions.-->
+We identified six distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling (@tbl:landscape).
+Subregions one and two give rise to the anterior and posterior portions of the apical lobe, respectively; subregion three demarcates the area invaginated in the apical--mantle boundary; subregion four forms the elongated tissues of the mantle lobe; and subregions five and six correspond to the sub-terminal and terminal portions of the pedicle lobe ({@fig:summary}B).
+Therefore, these unique Wnt transcriptional subregions precede the establishment of, and coincide with, the morphological subdivisions of the larval body ({@fig:summary}B).
+The correspondence between gene expression and morphology suggests that the differential activation of Wnt signaling during axial elongation may regulate---through a combinatorial logic or “Wnt code”---the patterning of the brachiopod anteroposterior axis, where a specific combination of Wnt components gives rise to specific developmental outcomes.
 
 ## Evidence for a “Wnt code” in axial patterning
 
