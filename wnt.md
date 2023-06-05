@@ -369,42 +369,35 @@ This correspondence between gene expression and morphology suggests that the bra
 
 The “Wnt code” is an analogy to the “Hox code”, a reference to the fact that the combinatorial expression of nested Hox domains determines the positional identities of tissues along an axis [@Hunt1991-xa].
 Initial evidence for a “Wnt code” came from the staggered expression of Wnt genes along the tail bud of amphioxus and body axis of sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd].
-Since then, the term “code” or “landscape” has been used to refer to the potential mechanism by which Wnt signaling may pattern tissues during development [@Guder2006-fu; @Janssen2010-dc; @Holstein2012-ec; @Holstein2022-er].
-However, while the Hox combinatorial expression and their associated anteroposterior fates is relatively conserved among bilaterians [@McGinnis1992-qj; @Garcia-Fernandez2005-zl], it remains unclear whether specific combinations of Wnt domains always give rise to specific developmental outcomes, and whether this “Wnt code” is evolutionary conserved.
+Since then, the term “code” or “landscape” has been used to refer to the putative combinatorial mechanism by which Wnt signaling may pattern tissues during development [@Guder2006-fu; @Janssen2010-dc; @Holstein2012-ec; @Holstein2022-er].
+However, while the Hox combinatorial expression and their associated anteroposterior fates is relatively conserved among bilaterians [@McGinnis1992-qj; @Garcia-Fernandez2005-zl], it remains unclear whether specific combinations of Wnt domains always give rise to specific developmental outcomes, and whether this “Wnt code” is evolutionarily conserved.
 
+A “Wnt code” is more challenging to solve than its Hox counterpart.
+Wnt pathways are non-linear signaling cascades [@Van_Amerongen2009-wk] where the signaling output depends not only on the presence of a specific ligand, but also on the specific receptor context, as well as in the local presence of different antagonists and pathway modulators [@Mikels2006-ha; @Van_Amerongen2008-oo; @Niehrs2012-ku].
+Moreover, this combinatorial network of interactions regulates not only cell fate, but can also directly trigger cell behaviors which drive embryo morphogenesis.
+Therefore, uncovering the “Wnt code” requires comprehensive analyses of Wnt signaling components throughout development.
 
-It suggests that the combinatorial expression of Wnt genes can establish different developmental outcomes along the axis.
-However, there are crucial differences between a Hox and a Wnt “code”.
-Wnt signaling pathways are non-linear cascades where the signal is transduced via an intricate combinatorial network of protein interactions [@Van_Amerongen2009-wk].
-Wnt also can change not only the identity of tissues, but act directly on the cellular and tissue behaviors being a closer connection to morphogenesis.
-It is also important to note that the signaling output depends upon the local receptor context [@Mikels2006-ha; @Van_Amerongen2008-oo; @Niehrs2012-ku].
-Therefore, it is not only a matter of ligands, but all the components of the different Wnt pathways including ligands, receptors, antagonists, and modulators.
-For this reason, uncovering the “Wnt code” is more challenging than the Hox code because it requires comprehensive combinatorial analyses.
-In fact, it remains unclear whether specific combinations of Wnt gene expression correspond to particular fates and whether this “Wnt code” is conserved for animal development.
+Our data reveals that specific Wnt--Frizzled combinations associated with the apical lobe subdivision in the brachiopod *T. transversa* are conserved in other aboral/anterior end of other animals.
+The anterior region of the brachiopod apical lobe expresses no Wnt ligands, the receptor *fz5/8*, and the putative antagonists *sfrp1/2/5* and *dkk5*, while the base of the apical lobe expresses several Wnt ligands including *wnt8*, the receptor *fz4* and none of the investigated antagonists (@fig:ligands2, !@fig:doubles, and {@fig:summary}A).
+The anterior expression of *fz5/8* is known to activate the Wnt antagonists *sFRP* and *Dkk*, inhibiting Wnt/beta-catenin signaling and helping to establish an anterior neuroectoderm identity [@Range2013-gm; @Khadka2018-td].
+More posteriorly, the neuroectoderm identity is regulated by the expression of *wnt8* which represses *fz5/8* during development [@Erter2001-fl; @Lekven2001-jj; @Kim2002-ze; @Rhinn2005-ie; @Range2013-gm].
+The arrangement between *fz5/8* and *wnt8* at the anterior/aboral is conserved in other animals [@Range2013-gm; @Leclere2016-ma], suggesting that a similar regulatory logic may contribute to subdivide the apical lobe of *T. transversa*.
 
+<!--The combination of *fz5/8* with antagonists and no ligands at the anterior/aboral end and of *wnt8* with *fz4* at a more posterior region is conserved among animals [@Range2013-gm; @Leclere2016-ma] ({@fig:comparative}A,B).-->
+<!--This suggests that this pattern is an ancient feature of metazoans and that a similar regulatory logic may contribute to subdivide the apical lobe of *T. transversa*.-->
+<!--TODO: Cite comparative figure right away?-->
 
-<!--The combinatorial effect happens not only at the transcription level as in Hox genes, but may depend upon complex interactions at the extracellular and intracellular levels-->
+<!--The anterior region of the brachiopod apical lobe gives rise to the larval apical organ [@Santagata2011-ry].-->
+<!--The region also expresses the neural genes *foxq2* and *six3/6* [@Santagata2012-he] which are commonly expressed in the anterior end and are key inhibitors of Wnt signaling [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co].-->
 
-Our brachiopod data reveals evidence that some specific Wnt Fz combinations are associated with specific fates and give rise to particular outcomes in the apical lobe subdivisions.
-The arrangement of *fz5/8* and *wnt8* in the anteriormost territory of the apical lobe.
-*fz5/8* helps to establish a neuroectoderm identity by activating the expression of the Wnt antagonists *sFRP* and *Dkk* and inhibiting Wnt signaling [@Range2013-gm; @Khadka2018-td].
-Neural genes commonly expressed in the region such as *foxq2* and *six3/6* are key inhibitors of Wnt signaling [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co].
-*wnt8* represses *fz8* in zebrafish development [@Kim2002-ze] and contributes to establish a posterior neuroectoderm identity [@Erter2001-fl; @Lekven2001-jj; @Rhinn2005-ie].
-Accordingly, the anterior portion of the apical lobe of *T. transversa* which gives rise to the apical organ [@Santagata2011-ry], lacks the expression of Wnt ligands almost entirely ({@fig:summary}A).
-The region also expresses the putative antagonists *sfrp1/2/5* and *dkk5* and the neural genes *foxq2* and *six3/6* [@Santagata2012-he].
-In contrast, the base of the apical lobe expresses several Wnt ligands, including *wnt8*, and *fz4* which abuts *fz5/8* domain posteriorly (@fig:ligands2, !@fig:doubles, and {@fig:summary}A).
-In all metazoans, the aboral/anterior regions express the Wnt antagonist *sFRP*, but cnidarians and bilaterians exhibit a conserved arrangement of *fz5/8* and *wnt8* in the anteriormost territory and have an important role in anterior fates in bilaterians [@Range2013-gm] and aboral fates in cnidarians [@Leclere2016-ma].
-These data suggests that a similar regulatory logic may subdivide the apical lobe of *T. transversa* and that this pattern is an ancient feature of metazoans ({@fig:comparative}B).
-
-We also find evidence that the receptor context matters for the differential patterning of the larval lobes.
-The tissues anterior and posterior of the apical--mantle boundary undergo distinct morphogenetic changes ({@fig:summary}B).
-Anterior tissues show an increased proliferation rate [@Martin-Duran2016-qa] while posterior tissues go through a dramatic growth and elongation that gives rise to the mantle lobe [@Stricker1985-gz].
-Interestingly, both regions show prominent *wnt5* expression but different receptor contexts (*fz4* and *fz1/2/7*, respectively) ({@fig:doubles} and {@fig:summary}A).
-*wnt5* signals mostly via the Wnt/PCP pathway, often regulating tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and convergent extension movements during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].
-*wnt5* mediates convergent extension through the Wnt/PCP pathway [@Heisenberg2000-kx].
+Our expression data also indicates that differences in the receptor context for specific ligands correlate with the distinct morphogenetic outcomes of the tissues anterior and posterior of the apical--mantle boundary ({@fig:summary}B).
+While the anterior tissues show an increased cell proliferation [@Martin-Duran2016-qa], the posterior tissues undergo a dramatic elongation to form the mantle lobe [@Stricker1985-gz].
+Interestingly, both regions show prominent *wnt5* expression, but different receptor contexts (*fz4* and *fz1/2/7*, respectively) ({@fig:doubles} and {@fig:summary}A).
+*wnt5* is known to regulate tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and convergent extension movements during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].
+And it usually does so through the Wnt/PCP pathway [@Heisenberg2000-kx].
 But, in the presence of *fz4*, *wnt5* can activate the Wnt/beta-catenin pathway [@Mikels2006-ha].
-Interestingly, in *T. transversa* the over-activation of the Wnt/beta-catenin pathway leads to an inhibition of the formation of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq], suggesting that *wnt5* expression in the mantle lobe may be in fact activating the Wnt/PCP pathway.
-Therefore, *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A), indicating that receptor availability may regulate the different developmental outcomes of the two body regions via the differential activation of the Wnt/beta-catenin or Wnt/PCP pathways.
+The fact that the over-activation of the Wnt/beta-catenin pathway in *T. transversa* leads to an expansion of the base of the apical lobe and inhibition of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq] suggests that *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A).
+This indicates that receptor availability may regulate the different developmental outcomes of the two body regions via the differential activation of the Wnt/beta-catenin and Wnt/PCP pathways.
 
 If a Wnt code exists, we expect the spatiotemporal expression to be conserved across groups.
 How conserved these transcriptional landscape anteroposterior is across the animal phylogeny.
