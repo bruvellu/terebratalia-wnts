@@ -362,15 +362,18 @@ The brachiopod *T. transversa* has a conserved Wnt repertoire, showing few dupli
 Wnt genes are expressed throughout embryogenesis, but undergo a major upregulation event during axial elongation.
 At this stage, Wnt expression domains are distributed along the anteroposterior axis forming an intricate transcriptional landscape ({@fig:summary}A).
 We identified six distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling (@tbl:landscape).
-These unique Wnt transcriptional subregions precede the establishment of, and coincide with, the morphological subdivisions of the larval body ({@fig:summary}B).
-Subregions one and two give rise to the anterior and posterior portions of the apical lobe; subregion three demarcates the area invaginated in the apical--mantle boundary; subregion four forms the elongated tissues of the mantle lobe; and subregions five and six correspond to the sub-terminal and terminal portions of the pedicle lobe ({@fig:summary}B).
-The correspondence between gene expression and morphology suggests that the differential activation of Wnt signaling during axial elongation may regulate the patterning of the brachiopod anteroposterior axis through a combinatorial logic or “Wnt code”.
+These unique Wnt transcriptional subregions precede the establishment of, and coincide with, the morphological subdivisions of the larval body---the anterior and posterior portions of the apical lobe (subregions one and two); the area invaginated at the apical--mantle boundary (subregion three); the mantle lobe (subregion four); and the sub-terminal and terminal portions of the pedicle lobe (subregions five and six) ({@fig:summary}B).
+This correspondence between gene expression and morphology suggests that the brachiopod anteroposterior patterning may be regulated by a combinatorial logic for Wnt signaling pathways or a “Wnt code”.
 
-A “Wnt code” was first proposed due to the staggered and partially overlapping expression domains of Wnt genes in the tail bud of amphioxus and in the body axis of sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd; @Guder2006-fu].
+<!--TODO: How much of the Wnt code discussion should go to the introduction?-->
+
+The “Wnt code” is an analogy to the “Hox code”, a reference to the fact that the combinatorial expression of nested Hox domains determines the positional identities of tissues along an axis [@Hunt1991-xa].
+Initial evidence for a “Wnt code” came from the staggered expression of Wnt genes along the tail bud of amphioxus and body axis of sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd].
+Since then, the term “code” or “landscape” has been used to refer to the potential mechanism by which Wnt signaling may pattern tissues during development [@Guder2006-fu; @Janssen2010-dc; @Holstein2012-ec; @Holstein2022-er].
+However, while the Hox combinatorial expression and their associated anteroposterior fates is relatively conserved among bilaterians [@McGinnis1992-qj; @Garcia-Fernandez2005-zl], it remains unclear whether specific combinations of Wnt domains always give rise to specific developmental outcomes, and whether this “Wnt code” is evolutionary conserved.
+
+
 It suggests that the combinatorial expression of Wnt genes can establish different developmental outcomes along the axis.
-It is an analogy to the “Hox code” where the combinatorial logic of nested expression domains of Hox genes determines the regional identities of tissues along the anteroposterior axis [@Hunt1991-xa].
-Changes in Hox combinations lead to changes in the positional identities.
-Moreover, the correlation between Hox combinations and their associated fates is relatively conserved across bilaterians [@Hox].
 However, there are crucial differences between a Hox and a Wnt “code”.
 Wnt signaling pathways are non-linear cascades where the signal is transduced via an intricate combinatorial network of protein interactions [@Van_Amerongen2009-wk].
 Wnt also can change not only the identity of tissues, but act directly on the cellular and tissue behaviors being a closer connection to morphogenesis.
@@ -379,7 +382,6 @@ Therefore, it is not only a matter of ligands, but all the components of the dif
 For this reason, uncovering the “Wnt code” is more challenging than the Hox code because it requires comprehensive combinatorial analyses.
 In fact, it remains unclear whether specific combinations of Wnt gene expression correspond to particular fates and whether this “Wnt code” is conserved for animal development.
 
-<!--“code” or “landscape” [@Guder2006-fu; @Janssen2010-dc; @Holstein2012-ec; @Holstein2022-er].-->
 
 <!--The combinatorial effect happens not only at the transcription level as in Hox genes, but may depend upon complex interactions at the extracellular and intracellular levels-->
 
