@@ -387,7 +387,7 @@ And while the Hox combinatorial expression and their associated anteroposterior 
 
 The modern Wnt repertoire evolved at the base of the Cnidaria--Bilateria split ({@fig:comparative}A).
 Ctenophores have four Wnt genes and two Frizzled genes [@Pang2010-ds] and the Cnidaria show an almost complete Wnt and Frizzled complement [@Kusserow2005-xd; @Niedermoser2022-ev].
-This reveals that the Wnt expansion preceded the evolution of a bilateral anteroposterior axis organization and diversification of body axis observed in bilaterians.
+This reveals that the Wnt expansion preceded the evolution of a bilateral anteroposterior axis organization and diversification of body axis observed in bilaterians [@Lee2006-gr].
 
 Wnt signaling is important for early axis determination.
 Most metazoans exhibit transcripts for ligands, receptors, and antagonists deposited maternally in the egg (@tbl:maternal).
@@ -685,56 +685,44 @@ BCV was supported by an EMBO Long-Term Fellowship during the writing of this man
 
 # Figures
 
-![Orthology assignment of *Terebratalia transversa* Wnt ligands. Maximum
-likelihood phylogenetic analysis using the amino acid sequences of known
-metazoan Wnt genes. Color-coding represents Wnt subfamilies. Numbers show the
-bootstrap branch support values. *T. transversa* orthologs are in bold and
-outlined by a box.](figures/Fig1.jpg){#fig:wnt-tree width=100%}
+![Orthology assignment of *Terebratalia transversa* Wnt ligands.
+Maximum likelihood phylogenetic analysis using the amino acid sequences of known metazoan Wnt genes. Color-coding represents Wnt subfamilies. Numbers show the bootstrap branch support values. *T. transversa* orthologs are in bold and outlined by a box.
+](figures/Fig1.jpg){#fig:wnt-tree width=100%}
 
-![Expression of Wnt signaling components throughout *Terebratalia transversa*
-development. Heatmap shows the log normalized counts averaged between
-replicates from stage-specific RNA-seq data. The stages sampled for *in situ*
-hybridization are highlighted in magenta.](figures/Fig2.jpg){#fig:profiling
-width=100%}
+![Expression of Wnt signaling components throughout *Terebratalia transversa* development.
+Heatmap shows the log normalized counts averaged between replicates from stage-specific RNA-seq data. The stages sampled for *in situ* hybridization are highlighted in magenta.
+](figures/Fig2.jpg){#fig:profiling width=100%}
 
-![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia
-transversa* (*wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*). Black
-arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the
-mantle--pedicle boundary. The panels for *wnt1* were originally published in
-@Vellutini2016-lq under a Creative Commons Attribution License and reprinted
-here for completion.](figures/Fig3.jpg){#fig:ligands1 width=100%}
+![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia transversa* (*wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*).
+Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary. The panels for *wnt1* were originally published in @Vellutini2016-lq under a Creative Commons Attribution License and reprinted here for completion.
+](figures/Fig3.jpg){#fig:ligands1 width=100%}
 
-![Whole-mount *in situ* hybridization of Wnt ligands in
-*Terebratalia transversa* (*wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* and
-*wntA*). Black arrowheads indicate the apical--mantle boundary. White
-arrowheads demarcate the mantle--pedicle
-boundary.](figures/Fig4.jpg){#fig:ligands2 width=100%}
+![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia transversa* (*wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* and *wntA*).
+Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.
+](figures/Fig4.jpg){#fig:ligands2 width=100%}
 
-![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in
-*Terebratalia transversa*. (A--D) Expression of *wnt1* (magenta) and *wnt5*
-(green) for early gastrula (A), late gastrula (B) and early larva (C) in
-ventral views, and for early larva in dorsal view (D). (E--F) Expression of
-*wnt5* (green) and *fz5/8* (magenta) for early gastrula (E) and late gastrula
-(F) in ventral views. (G--H) Expression of *wnt7* (green) *engrailed* (*en*)
-(magenta) in ventral (G) and dorsal (H) views. (I--L) Expression of *wnt1*
-(magenta) and *wnt8* (green) for early gastrula (I) and early larva (J--L)
-in ventral view (J), optical section through mid-body (K) and dorsal view
-(L).](figures/Fig5.jpg){#fig:doubles width=100%}
+![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in *Terebratalia transversa*.
+(A--D) Expression of *wnt1* (magenta) and *wnt5* (green) for early gastrula (A), late gastrula (B) and early larva (C) in ventral views, and for early larva in dorsal view (D).
+(E--F) Expression of *wnt5* (green) and *fz5/8* (magenta) for early gastrula (E) and late gastrula (F) in ventral views.
+(G--H) Expression of *wnt7* (green) *engrailed* (*en*) (magenta) in ventral (G) and dorsal (H) views.
+(I--L) Expression of *wnt1* (magenta) and *wnt8* (green) for early gastrula (I) and early larva (J--L) in ventral view (J), optical section through mid-body (K) and dorsal view (L).
+](figures/Fig5.jpg){#fig:doubles width=100%}
 
-![Whole-mount *in situ* hybridization of Frizzled receptors and Wnt antagonists in
-*Terebratalia transversa*. Black arrowheads indicate the apical--mantle
-boundary. White arrowheads demarcate the mantle--pedicle
-boundary.](figures/Fig6.jpg){#fig:fzdantag width=100%}
+![Whole-mount *in situ* hybridization of Frizzled receptors and Wnt antagonists in *Terebratalia transversa*.
+Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.
+](figures/Fig6.jpg){#fig:fzdantag width=100%}
 
-![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt
-signaling pathway in *Terebratalia
-transversa*.](figures/Fig7.jpg){#fig:polarity width=100%}
+![Whole-mount colorimetric *in situ* hybridization of Wnt/PCP pathway components in *Terebratalia transversa*.
+](figures/Fig7.jpg){#fig:polarity width=100%}
 
-![Summary of Wnt signaling landscape in *Terebratalia transversa*. The
-schematic drawings show the ectodermal expression domains on the ventral
-region of a late gastrula stage.](figures/Fig8.jpg){#fig:summary width=100%}
+![Summary of Wnt signaling landscape in *Terebratalia transversa*.
+The schematic drawings show the ectodermal expression domains on the ventral region of a late gastrula stage.
+](figures/Fig8.jpg){#fig:summary width=100%}
 
-![Wnt signaling landscape in the hemichordate *Saccoglossus kowalevskii* and in the annelid *Platynereis dumerilii*. (A) Expression domains of Wnt ligands in relation to Frizzled receptors along the anteroposterior axis. (B) Consensus of Wnt signaling landscape in a generalized bilaterian.](figures/Fig9.jpg){#fig:comparative width=100%}
+![Wnt signaling landscape in metazoans.
+(A) Phylogenetic tree showing the gain and losses of Wnt ligands, Frizzled receptors and Wnt antagonists, and the molecular repertoire for individual groups. The schematic drawings illustrate the expression of Wnt signaling components during anteroposterior patterning based on previous works on Ctenophora [@Pang2010-ds], Cnidaria [@Kusserow2005-xd; @Niedermoser2022-ev], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg], Echinodermata [@Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Annelida [@Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Brachiopoda [@Vellutini2016-lq] (this study).
+(B) Conserved combinations of Wnt signaling components along the anteroposterior axis represented in a generalized bilaterian.
+](figures/Fig9.jpg){#fig:comparative width=100%}
 
 <!--![Whole-mount *in situ* hybridization of Frizzled receptors in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig7.jpg){#fig:receptors width=100%}-->
 
@@ -768,28 +756,11 @@ Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs. {#t
 | *Platynereis dumerilii*         | No maternal Wnt transcripts [@Pruitt2014-oy]                   | *fz1/2/7* [@Bastin2015-oz]                               |
 | *Priapulus caudatus*            | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] | -                                                        |
 | *Paracentrotus lividus*         | *wnt7* [@Robert2014-xj]                             | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   |
-| *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | -                                                        |
+| *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | *fz1/2/7* [@Lhomond2012-yh]                                                        |
 | *Saccoglossus kowalevskii*      | *wnt4* and *wnt9* [@Darras2018-gm]                  | *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   |
 | *Xenopus laevis*                | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            | -                                                        |
 | *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
 | *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
-
-\newpage
-
-Table: Molecular evolution of Wnt signaling components in metazoans. {#tbl:comparative}
-
-| Group           | Wnt                                                                   | Frizzled                    | Antagonists          | References                                            |
-| -----           | ---                                                                   | --------                    | -----------          | ----------                                            |
-| Ctenophora      | *6*, *9*, *A*, *X*                                                    | *A*, *B*                    | *sfrp*               | [@Pang2010-ds]                                        |
-| Cnidaria        | *1*, *2*, *3*, *4*, *5*, *6*, *7*, *8*, *10*, *11*, *16*, *A*         | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *dkk*, *wif* | [@Kusserow2005-xd; @Lee2006-gr; @Niedermoser2022-ev]  |
-| Vertebrata      |                                                                       |                             |                      |                                                       |
-| Cephalochordata | *1*, *2*, *3*, *4*, *5*, *6*, *7*, *8*, *9*, *10*, *11*, *16*         | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *dkk*, *wif* | [@Qian2013-jg]                                        |
-| Echinodermata   |                                                                       |                             |                      |                                                       |
-| Hemichordata    | *1*, *2*, *3*, *4*, *5*, *6*, *7*, *8*, *9*, *10*, *11*, *16*, *A*    | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *dkk*, *wif* |                                                       |
-| Brachiopoda     | *1*, *2*, *4*, *5*, *6*, *7*, *8*, *9*, *10*, *11*, *16*, *A*         | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *dkk*, *wif* | (this study) [@Luo2015-lm; @Luo2018-lj]               |
-| Annelida        | *1*, *2*, *4*, *5*, *6*, *7*, *8*, *9*, *10*, *11*, *16*, *A*         | *1/2/7*, *4*, *5/8*, *9/10* | *sfrp*, *wif*        | [@Janssen2010-dc; @Cho2010-eb; @Bastin2015-oz]        |
-| Arthropoda      | *1*, (*2*), (*4*), *5*, *6*, *7*, (*8*), *9*, *10*, *11*, (*16*), *A* | *1/2/7*, *4*, *5/8*, *9/10* | *wif*                | [@Janssen2010-dc; @Chavarria2021-ps; @Janssen2015-aj] |
-
 
 \newpage
 
