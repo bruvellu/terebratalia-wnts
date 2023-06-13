@@ -368,19 +368,15 @@ These data show that specific combinations of Wnt signaling components are assoc
 This correspondence between gene expression and morphology suggests that the brachiopod anteroposterior patterning may be regulated by a combinatorial logic for the expression of Wnt signaling components---or a “Wnt code”.
 
 The existence of a “Wnt code” was first proposed based on the staggered expression of Wnt genes along the tail bud of amphioxus and body axis of sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd].
-It refers to the possibility that different combinations of Wnt ligands may differentially pattern regions of the body axis.
-It is an analogy to the “Hox code” where the combinatorial expression of nested Hox domains determines the positional identities of tissues along an axis [@Hunt1991-xa].
-Since then, the term “code” or “landscape” has been used to refer to the putative combinatorial mechanism by which Wnt signaling may pattern tissues during development [@Guder2006-fu; @Janssen2010-dc; @Holstein2012-ec; @Holstein2022-er].
-
+As an analogy to the “Hox code”, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along an axis [@Hunt1991-xa], the “Wnt code” refers to the possibility that different combinations of Wnt ligands may differentially pattern regions of the body axis.
 A “Wnt code”, however, differs from its Hox counterpart in at least two ways.
 First, the output of Wnt signaling pathways does not depend solely in the specific ligand being expressed.
 It also depends on the specific receptor context where these ligands are expressed, as well as in the local activity of different antagonists and pathway modulators [@Mikels2006-ha; @Van_Amerongen2008-oo; @Niehrs2012-ku].
 In contrast to the combinatorial simplicity of Hox genes, Wnt pathways are non-linear cascades signaling via an intricate combinatorial network of dynamic protein interactions [@Van_Amerongen2009-wk].
 Second, Wnt signaling regulates not only tissue identities and cell fate, but also cell polarity and behaviors that drive tissue morphogenesis in the embryo.
-Uncovering the “Wnt code”, therefore, is more challenging and requires comprehensive analyses of Wnt signaling components throughout development.
-
-For examples, it remains unclear whether specific combinations of Wnt signaling components always give rise to specific developmental outcomes, in terms of cell fates or morphogenetic processes.
-While the combinatorial Hox expression and their associated anteroposterior fates is relatively conserved among bilaterians [@McGinnis1992-qj; @Garcia-Fernandez2005-zl], it remains unclear whether specific combinations of Wnt signaling components or “Wnt code” is evolutionarily conserved across animals.
+For these reasons, uncovering the “Wnt code” is more challenging and requires comprehensive analyses of Wnt signaling components throughout development.
+Despite the terms “code” or “landscape” have been used to refer to the putative combinatorial mechanism by which Wnt signaling may pattern tissues during development [@Guder2006-fu; @Janssen2010-dc], it remains unclear whether specific combinations of Wnt signaling components always give rise to specific developmental outcomes, in terms of cell fates or morphogenetic processes, and if yes, which are these combinations.
+In addition, while the combinatorial Hox expression and their associated anteroposterior fates is relatively conserved among bilaterians [@McGinnis1992-qj; @Garcia-Fernandez2005-zl], it remains unclear whether specific combinations of Wnt signaling components or “Wnt code” is evolutionarily conserved across animals.
 
 <!--How conserved are these combinatorial patterns across the animal phylogeny?-->
 
