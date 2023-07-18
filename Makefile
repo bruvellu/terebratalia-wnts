@@ -1,3 +1,6 @@
+# Makefile for Wnt manuscript
+
+# Define directory names and filters
 FILE=wnt
 RESOURCES=resources
 TEMPLATE=${RESOURCES}/template
@@ -18,10 +21,6 @@ all:
 	ln -s ${FIGDIR}/08-polarity/polarity.png ${FIGOUT}/Fig7.png
 	ln -s ${FIGDIR}/10-summary/summary.png ${FIGOUT}/Fig8.png
 	ln -s ${FIGDIR}/11-comparative/comparative.png ${FIGOUT}/Fig9.png
-	#ln -s ${FIGDIR}/05-receptors/receptors.png ${FIGOUT}/Fig7.png
-	#ln -s ${FIGDIR}/12-components/components.png ${FIGOUT}/Fig7.png
-	#ln -s ${FIGDIR}/06-antagonists/antagonists.png ${FIGOUT}/Fig8.png
-	#ln -s ${FIGDIR}/07-intracellular/intracellular.png ${FIGOUT}/Fig9.png
 	# Supplementary
 	ln -s ${FIGDIR}/13-trees/wnt1-tree.png ${FIGOUT}/FigS1.png
 	ln -s ${FIGDIR}/04-ligands/s-ligands.png ${FIGOUT}/FigS2.png
@@ -33,9 +32,7 @@ all:
 	ln -s ${FIGDIR}/13-trees/dkk-tree.png ${FIGOUT}/FigS8.png
 	ln -s ${FIGDIR}/13-trees/wif-tree.png ${FIGOUT}/FigS9.png
 	ln -s ${FIGDIR}/13-trees/dsh-tree.png ${FIGOUT}/FigS10.png
-	#ln -s ${FIGDIR}/13-trees/bcat-tree.png ${FIGOUT}/FigS11.png
 	ln -s ${FIGDIR}/03-profiling/s-profiling.png ${FIGOUT}/FigS11.png
-	#ln -s ${FIGDIR}/07-intracellular/s-intracellular.png ${FIGOUT}/FigS13.png
 	ln -s ${FIGDIR}/13-trees/dgo-tree.png ${FIGOUT}/FigS12.png
 	ln -s ${FIGDIR}/13-trees/pk-tree.png ${FIGOUT}/FigS13.png
 	ln -s ${FIGDIR}/13-trees/fmi-tree.png ${FIGOUT}/FigS14.png
@@ -49,7 +46,6 @@ all:
 	# Update references: wnt.bib
 	wget -P resources/ --content-disposition -N https://paperpile.com/eb/kLGboEXerY
 	# Convert files
-	#pandoc ${FILE}.md ${FILTERS} --reference-doc=${TEMPLATE}.odt -o ${FILE}.odt
 	pandoc ${FILE}.md ${FILTERS} --reference-doc=${TEMPLATE}.docx -o ${FILE}.docx
 	pandoc ${FILE}.md ${FILTERS} --pdf-engine=xelatex -o ${FILE}.pdf
 
