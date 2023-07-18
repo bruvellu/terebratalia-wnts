@@ -26,8 +26,8 @@ institute:
 - uib: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
 - jena: Institute of Zoology and Evolutionary Research, Friedrich Schiller University Jena, Erbertstraße 1, 07743 Jena, Germany
 documentclass: article
-bibliography: resources/wnt.bib 
-csl: resources/biomed-central.csl
+bibliography: "resources/wnt.bib"
+csl: "resources/biomed-central.csl"
 papersize: a4
 geometry:
   - bindingoffset=2mm
@@ -361,7 +361,7 @@ In conclusion, *fmi* and *stbm* are expressed ubiquitously while the other cell 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
 We found that the brachiopod *T. transversa* has retained the ancestral repertoire of Wnt genes, showing few duplications or losses, and that these genes are expressed throughout embryogenesis with a major upregulation event during axial elongation.
 At this stage, we identified six distinct transcriptional subregions distributed along the anteroposterior axis, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling ({@fig:summary}A, @tbl:landscape).
-Interestingly, these Wnt transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a combinatorial logic of Wnt signaling---a *Wnt code*---may play a role in the regionalization of the brachiopod body axis.
+Interestingly, these transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a combinatorial logic of Wnt signaling---a *Wnt code*---may play a role in the regionalization of the brachiopod body axis.
 
 The existence of a “Wnt code” was first proposed based on the staggered expression of Wnt genes along the tail bud of amphioxus and body axis of sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd].
 As an analogy to the “Hox code”, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along an axis [@Hunt1991-xa], the “Wnt code” refers to the possibility that different combinations of Wnt ligands may differentially pattern regions of the body axis.
