@@ -359,13 +359,9 @@ In conclusion, *fmi* and *stbm* are expressed ubiquitously while the other cell 
 -->
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
-The brachiopod *T. transversa* has a conserved Wnt repertoire, showing few duplications or losses.
-Wnt genes are expressed throughout embryogenesis, but undergo a major upregulation event during axial elongation.
-At this stage, Wnt expression domains are distributed along the anteroposterior axis forming an intricate transcriptional landscape ({@fig:summary}A).
-We identified six distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling (@tbl:landscape).
-These unique Wnt transcriptional subregions precede the establishment of, and coincide with, the morphological subdivisions of the larval body---the anterior and posterior portions of the apical lobe (subregions one and two); the area invaginated at the apical--mantle boundary (subregion three); the mantle lobe (subregion four); and the sub-terminal and terminal portions of the pedicle lobe (subregions five and six) ({@fig:summary}B).
-These data show that specific combinations of Wnt signaling components are associated with specific body regions along the brachiopod anteroposterior axis.
-This correspondence between gene expression and morphology suggests that the brachiopod anteroposterior patterning may be regulated by a combinatorial logic for the expression of Wnt signaling components---or a “Wnt code”.
+We found that the brachiopod *T. transversa* has retained the ancestral repertoire of Wnt genes, showing few duplications or losses, and that these genes are expressed throughout embryogenesis with a major upregulation event during axial elongation.
+At this stage, we identified six distinct transcriptional subregions distributed along the anteroposterior axis, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling ({@fig:summary}A, @tbl:landscape).
+Interestingly, these Wnt transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a combinatorial logic of Wnt signaling---a *Wnt code*---may play a role in the regionalization of the brachiopod body axis.
 
 The existence of a “Wnt code” was first proposed based on the staggered expression of Wnt genes along the tail bud of amphioxus and body axis of sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd].
 As an analogy to the “Hox code”, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along an axis [@Hunt1991-xa], the “Wnt code” refers to the possibility that different combinations of Wnt ligands may differentially pattern regions of the body axis.
@@ -676,7 +672,7 @@ Illustrations and figure plates were assembled using Inkscape.
 # Acknowledgements
 
 We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for helping with the spawnings and sample collections, Katrine Worsaae for the initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
-The study was funded by the Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014–2020) ERC grant agreement 648861 to AH.
+The study was funded by the Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014--2020) ERC grant agreement 648861 to AH.
 The animal collections were supported by Meltzer Research Fund grant.
 BCV was supported by an EMBO Long-Term Fellowship during the writing of this manuscript (ALTF 74-2018).
 
