@@ -279,7 +279,7 @@ Our phylogenetic analysis reveals that non-vertebrate deuterostomes, such as hem
 The expression of *dkk5* in *T. transversa* is upregulated in the late blastula and downregulated in the juvenile (@fig:profiling).
 It localizes to an apical ectodermal domain similar to the expression of *sfrp1/2/5*, but the *dkk5* domain is narrower and does not extend completely to the dorsal side (@fig:fzdantag and @fig:s-antagonists).
 
-<!--TODO: Move dkk discussion to figure and only mention that it’s a novel dkk family? It feels a bit out of the flow in here-->
+<!--TODO: Move dkk to figure and only mention that it’s a novel dkk family? It feels a bit out of the flow in here-->
 
 Wif is another protein that inhibits Wnt activity by direct binding to Wnt proteins [@Hsieh1999-rt].
 The protein has five EGF repeats and a typical WIF domain which is shared with RYK receptor tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs].
@@ -346,7 +346,7 @@ In conclusion, *fmi* and *stbm* are expressed ubiquitously while the other cell 
 
 <!--
 
-- Wnt subregions coincide with morphology >> Wnt code patterning brachiopod axis
+- Subregions match morphology >> Wnt code patterning brachiopod axis
 - Wnt vs Hox code >> Evidence of Wnt-fate? How conserved in metazoans?
 - Wnt repertoire >> Established from cnidaria--bilateria
 - Maternal load >> Fz conserved, Wnt variable
@@ -359,9 +359,9 @@ In conclusion, *fmi* and *stbm* are expressed ubiquitously while the other cell 
 -->
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
-We found that the brachiopod *T. transversa* has retained the ancestral repertoire of Wnt genes, showing few duplications or losses, and that these genes are expressed throughout embryogenesis with a major upregulation event during axial elongation.
-At this stage, we identified six distinct transcriptional subregions distributed along the anteroposterior axis, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling ({@fig:summary}A, @tbl:landscape).
-Interestingly, these transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a combinatorial logic of Wnt signaling---a *Wnt code*---may play a role in the regionalization of the brachiopod body axis.
+We found that the brachiopod *T. transversa* has retained the ancestral repertoire of Wnt genes, showing few duplications or losses, and that these genes are upregulated during axial elongation.
+At this stage, we identified six distinct transcriptional subregions along the anteroposterior axis, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling ({@fig:summary}A, @tbl:landscape).
+Interestingly, these transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a combinatorial Wnt signaling logic---a *Wnt code*---may play a role regionalizing the brachiopod body axis.
 
 The existence of a “Wnt code” was first proposed based on the staggered expression of Wnt genes along the tail bud of amphioxus and body axis of sea anemone embryos [@Schubert2001-cp; @Kusserow2005-xd].
 As an analogy to the “Hox code”, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along an axis [@Hunt1991-xa], the “Wnt code” refers to the possibility that different combinations of Wnt ligands may differentially pattern regions of the body axis.
@@ -742,14 +742,14 @@ The schematic drawings show the ectodermal expression domains on the ventral reg
 
 Table: Transcriptional identity of Wnt signaling territories in the brachiopod *T. transversa*. {#tbl:landscape}
 
-| Region                  | Antagonists        | Ligands                                          | Receptors           |
-| ------                  | -----------        | -------                                          | ---------           |
-| Anterior tip            | *dkk*, *sfrp1/2/5* | (*wnt1t*)                                        | *fz1/2/7*, *fz5/8*  |
-| Apical lobe             | -                  | *wntA*, *wnt8*, *wnt2*, *wnt5*                   | *fz1/2/7*, *fz4*    |
-| Apical--mantle boundary | -                  | *wnt1*, *wnt7*, *wnt16*                          | *fz1/2/7*, *fz9/10* |
-| Mantle lobe             | -                  | *wnt5*, *wnt16*                                  | *fz1/2/7*           |
-| Pedicle lobe            | -                  | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7* | *fz9/10*            |
-| Posterior tip           | -                  | *wnt6*, *wnt11*, *wnt5*                          | -                   |
+| Subregion | Position                                 | Antagonists        | Ligands                                          | Receptors           |
+| ------    | -----------                              | -------            | ---------                                        |
+| 1         | Anterior portion of apical lobe          | *dkk*, *sfrp1/2/5* | (*wnt1t*)                                        | *fz1/2/7*, *fz5/8*  |
+| 2         | Posterior portion of apical lobe         | -                  | *wntA*, *wnt8*, *wnt2*, *wnt5*                   | *fz1/2/7*, *fz4*    |
+| 3         | Boundary between apical and mantle lobes | -                  | *wnt1*, *wnt7*, *wnt16*                          | *fz1/2/7*, *fz9/10* |
+| 4         | Mantle lobe                              | -                  | *wnt5*, *wnt16*                                  | *fz1/2/7*           |
+| 5         | Anterior portion of pedicle lobe         | -                  | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7* | *fz9/10*            |
+| 6         | Posterior portion of pedicle lobe        | -                  | *wnt6*, *wnt11*, *wnt5*                          | -                   |
 
 \newpage
 
