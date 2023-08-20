@@ -512,29 +512,17 @@ Overall, these similarities in gene expression suggests that a similar regulator
 <!--TODO: @Marlow2014 conservation of wnt antagonist domains-->
 <!--TODO: The region also expresses *wnt2* and *wntA* (ventral side) which are associated ..., respectively [@wnt2wntA].-->
 
-### Head--trunk interface delimiting the apical--mantle boundary
+### Transcriptional subregion delimiting the apical--mantle boundary
 
 <!--TODO: Focus on the boundary establishment-->
 
-In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).
-The exceptions are the anterior pole and the anterior portion of the mantle lobe where the transcription factor *engrailed* (*en*) is expressed [@Vellutini2016-lq].
-*wnt1* and *en* domains abut each other forming a sharp transcriptional boundary precisely at the apical--mantle boundary where a deep epithelial invagination divides the head and trunk domains [@Vellutini2016-lq].
-Both genes are involved in the establishment of compartment boundaries in a variety of developmental settings such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].
-Our analysis reveals that a ring of *wnt7*-positive cells are also present at the interface of the apical--mantle boundary, with narrow overlap with *wnt1* and *en* domains ({@fig:doubles}G,H and {!@fig:summary}A).
-A broader stripe of *wnt1* with a narrow stripe of *wnt7* bordering a posterior stripe of *en* also occurs in bettle and spider trunk segments [@Janssen2010-dc], and *en* is known to repress *wnt7* in vertebrate limb buds [@Loomis1996-zx].
-This suggests *wnt1*, *wnt7*, and *en* may play a role in the patterning of the brachiopod apical--mantle boundary.
-
-*wnt7* is also expressed at the interface of another brachiopod boundary between the subterminal and terminal portion of the pedicle lobe.
-During development, the anterior portion of the pedicle lobe gives rise to the posterior portion of the juvenile body while the posterior portion of the pedicle lobe gives rise to the juvenile pedicle [@Stricker1985-vf].
-In the late gastrula, these two territories are demarcated on the ventral side by *wnt1* anteriorly and *wnt5* posteriorly with *wnt7* expressed in between ({@fig:doubles}G,H and {!@fig:summary}A).
-Indicating that *wnt7* may have a common role in the establishment of the boundaries between body domains.
-
-<!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
-
-<!--The apical lobe ends at a deep epithelial invagination named the apical--mantle boundary [@Vellutini2016-lq].-->
-<!--The invaginated area corresponds to one unique transcriptional subregion expressing *fz9/10* and *wnt7* ({@fig:summary}A).-->
-<!--And it also expresses *wnt1* and the homeobox transcription factor *engrailed* (*en*) in sharply juxtaposed domains [@Vellutini2016-lq].-->
-<!--This spatial arrangement of *wnt1*, *wnt7*, and *en* domains is similar to other compartment boundaries, such as arthropod trunk segments [@Janssen2010-dc] and vertebrate mid--hindbrain boundary [@Parr1993-ch; @Rhinn2001-ie], suggesting they may play a role in patterning the brachiopod apical--mantle boundary.-->
+The apical lobe ends at a deep epithelial fold named the apical--mantle boundary [@Vellutini2016-lq].
+This fold is demarcated by a sharp transcriptional boundary between *wnt1* and the homeobox transcription factor *engrailed* (*en*) domains that abut each other [@Vellutini2016-lq].
+These genes are involved in the establishment of compartment boundaries in a variety of developmental settings such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].
+The invaginated area corresponds to one unique transcriptional subregion expressing *fz9/10* ({@fig:summary}A).
+In addition, a ring of *wnt7*-positive cells are also present at the interface of the apical--mantle boundary, with narrow overlap with *wnt1* and *en* domains ({@fig:doubles}G,H and {!@fig:summary}A).
+This spatial arrangement of *wnt1*, *wnt7*, and *en* domains is similar to other compartment boundaries, such as arthropod trunk segments [@Janssen2010-dc] and vertebrate mid--hindbrain boundary [@Parr1993-ch; @Rhinn2001-ie].
+This suggests *wnt1*, *wnt7*, and *en*, within a unique Wnt transcriptional subregion may play a role in the patterning of the brachiopod apical--mantle boundary.
 
 <!--Wnt7 is known to interact with Fz9 *in vitro* [@Winn2005] and with *en* in limb dorsoventral patterning [@Loomis1996-zx; @Loomis1998],-->
 <!--wnt7 is expressed in the mid-hindbrain boundary in mouse @Parr1993-->
@@ -543,21 +531,37 @@ Indicating that *wnt7* may have a common role in the establishment of the bounda
 <!--such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].-->
 <!--*en* is known to repress *wnt7* in vertebrate limb buds [@Loomis1996-zx].-->
 
-### Receptor-context differences correlating with the mantle lobe
+<!--*wnt7* is also expressed at the interface of another brachiopod boundary between the subterminal and terminal portion of the pedicle lobe.-->
+<!--During development, the anterior portion of the pedicle lobe gives rise to the posterior portion of the juvenile body while the posterior portion of the pedicle lobe gives rise to the juvenile pedicle [@Stricker1985-vf].-->
+<!--In the late gastrula, these two territories are demarcated on the ventral side by *wnt1* anteriorly and *wnt5* posteriorly with *wnt7* expressed in between ({@fig:doubles}G,H and {!@fig:summary}A).-->
+<!--Indicating that *wnt7* may have a common role in the establishment of the boundaries between body domains.-->
+
+### Receptor-context differences correlate to mantle lobe morphogenesis
 
 <!--Receptor-context dependent activation of wnt5-->
 
-The gene *wnt5* has a prominent expression in brachiopod development.
-It is not only expressed in the posterior portion of the apical lobe, but also in the mantle lobe and in the terminal pole of *T. transversa* embryo.
-In other animals, *wnt5* regulates convergent extension of tissues during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz] as well as cell proliferation [@Yamaguchi1999-zj].
-It is commonly expressed in tissue outgrowths such as the tail and limb buds, but also in the brain [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu].
-Although *wnt5* is a known inhibitor of beta-catenin and activator of the Wnt/PCP pathway, it activates the Wnt/beta-catenin pathway in the presence of *fz4* in mice [@Mikels2006-ha], indicating that the receptor availability plays a major role in modulating the signaling output for this gene.
+The mantle lobe of brachiopods give rise to the shell, a defining feature of the group and probable evolutionary innovation.
+During larval development, the mantle lobe undergoes dramatic tissue growth and elongation and is everted during metamorphosis [@Stricker1985-gz] ({@fig:summary}B).
+We find that *wnt5* is prominently expressed in the mantle lobe.
+In other animals, *wnt5* regulates convergent extension of tissues during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].
+It is commonly expressed in tissue outgrowths such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu].
+<!--Indeed, *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
+*wnt5* is a known inhibitor of beta-catenin and activator of the Wnt/PCP pathway, suggesting that convergent extension under the Wnt/PCP pathway as a probable mechanism underlying the morphogenetic elongation of the mantle in brachiopods.
+
+Interestingly, *wnt5* is also expressed in two other regions which undergo distinct morphogenetic processes, the posterior portion of the apical lobe which undergoes intense cell proliferation [@Martin-Duran2016-qa], and the pedicle lobe which narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf] ({@fig:summary}B).
+And, it is known that *wnt5* signaling depends on the receptor context.
+While it usually inhibits the Wnt/beta-catenin pathway, it can activate it in the presence of *fz4* in mice [@Mikels2006-ha].
 In *T. transversa*, the three domains of *wnt5* expression are located in distinct receptor contexts, *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A).
-Each of these regions, whose boundaries are already visible on the epithelial surface of the late gastrula, undergo distinct morphogenetic changes ({@fig:summary}B).
-The posterior portion of the apical lobe undergoes intense cell proliferation [@Martin-Duran2016-qa], the mantle lobe undergoes dramatic tissue grow and elongation [@Stricker1985-gz], and the pedicle lobe narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf] ({@fig:summary}B).
 This suggests that *wnt5* signaling in the apical lobe is possibly mediated by *fz4*, presumably activating Wnt/beta-catenin, while *wnt5* signaling in the mantle lobe is mediated by *fz1/2/7*, possibly activating the Wnt/PCP pathway.
-<!--TODO: jnk, a read out of the cell polarity pathway is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
 This raises the hypothesis that *wnt5* may control region-specific patterning via distinct receptor contexts, mediating the cell proliferation in the apical lobe and the convergent extension driving tissue elongation in the mantle lobe.
+
+<!--*wnt5* regulates as well as cell proliferation [@Yamaguchi1999-zj].-->
+<!--It is commonly expressed in the brain [@Yamaguchi1999-zj; @Hogvall2014-yu].-->
+
+<!--indicating that the receptor availability plays a major role in modulating the signaling output for this gene.-->
+
+<!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
+<!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
 
 ### Receptor-free zone subdividing the pedicle lobe
 
