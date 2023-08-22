@@ -549,22 +549,23 @@ In other animals, *wnt5* regulates convergent extension of tissues during morpho
 This is usually under the control of the Wnt/PCP pathway [@Heisenberg2000-kx].
 These observations suggest that the convergent extension of tissues mediated by the Wnt/PCP pathway raising a potential mechanism for the morphogenesis of the mantle lobe in brachiopods.
 
-suggesting that convergent extension under the Wnt/PCP pathway as a probable mechanism underlying the morphogenetic elongation of the mantle in brachiopods.
+Interestingly, *wnt5* signaling is known to depend on the receptor context.
+It usually inhibits the Wnt/beta-catenin pathway, but in the presence of *fz4* it can activate it instead [@Mikels2006-ha].
+While *wnt5* and *fz1/2/7* are co-expressed in the mantle lobe, *wnt5* is co-expressed with *fz4* in the apical lobe ({@fig:summary}A).
+And while the mantle lobe undergoes tissue outgrowth, the apical lobe undergoes intense cell proliferation [@Martin-Duran2016-qa].
+The fact that the same ligand, when co-expressed with a different receptor, correlate with different developmental outcomes suggests that the receptor availability is important for differentially patterning these body regions.
+Wnt signaling in the apical lobe is presumably mediated by *fz4* via the Wnt/beta-catenin, while in the mantle lobe it is presumably mediated by *fz1/2/7* via the Wnt/PCP pathway.
+Therefore, it is possible that the evolution of a reversible mantle lobe was associated with the activation of *wnt5* in a different receptor context, indicating that such changes may play a role in axial diversification in bilaterians.
 
-*wnt5* is also a known inhibitor of the Wnt/beta-catenin pathway and activator of the .
-
+<!--TODO: wnt5 is commonly expressed in the head.-->
 
 <!--Indeed, *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
 
-Interestingly, *wnt5* is also expressed in two other regions which undergo distinct morphogenetic processes, the posterior portion of the apical lobe which undergoes intense cell proliferation [@Martin-Duran2016-qa], and the pedicle lobe which narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf] ({@fig:summary}B).
+<!--Interestingly, *wnt5* is also expressed in two other regions which undergo distinct morphogenetic processes, the posterior portion of the apical lobe which undergoes intense cell proliferation [@Martin-Duran2016-qa], and the pedicle lobe which narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf] ({@fig:summary}B).-->
 
-And, it is known that *wnt5* signaling depends on the receptor context.
+<!--In *T. transversa*, the three domains of *wnt5* expression are located in distinct receptor contexts, *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A).-->
 
-While it usually inhibits the Wnt/beta-catenin pathway, it can activate it in the presence of *fz4* in mice [@Mikels2006-ha].
-
-In *T. transversa*, the three domains of *wnt5* expression are located in distinct receptor contexts, *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A).
-This suggests that *wnt5* signaling in the apical lobe is possibly mediated by *fz4*, presumably activating Wnt/beta-catenin, while *wnt5* signaling in the mantle lobe is mediated by *fz1/2/7*, possibly activating the Wnt/PCP pathway.
-This raises the hypothesis that *wnt5* may control region-specific patterning via distinct receptor contexts, mediating the cell proliferation in the apical lobe and the convergent extension driving tissue elongation in the mantle lobe.
+<!--This raises the hypothesis that *wnt5* may control region-specific patterning via distinct receptor contexts, mediating the cell proliferation in the apical lobe and the convergent extension driving tissue elongation in the mantle lobe.-->
 
 <!--TODO: Review these sentences below to see if anything can be incorporated-->
 <!--Tissues anterior and posterior of the apical--mantle boundary have distinct morphogenetic outcomes ({@fig:summary}B).-->
