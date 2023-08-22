@@ -50,22 +50,23 @@ tablenos-plus-name: Table
 # Abstract
 
 **Background:**
-Wnt signalling pathways play crucial roles in animal development such as establishing embryonic axes, determining cell polarity, specifying cell fates, and regulating tissue morphogenesis.
-And, because of that, have been implicated as a central developmental pathway for the evolution of body patterns.
-However, untangling Wnt signaling in development and evolution is challenging.
-Developmental outcomes depend upon dynamic, non-linear local interactions between multiple ligands, receptors, antagonists, and other modulators.
-Even though there has been proposals of a Wnt code, it is unclear of what it is and how conserved it is because comprehensive expression analyses of Wnt signaling components are lacking in several animal groups.
+Wnt signalling pathways play crucial roles in animal development such as establishing embryonic axes, specifying cell fates, determining cell polarity, regulating tissue morphogenesis, and in axial patterning.
+For the latter, previous observations of staggered expression domains of Wnt genes along the anteroposterior axis raised the hypothesis that developmental outcomes are regulated by a putative combinatorial Wnt code.
+But because Wnt signaling outcomes depend upon dynamic, non-linear local interactions between multiple ligands, receptors, antagonists, and other modulators, it remains unclear whether specific combinations of Wnt genes are linked to particular fates, and whether such a code has remained conserved throughout evolution.
+Untangling the role of Wnt signaling in the development and evolution of animal axial patterning requires comprehensive analyses of the different pathway components in a comparative manner.
+However, these data are still lacking for several animal groups.
 
 **Results:**
-In this work, we characterize the repertoire and spatio-temporal expression of Wnt signaling components in the brachiopod *Terebratalia transversa*.
-We find that *T. transversa* has a conserved set of ligands, receptors, and antagonists, which are expressed throughout embryogenesis with a sharp upregulation during axial elongation.
-Wnt genes are expressed in narrow, partially overlapping domains along the anteroposterior axis while Frizzled genes are expressed in broad, non-overlapping domains; the expression of Wnt antagonists is limited to the anterior end.
-Their combinatorial expression forms a series of distinct transcriptional subregions along the anteroposterior axis which, precede the formation of, and coincide with, the different morphological subdivisions and tissue boundaries of the brachiopod larval body.
+In this work, we characterize the repertoire and the spatio-temporal expression of Wnt signaling components in the brachiopod *Terebratalia transversa*.
+We find that *T. transversa* has a conserved set of ligands, receptors, and antagonists, which are expressed throughout embryogenesis.
+These genes are upregulated during axial elongation and show an anteroposterior organization with Wnt antagonists expressed at the anterior end, Frizzled genes expressed in broad, non-overlapping domains, and Wnt genes expressed in narrow, partially overlapping domains.
+Their combinatorial expression forms a series of distinct Wnt transcriptional subregions along the anteroposterior axis.
+These subregions coincide with the different morphological subdivisions of the brachiopod larval body.
 Comparison with other animals reveals that the spatial arrangement of Frizzled genes is conserved while that of Wnt genes is more variable during evolution.
 
 **Conclusions:**
-Our results suggest that the combinatorial activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of brachiopod larva during embryonic development.
-Our data support that the evolutionary shuffling of Wnt expression to different receptor-contexts may act as a mechanism for the evolution of bilaterian axial diversity.
+Our results suggest that the combinatorial activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of brachiopod larva during embryonic development, and that changes in receptor context may be associated with the evolution of the brachiopod mantle lobe.
+More generally, our analysis suggests that changes in Wnt expression to different receptor-contexts may act as a mechanism for the evolution and diversification of bilaterian body axis.
 
 # Background
 
