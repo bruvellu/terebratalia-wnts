@@ -611,14 +611,11 @@ While further experiments are needed to test this hypothesis, these preliminary 
 
 <!--In *T. transversa*, *axin* is mainly expressed in the subterminal portion of the pedicle lobe [@Martin-Duran2016-qa].-->
 
+<!--### Conclusion of brachiopod transcriptional subregions-->
 
-### Conclusion of brachiopod transcriptional subregions
-
-Altogether, these data reveal that the body of the brachiopod *T. transversa* is regionalized into transcriptional subregions, each exhibiting a unique combination of different Wnt ligands, receptors, and antagonists.
-And that the localization and limits of these territories coincide with the subdivisions of the larval body, each undergoing a different fate and morphogenetic processes.
-Interestingly, the same ligand is expressed in different receptor contexts (e.g. *wnt5*).
-This suggests that unique transcriptional profiles and the receptor context may be involved in the regional specification of the anteroposterior axis of brachiopod embryos.
-While some of these ligand--receptor combinations are similar in other animals (e.g. at the neuroectoderm), it is unclear whether the transcriptional regions, or specific combinations of Wnt signaling components, are conserved across the evolutionary tree.
+Altogether, these observations provide some evidence that the transcriptional subregions we identified in *T. transversa* may contribute to the regional specification of tissues along the anteroposterior axis of brachiopods.
+In addition, we also find evidence that context-switching of Wnt ligands may be associated with an evolutionary innovation of brachiopod larvae, the reversible mantle lobe.
+But while some combinations of Wnt signaling components clearly occur in other animals---such as the patterning of the neuroectoderm---it remains unclear whether these brachiopod transcriptional subregions are conserved across the phylogeny, and whether there is a common Wnt code for the axial patterning of animals.
 
 <!--TODO: Figure out where to include this brachiopod Hox comments.-->
 <!--The interactions between Hox and Wnt exist and are important.-->
