@@ -539,7 +539,7 @@ Therefore, our data in *T. transversa* suggests that *fz9/10* may play a role in
 <!--In the late gastrula, these two territories are demarcated on the ventral side by *wnt1* anteriorly and *wnt5* posteriorly with *wnt7* expressed in between ({@fig:doubles}G,H and {!@fig:summary}A).-->
 <!--Indicating that *wnt7* may have a common role in the establishment of the boundaries between body domains.-->
 
-### Receptor-context differences correlate to mantle lobe morphogenesis
+<!--### Receptor-context differences correlate to mantle lobe morphogenesis-->
 
 At the middle of the larval body lies the mantle lobe ({@fig:summary}B).
 Its tissues undergo dramatic growth (or elongation) during development forming a posterior skirt-like structure that is then reversed anteriorly during metamorphosis [@Stricker1985-gz].
@@ -555,6 +555,7 @@ While *wnt5* and *fz1/2/7* are co-expressed in the mantle lobe, *wnt5* is co-exp
 And while the mantle lobe undergoes tissue outgrowth, the apical lobe undergoes intense cell proliferation [@Martin-Duran2016-qa].
 The fact that the same ligand, when co-expressed with a different receptor, correlate with different developmental outcomes suggests that the receptor availability is important for differentially patterning these body regions.
 Wnt signaling in the apical lobe is presumably mediated by *fz4* via the Wnt/beta-catenin, while in the mantle lobe it is presumably mediated by *fz1/2/7* via the Wnt/PCP pathway.
+Indeed, over-activation of the Wnt/beta-catenin pathway in *T. transversa* leads to an expansion of the apical lobe and an inhibition of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq], indicating that *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A).
 Therefore, it is possible that the evolution of a reversible mantle lobe was associated with the activation of *wnt5* in a different receptor context, indicating that such changes may play a role in axial diversification in bilaterians.
 
 <!--TODO: wnt5 is commonly expressed in the head.-->
