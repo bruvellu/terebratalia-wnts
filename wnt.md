@@ -587,21 +587,17 @@ Therefore, it is possible that the evolution of a reversible mantle lobe was ass
 <!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
 <!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
 
-### Receptor-free region demarcates the pedicle lobe subdivision
+<!--### Receptor-free region demarcates the pedicle lobe subdivision-->
 
-<!--TODO: Summarize and merge these paragraphs-->
-
-The pedicle lobe of *T. transversa* subdivides into a wider anterior portion below the mantle lobe, and a narrower posterior portion, the terminal pole.
-These two regions have distinct transcriptional profiles at the late gastrula.
-The anterior portion expressing *wnt1*, *wnt4*, and *wnt10* and *fz9/10* while the posterior region expresses *wnt5*, *wnt6*, and *wnt11* but no Frizzled genes ({@fig:summary}A).
-A Frizzled-free region has also been observed at the posterior end of hemichordates [@Darras2018-gm].
-Interestingly, this region in hemichordates is Wnt-insensitive as its transcriptional profile is not altered when the Wnt/beta-catenin pathway is over-activated or suppressed [@Darras2018-gm].
-This raises the question whether this region is also Wnt-insensitive in brachiopods.
-There are two observations that support this hypothesis.
-One is that in *T. transversa*, this region does not express *axin* [@Martin-Duran2016-qa], a readout of the Wnt/beta-catenin pathway [@Jho_Eek-hoon2002-ey].
-Second is that when the Wnt/beta-catenin is over-activated, the expression of posterior markers such as *evx* and *cdx* remains unchanged [@Martin-Duran2016-qa].
-Therefore, there is some preliminary evidence that brachiopods exhibit a Wnt-insensitive region at the posterior end as found in hemichordates, and that it may contribute to the patterning and differentiation of the pedicle lobe subdivision during larval morphogenesis.
-Further experiments are required to test this hypothesis.
+Finally, we reach the other end of *T. transversa*, the pedicle lobe.
+It is subdivided into a wider anterior portion that gives rise to the posterior region of the adult body, and a narrower posterior portion that gives rise to the pedicle, the structure attaching the adult to the substrate [@Stricker1985-vf].
+We find that these two regions have distinct transcriptional profiles expressing a battery of different Wnt genes ({@fig:summary}A).
+Most notably, though, is the finding that the posterior portion expresses no Frizzled genes ({@fig:summary}A).
+Such a receptor-free zone also occurs at the posterior end of hemichordates, a region that is Wnt-insensitive, since its transcriptional profile is not altered when the Wnt/beta-catenin pathway is over-activated or suppressed [@Darras2018-gm].
+Two observations suggest that the receptor-free posterior region of *T. transversa* might also be Wnt-insensitive.
+The first is that this region does not express *axin* [@Martin-Duran2016-qa], a readout of the Wnt/beta-catenin pathway [@Jho_Eek-hoon2002-ey].
+The second is that the expression of posterior markers, such as *evx* and *cdx*, remains unchanged when the Wnt/beta-catenin is over-activated [@Martin-Duran2016-qa].
+While further experiments are needed to test this hypothesis, these preliminary evidence indicates that a Wnt-insensitive region may be present at the posterior end of *T. transversa*, and that it may contribute to differentiating the pedicle lobe regions during larval morphogenesis of brachiopods.
 
 <!--In the late larva, some changes happen.-->
 <!--Wnt genes recede and are no longer expressed at the terminal pole, and *fz4* and *fz1/2/7* become activated there.-->
