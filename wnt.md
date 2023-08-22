@@ -476,8 +476,9 @@ Discussion
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
 We found that the brachiopod *T. transversa* has retained the ancestral repertoire of Wnt genes, showing few duplications or losses, and that these genes are upregulated during axial elongation.
-At this stage, we identified six distinct transcriptional subregions along the anteroposterior axis, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling ({@fig:summary}A, @tbl:landscape).
+At this stage, we identified six distinct transcriptional subregions along the anteroposterior axis of the embryo, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling ({@fig:summary}A, @tbl:landscape).
 Interestingly, these transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a combinatorial Wnt signaling logic---a *Wnt code*---may play a role in regionalizing the brachiopod anteroposterior body axis.
+Below, we discuss the evidence for different ligand--receptor contexts during brachiopod axial patterning, how these Wnt transcriptional subregions compare across the phylogeny, and the evolutionary implications of these observations.
 
 ## Wnt ligand--receptor contexts in brachiopod axial patterning
 
