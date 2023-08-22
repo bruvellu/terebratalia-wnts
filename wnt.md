@@ -482,6 +482,8 @@ Below, we discuss the evidence for different ligand--receptor contexts during br
 
 ## Wnt ligand--receptor contexts in brachiopod axial patterning
 
+<!--TODO: Make subheadings become the topic sentence of the paragraph?-->
+
 <!--### Anterior neuroectoderm code demarcates apical lobe subdivision-->
 
 <!--One example where the different Wnt landscape corresponds to different region of the larval morphology is the apical lobe.-->
@@ -497,6 +499,8 @@ These gene expression arrangements are well conserved for the anterior/aboral en
 *T. transversa* not only shows the same arrangement between *fz5/8* and *wnt8*, but also expresses *six3/6* and *foxq2* at the anterior region [@Santagata2012-he].
 Therefore, these data suggest that a similar regulatory logic, based on differences in the Wnt transcriptional landscape, may control the subdivision of the apical lobe of brachiopod larvae.
 
+<!--TODO: Mention wnt8 activity might be mediated by fz4?-->
+
 <!--Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].-->
 <!--Inhibition of the Wnt/beta-catenin pathway is associated with the differentiation of anterior and neural fates [@Petersen2009-wp; @Hikasa2013-yl].-->
 <!--Some of the key molecular players involved in the downregulation of Wnt signaling in the anterior neuroectoderm are transcription factor *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co], and a variety of genes such as sFRP and Dkk [@Cruciat2013-zs].-->
@@ -506,24 +510,29 @@ Therefore, these data suggest that a similar regulatory logic, based on differen
 <!--TODO: @Marlow2014 conservation of wnt antagonist domains-->
 <!--TODO: The region also expresses *wnt2* and *wntA* (ventral side) which are associated ..., respectively [@wnt2wntA].-->
 
-### Transcriptional subregion delimiting the apical--mantle boundary
+<!--### Transcriptional subregion delimiting the apical--mantle boundary-->
 
 <!--TODO: Focus on the boundary establishment-->
 
-The apical lobe ends at a deep epithelial fold named the apical--mantle boundary [@Vellutini2016-lq].
-This fold is demarcated by a sharp transcriptional boundary between *wnt1* and the homeobox transcription factor *engrailed* (*en*) domains that abut each other [@Vellutini2016-lq].
-These genes are involved in the establishment of compartment boundaries in a variety of developmental settings such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].
-The invaginated area corresponds to one unique transcriptional subregion expressing *fz9/10* ({@fig:summary}A).
-In addition, a ring of *wnt7*-positive cells are also present at the interface of the apical--mantle boundary, with narrow overlap with *wnt1* and *en* domains ({@fig:doubles}G,H and {!@fig:summary}A).
-This spatial arrangement of *wnt1*, *wnt7*, and *en* domains is similar to other compartment boundaries, such as arthropod trunk segments [@Janssen2010-dc] and vertebrate mid--hindbrain boundary [@Parr1993-ch; @Rhinn2001-ie].
-This suggests *wnt1*, *wnt7*, and *en*, within a unique Wnt transcriptional subregion may play a role in the patterning of the brachiopod apical--mantle boundary.
+<!--TODO: add similarities to hemichordates, annelids and zebrafish brain-->
+
+The apical lobe is contained posteriorly by a deep epithelial fold located at the boundary with the mantle lobe.
+Previously, we found that this apical--mantle boundary is demarcated by a sharp transcriptional boundary between *wnt1* and the homeobox transcription factor *engrailed* (*en*) [@Vellutini2016-lq].
+Our current study reveals that *wnt7* is also expressed at the apical--mantle interface, and that the entire invaginated area corresponds to a single transcriptional subregion expressing *fz9/10* ({@fig:summary}A).
+In other animals, *wnt1*, *wnt7*, and *en* are expressed in a variety of compartment boundaries, such as the trunk segments of arthropods [@Janssen2010-dc] and the mid--hindbrain boundary of vertebrates [@Parr1993-ch; @Rhinn2001-ie].
+Moreover, Wnt7 is also known to interact with Fz9 *in vitro* [@Winn2005-dj].
+Therefore, our data in *T. transversa* suggests that *fz9/10* may play a role in mediating Wnt signaling events at this transcriptional subregion, and that these genetic interactions may play a role in patterning the apical--mantle boundary of larval brachiopods.
 
 <!--Wnt7 is known to interact with Fz9 *in vitro* [@Winn2005] and with *en* in limb dorsoventral patterning [@Loomis1996-zx; @Loomis1998],-->
+
 <!--wnt7 is expressed in the mid-hindbrain boundary in mouse @Parr1993-->
 <!--wnt7 is expressed in the mid-hindbrain boundary in zebrafish @Beretta2011-->
+
 <!--wnt7 and en interact in DV limb patterning @Loomis1998-->
 <!--such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].-->
 <!--*en* is known to repress *wnt7* in vertebrate limb buds [@Loomis1996-zx].-->
+
+<!--These genes are involved in the establishment of compartment boundaries in a variety of developmental settings such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].-->
 
 <!--*wnt7* is also expressed at the interface of another brachiopod boundary between the subterminal and terminal portion of the pedicle lobe.-->
 <!--During development, the anterior portion of the pedicle lobe gives rise to the posterior portion of the juvenile body while the posterior portion of the pedicle lobe gives rise to the juvenile pedicle [@Stricker1985-vf].-->
