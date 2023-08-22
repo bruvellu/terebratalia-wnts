@@ -70,18 +70,14 @@ More generally, our analysis suggests that changes in Wnt expression to differen
 
 # Background
 
-## Developmental importance of Wnt signaling pathways
+<!--## Developmental importance of Wnt signaling pathways-->
 
 Wnt genes play multiple roles during embryogenesis [@Cadigan1997-vx].
-They can mediate cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq], specify endomesodermal tissues before gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], and establish the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne].
-Wnt genes are often involved in cell specification events, acting as a symmetry-breaking signal [@Loh2016-pz].
-But Wnt activity can also control morphogenetic movements such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
-The underlying basis for such multitude of roles is the way the signal is transduced.
-Wnt proteins are secreted ligands that bind to membrane-bound Frizzled receptors and activate Wnt signaling in at least three interconnected pathways.
-The Wnt/beta-catenin (canonical) pathway, the Wnt/PCP (planar cell polarity) pathway, and the Wnt/calcium pathway [@James2008-tt].
-The Wnt/beta-catenin pathway regulates cell fate specification through the activity of beta-catenin while the Wnt/PCP pathway controls cell polarity during tissue morphogenesis.
-There are 13 subfamilies of Wnt genes, five subfamilies of Frizzled genes, a number of receptors and co-receptors, as well as a series of agonists, antagonists, downstream players, and effector molecules involved in Wnt signaling.
-Therefore, understanding how this complex network of interactions regulates embryonic development remains a major challenge.
+While they are often involved in cell specification events, such as mediating cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq], specifying endomesodermal tissues before gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], and establishing the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne]---often acting as a symmetry-breaking signal [@Loh2016-pz]---Wnt activity is also involved in controlling morphogenetic movements, such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
+These multitude of roles are linked to the outstanding complexity of Wnt signaling pathways.
+There are 13 subfamilies of Wnt ligands, five subfamilies of Frizzled receptors, a number of additional co-receptors, as well as a series of agonists, antagonists, downstream players, and effector molecules that are involved in at least three interconnected Wnt pathways.
+The Wnt/beta-catenin (canonical) pathway regulating cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controlling cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulating intracellular calcium levels for convergent extension movements [@James2008-tt].
+Therefore, understanding how this complex network of interactions regulates embryonic development and influences developmental evolution remains a major challenge.
 
 ## The Wnt code hypothesis
 
