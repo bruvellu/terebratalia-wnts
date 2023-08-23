@@ -613,9 +613,12 @@ While further experiments are needed to test this hypothesis, these preliminary 
 
 <!--### Conclusion of brachiopod transcriptional subregions-->
 
-Altogether, these observations provide some evidence that the transcriptional subregions we identified in *T. transversa* may contribute to the regional specification of tissues along the anteroposterior axis of brachiopods.
-In addition, we also find evidence that context-switching of Wnt ligands may be associated with an evolutionary innovation of brachiopod larvae, the reversible mantle lobe.
-But while some combinations of Wnt signaling components clearly occur in other animals---such as the patterning of the neuroectoderm---it remains unclear whether these brachiopod transcriptional subregions are conserved across the phylogeny, and whether there is a common Wnt code for the axial patterning of animals.
+Altogether, these observations provide evidence that the transcriptional subregions we identified in *T. transversa* may play a role in the regional specification of tissues along the anteroposterior axis of brachiopods.
+The finding that the same ligand can be expressed in different subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context plays a role for axial differentiation, and may be associated with an evolutionary innovation of brachiopod larvae---the reversible mantle lobe.
+These data raise the idea that Wnt transcriptional subregions are important for the development and evolution of animal body axis.
+While we already identified some gene expression similarities between the brachiopod and other animals (e.g. neuroectoderm patterning), it remains unclear whether the Wnt transcriptional subregions we describe are conserved across the phylogeny.
+
+<!--TODO: Now what remains to be seem is whether particular combinations of Wnt signaling components, when ectopically expressed in different regions, will give rise to their original code or not.-->
 
 <!--TODO: Figure out where to include this brachiopod Hox comments.-->
 <!--The interactions between Hox and Wnt exist and are important.-->
