@@ -616,7 +616,7 @@ While further experiments are needed to test this hypothesis, these preliminary 
 Altogether, these observations provide evidence that the transcriptional subregions we identified in *T. transversa* may play a role in the regional specification of tissues along the anteroposterior axis of brachiopods.
 The finding that the same ligand can be expressed in different subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context plays a role for axial differentiation, and may be associated with an evolutionary innovation of brachiopod larvae---the reversible mantle lobe.
 These data raise the idea that Wnt transcriptional subregions are important for the development and evolution of animal body axis.
-While we already identified some gene expression similarities between the brachiopod and other animals (e.g. neuroectoderm patterning), it remains unclear whether the Wnt transcriptional subregions we describe are conserved across the phylogeny.
+While we already identified some gene expression similarities between the brachiopod and other animals (e.g. neuroectoderm patterning), it remains unclear how conserved these Wnt transcriptional subregions are across the phylogeny.
 
 <!--TODO: Now what remains to be seem is whether particular combinations of Wnt signaling components, when ectopically expressed in different regions, will give rise to their original code or not.-->
 
@@ -629,26 +629,15 @@ While we already identified some gene expression similarities between the brachi
 
 ## Combinatorial Wnt landscape across the animal phylogeny
 
-<!--How conserved are the combinatorial patterns across the animal phylogeny?-->
-
-A Wnt code means the causality between the signaling output from a specific combination of gene activity with the developmental process it entails.
-A Wnt code can be purely functional.
-That means that wherever it is deployed it will lead to the same output.
-However, because organisms have an evolutionary history, similarity can appear to be a code when in fact is just inheritance.
-Only a comparative approach with increased taxon sampling and comprehensive analyses of Wnt signaling components we can begin to answer this question.
-What we can say so far is.
-
 <!--[@Kusserow2005-xd; @Niedermoser2022-ev].-->
 
-### Modern Wnt repertoire and axial code emerged before bilateral symmetry
+<!--### Modern Wnt repertoire and axial code emerged before bilateral symmetry-->
 
-A Wnt code as it is commonly used implies the existence of multiple ligands and receptors.
-By mapping the presence or absence of genes in the tree, it is clear that the modern Wnt repertoire evolved at the base of the Cnidaria--Bilateria split ({@fig:comparative}A).
-While ctenophores have only four Wnt genes and two Frizzled genes [@Pang2010-ds], cnidarians and other bilaterians share a common, and much larger set of ligands, receptors, and antagonist genes ({@fig:comparative}A).
-Ctenophores show a polarized Wnt expression with opposed domains of Wnt antagonists, which indicates an ancient axial polarity role for Wnts in metazoans.
-However, there are no staggered domains of Wnt ligands or transcriptional subregions along the body axis.
-The axial staggered expression domains correlates with the expansion of the Wnt complement at the base of Cnidaria--Bilateria branch.
-Therefore, the emergence of a Wnt code preceded the evolution and diversification of a bilaterally symmetric body with an anteroposterior axis [@Lee2006-gr].
+A comparison across the phylogeny reveals that the modern Wnt repertoire emerged before bilateral symmetry, at the base of the Cnidaria--Bilateria split ({@fig:comparative}A).
+Ctenophores---the probable sister-group to other animals[@Schultz2023-zb]---have only four Wnt genes and two Frizzled genes [@Pang2010-ds].
+Their embryonic expression is polarized with opposed domains of ligands and antagonists, and there is an incipient staggered expression around the mouth, but no obvious transcriptional subregions along the body axis [@Pang2010-ds].
+In contrast, cnidarians and bilaterians have a much larger set of ligands, receptors, and antagonist genes, expressed in staggered domains along the body axis ({@fig:comparative}A).
+These data suggest that Wnts have an ancient role in establishing axial polarity in early development, but that the role in axial patterning correlates with the expansion of the Wnt complement at the base of the Cnidaria--Bilateria branch, preceding the evolution and diversification of a bilaterally symmetric body with an anteroposterior axis [@Lee2006-gr].
 
 ### Conserved general pattern of anterior antagonists and posterior Wnt expression
 
@@ -684,6 +673,14 @@ Therefore, the re-deployment of Wnt domains along the body to potentially differ
 The short-range activity of Wnt proteins and their ability to elicit cell fate and cell polarity responses in a combinatorial fashion depending on the developmental context, make the Wnt signaling pathways key players to generate cell lineage diversity and morphogenetic changes during the body patterning of metazoans [@Guder2006-fu; @Loh2016-pz].
 In an evolutionary context, these changes in the ligand--receptor context could provide a modular mechanism for changing the signaling outcomes of cell fates and morphogenetic events.
 We hypothesize that the evolutionary shuffling of Wnt ligands during evolution may act as a mechanism for the diversification of the body axis of bilaterians.
+
+<!--A Wnt code means the causality between the signaling output from a specific combination of gene activity with the developmental process it entails.-->
+<!--A Wnt code can be purely functional.-->
+<!--That means that wherever it is deployed it will lead to the same output.-->
+<!--However, because organisms have an evolutionary history, similarity can appear to be a code when in fact is just inheritance.-->
+<!--Only a comparative approach with increased taxon sampling and comprehensive analyses of Wnt signaling components we can begin to answer this question.-->
+<!--What we can say so far is.-->
+
 
 # Conclusions
 
