@@ -639,24 +639,27 @@ Their embryonic expression is polarized with opposed domains of ligands and anta
 In contrast, cnidarians and bilaterians have a much larger set of ligands, receptors, and antagonist genes, expressed in staggered domains along the body axis ({@fig:comparative}A).
 These data suggest that Wnts have an ancient role in establishing axial polarity in early development, but that the role in axial patterning correlates with the expansion of the Wnt complement at the base of the Cnidaria--Bilateria branch, preceding the evolution and diversification of a bilaterally symmetric body with an anteroposterior axis [@Lee2006-gr].
 
-### Conserved general pattern of anterior antagonists and posterior Wnt expression
+<!--### Conserved general pattern of anterior antagonists and posterior Wnt expression-->
 
-<!--TODO: Remove all that’s unnecessary-->
+Despite the great differences in embryo architecture, a broader comparison across the tree reveals a general common pattern for the expression of Wnt signaling components.
+Wnt antagonist genes are expressed anteriorly while Wnt genes are predominantly not expressed anteriorly, and Frizzled genes are expressed along the entire body ({@fig:comparative}A).
+Frizzled domains are usually broad without much overlap while Wnt domains are narrow and often overlapping with other Wnt genes.
+But what is most notable in this comparative overview is that the spatio-temporal expression of Frizzled genes is relatively well-conserved while the expression of Wnt ligands more variable between species ({@fig:comparative}A).
+This pattern occurs for both the maternal load of Wnt signaling components and for the axial expression.
 
-Despite the great differences in embryo architecture, we find common patterns of Wnt signaling expression among animals.
-In a general overview, most embryos exhibit a common general pattern of antagonists anterior, frizzled all around and wnt more posterior [@Marlow2014-wg].
-Usually, Frizzled genes are expressed in broad, non-overlapping domains while Wnt genes are expressed in narrow, partially overlapping domains ({@fig:comparative}A).
-But in a comparative overview, there is a clear difference between Frizzled and Wnt genes.
-The spatiotemporal expression of Frizzled genes is relatively well conserved while the expression of Wnt ligands is more variable across species.
+<!--In a general overview, most embryos exhibit a common general pattern of antagonists anterior, frizzled all around and wnt more posterior [@Marlow2014-wg].-->
 
-### Frizzled anteroposterior expression is conserved across animals
+<!--### Frizzled anteroposterior expression is conserved across animals-->
 
-For instance, the maternal load of Frizzled transcripts is highly conserved across metazoans as most investigated species show *fz1/2/7* expression in the egg (@tbl:maternal) [@Bastin2015-oz].
-But interestingly, the expression domains of Frizzled receptors follow the same anteroposterior arrangement in metazoans---*fz5/8* associated with the head region, *fz9/10* associated with the trunk region, and *fz1/2/7* is more broadly expressed, except for the posterior pole ({@fig:summary}A, {!@fig:comparative}A and {!@fig:s-comparative}A).
-In fact, Frizzled expression is almost identical between *T. transversa* and *Saccoglossus kowalevskii* and these transcriptional domains also coincide with the morphological body regions ({@fig:s-comparative}A,B).
-The only exception is *fz4*, whose expression varies in other metazoans, such as cnidarians [@Niedermoser2022-hm], echinoderms [@Robert2014-xj; @McCauley2013-uz] and cephalochordates [@Qian2013-jg].
-These data indicate that the anteroposterior organization of Frizzled expression domains suggests is a conserved feature of the Cnidaria--Bilateria clade ({@fig:comparative}A).
-This regionalized expression suggests that each receptor may regulate the patterning of different body parts, as previously proposed for hemichordates [@Darras2018-gm].
+For instance, the maternal load of Frizzled transcripts is highly-conserved across animals with most species showing *fz1/2/7* expression in the egg (@tbl:maternal) [@Bastin2015-oz].
+Accordingly, Frizzled expression domains follow the same anteroposterior arrangement in different animals with *fz5/8* in the head, *fz9/10* in the trunk, and *fz1/2/7* broadly expressed ({@fig:summary}A, {!@fig:comparative}A and {!@fig:s-comparative}A).
+In fact, the spatial organization of Frizzled domains is almost identical between the brachiopod *T. transversa* and the hemichordate *Saccoglossus kowalevskii* ({@fig:s-comparative}A,B).
+In both cases, these broad domains coincide with the different body regions, suggesting that each receptor may regulate the regional patterning along the anteroposterior axis [@Darras2018-gm].
+The only exception is *fz4*.
+Its spatial localization is variable in other animals, such as cnidarians [@Niedermoser2022-hm], echinoderms [@Robert2014-xj; @McCauley2013-uz] and cephalochordates [@Qian2013-jg].
+The similarity in Frizzled expression indicates that this spatial organization is a shared, ancient feature that remained conserved within the Cnidaria--Bilateria clade during evolution.
+
+<!--This regionalized expression suggests that each receptor may regulate the patterning of different body parts, as previously proposed for hemichordates [@Darras2018-gm].-->
 
 ### Wnt expression is evolutionary more variable
 
