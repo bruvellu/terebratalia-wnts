@@ -661,15 +661,21 @@ The similarity in Frizzled expression indicates that this spatial organization i
 
 <!--This regionalized expression suggests that each receptor may regulate the patterning of different body parts, as previously proposed for hemichordates [@Darras2018-gm].-->
 
-### Wnt expression is evolutionary more variable
+<!--### Wnt expression is evolutionary more variable-->
 
-In contrast, the spatiotemporal expression of Wnt genes varies considerably.
-The maternal load of Wnt ligands can be different even between closely related brachiopod species (@tbl:maternal), indicating that different Wnt ligands may have a redundant function and can be exchanged during evolution as long as they are capable of activating the pathway via the available receptor (i.e. *fz1/2/7*).
-For the axial patterning, we identify some Wnt combinations relatively conserved along the anteroposterior axis, for example *wnt2*, *wnt5*, and *wnt8* are commonly expressed anteriorly with *fz5/8* or *fz4*; *wnt1* and *wnt7* at the head--trunk boundary with *fz4* and *fz9/10*; and *wnt1*, *wnt4*, and *wnt6* at the posterior end with *fz9/10* or without Frizzled expression ({@fig:summary}A and {!@fig:comparative}B).
-This indicates that certain combinations were present in the last common ancestor and have remained conserved until this day.
-However, for most Wnt genes there is great variability in the spatiotemporal expression along the axis in different animals ({@fig:comparative}A).
-*wnt4*, *wnt9*, and *wnt11*, for example, are expressed at the brachiopod posterior end but at the hemichordate anterior end ({@fig:s-comparative}A).
-Therefore, the re-deployment of Wnt domains along the body to potentially different receptor contexts may have happened more often in evolution than previously thought.
+In contrast, the spatio-temporal expression of Wnt genes during the axial patterning of different animals varies considerably.
+A comparison of the maternal load of Wnt ligands reveals that they are highly-variable, and can even differ between closely-related species (@tbl:maternal).
+A similar picture occurs in the axial patterning as the spatiotemporal expression of most Wnt genes show great variability ({@fig:comparative}A).
+For example, *wnt9* or *wnt11* are expressed at the brachiopod posterior end but at the hemichordate anterior end, in entirely different receptor contexts ({@fig:s-comparative}A).
+There are only a few Wnt-Frizzled combinations that are relatively conserved across bilaterians ({!@fig:comparative}A,B).
+This comparative data reveals that Wnt ligand exchange and their re-deployment to different tissues and different receptor contexts may have happened more often in evolution than previously thought.
+
+
+<!--For the axial patterning, we identify some Wnt combinations relatively conserved along the anteroposterior axis, for example *wnt2*, *wnt5*, and *wnt8* are commonly expressed anteriorly with *fz5/8* or *fz4*; *wnt1* and *wnt7* at the head--trunk boundary with *fz4* and *fz9/10*; and *wnt1*, *wnt4*, and *wnt6* at the posterior end with *fz9/10* or without Frizzled expression ({@fig:summary}A and {!@fig:comparative}B).-->
+
+<!--This indicates that certain combinations were present in the last common ancestor and have remained conserved until this day.-->
+
+
 
 ### Ligand context-switching as mechanism for axial evolution
 
