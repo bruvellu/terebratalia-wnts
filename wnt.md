@@ -676,12 +676,12 @@ This comparative data reveals that Wnt ligand exchange and their re-deployment t
 <!--This indicates that certain combinations were present in the last common ancestor and have remained conserved until this day.-->
 
 
+<!--### Ligand context-switching as mechanism for axial evolution-->
 
-### Ligand context-switching as mechanism for axial evolution
-
-The short-range activity of Wnt proteins and their ability to elicit cell fate and cell polarity responses in a combinatorial fashion depending on the developmental context, make the Wnt signaling pathways key players to generate cell lineage diversity and morphogenetic changes during the body patterning of metazoans [@Guder2006-fu; @Loh2016-pz].
-In an evolutionary context, these changes in the ligand--receptor context could provide a modular mechanism for changing the signaling outcomes of cell fates and morphogenetic events.
-We hypothesize that the evolutionary shuffling of Wnt ligands during evolution may act as a mechanism for the diversification of the body axis of bilaterians.
+This variability of Wnt expression compared to the conservation of Frizzled expression may have been important for axial evolution.
+The ability of Wnt proteins to elicit different fate decisions and morphogenetic processes depending on the developmental context put Wnt signaling pathways as key players in generating cellular and tissue diversity in the body patterning of animal [@Guder2006-fu; @Loh2016-pz].
+In an evolutionary context, these combinatorial changes in the ligand--receptor context could provide a modular mechanism which changes the signaling outcomes of cell fates and morphogenetic events.
+We hypothesize that this evolutionary shuffling of Wnt ligands may be one key mechanism involved in the diversification of the body axis of animals.
 
 <!--A Wnt code means the causality between the signaling output from a specific combination of gene activity with the developmental process it entails.-->
 <!--A Wnt code can be purely functional.-->
