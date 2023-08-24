@@ -51,24 +51,21 @@ tablenos-plus-name: Table
 
 **Background:**
 Wnt signalling pathways play crucial roles in animal development.
-They can establish embryonic axes, specify cell fates, and regulate tissue morphogenesis from the early embryo to organogenesis.
-It has been increasingly recognized that such distinct developmental outcomes depend upon dynamic, non-linear interactions between multiple ligands, receptors, antagonists, and other pathway modulators.
-And that, behind this complexity may underlie a combinatorial “code”.
-However, due to the lack of comprehensive analyses of Wnt signalling components in several animal groups, it remains unclear whether specific gene combinations always give rise to specific developmental outcomes, and whether these combinatorial patterns were conserved throughout evolution.
-
-<!--And that, behind this complexity underlies a combinatorial “code”.-->
+They establish embryonic axes, specify cell fates, and regulate tissue morphogenesis from the early embryo to organogenesis.
+It is becoming increasingly recognized that these distinct developmental outcomes depend upon dynamic, non-linear interactions between multiple ligands, receptors, antagonists, and other pathway modulators, consolidating the view that a combinatorial “code” controls the output of Wnt signaling.
+However, due to the lack of comprehensive analyses of Wnt components in several animal groups, it remains unclear if specific combinations always give rise to specific outcomes, and if these combinatorial patterns are conserved throughout evolution.
 
 **Results:**
 In this work, we investigate the combinatorial expression of Wnt signaling components during the axial patterning of the brachiopod *Terebratalia transversa*.
-We find that *T. transversa* has a conserved repertoire of Wnt ligands, receptors, and antagonists.
+We find that *T. transversa* has a conserved repertoire of ligands, receptors, and antagonists.
 These genes are expressed throughout embryogenesis, but undergo significant upregulation during axial elongation.
-At this stage, Wnt genes are expressed in diverse partially-overlapping territories, Frizzled genes are expressed in broader non-overlapping domains, and antagonists are mostly limited to the anterior end.
-We find that their combinatorial expression forms a series of unique transcriptional subregions along the anteroposterior axis that coincide with the different morphological subdivisions of the brachiopod larval body.
-Comparing these data across the phylogeny reveals that the expression of Frizzled genes is conserved while the expression of Wnt genes is more variable.
+At this stage, Frizzled domains occupy broad regions across the body while Wnt domains are narrower and distributed in patches partially-overlapping with each other; antagonists are mostly restricted to the anterior end.
+Based on their combinatorial expression, we identify a series of unique transcriptional subregions along the anteroposterior axis that coincide with the different morphological subdivisions of the brachiopod larval body.
+When comparing these data across the phylogeny, we find that the expression of Frizzled genes is relatively conserved, whereas the expression of Wnt genes is more variable.
 
 **Conclusions:**
-Our results suggest that the combinatorial activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of brachiopod larva during embryonic development, and that changes in receptor context may be associated with the evolution of the brachiopod mantle lobe.
-More generally, our analysis suggests that changes in Wnt expression to different receptor-contexts may act as a mechanism for the evolution and diversification of bilaterian body axis.
+Our results suggest that the differential activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of brachiopod larvae.
+More generally, our analyses suggest that changes in the receptor context of Wnt ligands may act as a mechanism for the evolution and diversification of the body axis of bilaterians.
 
 # Background
 
