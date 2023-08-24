@@ -50,19 +50,21 @@ tablenos-plus-name: Table
 # Abstract
 
 **Background:**
-Wnt signalling pathways play crucial roles in animal development such as establishing embryonic axes, specifying cell fates, determining cell polarity, regulating tissue morphogenesis, and in axial patterning.
-For the latter, previous observations of staggered expression domains of Wnt genes along the anteroposterior axis raised the hypothesis that developmental outcomes are regulated by a putative combinatorial Wnt code.
-But because Wnt signaling outcomes depend upon dynamic, non-linear local interactions between multiple ligands, receptors, antagonists, and other modulators, it remains unclear whether specific combinations of Wnt genes are linked to particular fates, and whether such a code has remained conserved throughout evolution.
-Untangling the role of Wnt signaling in the development and evolution of animal axial patterning requires comprehensive analyses of the different pathway components in a comparative manner.
-However, these data are still lacking for several animal groups.
+Wnt signalling pathways play crucial roles in animal development.
+They can establish embryonic axes, specify cell fates, and regulate tissue morphogenesis from the early embryo to organogenesis.
+It has been increasingly recognized that such distinct developmental outcomes depend upon dynamic, non-linear interactions between multiple ligands, receptors, antagonists, and other pathway modulators.
+And that, behind this complexity may underlie a combinatorial “code”.
+However, due to the lack of comprehensive analyses of Wnt signalling components in several animal groups, it remains unclear whether specific gene combinations always give rise to specific developmental outcomes, and whether these combinatorial patterns were conserved throughout evolution.
+
+<!--And that, behind this complexity underlies a combinatorial “code”.-->
 
 **Results:**
-In this work, we characterize the repertoire and the spatio-temporal expression of Wnt signaling components in the brachiopod *Terebratalia transversa*.
-We find that *T. transversa* has a conserved set of ligands, receptors, and antagonists, which are expressed throughout embryogenesis.
-These genes are upregulated during axial elongation and show an anteroposterior organization with Wnt antagonists expressed at the anterior end, Frizzled genes expressed in broad, non-overlapping domains, and Wnt genes expressed in narrow, partially overlapping domains.
-Their combinatorial expression forms a series of distinct Wnt transcriptional subregions along the anteroposterior axis.
-These subregions coincide with the different morphological subdivisions of the brachiopod larval body.
-Comparison with other animals reveals that the spatial arrangement of Frizzled genes is conserved while that of Wnt genes is more variable during evolution.
+In this work, we investigate the combinatorial expression of Wnt signaling components during the axial patterning of the brachiopod *Terebratalia transversa*.
+We find that *T. transversa* has a conserved repertoire of Wnt ligands, receptors, and antagonists.
+These genes are expressed throughout embryogenesis, but undergo significant upregulation during axial elongation.
+At this stage, Wnt genes are expressed in diverse partially-overlapping territories, Frizzled genes are expressed in broader non-overlapping domains, and antagonists are mostly limited to the anterior end.
+We find that their combinatorial expression forms a series of unique transcriptional subregions along the anteroposterior axis that coincide with the different morphological subdivisions of the brachiopod larval body.
+Comparing these data across the phylogeny reveals that the expression of Frizzled genes is conserved while the expression of Wnt genes is more variable.
 
 **Conclusions:**
 Our results suggest that the combinatorial activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of brachiopod larva during embryonic development, and that changes in receptor context may be associated with the evolution of the brachiopod mantle lobe.
