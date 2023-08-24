@@ -926,48 +926,48 @@ BCV also thanks Pavel Tomančák for the generous support.
 
 ![Orthology assignment of *Terebratalia transversa* Wnt ligands.
 Maximum likelihood phylogenetic analysis using the amino acid sequences of known metazoan Wnt genes. Color-coding represents Wnt subfamilies. Numbers show the bootstrap branch support values. *T. transversa* orthologs are in bold and outlined by a box.
-](figures/Fig1.jpg){#fig:wnt-tree width=100%}
+](figures/Fig1.jpg){#fig:wnt-tree width=15cm}
 
 ![Expression of Wnt signaling components throughout *Terebratalia transversa* development.
 Heatmap shows the log normalized counts averaged between replicates from stage-specific RNA-seq data. The stages sampled for *in situ* hybridization are highlighted in magenta.
-](figures/Fig2.jpg){#fig:profiling width=100%}
+](figures/Fig2.jpg){#fig:profiling width=15cm}
 
 ![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia transversa* (*wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*).
 Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary. The panels for *wnt1* were originally published in @Vellutini2016-lq under a Creative Commons Attribution License and reprinted here for completion.
-](figures/Fig3.jpg){#fig:ligands1 width=100%}
+](figures/Fig3.jpg){#fig:ligands1 width=15cm}
 
 ![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia transversa* (*wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* and *wntA*).
 Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.
-](figures/Fig4.jpg){#fig:ligands2 width=100%}
+](figures/Fig4.jpg){#fig:ligands2 width=15cm}
 
 ![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in *Terebratalia transversa*.
 (A--D) Expression of *wnt1* (magenta) and *wnt5* (green) for early gastrula (A), late gastrula (B) and early larva (C) in ventral views, and for early larva in dorsal view (D).
 (E--F) Expression of *wnt5* (green) and *fz5/8* (magenta) for early gastrula (E) and late gastrula (F) in ventral views.
 (G--H) Expression of *wnt7* (green) *engrailed* (*en*) (magenta) in ventral (G) and dorsal (H) views.
 (I--L) Expression of *wnt1* (magenta) and *wnt8* (green) for early gastrula (I) and early larva (J--L) in ventral view (J), optical section through mid-body (K) and dorsal view (L).
-](figures/Fig5.jpg){#fig:doubles width=100%}
+](figures/Fig5.jpg){#fig:doubles width=15cm}
 
 ![Whole-mount *in situ* hybridization of Frizzled receptors and Wnt antagonists in *Terebratalia transversa*.
 Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.
-](figures/Fig6.jpg){#fig:fzdantag width=100%}
+](figures/Fig6.jpg){#fig:fzdantag width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt/PCP pathway components in *Terebratalia transversa*.
-](figures/Fig7.jpg){#fig:polarity width=100%}
+](figures/Fig7.jpg){#fig:polarity width=15cm}
 
 ![Summary of Wnt signaling landscape in *Terebratalia transversa*.
 The schematic drawings show the ectodermal expression domains on the ventral region of a late gastrula stage.
-](figures/Fig8.jpg){#fig:summary width=100%}
+](figures/Fig8.jpg){#fig:summary width=15cm}
 
 ![Wnt signaling landscape in metazoans.
 (A) Phylogenetic tree showing the gain and losses of Wnt ligands, Frizzled receptors and Wnt antagonists, and the molecular repertoire for individual groups. The schematic drawings illustrate the expression of Wnt signaling components during anteroposterior patterning based on previous works on Ctenophora [@Pang2010-ds], Cnidaria [@Kusserow2005-xd; @Niedermoser2022-ev], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg], Echinodermata [@Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Annelida [@Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Brachiopoda [@Vellutini2016-lq] (this study).
 (B) Conserved combinations of Wnt signaling components along the anteroposterior axis represented in a generalized bilaterian.
-](figures/Fig9.jpg){#fig:comparative width=100%}
+](figures/Fig9.jpg){#fig:comparative width=15cm}
 
-<!--![Whole-mount *in situ* hybridization of Frizzled receptors in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig7.jpg){#fig:receptors width=100%}-->
+<!--![Whole-mount *in situ* hybridization of Frizzled receptors in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig7.jpg){#fig:receptors width=15cm}-->
 
-<!--![Whole-mount *in situ* hybridization of Wnt pathway antagonists in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig8.jpg){#fig:antagonists width=100%}-->
+<!--![Whole-mount *in situ* hybridization of Wnt pathway antagonists in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig8.jpg){#fig:antagonists width=15cm}-->
 
-<!--![Whole-mount *in situ* hybridization of intracellular components of the Wnt pathway in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig9.jpg){#fig:intracellular width=100%}-->
+<!--![Whole-mount *in situ* hybridization of intracellular components of the Wnt pathway in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig9.jpg){#fig:intracellular width=15cm}-->
 
 \newpage
 
@@ -1031,84 +1031,84 @@ Table: Sampled developmental stages for the stage-specific transcriptome of the 
 ![Analysis of *Terebratalia transversa* *wnt1* paralogs. Maximum likelihood
 phylogenetic analysis of a multiple sequence alignment of amino acid sequences
 for *wnt1* of diverse metazoans. Numbers show the bootstrap branch support
-values.](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=100%}
+values.](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
 *Terebratalia transversa*.](figures/FigS2.jpg){#fig:s-ligands tag=S2
-width=100%}
+width=15cm}
 
 ![Whole-mount fluorescent double-fluorescent *in situ* hybridization of Wnt
 ligands in *Terebratalia transversa*.](figures/FigS3.jpg){#fig:s-doubles tag=S3
-width=100%}
+width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Frizzled receptors. Maximum
 likelihood phylogenetic analysis using the amino acid sequences of known
 metazoan Frizzled genes. Color-coding represents Frizzled subfamilies. Numbers
 show the bootstrap branch support values. *T. transversa* orthologs are in
-bold.](figures/FigS4.jpg){#fig:fzd-tree tag=S4 width=100%}
+bold.](figures/FigS4.jpg){#fig:fzd-tree tag=S4 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of Frizzled receptors in
 *Terebratalia transversa*.](figures/FigS5.jpg){#fig:s-receptors tag=S5
-width=100%}
+width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt antagonists secreted
 Frizzled-related proteins. Phylogenetic analysis of the amino acid sequences of
 known metazoan *sfrp* genes.](figures/FigS6.jpg){#fig:sfrp-tree tag=S6
-width=100%}
+width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
 *Terebratalia transversa*.](figures/FigS7.jpg){#fig:s-antagonists tag=S7
-width=100%}
+width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt antagonist *dkk*.
 Phylogenetic analysis of the amino acid sequences of known metazoan *dkk*
-genes.](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=100%}
+genes.](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt antagonist *wif*.
 Phylogenetic analysis of the amino acid sequences of known metazoan *wif*
-genes.](figures/FigS9.jpg){#fig:wif-tree tag=S9 width=100%}
+genes.](figures/FigS9.jpg){#fig:wif-tree tag=S9 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt intracellular component
 *dsh* and *axin*. Phylogenetic analysis of the amino acid sequences of known
 metazoan *dsh* and *axin* genes.](figures/FigS10.jpg){#fig:dsh-tree tag=S10
-width=100%}
+width=15cm}
 
-<!--![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *bcat*. Phylogenetic analysis of the amino acid sequences of known metazoan *bcat* genes.](figures/FigS11.jpg){#fig:bcat-tree tag=S11 width=100%}-->
+<!--![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *bcat*. Phylogenetic analysis of the amino acid sequences of known metazoan *bcat* genes.](figures/FigS11.jpg){#fig:bcat-tree tag=S11 width=15cm}-->
 
 ![Expression dynamics of cell polarity components throughout *Terebratalia
 transversa* development. Heatmap shows the log normalized counts from
 stage-specific RNA-seq data.](figures/FigS11.jpg){#fig:s-profiling tag=S11
-width=100%}
+width=15cm}
 
-<!--![Whole-mount colorimetric *in situ* hybridization of Wnt intracellular components in *Terebratalia transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=100%}-->
+<!--![Whole-mount colorimetric *in situ* hybridization of Wnt intracellular components in *Terebratalia transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=15cm}-->
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *diego* (*diversin* or *ankrd6*). Phylogenetic analysis of the amino acid sequences of
 known metazoan *diego* genes.](figures/FigS12.jpg){#fig:dgo-tree tag=S12
-width=100%}
+width=15cm}
 
-<!--![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt signaling pathway in *Terebratalia transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=100%}-->
+<!--![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt signaling pathway in *Terebratalia transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=15cm}-->
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *prickle*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*prickle* genes.](figures/FigS13.jpg){#fig:pk-tree tag=S13 width=100%}
+*prickle* genes.](figures/FigS13.jpg){#fig:pk-tree tag=S13 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *flamingo*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*flamingo* genes.](figures/FigS14.jpg){#fig:fmi-tree tag=S14 width=100%}
+*flamingo* genes.](figures/FigS14.jpg){#fig:fmi-tree tag=S14 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *strabismus*. Phylogenetic analysis of the amino acid sequences of known
 metazoan *strabismus* genes.](figures/FigS15.jpg){#fig:stbm-tree tag=S15
-width=100%}
+width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* cell polarity component
 *jnk*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*jnk* genes.](figures/FigS16.jpg){#fig:jnk-tree tag=S16 width=100%}
+*jnk* genes.](figures/FigS16.jpg){#fig:jnk-tree tag=S16 width=15cm}
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
 Broad receptor territories are essentially the same along the anteroposterior
 axis. There are common ligand--receptor combinations between the two animals
 forming unique transcriptional regions in the embryo that corresponds to
-differentiated body regions.](figures/FigS17.jpg){#fig:s-comparative tag=S17 width=100%}
+differentiated body regions.](figures/FigS17.jpg){#fig:s-comparative tag=S17 width=15cm}
