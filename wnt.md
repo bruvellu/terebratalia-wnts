@@ -90,7 +90,7 @@ The discovery of staggered Wnt expression domains in the tail bud of amphioxus e
 This idea, commonly referred to as the *Wnt code* or *landscape* [@Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
 However, over the years, it has been increasingly recognized that Wnt signaling pathways are non-linear cascades that operate via an intricate network of dynamic protein interactions where the downstream response depends on the local receptor-context [@Van_Amerongen2009-wk; @Niehrs2012-ku].
 That means that one Wnt ligand can activate or inhibit a different Wnt pathway depending on the receptors present in the tissue [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
-Therefore, unlike its Hox counterpart, the output of Wnt signaling does not depend solely in the specific ligand being expressed, as originally conceived in the Wnt code, but also on the specific receptor context where these ligands are expressed, and in the local activity of different antagonists and pathway modulators [@Mikels2006-ha; @Van_Amerongen2008-oo; @Niehrs2012-ku].
+Therefore, unlike its Hox counterpart, the output of Wnt signaling does not depend solely in the specific ligand being expressed---as it was originally conceived for the Wnt code---but it also depends on the specific receptor context where these ligands are expressed, and in the local activity of different antagonists and pathway modulators [@Mikels2006-ha; @Van_Amerongen2008-oo; @Niehrs2012-ku].
 In addition, Wnt signaling regulates not only tissue identities and cell fate, but also cell polarity and cell behaviors that drive tissue morphogenesis in the embryo, adding another layer of possible outcomes under the control Wnt signaling.
 
 
@@ -102,7 +102,7 @@ In addition, Wnt signaling regulates not only tissue identities and cell fate, b
 
 If a Wnt code exists, we expect that specific combinations of Wnt signaling components on a tissue will give rise to specific developmental outcomes, either cell fate specification or morphogenetic movements.
 These correlations between gene expression and developmental outcome ought also to be conserved in different tissues and across in different animal groups.
-However, given that uncovering the existence of a putative Wnt code is challenging and requires comprehensive analyses of Wnt signaling components throughout development, it remains unclear whether specific combinations of Wnt signaling components give rise to specific developmental outcomes, and whether this putative Wnt code is evolutionarily conserved across animals.
+However, given that uncovering the existence of a putative Wnt code is challenging and requires comprehensive analyses of Wnt signaling components throughout development, it remains unclear whether specific combinations of Wnt signaling components do give rise to specific developmental outcomes, and whether this putative Wnt code is evolutionarily conserved across animals.
 Therefore, a crucial step to comprehend the roles of Wnt signaling in axial patterning is to uncover the particular ligand--receptor contexts active throughout animal embryogenesis in a comparative manner.
 
 <!--There’s no Wnt code, but shared ancestry.-->
@@ -121,15 +121,15 @@ Therefore, a crucial step to comprehend the roles of Wnt signaling in axial patt
 While the expression of Wnt ligands has been widely studied in vertebrates and ecdysozoans [@Wiese2018-hi], the receptor-context information is often lacking in several animal groups.
 Fewer works have analyzed the Wnt signaling in the Spiralia which is a major branch of bilaterian animals with a great diversity of body patterns [@Hejnol2010-pq; @Martin-Duran2020-yc].
 In contrast to ecdysozoans which have lost several Wnt genes [@Murat2010-np; @Holstein2012-ec; @Chavarria2021-ps], the spiralians have retained the ancestral Wnt complement [@Prudhomme2002-cv; @Cho2010-eb; @Janssen2010-dc], indicating that they can be an informative group to understand the role of Wnt signaling in axial patterning evolution.
-However, most analysis of Wnt genes in Spiralia were performed in a few typical lineages, such as annelids and molluscs, and far less is known about Wnt genes in other spiralian groups.
+However, most analyses about Wnt genes in Spiralia were performed in a few typical spiralian lineages, such as annelids and molluscs, and far less is known about Wnt genes in other spiralian groups.
 
 <!--## Brachiopoda as an informative spiralian group-->
 
-Brachiopoda is a spiralian group of sessile marine organisms with bivalve shells [@Hyman1959-mc].
-They have a reduced adult morphology, but an outstanding embryonic development, where a radially symmetric gastrula undergo a series of morphogenetic changes to form a larval body subdivided into a series of distinct lobes along the anteroposterior axis [@Conklin1902-xv; @Franzen1969-mx].
-In previous studies using the rhynchonelliform brachiopod *Terebratalia transversa* (Sowerby, 1846)---whose embryogenesis and fate map are well-characterized [@Flammer1963-jk; @Stricker1985-gz; @Stricker1985-vf; @Freeman1993-rx; @Freeman1993-zt]---we found that Wnt signaling plays a role in endomesoderm specification and posterior fate induction in early embryos [@Martin-Duran2016-qa], and in the patterning of the head--trunk boundary in late embryos [@Vellutini2016-lq].
-Moreover, we found that over-activation of the Wnt/beta-catenin pathway disrupts the molecular and morphological organization of the larval subdivisions [@Martin-Duran2016-qa; @Vellutini2016-lq], suggesting that Wnt activity may play a role in the patterning of the larval anteroposterior axis.
-However, a full characterization of the Wnt signaling components, and their developmental expression including the receptor context is lacking for *T. transversa*, in particular, and for brachiopods more generally.
+Brachiopods are sessile spiralians with bivalve shells [@Hyman1959-mc].
+They have a reduced adult morphology, but an outstanding embryonic development where a radially symmetric gastrula undergoes a series of morphogenetic changes to form a larval body subdivided into a series of distinct lobes along the anteroposterior axis [@Conklin1902-xv; @Franzen1969-mx].
+In previous studies using the rhynchonelliform brachiopod *Terebratalia transversa* (Sowerby, 1846)---whose embryogenesis and fate map are well-characterized [@Flammer1963-jk; @Stricker1985-gz; @Stricker1985-vf; @Freeman1993-rx; @Freeman1993-zt]---we found that Wnt signaling plays a role in the specification of the endomesoderm and posterior fates [@Martin-Duran2016-qa], and in the patterning of the head--trunk boundary [@Vellutini2016-lq].
+Moreover, we found that over-activation of the Wnt/beta-catenin pathway disrupts the molecular and morphological organization of the larval subdivisions [@Martin-Duran2016-qa; @Vellutini2016-lq], suggesting that Wnt activity contributes to the axial patterning of the larva.
+However, a full characterization of the Wnt signaling components and their developmental expression, including the ligand--receptor contexts is lacking for *T. transversa* in particular, and for brachiopods in general.
 
 <!--In addition, a number of molecular studies revealed genes involved in anterior patterning [@Passamaneck2011-wj; @Santagata2012-he] and mesoderm development [@Passamaneck2015-aw], as well as the expression domains of *Hox* genes during axial patterning [@Schiemann2017-wd; @Gasiorowski2019-ab], and the role of FGF signaling in mesoderm formation [@Andrikou2021-cc].-->
 
@@ -143,12 +143,12 @@ However, a full characterization of the Wnt signaling components, and their deve
 
 <!--## Summary of findings-->
 
-In this study, we characterize the Wnt complement of the brachiopod *T. transversa* and investigate the spatiotemporal expression dynamics of Wnt signaling components throughout embryogenesis.
+In this study, we characterize the Wnt complement of the brachiopod *T. transversa* and investigate the spatio-temporal expression of Wnt signaling components throughout embryogenesis.
 We find that during axial elongation, the expression of ligands, receptors, and antagonists show an anteroposterior organization forming regionalized transcriptional territories, each expressing a unique combination of transcripts.
 These territories precede and coincide with the morphological subdivisions of the larval body, indicating that the differential activation of Wnt signaling may contribute to pattern the brachiopod larval body.
-We identified differences in receptor-context that may be involved in the patterning of a brachiopod evolutionary novelty, the mantle lobe.
+We identified differences in receptor-context that may be involved in the patterning of an evolutionary novelty of brachiopod larvae, the reversible mantle lobe.
 A comparative analysis reveals that while the expression of Frizzled receptors is evolutionary conserved, the expression of Wnt ligands is more variable.
-This suggests that the evolutionary shuffling of Wnt ligand expression may be a mechanism underlying the evolution of anteroposterior diversification in bilaterians.
+This suggests that the evolutionary shuffling in the expression of Wnt ligands may be a mechanism underlying the evolution of anteroposterior diversification in bilaterians.
 
 <!--TODO: Revise after general manuscript revision because the focus may change-->
 
