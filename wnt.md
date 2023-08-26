@@ -698,13 +698,12 @@ We hypothesize that this evolutionary shuffling of Wnt ligands may be one key me
 
 In summary, we characterize the complement and expression of Wnt signaling components in a brachiopod.
 We find a strong correlation between transcriptional subregions and morphological subdivisions of the larval body with different morphogenesis and fates.
-Our findings suggest that the differential activation of Wnt signaling pathways through this combinatorial landscape may be a mechanism to regionalize the anteroposterior axis of brachiopods.
-We find evidence that receptor context differences may underlie the morphogenesis of the mantle lobe, a morphological innovation of brachiopods.
-Comparative analysis reveals that some transcriptional subregions are relatively conserved.
-But mostly, the expression of Frizzled genes are conserved while the expression of Wnt genes is more variable among animals.
-We propose the evolutionary changes in ligand receptor context may have contributed to the diversification of the bilaterian anteroposterior axis.
-To uncover the putative Wnt code and its evolutionary history it is crucial to investigate the combinatorial expression and receptor contexts in a comparative manner.
-
+Our findings suggest that the differential activation of Wnt signaling pathways through this combinatorial landscape may regionalize the anteroposterior axis of brachiopods.
+The data also raises the hypothesis that differences in the receptor context could be associated with the evolution of a morphogenetic innovation in the mantle lobe of larval brachiopods.
+A comparative analysis reveals that only a few of the unique combinatorial patterns we observe in the brachiopod occur in other animals, despite the widely conserved expression of Frizzled genes.
+This is because the expression of Wnt genes is variable.
+We propose that evolutionary changes in ligand--receptor context may have contributed to the diversification of the bilaterian anteroposterior axis.
+Investigating the combinatorial expression of Wnt components in a comparative way will be crucial to uncovering the multiple roles of an ever-changing Wnt landscape for the evolution of animals.
 
 <!--Our expression data also indicates that differences in the receptor context for specific ligands may be involved in the evolution of the mantle lobe, an evolutionary novelty of brachiopods.-->
 
