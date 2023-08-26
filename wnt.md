@@ -89,22 +89,16 @@ Therefore, understanding how this complex network of interactions regulates embr
 
 The discovery of staggered Wnt expression domains in the tail bud of amphioxus embryos [@Schubert2001-cp] and along the body axis of sea anemone embryos [@Kusserow2005-xd] raised the hypothesis that different combinations of Wnt genes can pattern different body regions.
 This idea, commonly referred to as the *Wnt code* or *landscape* [@Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
-However, over the years, it has been increasingly recognized that Wnt signaling pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local receptor-context [@Van_Amerongen2009-wk; @Niehrs2012-ku].
+However, over the years, it has been increasingly recognized that Wnt signaling pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local receptor context and on the activity of different antagonists and pathway modulators [@Van_Amerongen2009-wk; @Niehrs2012-ku].
 That means that one Wnt ligand can activate or inhibit a different Wnt pathway depending on the receptors present in the tissue [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
-Therefore, unlike its Hox counterpart, the output of Wnt signaling does not depend solely in the specific ligand being expressed---as it was originally conceived for the Wnt code---but it also depends on the specific receptor context where these ligands are expressed, and in the local activity of different antagonists and pathway modulators [@Mikels2006-ha; @Van_Amerongen2008-oo; @Niehrs2012-ku].
-In addition, Wnt signaling regulates not only tissue identities and cell fate, but also cell polarity and cell behaviors that drive tissue morphogenesis in the embryo, adding another layer of possible outcomes under the control of Wnt signaling.
-
-
-<!--Wnt pattern different body regions along the anteroposterior axis [@Kusserow2005-xd; @Guder2006-fu; @Darras2018-gm].-->
-
-<!--The findings that a single Wnt ligand can either activate or inhibit Wnt/beta-catenin depending on the receptor availability [@Mikels2006-ha; @Van_Amerongen2008-oo] raised the comprehension that Wnt signaling pathways are not independent linear cascades but result from the combinatorial network of protein interactions where the developmental (or receptor) context dictates the signaling output [@Van_Amerongen2009-wk].-->
+Furthermore, the fact that Wnt pathways control various processes such as fate specification, cell polarity, and tissue morphogenesis makes the Wnt code extremely challenging to elucidate.
 
 <!--## Open questions about the Wnt code-->
 
-If a Wnt code exists, we expect that specific combinations of Wnt signaling components on a tissue will give rise to specific developmental outcomes, either cell fate specification or morphogenetic movements.
-These correlations between gene expression and developmental outcome should also be conserved across different tissues and animal groups.
-However, given that uncovering the existence of a putative Wnt code is challenging and requires comprehensive analyses of Wnt signaling components throughout development, it remains unclear whether specific combinations of Wnt signaling components do give rise to specific developmental outcomes, and whether this putative Wnt code is evolutionarily conserved across animals.
-Therefore, a crucial step to comprehend the roles of Wnt signaling in axial patterning is to uncover the particular ligand--receptor contexts active throughout animal embryogenesis comparatively.
+In fact, it remains unclear whether specific combinations of Wnt signaling components do give rise to specific developmental outcomes.
+If a Wnt code exists, we expect this correlation between genes and outcomes to be somewhat conserved between different tissues and across the animal phylogeny.
+But it also remains unclear whether this combinatorial code is evolutionarily conserved.
+Therefore, a crucial step to untangle the Wnt code is to uncover the particular ligand--receptor contexts with comprehensive analyses of Wnt signaling components during the embryogenesis of different animal groups.
 
 <!--There’s no Wnt code, but shared ancestry.-->
 
