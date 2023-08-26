@@ -22,7 +22,7 @@ author:
 institute:
 - sars: Sars International Centre for Marine Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
 - cbg: Max Planck Institute of Molecular Cell Biology and Genetics, Pfotenhauerstraße 108, 01307 Dresden, Germany.
-- qmul: Queen Mary University of London, School of Biological and Chemical Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
+- qmul: Queen Mary University of London, School of Biological and Behavioural Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
 - uib: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
 - jena: Institute of Zoology and Evolutionary Research, Friedrich Schiller University Jena, Erbertstraße 1, 07743 Jena, Germany
 documentclass: article
@@ -50,7 +50,7 @@ tablenos-plus-name: Table
 # Abstract
 
 **Background:**
-Wnt signalling pathways play crucial roles in animal development.
+Wnt signaling pathways play crucial roles in animal development.
 They establish embryonic axes, specify cell fates, and regulate tissue morphogenesis from the early embryo to organogenesis.
 It is becoming increasingly recognized that these distinct developmental outcomes depend upon dynamic, non-linear interactions between multiple ligands, receptors, antagonists, and other pathway modulators, consolidating the view that a combinatorial “code” controls the output of Wnt signaling.
 However, due to the lack of comprehensive analyses of Wnt components in several animal groups, it remains unclear if specific combinations always give rise to specific outcomes, and if these combinatorial patterns are conserved throughout evolution.
@@ -121,7 +121,7 @@ Therefore, a crucial step to comprehend the roles of Wnt signaling in axial patt
 While the expression of Wnt ligands has been widely studied in vertebrates and ecdysozoans [@Wiese2018-hi], the receptor-context information is often lacking in several animal groups.
 Fewer works have analyzed the Wnt signaling in the Spiralia which is a major branch of bilaterian animals with a great diversity of body patterns [@Hejnol2010-pq; @Martin-Duran2020-yc].
 In contrast to ecdysozoans which have lost several Wnt genes [@Murat2010-np; @Holstein2012-ec; @Chavarria2021-ps], the spiralians have retained the ancestral Wnt complement [@Prudhomme2002-cv; @Cho2010-eb; @Janssen2010-dc], indicating that they can be an informative group to understand the role of Wnt signaling in axial patterning evolution.
-However, most analyses about Wnt genes in Spiralia were performed in a few typical spiralian lineages, such as annelids and molluscs, and far less is known about Wnt genes in other spiralian groups.
+However, most analyses about Wnt genes in Spiralia were performed in a few typical spiralian lineages, such as annelids and mollusks, and far less is known about Wnt genes in other spiralian groups.
 
 <!--## Brachiopoda as an informative spiralian group-->
 
@@ -143,7 +143,7 @@ However, a full characterization of the Wnt signaling components and their devel
 
 <!--## Summary of findings-->
 
-In this study, we characterize the Wnt complement of the brachiopod *T. transversa* and investigate the spatio-temporal expression of Wnt signaling components throughout embryogenesis.
+In this study, we characterize the Wnt complement of the brachiopod *T. transversa* and investigate the spatiotemporal expression of Wnt signaling components throughout embryogenesis.
 We find that during axial elongation, the expression of ligands, receptors, and antagonists show an anteroposterior organization forming regionalized transcriptional territories, each expressing a unique combination of transcripts.
 These territories precede and coincide with the morphological subdivisions of the larval body, indicating that the differential activation of Wnt signaling may contribute to pattern the brachiopod larval body.
 We identified differences in receptor-context that may be involved in the patterning of an evolutionary novelty of brachiopod larvae, the reversible mantle lobe.
@@ -262,7 +262,7 @@ Overall, each Frizzled shows a unique expression profile but, in contrast to Wnt
 
 ## Frizzled domains occupy broad but distinct body regions
 
-We carried out *in situ* hybridizations for all Frizzled genes of *T. transversa* to reveal their domains of expression during axial elongation (@fig:fzdantag).
+We carried out *in situ* hybridization for all Frizzled genes of *T. transversa* to reveal their domains of expression during axial elongation (@fig:fzdantag).
 
 *fz1/2/7* transcripts are almost ubiquitous in the tissues of gastrulating embryos (@fig:fzdantag).
 We observe an anteroposterior gradient with stronger signal at the apical region, in the anterior mesoderm, and in a pair of lateral ectodermal domains in the middle of the body (@fig:fzdantag and @fig:s-receptors).
@@ -543,7 +543,7 @@ Therefore, our data in *T. transversa* suggests that at this transcriptional sub
 
 At the middle of the larval body lies the mantle lobe ({@fig:summary}B).
 Its tissues undergo dramatic growth (or elongation) during development forming a posterior skirt-like structure that is then reversed anteriorly during metamorphosis [@Stricker1985-gz].
-This reversible mantle lobe is considered an evolutionary innovation of lecitotrophic brachiopod larvae [@Freeman2005-pz].
+This reversible mantle lobe is considered an evolutionary innovation of lecithotrophic brachiopod larvae [@Freeman2005-pz].
 Our study reveals that the mantle lobe has a peculiar transcriptional profile where only a single Wnt ligand and Frizzled receptor are expressed: *wnt5* and *fz1/2/7*.
 In other animals, *wnt5* regulates convergent extension of tissues during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz], and it is a gene commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu].
 This is usually under the control of the Wnt/PCP pathway [@Heisenberg2000-kx].
@@ -616,7 +616,7 @@ While further experiments are needed to test this hypothesis, this preliminary e
 Altogether, these observations provide evidence that the transcriptional subregions we identified in *T. transversa* may play a role in the regional specification of tissues along the anteroposterior axis of brachiopods.
 The finding that the same ligand can be expressed in different subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development, and may have been associated with an evolutionary innovation of brachiopod larvae---the reversible mantle lobe.
 These data raise the idea that changes in these Wnt transcriptional subregions may have been important for the evolution of the primary body axis in animals.
-We have already described a few similarities between the brachiopod expression patterns and other animals (e.g. neuroectoderm patterning).
+We have already described a few similarities between the brachiopod expression patterns and other animals (e.g., neuroectoderm patterning).
 However, what was the ancestral state and how conserved these Wnt transcriptional subregions are across the phylogeny remain unclear.
 
 <!--TODO: Now what remains to be seem is whether particular combinations of Wnt signaling components, when ectopically expressed in different regions, will give rise to their original code or not.-->
@@ -646,7 +646,7 @@ And, only secondarily, with the expansion of the Wnt complement at the base of t
 Despite the great differences in embryo architecture, a broader comparison across the tree reveals a general common pattern for the expression of Wnt signaling components.
 Wnt antagonist genes are expressed anteriorly while Wnt genes are predominantly not expressed anteriorly, and Frizzled genes are expressed along the entire body ({@fig:comparative}A).
 Frizzled domains are usually broad without much overlap while Wnt domains are narrow and often overlapping with other Wnt genes.
-But what is most notable in this comparative overview is that the spatio-temporal expression of Frizzled genes is relatively well-conserved while the expression of Wnt ligands is more variable between species ({@fig:comparative}A).
+But what is most notable in this comparative overview is that the spatiotemporal expression of Frizzled genes is relatively well-conserved while the expression of Wnt ligands is more variable between species ({@fig:comparative}A).
 
 
 <!--In a general overview, most embryos exhibit a common general pattern of antagonists anterior, frizzled all around and wnt more posterior [@Marlow2014-wg].-->
@@ -665,9 +665,9 @@ The similarity in Frizzled expression indicates that this spatial organization i
 
 <!--### Wnt expression is evolutionary more variable-->
 
-In contrast, the spatio-temporal expression of Wnt genes during the axial patterning of different animals varies considerably.
+In contrast, the spatiotemporal expression of Wnt genes during the axial patterning of different animals varies considerably.
 A comparison of the maternal load of Wnt ligands reveals that they are highly-variable, and can even differ between closely-related species (@tbl:maternal).
-A similar picture occurs in the axial patterning: the spatio-temporal expression of most Wnt genes show great variability ({@fig:comparative}A).
+A similar picture occurs in the axial patterning: the spatiotemporal expression of most Wnt genes show great variability ({@fig:comparative}A).
 For example, *wnt9* or *wnt11* are expressed at the brachiopod posterior end but at the hemichordate anterior end, in entirely different receptor contexts ({@fig:s-comparative}A).
 There are only a few Wnt-Frizzled combinations that are relatively conserved across bilaterians ({!@fig:comparative}A,B).
 This comparative data reveals that ligand exchange and their re-deployment to different tissues and different receptor contexts may have happened more often in evolution than previously thought.
@@ -851,7 +851,7 @@ To uncover the putative Wnt code and its evolutionary history it is crucial to i
 *T. transversa* (Sowerby, 1846) adult specimens were collected by dredging the rocky seabeds around Friday Harbor, San Juan Islands, USA.
 We kept in a seawater table with running seawater at the Friday Harbor Laboratories (University of Washington).
 To obtain embryos, we dissected the gonads of ripe individuals and fertilized the gametes *in vitro* as previously described [@Reed1987-sd; @Freeman1993-zt].
-We cultured the embryos in E-ware glass bowls (i.e. glassware never exposed to chemicals) with filtered seawater and temperature around 7.6 °C.
+We cultured the embryos in E-ware glass bowls (i.e., glassware never exposed to chemicals) with filtered seawater and temperature around 7.6 °C.
 Water in culturing bowls was exchanged daily.
 Using a glass pipette, we collected samples for RNA sequencing and for *in situ* hybridization at representative developmental stages (@tbl:samples).
 For the RNA-seq samples, we collected two biological replicates, each containing the eggs of a single female fertilized with mixed sperm from three different males.
@@ -897,11 +897,11 @@ We then followed the established protocols in *T. transversa* for single colorim
 
 We mounted the embryos between a glass slide and a coverslip, supported by clay feet, in 70% glycerol in PBS.
 Using a Zeiss AxioCam HRc attached to a Zeiss Axioscope A1, we imaged the samples under differential interference contrast (DIC or Nomarski).
-For fluorescent samples, we scanned volumetric stacks in a Confocal Leica TCS SP5 microscope and generated maximum intensity projections using Fiji [@Schindelin2012-di].
+For fluorescent samples, we scanned volumetric stacks in a Leica TCS SP5 confocal microscope and generated maximum intensity projections using Fiji [@Schindelin2012-di].
 We adjusted intensity levels without clipping high or low ranges to improve the contrast using Fiji or GIMP.
 Illustrations and figure plates were assembled using Inkscape.
 
-# Acknowledgements
+# Acknowledgments
 
 We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for helping with the spawnings and sample collections, Katrine Worsaae for the initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
 The study was funded by the Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014--2020) ERC grant agreement 648861 to AH.
