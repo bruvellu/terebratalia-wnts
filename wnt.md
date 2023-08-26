@@ -61,7 +61,7 @@ We find that *T. transversa* has a conserved repertoire of ligands, receptors, a
 These genes are expressed throughout embryogenesis but undergo significant upregulation during axial elongation.
 At this stage, Frizzled domains occupy broad regions across the body while Wnt domains are narrower and distributed in partially-overlapping patches; antagonists are mostly restricted to the anterior end.
 Based on their combinatorial expression, we identify a series of unique transcriptional subregions along the anteroposterior axis that coincide with the different morphological subdivisions of the brachiopod larval body.
-When comparing these data across the phylogeny, we find that the expression of Frizzled genes is relatively conserved, whereas the expression of Wnt genes is more variable.
+When comparing these data across the animal phylogeny, we find that the expression of Frizzled genes is relatively conserved, whereas the expression of Wnt genes is more variable.
 
 **Conclusions:**
 Our results suggest that the differential activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of brachiopod larvae.
@@ -89,7 +89,7 @@ Therefore, understanding how this complex network of interactions regulates embr
 
 The discovery of staggered Wnt expression domains in the tail bud of amphioxus embryos [@Schubert2001-cp] and along the body axis of sea anemone embryos [@Kusserow2005-xd] raised the hypothesis that different combinations of Wnt genes can pattern different body regions.
 This idea, commonly referred to as the *Wnt code* or *landscape* [@Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
-However, over the years, it has been increasingly recognized that Wnt signaling pathways are non-linear cascades that operate via an intricate network of dynamic protein interactions where the downstream response depends on the local receptor-context [@Van_Amerongen2009-wk; @Niehrs2012-ku].
+However, over the years, it has been increasingly recognized that Wnt signaling pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local receptor-context [@Van_Amerongen2009-wk; @Niehrs2012-ku].
 That means that one Wnt ligand can activate or inhibit a different Wnt pathway depending on the receptors present in the tissue [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
 Therefore, unlike its Hox counterpart, the output of Wnt signaling does not depend solely in the specific ligand being expressed---as it was originally conceived for the Wnt code---but it also depends on the specific receptor context where these ligands are expressed, and in the local activity of different antagonists and pathway modulators [@Mikels2006-ha; @Van_Amerongen2008-oo; @Niehrs2012-ku].
 In addition, Wnt signaling regulates not only tissue identities and cell fate, but also cell polarity and cell behaviors that drive tissue morphogenesis in the embryo, adding another layer of possible outcomes under the control of Wnt signaling.
@@ -122,7 +122,7 @@ Therefore, a crucial step to comprehend the roles of Wnt signaling in axial patt
 While the expression of Wnt ligands has been widely studied in vertebrates and ecdysozoans [@Wiese2018-hi], the receptor-context information is often lacking in several animal groups.
 Fewer works have analyzed the Wnt signaling in the Spiralia, a major branch of bilaterian animals with a great diversity of body patterns [@Hejnol2010-pq; @Martin-Duran2020-yc].
 In contrast to ecdysozoans which have lost several Wnt genes [@Murat2010-np; @Holstein2012-ec; @Chavarria2021-ps], the spiralians have retained the ancestral Wnt complement [@Prudhomme2002-cv; @Cho2010-eb; @Janssen2010-dc], indicating that they can be an informative group to understand the role of Wnt signaling in axial patterning evolution.
-However, most analyses about Wnt genes in Spiralia were performed in a few typical spiralian lineages, such as annelids and mollusks, and far less is known about Wnt genes in other spiralian groups.
+However, most analyses about Wnt genes in Spiralia were performed in a few typical lineages, such as annelids and mollusks, and less is known about Wnt genes in other spiralians, which makes it difficult to reconstruct the ancestral state for this large animal group.
 
 <!--## Brachiopoda as an informative spiralian group-->
 
@@ -147,7 +147,7 @@ However, a full characterization of the Wnt signaling components and their devel
 In this study, we characterize the Wnt complement of the brachiopod *T. transversa* and investigate the spatiotemporal expression of Wnt signaling components throughout embryogenesis.
 We find that during axial elongation, the expression of ligands, receptors, and antagonists show an anteroposterior organization forming regionalized transcriptional territories, each expressing a unique combination of transcripts.
 These territories precede and coincide with the morphological subdivisions of the larval body, indicating that the differential activation of Wnt signaling may contribute to pattern the brachiopod larval body.
-We identified differences in receptor-context that may be involved in patterning an evolutionary novelty of brachiopod larvae, the reversible mantle lobe.
+We identified differences in receptor-context that may be involved in patterning an evolutionary novelty of lecithotrophic brachiopod larvae, the reversible mantle lobe.
 A comparative analysis reveals that while the expression of Frizzled receptors is evolutionarily conserved, the expression of Wnt ligands is more variable.
 This suggests that the evolutionary shuffling in the expression of Wnt ligands may be a mechanism underlying the evolution of anteroposterior diversification in bilaterians.
 
@@ -171,7 +171,7 @@ This suggests that the evolutionary shuffling in the expression of Wnt ligands m
 
 Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].
 Metazoans have a large Wnt repertoire with 13 subfamilies [@Kusserow2005-xd; @Croce2009-vv; @Cho2010-eb].
-To characterize the Wnt complement of the brachiopod *Terebratalia transversa*, we surveyed our transcriptomic and genomic resources for Wnt genes using similarity searches to known Wnt genes from other animals.
+To characterize the Wnt complement of the brachiopod *Terebratalia transversa*, we surveyed our transcriptomic and genomic resources for Wnt genes using similarity searches with known Wnt genes from other animals.
 We identified 13 Wnt genes with representatives of 12 of the 13 Wnt subfamilies (@fig:wnt-tree).
 *T. transversa* is missing *wnt3*, a gene known to have been lost in Protostomia [@Cho2010-eb; @Janssen2010-dc], and has two copies of *wnt1*.
 One of the *wnt1* paralogs---named hereafter *wnt1t*---is highly divergent at the sequence level compared to other *wnt1* orthologs across bilaterians, and our phylogenetic analysis suggests it originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
@@ -335,7 +335,7 @@ In *T. transversa*, we identified a single copy of *dsh* (@fig:dsh-tree) which i
 
 <!--The protein has three conserved domains (DIX, PDZ, and DEP domains), and two conserved regions before and after the PDZ domain (a cluster of basic residues and a proline-rich region, respectively) [@Gao2010-wj]. -->
 
-Dgo is a cytoplasmic protein containing 6--8 ankyrin repeat domains that suppresses the cell fate Wnt pathway and stimulates the cell polarity Wnt pathway [@Feiguin2001-zd; @Schwarz-Romond2002-td].
+Dgo is a cytoplasmic protein containing 6--8 ankyrin repeat domains that suppresses Wnt/beta-catenin signaling and activates the Wnt/PCP pathway [@Feiguin2001-zd; @Schwarz-Romond2002-td].
 We found a single *dgo* ortholog in *T. transversa* with six ankyrin repeats (@fig:dgo-tree). 
 The expression levels are relatively low compared to the other genes we analyzed in this study (@fig:s-profiling).
 However, we detect two pairs of dorsal domains in the late gastrula, one in the apical and another in the pedicle lobe (@fig:polarity).
@@ -475,7 +475,7 @@ Discussion
 -->
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
-We find that the brachiopod *T. transversa* has largely retained the ancestral repertoire of Wnt genes showing few duplications or losses, and that these genes are upregulated during axial elongation.
+We find that the brachiopod *T. transversa* has largely retained the ancestral repertoire of Wnt genes showing few duplications or losses, and that these genes are upregulated during mid to late gastrula, when the embryo elongates.
 At this stage, we identify six distinct transcriptional subregions along the anteroposterior axis of the embryo, each expressing a unique combination of ligands, receptors, and antagonists of Wnt signaling ({@fig:summary}A, @tbl:landscape).
 Interestingly, these transcriptional subregions coincide with the morphological subdivisions of the larval body ({@fig:summary}B), suggesting that a combinatorial Wnt signaling logic---a *Wnt code*---may play a role in regionalizing the brachiopod anteroposterior body axis.
 Below, we discuss the evidence for different ligand--receptor contexts during brachiopod axial patterning, how these Wnt transcriptional subregions compare across the phylogeny, and the evolutionary implications of these observations.
@@ -518,7 +518,7 @@ Therefore, these data suggest that a similar regulatory logic may control the su
 <!--TODO: add similarities to hemichordates, annelids and zebrafish brain-->
 
 The apical lobe ends with a deep epithelial fold located at the boundary with the mantle lobe ({@fig:summary}B).
-Previously, we found that this apical--mantle boundary is demarcated by a sharp transcriptional boundary between *wnt1* and the homeobox transcription factor *engrailed* (*en*) [@Vellutini2016-lq].
+Previously, we found that this apical--mantle interface is demarcated by a sharp transcriptional boundary between *wnt1* and the homeobox transcription factor *engrailed* (*en*) [@Vellutini2016-lq].
 Our current study reveals that *wnt7* is also expressed at the apical--mantle interface, and that the entire invaginated area corresponds to a single transcriptional subregion expressing *fz9/10* ({@fig:summary}A).
 In other animals, *wnt1*, *wnt7*, and *en* are expressed in a variety of compartment boundaries, such as the trunk segments of arthropods [@Janssen2010-dc] and the mid--hindbrain boundary of vertebrates [@Parr1993-ch; @Rhinn2001-ie].
 Moreover, Wnt7 is also known to interact with Fz9 *in vitro* [@Winn2005-dj].
@@ -615,7 +615,7 @@ While further experiments are needed to test this hypothesis, this preliminary e
 <!--### Conclusion of brachiopod transcriptional subregions-->
 
 Altogether, these observations support that the transcriptional subregions we identified in *T. transversa* may play a role in the regional specification of tissues along the anteroposterior axis of brachiopods.
-The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of brachiopod larvae---the reversible mantle lobe.
+The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of lecithotrophic brachiopod larvae---the reversible mantle lobe.
 These data raise the idea that changes in these Wnt transcriptional subregions may have been important for the evolution of the primary body axis in animals.
 We have already described a few similarities between the brachiopod expression patterns and other animals (e.g., neuroectoderm patterning).
 However, what the ancestral state was and how conserved these Wnt transcriptional subregions are across the phylogeny remain unclear.
