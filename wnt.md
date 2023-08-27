@@ -88,10 +88,15 @@ Therefore, understanding how this complex network of interactions regulates embr
 <!--msg: are specific combinations conserved across the phylogeny?-->
 
 The discovery of staggered Wnt expression domains in the tail bud of amphioxus embryos [@Schubert2001-cp] and along the body axis of sea anemone embryos [@Kusserow2005-xd] raised the hypothesis that different combinations of Wnt genes can pattern different body regions.
-This idea, commonly referred to as the *Wnt code* or *landscape* [@Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
-However, over the years, it has been increasingly recognized that Wnt signaling pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local receptor context and on the activity of different antagonists and pathway modulators [@Van_Amerongen2009-wk; @Niehrs2012-ku].
+This idea, commonly referred to as the *Wnt code* or *landscape* [@Lee2006-yw; @Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
+Over the years, however, it has been increasingly recognized that the output of Wnt signaling does not depend solely on the expression of Wnt ligands.
+In fact, Wnt pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local availability of receptors, on the presence of different antagonists, and on the activity of pathway modulators [@Van_Amerongen2009-wk; @Niehrs2012-ku].
 That means that one Wnt ligand can activate or inhibit a different Wnt pathway depending on the receptors present in the tissue [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
-Furthermore, the fact that Wnt pathways control various processes such as fate specification, cell polarity, and tissue morphogenesis makes the Wnt code extremely challenging to elucidate.
+A change that can determine processes as diverse as fate specification, cellular organization, and tissue morphogenesis.
+
+Furthermore, the fact that Wnt pathways control various processes such as fate specification, cell polarity, and tissue morphogenesis 
+
+makes the Wnt code particularly challenging to elucidate.
 
 <!--## Open questions about the Wnt code-->
 
@@ -635,7 +640,7 @@ Their embryonic expression is polarized with opposed domains of ligands and anta
 In contrast, cnidarians and bilaterians have a much larger set of ligands, receptors, and antagonist genes expressed in staggered domains along the body axis ({@fig:comparative}A).
 These comparative data suggest an initial axial polarity role for Wnt signaling in early development.
 Only secondarily, with the expansion of the Wnt complement in the last common ancestor to Cnidaria and Bilateria, Wnts became involved in late axial patterning.
-Therefore, this role precedes the evolution and diversification of a bilaterally symmetric body with an anteroposterior axis [@Lee2006-gr].
+Therefore, this role precedes the evolution and diversification of a bilaterally symmetric body with an anteroposterior axis [@Lee2006-yw].
 
 <!--### Conserved general pattern of anterior antagonists and posterior Wnt expression-->
 
@@ -904,10 +909,6 @@ BCV was funded by an EMBO Long-Term Fellowship (ALTF 74-2018) during the writing
 BCV also thanks Pavel Tomančák for the generous support.
 
 # References
-
-<!--TODO: Check inconsistencies in references, for example journal abbreviations-->
-
-<!--TODO: Replace @Guder2006-fu by Lee2006-yw-->
 
 ::: {#refs}
 :::
