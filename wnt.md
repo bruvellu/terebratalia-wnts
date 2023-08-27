@@ -91,23 +91,24 @@ The discovery of staggered Wnt expression domains in the tail bud of amphioxus e
 This idea, commonly referred to as the *Wnt code* or *landscape* [@Lee2006-yw; @Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
 Over the years, however, it has been increasingly recognized that the output of Wnt signaling does not depend solely on the expression of Wnt ligands.
 In fact, Wnt pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local availability of receptors, on the presence of different antagonists, and on the activity of pathway modulators [@Van_Amerongen2009-wk; @Niehrs2012-ku].
-That means that one Wnt ligand can activate or inhibit a different Wnt pathway depending on the receptors present in the tissue [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
-A change that can determine processes as diverse as fate specification, cellular organization, and tissue morphogenesis.
-
-Furthermore, the fact that Wnt pathways control various processes such as fate specification, cell polarity, and tissue morphogenesis 
-
-makes the Wnt code particularly challenging to elucidate.
+That means that, depending on the receptors present in the tissue, one Wnt ligand can activate or inhibit a different Wnt pathway and thus determine processes as diverse as fate specification, cellular organization, and tissue morphogenesis [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
+This complexity makes the Wnt code particularly challenging to elucidate.
 
 <!--## Open questions about the Wnt code-->
 
-In fact, it remains unclear whether specific combinations of Wnt signaling components do give rise to specific developmental outcomes.
-If a Wnt code exists, we expect this correlation between genes and outcomes to be somewhat conserved between different tissues and across the animal phylogeny.
-But it also remains unclear whether this combinatorial code is evolutionarily conserved.
-Therefore, a crucial step to untangle the Wnt code is to uncover the particular ligand--receptor contexts with comprehensive analyses of Wnt signaling components during the embryogenesis of different animal groups.
+A necessary step to untangle this combinatorial code is to extend the analyses of ligand--receptor contexts of Wnt genes to other animal groups using a comparative approach [@Hejnol2015-fg].
+The comparison between flies and other animals was crucial to reveal the broader importance of the Hox genes as a high-level axial patterning system and not merely an arthropod-specific feature linked to body segmentation [@Akam1989-vc; @McGinnis1992-qj; @Dickinson1995-fd].
+But while the expression of some Wnt genes is conserved in different animals  (e.g., *wnt8* is expressed in the neuroectoderm of vertebrates [@Kelly1995-jv;  @Hollyday1995-ym] and in spiders [@Janssen2010-dc], annelids [@Pruitt2014-oy], and hemichordates [@Darras2018-gm]), it remains unclear if the organization of Wnt domains along the embryonic body axis and their combinatorial expression with other pathway components is conserved across the animal phylogeny.
+
+<!--In fact, it remains unclear whether specific combinations of Wnt signaling components do give rise to specific developmental outcomes.-->
+
+<!--If a Wnt code exists, we expect this correlation between genes and outcomes to be somewhat conserved between different tissues and across the animal phylogeny.-->
+
+<!--But it also remains unclear whether this combinatorial code is evolutionarily conserved.-->
+
+<!--Therefore, a crucial step to untangle the Wnt code is to uncover the particular ligand--receptor contexts with comprehensive analyses of Wnt signaling components during the embryogenesis of different animal groups.-->
 
 <!--There’s no Wnt code, but shared ancestry.-->
-
-<!--The combinatorial Hox expression and their associated anteroposterior fates is relatively conserved among bilaterians [@McGinnis1992-qj; @Garcia-Fernandez2005-zl].-->
 
 <!--For these reasons, Wnt genes probably played an essential role in generating the tissue diversity during metazoan evolution [@Loh2016-pz].-->
 
@@ -497,7 +498,6 @@ These gene expression arrangements are well conserved in the anterior/aboral end
 Not only does *T. transversa* show the same arrangement between *fz5/8* and *wnt8*, but also expresses *six3/6* and *foxq2* at the anterior region [@Santagata2012-he].
 Therefore, these data suggest that a similar regulatory logic may control the subdivision of the apical lobe in a brachiopod larva.
 
-<!--while the posterior neuroectoderm in vertebrates [@Kelly1995-jv;  @Hollyday1995-ym] and in spiders, annelids, and hemichordates [@Janssen2010-dc; @Pruitt2014-oy; @Darras2018-gm] commonly expresses *wnt8*.-->
 
 <!--TODO: Mention wnt8 activity might be mediated by fz4?-->
 
