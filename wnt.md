@@ -90,7 +90,7 @@ Therefore, understanding how this complex network of interactions regulates embr
 The discovery of staggered Wnt expression domains in the tail bud of amphioxus embryos [@Schubert2001-cp] and along the body axis of sea anemone embryos [@Kusserow2005-xd] raised the hypothesis that different combinations of Wnt genes can pattern different body regions.
 This idea, commonly referred to as the *Wnt code* or *landscape* [@Lee2006-yw; @Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
 Over the years, however, it has been increasingly recognized that the output of Wnt signaling does not depend solely on the expression of Wnt ligands.
-In fact, Wnt pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local availability of receptors, on the presence of different antagonists, and on the activity of pathway modulators [@Van_Amerongen2009-wk; @Niehrs2012-ku].
+In fact, Wnt pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local availability of receptors, the presence of different antagonists, and the activity of pathway modulators [@Van_Amerongen2009-wk; @Niehrs2012-ku].
 That means that, depending on the receptors present in the tissue, one Wnt ligand can activate or inhibit a different Wnt pathway and thus determine processes as diverse as fate specification, cellular organization, and tissue morphogenesis [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
 This complexity makes the Wnt code particularly challenging to elucidate.
 
@@ -668,22 +668,21 @@ The similarity in Frizzled expression indicates that this spatial organization i
 In contrast, the spatiotemporal expression of Wnt genes during the axial patterning of different animals varies considerably.
 A comparison of the maternal load of Wnt ligands reveals that they are highly variable and can even differ between closely related species (@tbl:maternal).
 A similar picture occurs in the axial patterning: the spatiotemporal expression of most Wnt genes shows great variability ({@fig:comparative}A).
-For example, *wnt9* or *wnt11* are expressed at the brachiopod posterior end but at the hemichordate anterior end in entirely different receptor contexts ({@fig:s-comparative}A).
+One example is the expression of *wnt9* and *wnt11* which are expressed at the posterior end of the brachiopod but at the anterior end of the hemichordate in entirely different receptor contexts ({@fig:s-comparative}A).
+Accordingly, Wnt genes also show variable expression across the chordate lineage [@Somorjai2018-fw].
 Only a few Wnt-Frizzled combinations are relatively conserved across bilaterians ({!@fig:comparative}A,B).
-This comparative data reveals that ligand exchange and their re-deployment to different tissues and receptor contexts may have happened more often in evolution than previously thought.
-
+Therefore, these observations suggest that ligand exchange and re-deployment to different tissues and receptor contexts may have occurred more frequently during evolution than previously thought.
 
 <!--For the axial patterning, we identify some Wnt combinations relatively conserved along the anteroposterior axis, for example *wnt2*, *wnt5*, and *wnt8* are commonly expressed anteriorly with *fz5/8* or *fz4*; *wnt1* and *wnt7* at the head--trunk boundary with *fz4* and *fz9/10*; and *wnt1*, *wnt4*, and *wnt6* at the posterior end with *fz9/10* or without Frizzled expression ({@fig:summary}A and {!@fig:comparative}B).-->
 
 <!--This indicates that certain combinations were present in the last common ancestor and have remained conserved until this day.-->
 
-
 <!--### Ligand context-switching as mechanism for axial evolution-->
 
-This variability of Wnt expression compared to the conservation of Frizzled expression may have been important for axial evolution.
-The ability of Wnt proteins to elicit different fate decisions and morphogenetic processes depending on the developmental context put Wnt signaling pathways as key players in generating cellular and tissue diversity in the body patterning of animal [@Guder2006-fu; @Loh2016-pz].
-In an evolutionary context, these combinatorial changes in the ligand--receptor context could provide a modular mechanism that can change the signaling outcomes of cell fates and morphogenetic events.
-We hypothesize that this evolutionary shuffling of Wnt ligands may be one key mechanism involved in the diversification of the primary body axis in animals.
+The variation in Wnt expression compared to the conservation of Frizzled expression may reflect an important feature of axial evolution.
+The ability of Wnt proteins to elicit different fate decisions and morphogenetic processes depending on the developmental context places Wnt signaling pathways as key players in generating cellular and tissue diversity in the body patterning of animals [@Guder2006-fu; @Loh2016-pz].
+Changes in the ligand--receptor context during evolution could effectively alter cell fates and morphogenetic events, providing a basis for the establishment of developmental innovations.
+We hypothesize that this evolutionary shuffling of Wnt ligands may be one key mechanism involved in the diversification of the body axis of animals.
 
 <!--A Wnt code means the causality between the signaling output from a specific combination of gene activity with the developmental process it entails.-->
 <!--A Wnt code can be purely functional.-->
@@ -954,7 +953,7 @@ The schematic drawings show the ectodermal expression domains on the ventral reg
 ](figures/Fig8.jpg){#fig:summary width=15cm}
 
 ![Wnt signaling landscape in metazoans.
-(A) Phylogenetic tree showing the gain and losses of Wnt ligands, Frizzled receptors and Wnt antagonists, and the molecular repertoire for individual groups. The schematic drawings illustrate the expression of Wnt signaling components during anteroposterior patterning based on previous works on Ctenophora [@Pang2010-ds], Cnidaria [@Kusserow2005-xd; @Niedermoser2022-ev], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg], Echinodermata [@Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Annelida [@Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Brachiopoda [@Vellutini2016-lq] (this study).
+(A) Phylogenetic tree showing the gain and losses of Wnt ligands, Frizzled receptors and Wnt antagonists, and the molecular repertoire for individual groups. The schematic drawings illustrate the expression of Wnt signaling components during anteroposterior patterning based on previous works on Ctenophora [@Pang2010-ds], Cnidaria [@Kusserow2005-xd; @Niedermoser2022-ev], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg; @Somorjai2018-fw], Echinodermata [@Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Annelida [@Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Brachiopoda [@Vellutini2016-lq] (this study).
 (B) Conserved combinations of Wnt signaling components along the anteroposterior axis represented in a generalized bilaterian.
 ](figures/Fig9.jpg){#fig:comparative width=15cm}
 
