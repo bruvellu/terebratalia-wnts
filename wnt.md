@@ -20,7 +20,7 @@ author:
     email: andreas.hejnol@uni-jena.de
     orcid: 0000-0003-2196-8507
 institute:
-- sars: Sars International Centre for Marine Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
+- sars: Michael Sars Centre, University of Bergen, Thormøhlensgate 55, 5008 Bergen, Norway.
 - cbg: Max Planck Institute of Molecular Cell Biology and Genetics, Pfotenhauerstraße 108, 01307 Dresden, Germany.
 - qmul: Queen Mary University of London, School of Biological and Behavioural Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
 - uib: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
@@ -903,7 +903,7 @@ Illustrations and figure plates were assembled using Inkscape.
 # Acknowledgments
 
 We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for helping with the spawnings and sample collections, Katrine Worsaae for the initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
-The study was funded by the Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014--2020) ERC grant agreement 648861 to AH.
+The study was funded by the Michael Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014--2020) ERC grant agreement 648861 to AH.
 The animal collections were supported by a Meltzer Research Fund.
 BCV was funded by an EMBO Long-Term Fellowship (ALTF 74-2018) during the writing of this manuscript.
 BCV also thanks Pavel Tomančák for the generous support.
