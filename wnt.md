@@ -17,7 +17,8 @@ author:
 -  Andreas Hejnol:
     correspondence: "yes"
     institute: [sars, uib, jena]
-    email: andreas.hejnol@uni-jena.de
+    email: andreas.hejnol@uib.no
+    #email: andreas.hejnol@uni-jena.de
     orcid: 0000-0003-2196-8507
 institute:
 - sars: Michael Sars Centre, University of Bergen, Thormøhlensgate 55, 5008 Bergen, Norway.
