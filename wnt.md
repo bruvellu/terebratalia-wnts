@@ -926,8 +926,12 @@ The color-coding represents different Wnt subfamilies and the numbers show the s
 The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *Drosophila melanogaster* (Dm), *Homo sapiens* (Hs), *Lingula anatina* (La), *Lottia gigantea* (Lg), *Platynereis dumerilii* (Pd), *Saccoglossus kowalevskii* (Sk), and *Tribolium castaneum* (Tc).
 ](figures/Fig1.jpg){#fig:wnt-tree width=15cm}
 
-![Expression of Wnt signaling components throughout *Terebratalia transversa* development.
-Heatmap shows the log normalized counts averaged between replicates from stage-specific RNA-seq data. The stages sampled for *in situ* hybridization are highlighted in magenta.
+![Expression of Wnt signaling components during *Terebratalia transversa* development.
+The heatmap represents the log-normalized transcript counts for ligands, receptors, and antagonists calculated from stage-specific RNA-seq data.
+Each cell shows the average value between two replicates.
+The illustrations depict *T. transversa* developmental stages from the oocyte until the post-metamorphic juvenile.
+At the late gastrula stage (black outline) all Wnt genes are expressed.
+The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
 ](figures/Fig2.jpg){#fig:profiling width=15cm}
 
 ![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia transversa* (*wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*).
