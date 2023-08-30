@@ -919,8 +919,11 @@ BCV also thanks Pavel Tomančák for the generous support.
 
 # Figures
 
-![Orthology assignment of *Terebratalia transversa* Wnt ligands.
-Maximum likelihood phylogenetic analysis using the amino acid sequences of known metazoan Wnt genes. Color-coding represents Wnt subfamilies. Numbers show the bootstrap branch support values. *T. transversa* orthologs are in bold and outlined by a box.
+![Orthology assignment of *Terebratalia transversa* Wnt genes.
+Best-scoring tree of a Maximum likelihood phylogenetic analysis using the amino acid sequences of known metazoan Wnt genes.
+The color-coding represents different Wnt subfamilies and the numbers show the support values of individual branches.
+*Terebratalia transversa* (Tt) orthologs are outlined by a box.
+The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *Drosophila melanogaster* (Dm), *Homo sapiens* (Hs), *Lingula anatina* (La), *Lottia gigantea* (Lg), *Platynereis dumerilii* (Pd), *Saccoglossus kowalevskii* (Sk), and *Tribolium castaneum* (Tc).
 ](figures/Fig1.jpg){#fig:wnt-tree width=15cm}
 
 ![Expression of Wnt signaling components throughout *Terebratalia transversa* development.
