@@ -930,16 +930,23 @@ The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *D
 The heatmap represents the log-normalized transcript counts for ligands, receptors, and antagonists calculated from stage-specific RNA-seq data.
 Each cell shows the average value between two replicates.
 The illustrations depict *T. transversa* developmental stages from the oocyte until the post-metamorphic juvenile.
-At the late gastrula stage (black outline) all Wnt genes are expressed.
+At the late gastrula stage (51h, black outline) all Wnt genes are expressed.
 The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
 ](figures/Fig2.jpg){#fig:profiling width=15cm}
 
-![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia transversa* (*wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6* and *wnt7*).
-Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary. The panels for *wnt1* were originally published in @Vellutini2016-lq under a Creative Commons Attribution License and reprinted here for completion.
+![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7*.
+Developmental stages between early gastrula and late larva.
+The samples are oriented with a blastoporal/ventral view and the anterior end to the top.
+Black arrowheads indicate the apical--mantle boundary.
+White arrowheads indicate the mantle--pedicle boundary.
+Panels for *wnt1* originally published under a Creative Commons Attribution License in @Vellutini2016-lq and reprinted here for completion.
 ](figures/Fig3.jpg){#fig:ligands1 width=15cm}
 
-![Whole-mount *in situ* hybridization of Wnt ligands in *Terebratalia transversa* (*wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16* and *wntA*).
-Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.
+![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA*.
+Developmental stages between early gastrula and late larva.
+The samples are oriented with a blastoporal/ventral view and the anterior end to the top.
+Black arrowheads indicate the apical--mantle boundary.
+White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/Fig4.jpg){#fig:ligands2 width=15cm}
 
 ![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in *Terebratalia transversa*.
