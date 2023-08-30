@@ -975,8 +975,12 @@ Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/Fig7.jpg){#fig:polarity width=15cm}
 
-![Summary of Wnt signaling landscape in *Terebratalia transversa*.
-The schematic drawings show the ectodermal expression domains on the ventral region of a late gastrula stage.
+![Summary of *Terebratalia transversa* Wnt signaling landscape.
+(A) Schematic drawing of a late gastrula in ventral view showing the ectodermal expression domains of Wnt, Frizzled, and antagonist genes.
+Wnt genes are colored by subfamilies, Frizzled genes by lighter shades of grey, and antagonists by darker shades of grey.
+The spatial localization of domains is superimposed on the embryo outline and projected view to highlight the different transcriptional subregions (left), and individualized for the different Wnt genes (right).
+(B) A late gastrula and early larva samples stained for f-actin showing the different cell shapes between the different body regions and transcriptional subregions of  *T. transversa*.
+Solid lines represent morphological boundaries for the apical, mantle, and pedicle lobes, and dashed lines represent boundaries between transcriptional subregions.
 ](figures/Fig8.jpg){#fig:summary width=15cm}
 
 ![Wnt signaling landscape in metazoans.
