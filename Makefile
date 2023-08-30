@@ -4,8 +4,8 @@
 FILE=wnt
 RESOURCES=resources
 TEMPLATE=${RESOURCES}/template
-FILTERS=--lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-citeproc
-#FILTERS=--lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos --citeproc
+#FILTERS=--lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-citeproc
+FILTERS=--lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos --citeproc
 FIGDIR=`realpath ../1-figures`
 FIGOUT=`realpath ./figures`
 FIGSRC=${FIGOUT}/source
@@ -22,12 +22,6 @@ refs:
 	wget -P resources/ --content-disposition -N https://paperpile.com/eb/kLGboEXerY
 
 figs:
-	# Touch file to avoid errors
-	#touch ${FIGOUT}/touch.txt
-	# Cleanup figure directory
-	#rm -r ${FIGOUT}/*
-	# Create source directory
-	#mkdir ${FIGSRC}
 	# Copy figure files to figure directory with official naming
 	cp -vu ${FIGDIR}/01-wnt_tree/wnt-tree.png ${FIGSRC}/Fig1.png
 	cp -vu ${FIGDIR}/03-profiling/profiling.png ${FIGSRC}/Fig2.png
