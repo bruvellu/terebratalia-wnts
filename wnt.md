@@ -968,7 +968,11 @@ Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/Fig6.jpg){#fig:fzdantag width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of Wnt/PCP pathway components in *Terebratalia transversa*.
+![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt/PCP pathway components.
+Developmental stages between early gastrula and late gastrula for *dsh*, *dgo*, *pk*, *fmi*, *stbm*, and *jnk*.
+The samples are oriented in a blastoporal/ventral view (left) and in a lateral view (right).
+Black arrowheads indicate the apical--mantle boundary.
+White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/Fig7.jpg){#fig:polarity width=15cm}
 
 ![Summary of Wnt signaling landscape in *Terebratalia transversa*.
