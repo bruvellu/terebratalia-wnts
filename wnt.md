@@ -949,11 +949,16 @@ Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/Fig4.jpg){#fig:ligands2 width=15cm}
 
-![Whole-mount double-fluorescent *in situ* hybridization of Wnt ligands in *Terebratalia transversa*.
-(A--D) Expression of *wnt1* (magenta) and *wnt5* (green) for early gastrula (A), late gastrula (B) and early larva (C) in ventral views, and for early larva in dorsal view (D).
-(E--F) Expression of *wnt5* (green) and *fz5/8* (magenta) for early gastrula (E) and late gastrula (F) in ventral views.
-(G--H) Expression of *wnt7* (green) *engrailed* (*en*) (magenta) in ventral (G) and dorsal (H) views.
-(I--L) Expression of *wnt1* (magenta) and *wnt8* (green) for early gastrula (I) and early larva (J--L) in ventral view (J), optical section through mid-body (K) and dorsal view (L).
+![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* Wnt genes.
+(A--D) Expression of *wnt1* (magenta) and *wnt5* (green) in the early gastrula (A), late gastrula (B) and early larva in ventral (C) and dorsal (D) views.
+(E--F) Expression of *wnt5* (green) and *fz5/8* (magenta) in the mid gastrula (E) and late gastrula (F) in ventral views.
+(G--H) Expression of *wnt7* (green) *engrailed* (*en*) (magenta) in the early larva in ventral (G) and dorsal (H) views.
+(I--L) Expression of *wnt1* (magenta) and *wnt8* (green) in the mid gastrula (I) and late gastrula (J) in ventral views, late gastrula in an midbody optical section (K), and early larva in dorsal view (L).
+Green and magenta lines highlight the extension and overlap between domains.
+Areas in the tissue where the expression overlaps appear in white.
+Samples oriented with the anterior end to the top.
+Black arrowheads indicate the apical--mantle boundary.
+White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/Fig5.jpg){#fig:doubles width=15cm}
 
 ![Whole-mount *in situ* hybridization of Frizzled receptors and Wnt antagonists in *Terebratalia transversa*.
