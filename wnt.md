@@ -961,8 +961,11 @@ Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/Fig5.jpg){#fig:doubles width=15cm}
 
-![Whole-mount *in situ* hybridization of Frizzled receptors and Wnt antagonists in *Terebratalia transversa*.
-Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.
+![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Frizzled and Wnt antagonist genes.
+Developmental stages between early gastrula and late larva for *fz1/2/7*, *fz4*, *fz5/8*, *fz9/10*, *sfrp1/2/5*, *dkk5*, and *wif*.
+The samples are oriented with a blastoporal/ventral view and the anterior end to the top, except for *sfrp1/2/5* early gastrula showing the apical pole.
+Black arrowheads indicate the apical--mantle boundary.
+White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/Fig6.jpg){#fig:fzdantag width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt/PCP pathway components in *Terebratalia transversa*.
