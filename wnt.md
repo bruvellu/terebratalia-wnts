@@ -1000,7 +1000,7 @@ This spatial arrangement could represent the ancestral Wnt landscape in the last
 
 # Tables
 
-Table: Transcriptional identity of Wnt signaling territories in the brachiopod *T. transversa*. {#tbl:landscape}
+Table: Wnt signaling transcriptional subregions in the brachiopod *Terebratalia transversa*. {#tbl:landscape}
 
 | Subregion | Position                                 | Antagonists        | Ligands                                          | Receptors           |
 | --------- | --------                                 | -----------        | -------                                          | ---------           |
@@ -1013,26 +1013,26 @@ Table: Transcriptional identity of Wnt signaling territories in the brachiopod *
 
 \newpage
 
-Table: Maternal load of Wnt ligands and Frizzled receptors in metazoan eggs. {#tbl:maternal}
+Table: Maternal load of Wnt and Frizzled transcripts in metazoan eggs. {#tbl:maternal}
 
-| Species                         | Wnt ligands                                         | Frizzled receptors                                       |
-| -------                         | -----------                                         | ------------------                                       |
-| *Terebratalia transversa*       | *wnt4* and *wntA* (this study)                      | *fz1/2/7*, *fz5/8* and *fz4* (this study)                |
-| *Lingula anatina*               | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] |
-| *Platynereis dumerilii*         | No maternal Wnt transcripts [@Pruitt2014-oy]                   | *fz1/2/7* [@Bastin2015-oz]                               |
-| *Priapulus caudatus*            | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] | -                                                        |
-| *Paracentrotus lividus*         | *wnt7* [@Robert2014-xj]                             | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   |
-| *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | *fz1/2/7* [@Lhomond2012-yh]                                                        |
-| *Saccoglossus kowalevskii*      | *wnt4* and *wnt9* [@Darras2018-gm]                  | *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   |
-| *Xenopus laevis*                | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            | -                                                        |
-| *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
-| *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
+| Group         | Species                         | Wnt genes                                           | Frizzled genes                                           |
+| -----         | -------                         | ---------                                           | --------------                                           |
+| Brachiopoda   | *Terebratalia transversa*       | *wnt4* and *wntA* (this study)                      | *fz1/2/7*, *fz5/8* and *fz4* (this study)                |
+| Brachiopoda   | *Lingula anatina*               | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] |
+| Annelida      | *Platynereis dumerilii*         | No maternal Wnt transcripts [@Pruitt2014-oy]        | *fz1/2/7* [@Bastin2015-oz]                               |
+| Priapulida    | *Priapulus caudatus*            | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] | -                                                        |
+| Hemichordata  | *Saccoglossus kowalevskii*      | *wnt4* and *wnt9* [@Darras2018-gm]                  | *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   |
+| Echinodermata | *Paracentrotus lividus*         | *wnt7* [@Robert2014-xj]                             | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   |
+| Echinodermata | *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | *fz1/2/7* [@Lhomond2012-yh]                              |
+| Vertebrata    | *Xenopus laevis*                | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            | -                                                        |
+| Vertebrata    | *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
+| Cnidaria      | *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
 
 \newpage
 
-Table: Sampled developmental stages for the stage-specific transcriptome of the brachiopod *T. transversa*. {#tbl:samples}
+Table: Developmental stages sampled for the stage-specific transcriptome of *Terebratalia transversa*. {#tbl:samples}
 
-| Stage ID | Time post fertilization | Stage description                    |
+| Stage    | Time post fertilization | Description                          |
 | -------- | ----------------------- | ------------------------------------ |
 | S01      | 0h                      | oocytes                              |
 | S02      | 8h                      | mid blastula                         |
