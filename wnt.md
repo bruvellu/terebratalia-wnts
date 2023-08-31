@@ -920,7 +920,7 @@ BCV also thanks Pavel Tomančák for the generous support.
 # Figures
 
 ![Orthology assignment of *Terebratalia transversa* Wnt genes.
-Best-scoring tree of a Maximum likelihood phylogenetic analysis using the amino acid sequences of known metazoan Wnt genes.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known metazoan Wnt genes.
 The color-coding represents different Wnt subfamilies and the numbers show the support values of individual branches.
 *Terebratalia transversa* (Tt) orthologs are outlined by a box.
 The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *Drosophila melanogaster* (Dm), *Homo sapiens* (Hs), *Lingula anatina* (La), *Lottia gigantea* (Lg), *Platynereis dumerilii* (Pd), *Saccoglossus kowalevskii* (Sk), and *Tribolium castaneum* (Tc).
@@ -1055,18 +1055,33 @@ Table: Developmental stages sampled for the stage-specific transcriptome of *Ter
 
 ## Figures
 
-![Analysis of *Terebratalia transversa* *wnt1* paralogs. Maximum likelihood
-phylogenetic analysis of a multiple sequence alignment of amino acid sequences
-for *wnt1* of diverse metazoans. Numbers show the bootstrap branch support
-values.](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=15cm}
+![Phylogenetic analysis of *Terebratalia transversa* *wnt1* paralogs.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using amino acid sequences of genes from the *wnt1* subfamily with *wnt6* as an outgroup.
+Branch lengths are proportional to the amount of sequence change and the numbers show the support values of individual branches.
+Both *Terebratalia transversa* (Ttra) and *Lingula anatina* (Lana), a rhynchonelliform and a linguliform brachiopod, respectively, have two copies of *wnt1*.
+If this was an ancient duplication event at the base of Brachiopoda, we would expect the orthologous *wnt1* paralogs from different species to cluster together (i.e., Ttra *wnt1* with Lana *wnt1*).
+Instead, the tree reveals that the paralog copies of each species cluster together, suggesting that the duplication of *wnt1* occurred independently in *T. transversa* and *L. anatina*.
+*T. transversa* *wnt1t* also shows a longer branch length indicating rapid evolution.
+Taxon sampling was focused in spiralians.
+The other species are *Biomphalaria glabrata* (Bgla), *Branchiostoma floridae* (Bflo), *Bugula neritina* (Bner), *Capitella teleta* (Ctel), *Crassostrea virginica* (Cvir), *Doryteuthis pealeii* (Dpea), *Euprymna scolopes* (Esco), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Membranipora membranacea* (Mmem), *Mizuhopecten yessoensis* (Myes), *Mytilus coruscus* (Mcor), *Mytilus edulis* (Medu), *Mytilus galloprovincialis* (Mgal), *Pecten maximus* (Pmax), *Perinereis nuntia* (Pnun), *Plakobranchus ocellatus* (Poce), *Platynereis dumerilii* (Pdum), *Saccoglossus kowalevskii* (Skow), and *Urechis unicinctus* (Uuni).
+](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of Wnt ligands in
-*Terebratalia transversa*.](figures/FigS2.jpg){#fig:s-ligands tag=S2
-width=15cm}
+![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt genes.
+Additional views of Wnt expression between early gastrula and late larva.
+Samples oriented in lateral view, except where indicated for dorsal (D) or posterior (P) views.
+](figures/FigS2.jpg){#fig:s-ligands tag=S2 width=15cm}
 
-![Whole-mount fluorescent double-fluorescent *in situ* hybridization of Wnt
-ligands in *Terebratalia transversa*.](figures/FigS3.jpg){#fig:s-doubles tag=S3
-width=15cm}
+![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* Wnt genes.
+(A--D) Expression of *wnt1* (magenta) and *wnt4* (green) in the mid gastrula (A,B) and late gastrula (C,D).
+(E,G) Expression of *wnt1* (magenta) and *wnt8* (green) in the mid gastrula (E) and early larva (G).
+(F) Expression of *wnt1* (magenta) and *wnt5* (green) in the late gastrula.
+(H) Expression of *engrailed* (magenta) and *wnt7* (green) in the early larva.
+Green and magenta lines highlight the extension and overlap between domains.
+Areas in the tissue where the expression overlaps appear in white.
+Samples oriented with the anterior end to the top and ventral to the right (lateral views).
+Black arrowheads indicate the apical--mantle boundary.
+White arrowheads demarcate the mantle--pedicle boundary.
+](figures/FigS3.jpg){#fig:s-doubles tag=S3 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Frizzled receptors. Maximum
 likelihood phylogenetic analysis using the amino acid sequences of known
