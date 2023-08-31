@@ -1083,28 +1083,35 @@ Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/FigS3.jpg){#fig:s-doubles tag=S3 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Frizzled receptors. Maximum
-likelihood phylogenetic analysis using the amino acid sequences of known
-metazoan Frizzled genes. Color-coding represents Frizzled subfamilies. Numbers
-show the bootstrap branch support values. *T. transversa* orthologs are in
-bold.](figures/FigS4.jpg){#fig:fzd-tree tag=S4 width=15cm}
+![Orthology assignment of *Terebratalia transversa* Frizzled genes.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of well-annotated Frizzled genes.
+The color-coding represents different Frizzled subfamilies and the numbers show the support values of individual branches.
+*Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
+The other species are *Branchiostoma belcheri* (Bbel), *Capitella teleta* (Ctel), *Drosophila melanogaster* (Dmel), *Euperipatoides kanangrensis* (Ekan), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Mus musculus* (Mmus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
+](figures/FigS4.jpg){#fig:fzd-tree tag=S4 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of Frizzled receptors in
 *Terebratalia transversa*.](figures/FigS5.jpg){#fig:s-receptors tag=S5
 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Wnt antagonists secreted
-Frizzled-related proteins. Phylogenetic analysis of the amino acid sequences of
-known metazoan *sfrp* genes.](figures/FigS6.jpg){#fig:sfrp-tree tag=S6
-width=15cm}
+![Orthology assignment of *Terebratalia transversa* sFRP genes.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of *sfrp* genes.
+The color-coding represents different sFRP subfamilies and the numbers show the support values of individual branches.
+*Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
+The other species are *Homo sapiens* (Hsap), *Crassostrea gigantea* (Cgig), *Mus musculus* (Mmus), and *Platynereis dumerilii* (Pdum).
+](figures/FigS6.jpg){#fig:sfrp-tree tag=S6 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
 *Terebratalia transversa*.](figures/FigS7.jpg){#fig:s-antagonists tag=S7
 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Wnt antagonist *dkk*.
-Phylogenetic analysis of the amino acid sequences of known metazoan *dkk*
-genes.](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=15cm}
+<!--TODO: Write-up Dkk figure legend.-->
+![Orthology assignment of *Terebratalia transversa* Dkk genes.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known metazoan *dkk* genes.
+The color-coding represents different Dkk subfamilies and the numbers show the support values of individual branches.
+*Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
+The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *Drosophila melanogaster* (Dm), *Homo sapiens* (Hs), *Lingula anatina* (La), *Lottia gigantea* (Lg), *Platynereis dumerilii* (Pd), *Saccoglossus kowalevskii* (Sk), and *Tribolium castaneum* (Tc).
+](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt antagonist *wif*.
 Phylogenetic analysis of the amino acid sequences of known metazoan *wif*
