@@ -1105,12 +1105,17 @@ The other species are *Homo sapiens* (Hsap), *Crassostrea gigantea* (Cgig), *Mus
 *Terebratalia transversa*.](figures/FigS7.jpg){#fig:s-antagonists tag=S7
 width=15cm}
 
-<!--TODO: Write-up Dkk figure legend.-->
 ![Orthology assignment of *Terebratalia transversa* Dkk genes.
-Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known metazoan *dkk* genes.
-The color-coding represents different Dkk subfamilies and the numbers show the support values of individual branches.
-*Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
-The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *Drosophila melanogaster* (Dm), *Homo sapiens* (Hs), *Lingula anatina* (La), *Lottia gigantea* (Lg), *Platynereis dumerilii* (Pd), *Saccoglossus kowalevskii* (Sk), and *Tribolium castaneum* (Tc).
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of *dkk* genes from diverse metazoans.
+Color-coding represents different Dkk subfamilies.
+Numbers show support values of individual branches.
+*Terebratalia transversa* (Ttra) ortholog, highlighted in bold, groups with a previously unidentified Dkk subfamily, in addition to *dkk3* and *dkk1/2/4*, which we named *dkk5*.
+Non-vertebrate deuterostomes such as the hemichordate *Saccoglossus kowalevskii* (Skow), the echinoderm *Acanthaster planci* (Apla), and the cephalochordate *Branchiostoma belcheri* (Bbel), have an ortholog of each Dkk family.
+Vertebrates lost *dkk5*.
+Protostomes lost *dkk1/2/4* and *dkk3* early on, but retained *dkk5* in some lineages such as *T. transversa*, *Priapulus caudatus* (Pcau), and *Owenia fusiformis* (Ofus).
+Cnidarians expanded *dkk3* but lost *dkk1/2/4*.
+Overall, this suggests *dkk1/2/4*, *dkk3*, and *dkk5* were the ancestral subfamilies in the Cnidaria--bilaterian branch.
+The other species are *Homo sapiens* (Hsap), *Lingula anatina* (Lana), and *Strongylocentrotus purpuratus* (Spur).
 ](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt antagonist *wif*.
