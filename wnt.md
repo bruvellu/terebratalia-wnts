@@ -12,7 +12,7 @@ author:
     orcid: 0000-0002-2572-1061
 - Aina Børve:
     institute: [sars, uib]
-    email: Aina.Borve@uib.no
+    email: aina.borve@uib.no
     orcid: 0000-0003-0311-5156
 -  Andreas Hejnol:
     correspondence: "yes"
@@ -24,7 +24,7 @@ institute:
 - sars: Michael Sars Centre, University of Bergen, Thormøhlensgate 55, 5008 Bergen, Norway.
 - cbg: Max Planck Institute of Molecular Cell Biology and Genetics, Pfotenhauerstraße 108, 01307 Dresden, Germany.
 - qmul: Queen Mary University of London, School of Biological and Behavioural Sciences, Mile End Road, Fogg Building, E1 4NS London, UK
-- uib: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5006 Bergen, Norway.
+- uib: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5008 Bergen, Norway.
 - jena: Institute of Zoology and Evolutionary Research, Friedrich Schiller University Jena, Erbertstraße 1, 07743 Jena, Germany
 documentclass: article
 bibliography: "resources/wnt.bib"
@@ -60,13 +60,17 @@ However, due to the lack of comprehensive analyses of Wnt components in several 
 In this work, we investigate the combinatorial expression of Wnt signaling components during the axial patterning of the brachiopod *Terebratalia transversa*.
 We find that *T. transversa* has a conserved repertoire of ligands, receptors, and antagonists.
 These genes are expressed throughout embryogenesis but undergo significant upregulation during axial elongation.
-At this stage, Frizzled domains occupy broad regions across the body while Wnt domains are narrower and distributed in partially-overlapping patches; antagonists are mostly restricted to the anterior end.
+At this stage, Frizzled domains occupy broad regions across the body while Wnt domains are narrower and distributed in partially overlapping patches; antagonists are mostly restricted to the anterior end.
 Based on their combinatorial expression, we identify a series of unique transcriptional subregions along the anteroposterior axis that coincide with the different morphological subdivisions of the brachiopod larval body.
 When comparing these data across the animal phylogeny, we find that the expression of Frizzled genes is relatively conserved, whereas the expression of Wnt genes is more variable.
 
 **Conclusions:**
 Our results suggest that the differential activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of brachiopod larvae.
 More generally, our analyses suggest that changes in the receptor context of Wnt ligands may act as a mechanism for the evolution and diversification of the body axis of bilaterians.
+
+# Keywords
+
+Brachiopoda, Gene expression, Axial patterning, Wnt pathways, Larva, Combinatorial regulation, Receptor context
 
 # Background
 
@@ -900,13 +904,35 @@ For fluorescent samples, we scanned volumetric stacks in a Leica TCS SP5 confoca
 We adjusted intensity levels without clipping high or low ranges to improve the contrast using Fiji or GIMP.
 Illustrations and figure plates were assembled using Inkscape.
 
-# Acknowledgments
+# Declarations
 
-We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for helping with the spawnings and sample collections, Katrine Worsaae for the initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
+## Availability of data and materials
+
+The data and analyses are available in the Zenodo repository [https://doi.org/10.5281/zenodo.8312023](https://doi.org/10.5281/zenodo.8312023).
+
+## Competing interests
+
+The authors declare that they have no competing interests.
+
+## Funding
+
 The study was funded by the Michael Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014--2020) ERC grant agreement 648861 to AH.
 The animal collections were supported by a Meltzer Research Fund.
 BCV was funded by an EMBO Long-Term Fellowship (ALTF 74-2018) during the writing of this manuscript.
-BCV also thanks Pavel Tomančák for the generous support.
+
+## Authors’ contributions
+
+AH, JMMD, and BCV designed the study and collected the samples.
+BCV, JMMD, and AB performed gene cloning, *in situ* hybridization, and imaging.
+BCV performed the phylogenetic and transcriptomic analyses.
+BCV analyzed the data, prepared the figures, and wrote the manuscript.
+AH and JMMD revised and contributed to the text.
+All authors read and approved the final manuscript.
+
+## Acknowledgments
+
+We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae for the initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
+BCV thanks Pavel Tomančák for the generous support during the preparation of this work.
 
 # References
 
