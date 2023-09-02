@@ -1067,8 +1067,8 @@ The other species are *Biomphalaria glabrata* (Bgla), *Branchiostoma floridae* (
 ](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *wnt* genes.
-Additional views of Wnt expression between early gastrula and late larva.
-Samples oriented in lateral view, except where indicated for dorsal (D) or posterior (P) views.
+Additional lateral views of Wnt expression between early gastrula and late larva.
+Dorsal (D) or posterior (P) views are indicated in the respective panels.
 ](figures/FigS2.jpg){#fig:s-ligands tag=S2 width=15cm}
 
 ![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* *wnt* genes.
@@ -1090,9 +1090,11 @@ The color-coding represents different Frizzled subfamilies and the numbers show 
 The other species are *Branchiostoma belcheri* (Bbel), *Capitella teleta* (Ctel), *Drosophila melanogaster* (Dmel), *Euperipatoides kanangrensis* (Ekan), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Mus musculus* (Mmus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS4.jpg){#fig:fzd-tree tag=S4 width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of Frizzled receptors in
-*Terebratalia transversa*.](figures/FigS5.jpg){#fig:s-receptors tag=S5
-width=15cm}
+![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *fz* genes.
+Lateral, dorsal (D), and posterior (P) views between early gastrula and late larva.
+Samples oriented with anterior to the top and ventral to the right.
+In posterior views, the dorsal side to the top.
+](figures/FigS5.jpg){#fig:s-receptors tag=S5 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* sFRP proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of sFRP genes.
@@ -1101,9 +1103,11 @@ The color-coding represents different sFRP subfamilies and the numbers show the 
 The other species are *Homo sapiens* (Hsap), *Crassostrea gigantea* (Cgig), *Mus musculus* (Mmus), and *Platynereis dumerilii* (Pdum).
 ](figures/FigS6.jpg){#fig:sfrp-tree tag=S6 width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of Wnt antagonists in
-*Terebratalia transversa*.](figures/FigS7.jpg){#fig:s-antagonists tag=S7
-width=15cm}
+![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt antagonists.
+Lateral views between early gastrula and late larva.
+Samples oriented with anterior to the top and ventral to the right.
+Dorsal views (D) are indicated in their respective panels.
+](figures/FigS7.jpg){#fig:s-antagonists tag=S7 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Dkk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dkk from diverse metazoans.
@@ -1137,10 +1141,12 @@ The other species are *Branchiostoma floridae* (Bflo), *Homo sapiens* (Hsap), *P
 
 <!--![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *bcat*. Phylogenetic analysis of the amino acid sequences of known metazoan *bcat* genes.](figures/FigS11.jpg){#fig:bcat-tree tag=S11 width=15cm}-->
 
-![Expression dynamics of cell polarity components throughout *Terebratalia
-transversa* development. Heatmap shows the log normalized counts from
-stage-specific RNA-seq data.](figures/FigS11.jpg){#fig:s-profiling tag=S11
-width=15cm}
+![Expression of Wnt/PCP pathway during *Terebratalia transversa* development.
+The heatmap represents the log-normalized transcript counts for *dsh*, *dgo*, *pk*, *fmi*, *stbm*, and *jnk* calculated from stage-specific RNA-seq data.
+Each cell shows the average value between two replicates.
+The illustrations depict *T. transversa* developmental stages from the oocyte until the post-metamorphic juvenile.
+The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
+](figures/FigS11.jpg){#fig:s-profiling tag=S11 width=15cm}
 
 <!--![Whole-mount colorimetric *in situ* hybridization of Wnt intracellular components in *Terebratalia transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=15cm}-->
 
@@ -1180,9 +1186,9 @@ As outgroup, we used the related protein Mapk14.
 The other species are *Homo sapiens* (Hsap), *Mus musculus* (Mmus), *Petromyzon marinus* (Pmar), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS16.jpg){#fig:jnk-tree tag=S16 width=15cm}
 
-![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
-*Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
-Broad receptor territories are essentially the same along the anteroposterior
-axis. There are common ligand--receptor combinations between the two animals
-forming unique transcriptional regions in the embryo that corresponds to
-differentiated body regions.](figures/FigS17.jpg){#fig:s-comparative tag=S17 width=15cm}
+![Wnt signaling ligand--receptor contexts of *Terebratalia transversa* compared to other animals.
+(A) Spatial localization of *wnt* ligands, *fz* receptors, and *dkk*/*sfrp* antagonists highlighting the transcriptional subregions of *Terebratalia* (brachiopod), *Saccoglossus* (hemichordate), and *Platynereis* (annelid). 
+Wnt genes are colored by subfamilies, Frizzled genes by lighter shades of grey, and Wnt antagonists by darker shades of grey.
+(B) Detailed comparison of shared and different unique combinations of Wnt signaling components between a brachiopod and an hemichordate.
+Solid lines represent morphological boundaries for the apical, mantle, and pedicle lobes, and dashed lines represent boundaries between transcriptional subregions.
+](figures/FigS17.jpg){#fig:s-comparative tag=S17 width=15cm}
