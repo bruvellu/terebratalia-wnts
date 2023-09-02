@@ -1055,7 +1055,7 @@ Table: Developmental stages sampled for the stage-specific transcriptome of *Ter
 
 ## Figures
 
-![Phylogenetic analysis of *Terebratalia transversa* *wnt1* paralogs.
+![Phylogenetic analysis of *Terebratalia transversa* Wnt1 proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using amino acid sequences of genes from the *wnt1* subfamily with *wnt6* as an outgroup.
 Branch lengths are proportional to the amount of sequence change and the numbers show the support values of individual branches.
 Both *Terebratalia transversa* (Ttra) and *Lingula anatina* (Lana), a rhynchonelliform and a linguliform brachiopod, respectively, have two copies of *wnt1*.
@@ -1066,12 +1066,12 @@ Taxon sampling was focused in spiralians.
 The other species are *Biomphalaria glabrata* (Bgla), *Branchiostoma floridae* (Bflo), *Bugula neritina* (Bner), *Capitella teleta* (Ctel), *Crassostrea virginica* (Cvir), *Doryteuthis pealeii* (Dpea), *Euprymna scolopes* (Esco), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Membranipora membranacea* (Mmem), *Mizuhopecten yessoensis* (Myes), *Mytilus coruscus* (Mcor), *Mytilus edulis* (Medu), *Mytilus galloprovincialis* (Mgal), *Pecten maximus* (Pmax), *Perinereis nuntia* (Pnun), *Plakobranchus ocellatus* (Poce), *Platynereis dumerilii* (Pdum), *Saccoglossus kowalevskii* (Skow), and *Urechis unicinctus* (Uuni).
 ](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt genes.
+![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *wnt* genes.
 Additional views of Wnt expression between early gastrula and late larva.
 Samples oriented in lateral view, except where indicated for dorsal (D) or posterior (P) views.
 ](figures/FigS2.jpg){#fig:s-ligands tag=S2 width=15cm}
 
-![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* Wnt genes.
+![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* *wnt* genes.
 (A--D) Expression of *wnt1* (magenta) and *wnt4* (green) in the mid gastrula (A,B) and late gastrula (C,D).
 (E,G) Expression of *wnt1* (magenta) and *wnt8* (green) in the mid gastrula (E) and early larva (G).
 (F) Expression of *wnt1* (magenta) and *wnt5* (green) in the late gastrula.
@@ -1083,8 +1083,8 @@ Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
 ](figures/FigS3.jpg){#fig:s-doubles tag=S3 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Frizzled genes.
-Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of well-annotated Frizzled genes.
+![Orthology assignment of *Terebratalia transversa* Frizzled proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of well-annotated Frizzled proteins.
 The color-coding represents different Frizzled subfamilies and the numbers show the support values of individual branches.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma belcheri* (Bbel), *Capitella teleta* (Ctel), *Drosophila melanogaster* (Dmel), *Euperipatoides kanangrensis* (Ekan), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Mus musculus* (Mmus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
@@ -1094,8 +1094,8 @@ The other species are *Branchiostoma belcheri* (Bbel), *Capitella teleta* (Ctel)
 *Terebratalia transversa*.](figures/FigS5.jpg){#fig:s-receptors tag=S5
 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* sFRP genes.
-Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of *sfrp* genes.
+![Orthology assignment of *Terebratalia transversa* sFRP proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of sFRP genes.
 The color-coding represents different sFRP subfamilies and the numbers show the support values of individual branches.
 *Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
 The other species are *Homo sapiens* (Hsap), *Crassostrea gigantea* (Cgig), *Mus musculus* (Mmus), and *Platynereis dumerilii* (Pdum).
@@ -1105,8 +1105,8 @@ The other species are *Homo sapiens* (Hsap), *Crassostrea gigantea* (Cgig), *Mus
 *Terebratalia transversa*.](figures/FigS7.jpg){#fig:s-antagonists tag=S7
 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Dkk genes.
-Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of *dkk* genes from diverse metazoans.
+![Orthology assignment of *Terebratalia transversa* Dkk proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dkk from diverse metazoans.
 Color-coding represents different Dkk subfamilies.
 Numbers show support values of individual branches.
 *Terebratalia transversa* (Ttra) ortholog, highlighted in bold, groups with a previously unidentified Dkk subfamily, in addition to *dkk3* and *dkk1/2/4*, which we named *dkk5*.
@@ -1118,9 +1118,14 @@ Overall, this suggests *dkk1/2/4*, *dkk3*, and *dkk5* were the ancestral subfami
 The other species are *Homo sapiens* (Hsap), *Lingula anatina* (Lana), and *Strongylocentrotus purpuratus* (Spur).
 ](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Wnt antagonist *wif*.
-Phylogenetic analysis of the amino acid sequences of known metazoan *wif*
-genes.](figures/FigS9.jpg){#fig:wif-tree tag=S9 width=15cm}
+![Orthology assignment of *Terebratalia transversa* Wif proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known Wif proteins (Wnt inhibitory factor).
+As an outgroup, we used the tyrosine-protein kinase Ryk which also has a WIF domain.
+The color-coding represents Wif and Ryk families.
+Numbers show the support values of individual branches.
+*Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
+The other species are *Capitella teleta* (Ctel), *Crassostrea gigantea* (Cgig), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), and *Saccoglossus kowalevskii* (Skow).
+](figures/FigS9.jpg){#fig:wif-tree tag=S9 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wnt intracellular component
 *dsh* and *axin*. Phylogenetic analysis of the amino acid sequences of known
