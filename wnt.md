@@ -940,6 +940,7 @@ The samples are oriented with a blastoporal/ventral view and the anterior end to
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads indicate the mantle--pedicle boundary.
 Panels for *wnt1* originally published under a Creative Commons Attribution License in @Vellutini2016-lq and reprinted here for completion.
+Scale bars = 20µm.
 ](figures/Fig3.jpg){#fig:ligands1 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA*.
@@ -947,6 +948,7 @@ Developmental stages between early gastrula and late larva.
 The samples are oriented with a blastoporal/ventral view and the anterior end to the top.
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
+Scale bars = 20µm.
 ](figures/Fig4.jpg){#fig:ligands2 width=15cm}
 
 ![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* Wnt genes.
@@ -959,6 +961,7 @@ Areas in the tissue where the expression overlaps appear in white.
 Samples oriented with the anterior end to the top.
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
+Scale bars = 20µm.
 ](figures/Fig5.jpg){#fig:doubles width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Frizzled and Wnt antagonist genes.
@@ -966,6 +969,7 @@ Developmental stages between early gastrula and late larva for *fz1/2/7*, *fz4*,
 The samples are oriented with a blastoporal/ventral view and the anterior end to the top, except for *sfrp1/2/5* early gastrula showing the apical pole.
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
+Scale bars = 20µm.
 ](figures/Fig6.jpg){#fig:fzdantag width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt/PCP pathway components.
@@ -973,6 +977,7 @@ Developmental stages between early gastrula and late gastrula for *dsh*, *dgo*, 
 The samples are oriented in a blastoporal/ventral view (left) and in a lateral view (right).
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
+Scale bars = 20µm.
 ](figures/Fig7.jpg){#fig:polarity width=15cm}
 
 ![Summary of *Terebratalia transversa* Wnt signaling landscape.
