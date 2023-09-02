@@ -1115,7 +1115,7 @@ Vertebrates lost *dkk5*.
 Protostomes lost *dkk1/2/4* and *dkk3* early on, but retained *dkk5* in some lineages such as *T. transversa*, *Priapulus caudatus* (Pcau), and *Owenia fusiformis* (Ofus).
 Cnidarians expanded *dkk3* but lost *dkk1/2/4*.
 Overall, this suggests *dkk1/2/4*, *dkk3*, and *dkk5* were the ancestral subfamilies in the Cnidaria--bilaterian branch.
-The other species are *Homo sapiens* (Hsap), *Lingula anatina* (Lana), and *Strongylocentrotus purpuratus* (Spur).
+The other species are *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), and *Strongylocentrotus purpuratus* (Spur).
 ](figures/FigS8.jpg){#fig:dkk-tree tag=S8 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wif proteins.
@@ -1127,10 +1127,13 @@ Numbers show the support values of individual branches.
 The other species are *Capitella teleta* (Ctel), *Crassostrea gigantea* (Cgig), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS9.jpg){#fig:wif-tree tag=S9 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Wnt intracellular component
-*dsh* and *axin*. Phylogenetic analysis of the amino acid sequences of known
-metazoan *dsh* and *axin* genes.](figures/FigS10.jpg){#fig:dsh-tree tag=S10
-width=15cm}
+![Orthology assignment of *Terebratalia transversa* Dsh proteins. 
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known Dsh, Axin, and Dixin proteins.
+The three belong to the DIX domain superfamily.
+Each family is color-coded and the numbers numbers show support values of individual branches.
+*Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
+The other species are *Branchiostoma floridae* (Bflo), *Homo sapiens* (Hsap), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
+](figures/FigS10.jpg){#fig:dsh-tree tag=S10 width=15cm}
 
 <!--![Orthology assignment of *Terebratalia transversa* Wnt intracellular component *bcat*. Phylogenetic analysis of the amino acid sequences of known metazoan *bcat* genes.](figures/FigS11.jpg){#fig:bcat-tree tag=S11 width=15cm}-->
 
@@ -1141,29 +1144,41 @@ width=15cm}
 
 <!--![Whole-mount colorimetric *in situ* hybridization of Wnt intracellular components in *Terebratalia transversa*.](figures/FigS13.jpg){#fig:s-intracellular tag=S13 width=15cm}-->
 
-![Orthology assignment of *Terebratalia transversa* cell polarity component
-*diego* (*diversin* or *ankrd6*). Phylogenetic analysis of the amino acid sequences of
-known metazoan *diego* genes.](figures/FigS12.jpg){#fig:dgo-tree tag=S12
-width=15cm}
+![Orthology assignment of *Terebratalia transversa* Dgo proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dgo (ANKR6 or Diversin).
+We used Inversin proteins as an outgroup since they also have ankyrin repeats.
+*Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
+The other species are *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Limulus polyphemus* (Lpol), *Mus musculus* (Mmus), *Mytilus coruscus* (Mcor), and *Xenopus tropicalis* (Xtro).
+](figures/FigS12.jpg){#fig:dgo-tree tag=S12 width=15cm}
 
 <!--![Whole-mount colorimetric *in situ* hybridization of the cell polarity Wnt signaling pathway in *Terebratalia transversa*.](figures/FigS15.jpg){#fig:s-polarity tag=S15 width=15cm}-->
 
-![Orthology assignment of *Terebratalia transversa* cell polarity component
-*prickle*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*prickle* genes.](figures/FigS13.jpg){#fig:pk-tree tag=S13 width=15cm}
+![Orthology assignment of *Terebratalia transversa* Pk proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Pk from diverse metazoans.
+As an outgroup, we used Testin, a related protein which also contains a LIM and a PET domain. 
+*Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
+The other species are *Clytia hemisphaerica* (Chem), *Crassostrea gigantea* (Cgig), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), *Pecten maximus* (Pmax), and *Saccoglossus kowalevskii* (Skow).
+](figures/FigS13.jpg){#fig:pk-tree tag=S13 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* cell polarity component
-*flamingo*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*flamingo* genes.](figures/FigS14.jpg){#fig:fmi-tree tag=S14 width=15cm}
+![Orthology assignment of *Terebratalia transversa* Fmi proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Fmi.
+As outgroups, we used the related Fat family protocadherins which also contain cadherin and laminin domains.
+*Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
+The other species are *Branchiostoma floridae* (Bflo), *Clytia hemisphaerica* (Chem), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), *Owenia fusiformis* (Ofus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
+](figures/FigS14.jpg){#fig:fmi-tree tag=S14 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* cell polarity component
-*strabismus*. Phylogenetic analysis of the amino acid sequences of known
-metazoan *strabismus* genes.](figures/FigS15.jpg){#fig:stbm-tree tag=S15
-width=15cm}
+![Orthology assignment of *Terebratalia transversa* Stbm proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Stbm from selected metazoans.
+*Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
+The other species are *Clytia hemisphaerica* (Chem), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), and *Nematostella vectensis* (Nvec).
+](figures/FigS15.jpg){#fig:stbm-tree tag=S15 width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* cell polarity component
-*jnk*. Phylogenetic analysis of the amino acid sequences of known metazoan
-*jnk* genes.](figures/FigS16.jpg){#fig:jnk-tree tag=S16 width=15cm}
+![Orthology assignment of *Terebratalia transversa* Jnk proteins.
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Jnk.
+As outgroup, we used the related protein Mapk14.
+*Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
+The other species are *Homo sapiens* (Hsap), *Mus musculus* (Mmus), *Petromyzon marinus* (Pmar), and *Saccoglossus kowalevskii* (Skow).
+](figures/FigS16.jpg){#fig:jnk-tree tag=S16 width=15cm}
 
 ![Comparative Wnt signaling ligand--receptor landscape between the brachiopod
 *Terebratalia transversa* and the hemichordate *Saccoglossus kowalevskii*.
