@@ -23,7 +23,7 @@ refs:
 
 figs:
 	# Copy figure files to figure directory with official naming
-	cp -vu ${FIGDIR}/wnt_tree/wnt-tree.png ${FIGSRC}/Fig1.png
+	cp -vu ${FIGDIR}/wnt-tree/wnt-tree.png ${FIGSRC}/Fig1.png
 	cp -vu ${FIGDIR}/03-profiling/profiling.png ${FIGSRC}/Fig2.png
 	cp -vu ${FIGDIR}/04-ligands/ligands1.png ${FIGSRC}/Fig3.png
 	cp -vu ${FIGDIR}/04-ligands/ligands2.png ${FIGSRC}/Fig4.png

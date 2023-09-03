@@ -7,7 +7,7 @@ Some folders also include a supplementary figure.
 
 ## Directories
 
-- wnt_tree: main phylogenetic tree of Wnt genes.
+- [`wnt-tree`](wnt-tree): main phylogenetic tree of Wnt genes.
 - 03-profiling
 - 04-ligands
 - 09-doubles
