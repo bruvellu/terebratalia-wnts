@@ -6,7 +6,7 @@ This repository contains the data, analyses, and manuscript associated with our 
 
 - [`0-data`](0-data): sequencing and imaging data.
 - [`1-figures`](1-figures): source figure plates.
-- [`2-manuscript`](2-manuscript): source text files.
+- [`2-text`](2-text): source text files.
 
 ## Citation
 
