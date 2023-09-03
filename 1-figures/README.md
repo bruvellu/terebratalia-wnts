@@ -12,7 +12,7 @@ Some folders also include a supplementary figure.
 - [`ligands`](ligands): colorimetric *in situ* hybridization of Wnt genes.
 - [`doubles`](doubles): double fluorescent *in situ* hybridization of Wnt genes.
 - [`fzdantag`](fzdantag): *in situ* hybridization of Frizzled and Wnt antagonist genes.
-- 08-polarity
+- [`polarity`](polarity): *in situ* hybridization of planar cell polarity genes.
 - 10-summary
 - 11-comparative
 - 13-trees
