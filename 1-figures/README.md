@@ -14,7 +14,7 @@ Some folders also include a supplementary figure.
 - [`fzdantag`](fzdantag): *in situ* hybridization of Frizzled and Wnt antagonist genes.
 - [`polarity`](polarity): *in situ* hybridization of planar cell polarity genes.
 - [`summary`](summary): overview of Wnt landscape in *Terebratalia transversa*.
-- 11-comparative
+- [`comparative`](comparative): overview of Wnt landscape across the phylogeny.
 - 13-trees
 - 05-receptors
 - 06-antagonists

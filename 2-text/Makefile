@@ -31,7 +31,7 @@ figs:
 	cp -vu ${FIGDIR}/fzdantag/fzdantag.png ${FIGSRC}/Fig6.png
 	cp -vu ${FIGDIR}/polarity/polarity.png ${FIGSRC}/Fig7.png
 	cp -vu ${FIGDIR}/summary/summary.png ${FIGSRC}/Fig8.png
-	cp -vu ${FIGDIR}/11-comparative/comparative.png ${FIGSRC}/Fig9.png
+	cp -vu ${FIGDIR}/comparative/comparative.png ${FIGSRC}/Fig9.png
 	# Supplementary
 	cp -vu ${FIGDIR}/13-trees/wnt1-tree.png ${FIGSRC}/FigS1.png
 	cp -vu ${FIGDIR}/ligands/s-ligands.png ${FIGSRC}/FigS2.png
@@ -49,7 +49,7 @@ figs:
 	cp -vu ${FIGDIR}/13-trees/fmi-tree.png ${FIGSRC}/FigS14.png
 	cp -vu ${FIGDIR}/13-trees/stbm-tree.png ${FIGSRC}/FigS15.png
 	cp -vu ${FIGDIR}/13-trees/jnk-tree.png ${FIGSRC}/FigS16.png
-	cp -vu ${FIGDIR}/11-comparative/s-comparative.png ${FIGSRC}/FigS17.png
+	cp -vu ${FIGDIR}/comparative/s-comparative.png ${FIGSRC}/FigS17.png
 	# Convert to JPG for visualization
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGSRC}/*.png
 
