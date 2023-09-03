@@ -1,0 +1,321 @@
+---
+title: "Terebratalia stage-specific RNA-seq"
+author: "Bruno C. Vellutini"
+date: "October 13, 2019"
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, tidy = TRUE, cache = FALSE)
+knitr::opts_knit$set(root.dir = "../")
+```
+
+## Objective
+
+Analyze the developmental transcriptome of the brachiopod _Terebratalia transversa_.
+
+## Samples
+
+We collected adult brachiopods in Friday Harbor Laboratory, dissected ripe females to extract eggs and fertilized with a sperm mix from three different males. Representative developmental stages were identified visually, collected and preserved in RNAlater. Each replicate comes from a single female, except samples S13 and S14 from R1 which come from a third female.
+
+```{r import}
+# Experimental conditions. Columns: stage (factor) and days (numeric)
+samples <- read.table("data/samples.tsv", header = TRUE, stringsAsFactors = TRUE)
+samples
+```
+
+## RNA Sequencing
+
+We extracted the total RNA from all samples and sent for RNA-seq to the EMBL Genomic Core Facilities (GENECORE). Samples were randomized using http://www.random.org/lists/ and sequenced on four different lanes using a Illumina HighSeq 2000 with 50bp SE reads.
+
+## Transcript quantification
+
+We quantified transcript abundances using [Kallisto](https://pachterlab.github.io/kallisto/).
+
+```{r, engine='sh', eval=FALSE}
+# samples.tsv = contains sample names and location of the fastq files
+
+# Indexing
+kallisto index -i Ttra_tri.idx Ttra_tri.fa
+
+# Quantify in a loop
+while IFS=$'\t' read -ra line
+do
+    sample="${line[2]}"
+    reads="${line[3]}"
+    echo "Quantifying ${sample} ${reads}"
+    kallisto quant -i Ttra_tri.idx -b 100 -t 16 --bias --single --fragment-length=200 --sd=20 -o "newquant/${sample}" "${reads}"
+done < samples.tsv > quant.out 2>&1 &
+```
+
+## Import transcript abundances
+
+```{r import}
+# Create a transcript-to-gene mapping
+tx2gene <- read.table("data/tx2gene.tsv", header = FALSE, stringsAsFactors = TRUE)
+
+# Import kallisto quantification
+library(tximport)
+
+# Import gene-level counts from kallisto h5 files
+txi <- tximport(as.vector(samples$file), type = "kallisto", tx2gene = tx2gene)
+```
+
+## Create DESeq2 dataset
+
+```{r dds}
+# Load DESeq2 package
+library(DESeq2)
+
+# Create DESeq2 dataset
+dds <- DESeqDataSetFromTximport(txi, colData = samples, design = ~ stage)
+```
+
+## Plot dispersion estimates
+
+```{r dispersion}
+# Estimate size factors and dispersions
+dds <- estimateSizeFactors(dds)
+dds <- estimateDispersions(dds)
+
+# Save to file for later use
+saveRDS(dds, "docs/objects/dds.rds")
+
+# Plot dispersion
+plotDispEsts(dds)
+
+# Save dispersion plot to file
+pdf("out/plots/dispersion.pdf")
+plotDispEsts(dds)
+dev.off()
+```
+
+## Variance stabilizing transformation
+
+```{r current-mean-by-sd}
+# Required to plot mean by sd
+library(vsn)
+
+# Norm transform
+ntd <- normTransform(dds)
+vsd <- vst(dds, blind=FALSE)
+
+# Save to file for later use
+saveRDS(vsd, "docs/objects/vsd.rds")
+
+# Plot current mean by sd
+meanSdPlot(assay(ntd))
+meanSdPlot(assay(vsd))
+
+# Plot mean-by-sd
+msp <- meanSdPlot(assay(vsd))
+
+# Load cowplot
+library(cowplot)
+
+# Save transformed meanSdPlot to file
+save_plot("out/plots/mean_by_sd.pdf", msp$gg, base_height = 6, base_aspect_ratio = 1.1)
+```
+
+## Plot sample to sample distances
+
+```{r sample-dists, fig.width=9, fig.height=6}
+# Get variance stabilized distances
+vsd_dist <- dist(t(assay(vsd)))
+vsd_distmat <- as.matrix(vsd_dist)
+
+# Define colnames
+rownames(vsd_distmat) <- NULL
+colnames(vsd_distmat) <- vsd$sample
+
+# Load color palettes
+library(RColorBrewer)
+
+# Use a blue palette
+blues <- colorRampPalette(brewer.pal(9, "Blues"))(255)
+
+# Define rownames
+annot <- as.data.frame(colData(dds))
+rownames(annot) <- annot$sample
+
+# Load pheatmap
+library(pheatmap)
+
+# Plot heatmap
+ssp <- pheatmap(vsd_distmat,
+                clustering_distance_rows=vsd_dist,
+                clustering_distance_cols=vsd_dist,
+                annotation_col = subset(annot, select = stage),
+                color = blues,
+                border_color = "white",
+                angle_col = 0)
+
+# Save sample distances heatmap to file
+save_plot("out/plots/sample_dists.pdf", ssp, base_height = 12, base_aspect_ratio = 1.5)
+```
+
+## Plot PCA samples
+
+```{r sample-pca}
+# Plot PCA samples using ~n diff genes
+pcap <- plotPCA(vsd, intgroup=c("stage"), ntop = 500)
+pcap
+
+# Save PCA plot to file
+save_plot("out/plots/sample_pca.pdf", pcap, base_height = 6, base_aspect_ratio = 1.5)
+```
+
+## Prepare plotting data
+
+```{r load}
+# Load DESeq2 package
+library(DESeq2)
+
+# Load cowplot
+library(cowplot)
+
+# Load heatmap function
+source("../scripts/heatmap.R")
+
+# Load vsd if needed
+vsd <- readRDS("../docs/objects/vsd.rds")
+
+# Define heatmap annotations
+heat_annot <- as.data.frame(colData(vsd)$stage)
+colnames(heat_annot) <- "stage"
+rownames(heat_annot) <- colData(vsd)$sample
+```
+
+## Wnt ligands, receptors, and antagonists
+
+```{r wnt-ligands}
+# Wnt contigs
+wnt_ids <- c(
+  "Ttra.rna.tri.7468",  # wnt1
+  "Ttra.rna.tri.1261",  # wnt1t
+  "Ttra.rna.tri.24515", # wnt2
+  "Ttra.rna.tri.5093",  # wnt4
+  "Ttra.rna.tri.6891",  # wnt5
+  "Ttra.rna.tri.4961",  # wnt6
+  "Ttra.rna.tri.14497", # wnt7
+  "Ttra.rna.tri.5446",  # wnt8
+  "Ttra.rna.tri.13505", # wnt9
+  "Ttra.rna.tri.8266",  # wnt10
+  "Ttra.rna.tri.5168",  # wnt11
+  "Ttra.rna.tri.7943",  # wnt16
+  "Ttra.rna.tri.11019", # wntA
+    
+  "Ttra.rna.tri.4975",  # fz1/2/7
+  "Ttra.rna.tri.4749",  # fz4
+  "Ttra.rna.tri.5063",  # fz5/8
+  "Ttra.rna.tri.6352",  # fz9/10
+  
+  "Ttra.rna.tri.4079",  # sfrp
+  "Ttra.rna.tri.6743",  # dkk
+  "Ttra.rna.tri.8492"   # wif
+)
+
+# Wnt gene names
+wnt_labels <- c("wnt1", "wnt1t", "wnt2", "wnt4", "wnt5", "wnt6", "wnt7",
+                "wnt8", "wnt9", "wnt10", "wnt11", "wnt16", "wntA",
+                "fz1/2/7", "fz4", "fz5/8", "fz9/10", "sfrp", "dkk", "wif")
+
+# Define data and col/row names
+wnt_data <- prep_data(vsd, wnt_ids, wnt_labels)
+
+# Plot Wnt heatmap
+wnt_hmp <- plot_heatmap(wnt_data, heat_annot, blues, rowgaps = c(13,17), breaks = seq(from = 4, to = 14, length.out = 256))
+
+# Save plot to file
+save_plot("../out/plots/heat_all.pdf", wnt_hmp, base_height = 6, base_aspect_ratio = 3)
+```
+
+## Wnt ligands (mean)
+
+```{r wnt-mean}
+# Dataframe with mean expression between replicates
+wnt_mean <- data.frame(row.names = rownames(wnt_data))
+wnt_mean$S01 <- (wnt_data[,1] + wnt_data[,2]) / 2
+wnt_mean$S02 <- (wnt_data[,3] + wnt_data[,4]) / 2
+wnt_mean$S03 <- (wnt_data[,5] + wnt_data[,6]) / 2
+wnt_mean$S04 <- (wnt_data[,7] + wnt_data[,8]) / 2
+wnt_mean$S05 <- (wnt_data[,9] + wnt_data[,10]) / 2
+wnt_mean$S06 <- (wnt_data[,11] + wnt_data[,12]) / 2
+wnt_mean$S07 <- (wnt_data[,13] + wnt_data[,14]) / 2
+wnt_mean$S08 <- (wnt_data[,15] + wnt_data[,16]) / 2
+wnt_mean$S09 <- (wnt_data[,17] + wnt_data[,18]) / 2
+wnt_mean$S10 <- (wnt_data[,19] + wnt_data[,20]) / 2
+wnt_mean$S11 <- (wnt_data[,21] + wnt_data[,22]) / 2
+wnt_mean$S12 <- (wnt_data[,23] + wnt_data[,24]) / 2
+wnt_mean$S13 <- (wnt_data[,25] + wnt_data[,26]) / 2
+wnt_mean$S14 <- (wnt_data[,27] + wnt_data[,28]) / 2
+
+# Load annotations
+annot_mean <- data.frame(row.names = colnames(wnt_mean))
+annot_mean$stage <- as.vector(unique(heat_annot$stage))
+
+# Plot wnt heatmap
+wnt_hmp_mean <- plot_heatmap(wnt_mean, annot_mean, blues, rowgaps = c(13,17), breaks = seq(from = 5, to = 14, length.out = 256))
+
+# Save plot to file
+save_plot("../out/plots/heat_all_mean.pdf", wnt_hmp_mean, base_height = 8, base_aspect_ratio = 1.5)
+```
+
+## Cell polarity components
+
+```{r polarity}
+# Cell polarity contigs
+pol_ids <- c(
+  "Ttra.rna.tri.4968",  # dishevelled
+  "Ttra.rna.tri.15638", # diego
+  "Ttra.rna.tri.7507",  # prickle
+  "Ttra.rna.tri.5936",  # flamingo
+  "Ttra.rna.tri.4679",  # strabismus
+  "Ttra.rna.tri.5065"  # jnk
+  #"Ttra.rna.tri.4631",  # axin
+  #"Ttra.rna.tri.3834"   # beta-catenin
+)
+
+# Cell polarity gene names
+pol_labels <- c("dsh", "dgo", "pk", "fmi", "stbm", "jnk")
+#pol_labels <- c("dsh", "dgo", "pk", "fmi", "stbm", "jnk", "axin", "b-cat")
+
+# Define data and col/row names
+pol_data <- prep_data(vsd, pol_ids, pol_labels)
+
+# Plot cell polarity heatmap
+pol_hmp <- plot_heatmap(pol_data, heat_annot, blues, breaks = seq(from = 4, to = 18, length.out = 256))
+
+# Save plot to file
+save_plot("../out/plots/heat_pol.pdf", pol_hmp, base_height = 8, base_aspect_ratio = 2.5)
+```
+
+## Cell polarity components (mean)
+
+```{r polarity}
+# Dataframe with mean expression between replicates
+pol_mean <- data.frame(row.names = rownames(pol_data))
+pol_mean$S01 <- (pol_data[,1] + pol_data[,2]) / 2
+pol_mean$S02 <- (pol_data[,3] + pol_data[,4]) / 2
+pol_mean$S03 <- (pol_data[,5] + pol_data[,6]) / 2
+pol_mean$S04 <- (pol_data[,7] + pol_data[,8]) / 2
+pol_mean$S05 <- (pol_data[,9] + pol_data[,10]) / 2
+pol_mean$S06 <- (pol_data[,11] + pol_data[,12]) / 2
+pol_mean$S07 <- (pol_data[,13] + pol_data[,14]) / 2
+pol_mean$S08 <- (pol_data[,15] + pol_data[,16]) / 2
+pol_mean$S09 <- (pol_data[,17] + pol_data[,18]) / 2
+pol_mean$S10 <- (pol_data[,19] + pol_data[,20]) / 2
+pol_mean$S11 <- (pol_data[,21] + pol_data[,22]) / 2
+pol_mean$S12 <- (pol_data[,23] + pol_data[,24]) / 2
+pol_mean$S13 <- (pol_data[,25] + pol_data[,26]) / 2
+pol_mean$S14 <- (pol_data[,27] + pol_data[,28]) / 2
+
+# Load annotations
+annot_mean <- data.frame(row.names = colnames(pol_mean))
+annot_mean$stage <- as.vector(unique(heat_annot$stage))
+
+# Plot wnt heatmap
+pol_hmp_mean <- plot_heatmap(pol_mean, annot_mean, blues, rowgaps = c(5), breaks = seq(from = 5, to = 14, length.out = 256))
+
+# Save plot to file
+save_plot("../out/plots/heat_pol_mean.pdf", pol_hmp_mean, base_height = 4.5, base_aspect_ratio = 2)
+```

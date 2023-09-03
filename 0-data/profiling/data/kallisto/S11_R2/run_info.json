@@ -1,0 +1,13 @@
+{
+	"n_targets": 50007,
+	"n_bootstraps": 100,
+	"n_processed": 24415235,
+	"n_pseudoaligned": 20717956,
+	"n_unique": 20631335,
+	"p_pseudoaligned": 84.9,
+	"p_unique": 84.5,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Sun Oct 13 12:33:28 2019",
+	"call": "kallisto quant -i Ttra_tri.idx -b 100 -t 16 --bias --single --fragment-length=200 --sd=20 -o newquant/S11_R2 profiling/S11_F2.fq.gz"
+}
