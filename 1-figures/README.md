@@ -15,6 +15,6 @@ Some folders also include a supplementary figure.
 - [`polarity`](polarity): *in situ* hybridization of planar cell polarity genes.
 - [`summary`](summary): overview of Wnt landscape in *Terebratalia transversa*.
 - [`comparative`](comparative): overview of Wnt landscape across the phylogeny.
-- 13-trees
+- [`trees`](trees): phylogenetic trees of all Wnt signaling components.
 - 05-receptors
 - 06-antagonists

@@ -33,22 +33,22 @@ figs:
 	cp -vu ${FIGDIR}/summary/summary.png ${FIGSRC}/Fig8.png
 	cp -vu ${FIGDIR}/comparative/comparative.png ${FIGSRC}/Fig9.png
 	# Supplementary
-	cp -vu ${FIGDIR}/13-trees/wnt1-tree.png ${FIGSRC}/FigS1.png
+	cp -vu ${FIGDIR}/trees/wnt1-tree.png ${FIGSRC}/FigS1.png
 	cp -vu ${FIGDIR}/ligands/s-ligands.png ${FIGSRC}/FigS2.png
 	cp -vu ${FIGDIR}/doubles/s-doubles.png ${FIGSRC}/FigS3.png
-	cp -vu ${FIGDIR}/13-trees/fzd-tree.png ${FIGSRC}/FigS4.png
+	cp -vu ${FIGDIR}/trees/fzd-tree.png ${FIGSRC}/FigS4.png
 	cp -vu ${FIGDIR}/05-receptors/s-receptors.png ${FIGSRC}/FigS5.png
-	cp -vu ${FIGDIR}/13-trees/sfrp-tree.png ${FIGSRC}/FigS6.png
+	cp -vu ${FIGDIR}/trees/sfrp-tree.png ${FIGSRC}/FigS6.png
 	cp -vu ${FIGDIR}/06-antagonists/s-antagonists.png ${FIGSRC}/FigS7.png
-	cp -vu ${FIGDIR}/13-trees/dkk-tree.png ${FIGSRC}/FigS8.png
-	cp -vu ${FIGDIR}/13-trees/wif-tree.png ${FIGSRC}/FigS9.png
-	cp -vu ${FIGDIR}/13-trees/dsh-tree.png ${FIGSRC}/FigS10.png
+	cp -vu ${FIGDIR}/trees/dkk-tree.png ${FIGSRC}/FigS8.png
+	cp -vu ${FIGDIR}/trees/wif-tree.png ${FIGSRC}/FigS9.png
+	cp -vu ${FIGDIR}/trees/dsh-tree.png ${FIGSRC}/FigS10.png
 	cp -vu ${FIGDIR}/profiling/s-profiling.png ${FIGSRC}/FigS11.png
-	cp -vu ${FIGDIR}/13-trees/dgo-tree.png ${FIGSRC}/FigS12.png
-	cp -vu ${FIGDIR}/13-trees/pk-tree.png ${FIGSRC}/FigS13.png
-	cp -vu ${FIGDIR}/13-trees/fmi-tree.png ${FIGSRC}/FigS14.png
-	cp -vu ${FIGDIR}/13-trees/stbm-tree.png ${FIGSRC}/FigS15.png
-	cp -vu ${FIGDIR}/13-trees/jnk-tree.png ${FIGSRC}/FigS16.png
+	cp -vu ${FIGDIR}/trees/dgo-tree.png ${FIGSRC}/FigS12.png
+	cp -vu ${FIGDIR}/trees/pk-tree.png ${FIGSRC}/FigS13.png
+	cp -vu ${FIGDIR}/trees/fmi-tree.png ${FIGSRC}/FigS14.png
+	cp -vu ${FIGDIR}/trees/stbm-tree.png ${FIGSRC}/FigS15.png
+	cp -vu ${FIGDIR}/trees/jnk-tree.png ${FIGSRC}/FigS16.png
 	cp -vu ${FIGDIR}/comparative/s-comparative.png ${FIGSRC}/FigS17.png
 	# Convert to JPG for visualization
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGSRC}/*.png
