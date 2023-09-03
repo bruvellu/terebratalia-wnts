@@ -10,7 +10,7 @@ Some folders also include a supplementary figure.
 - [`wnt-tree`](wnt-tree): main phylogenetic tree of Wnt genes.
 - [`profiling`](profiling): heatmaps of stage-specific transcriptome data.
 - [`ligands`](ligands): colorimetric *in situ* hybridization of Wnt genes.
-- 09-doubles
+- [`doubles`](doubles): double fluorescent *in situ* hybridization of Wnt genes.
 - 14-fzdantag
 - 08-polarity
 - 10-summary
