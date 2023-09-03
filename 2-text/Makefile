@@ -25,8 +25,8 @@ figs:
 	# Copy figure files to figure directory with official naming
 	cp -vu ${FIGDIR}/wnt-tree/wnt-tree.png ${FIGSRC}/Fig1.png
 	cp -vu ${FIGDIR}/profiling/profiling.png ${FIGSRC}/Fig2.png
-	cp -vu ${FIGDIR}/04-ligands/ligands1.png ${FIGSRC}/Fig3.png
-	cp -vu ${FIGDIR}/04-ligands/ligands2.png ${FIGSRC}/Fig4.png
+	cp -vu ${FIGDIR}/ligands/ligands1.png ${FIGSRC}/Fig3.png
+	cp -vu ${FIGDIR}/ligands/ligands2.png ${FIGSRC}/Fig4.png
 	cp -vu ${FIGDIR}/09-doubles/doubles.png ${FIGSRC}/Fig5.png
 	cp -vu ${FIGDIR}/14-fzdantag/fzdantag.png ${FIGSRC}/Fig6.png
 	cp -vu ${FIGDIR}/08-polarity/polarity.png ${FIGSRC}/Fig7.png
@@ -34,7 +34,7 @@ figs:
 	cp -vu ${FIGDIR}/11-comparative/comparative.png ${FIGSRC}/Fig9.png
 	# Supplementary
 	cp -vu ${FIGDIR}/13-trees/wnt1-tree.png ${FIGSRC}/FigS1.png
-	cp -vu ${FIGDIR}/04-ligands/s-ligands.png ${FIGSRC}/FigS2.png
+	cp -vu ${FIGDIR}/ligands/s-ligands.png ${FIGSRC}/FigS2.png
 	cp -vu ${FIGDIR}/09-doubles/s-doubles.png ${FIGSRC}/FigS3.png
 	cp -vu ${FIGDIR}/13-trees/fzd-tree.png ${FIGSRC}/FigS4.png
 	cp -vu ${FIGDIR}/05-receptors/s-receptors.png ${FIGSRC}/FigS5.png
