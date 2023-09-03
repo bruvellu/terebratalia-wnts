@@ -37,9 +37,9 @@ figs:
 	cp -vu ${FIGDIR}/ligands/s-ligands.png ${FIGSRC}/FigS2.png
 	cp -vu ${FIGDIR}/doubles/s-doubles.png ${FIGSRC}/FigS3.png
 	cp -vu ${FIGDIR}/trees/fzd-tree.png ${FIGSRC}/FigS4.png
-	cp -vu ${FIGDIR}/05-receptors/s-receptors.png ${FIGSRC}/FigS5.png
+	cp -vu ${FIGDIR}/receptors/s-receptors.png ${FIGSRC}/FigS5.png
 	cp -vu ${FIGDIR}/trees/sfrp-tree.png ${FIGSRC}/FigS6.png
-	cp -vu ${FIGDIR}/06-antagonists/s-antagonists.png ${FIGSRC}/FigS7.png
+	cp -vu ${FIGDIR}/antagonists/s-antagonists.png ${FIGSRC}/FigS7.png
 	cp -vu ${FIGDIR}/trees/dkk-tree.png ${FIGSRC}/FigS8.png
 	cp -vu ${FIGDIR}/trees/wif-tree.png ${FIGSRC}/FigS9.png
 	cp -vu ${FIGDIR}/trees/dsh-tree.png ${FIGSRC}/FigS10.png

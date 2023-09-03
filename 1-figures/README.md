@@ -11,10 +11,10 @@ Some folders also include a supplementary figure.
 - [`profiling`](profiling): heatmaps of stage-specific transcriptome data.
 - [`ligands`](ligands): colorimetric *in situ* hybridization of Wnt genes.
 - [`doubles`](doubles): double fluorescent *in situ* hybridization of Wnt genes.
-- [`fzdantag`](fzdantag): *in situ* hybridization of Frizzled and Wnt antagonist genes.
+- [`fzdantag`](fzdantag): *in situ* hybridization of Frizzled and antagonist genes.
+- [`receptors`](receptors): *in situ* hybridization of Frizzled genes.
+- [`antagonists`](antagonists): *in situ* hybridization of Wnt antagonist genes.
 - [`polarity`](polarity): *in situ* hybridization of planar cell polarity genes.
 - [`summary`](summary): overview of Wnt landscape in *Terebratalia transversa*.
 - [`comparative`](comparative): overview of Wnt landscape across the phylogeny.
 - [`trees`](trees): phylogenetic trees of all Wnt signaling components.
-- 05-receptors
-- 06-antagonists
