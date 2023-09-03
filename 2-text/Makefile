@@ -30,7 +30,7 @@ figs:
 	cp -vu ${FIGDIR}/doubles/doubles.png ${FIGSRC}/Fig5.png
 	cp -vu ${FIGDIR}/fzdantag/fzdantag.png ${FIGSRC}/Fig6.png
 	cp -vu ${FIGDIR}/polarity/polarity.png ${FIGSRC}/Fig7.png
-	cp -vu ${FIGDIR}/10-summary/summary.png ${FIGSRC}/Fig8.png
+	cp -vu ${FIGDIR}/summary/summary.png ${FIGSRC}/Fig8.png
 	cp -vu ${FIGDIR}/11-comparative/comparative.png ${FIGSRC}/Fig9.png
 	# Supplementary
 	cp -vu ${FIGDIR}/13-trees/wnt1-tree.png ${FIGSRC}/FigS1.png

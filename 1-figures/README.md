@@ -13,7 +13,7 @@ Some folders also include a supplementary figure.
 - [`doubles`](doubles): double fluorescent *in situ* hybridization of Wnt genes.
 - [`fzdantag`](fzdantag): *in situ* hybridization of Frizzled and Wnt antagonist genes.
 - [`polarity`](polarity): *in situ* hybridization of planar cell polarity genes.
-- 10-summary
+- [`summary`](summary): overview of Wnt landscape in *Terebratalia transversa*.
 - 11-comparative
 - 13-trees
 - 05-receptors
