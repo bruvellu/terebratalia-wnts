@@ -8,7 +8,7 @@ Some folders also include a supplementary figure.
 ## Directories
 
 - [`wnt-tree`](wnt-tree): main phylogenetic tree of Wnt genes.
-- 03-profiling
+- [`profiling`](profiling): heatmaps of stage-specific transcriptome data.
 - 04-ligands
 - 09-doubles
 - 14-fzdantag

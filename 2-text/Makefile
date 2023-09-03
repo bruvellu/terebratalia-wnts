@@ -24,7 +24,7 @@ refs:
 figs:
 	# Copy figure files to figure directory with official naming
 	cp -vu ${FIGDIR}/wnt-tree/wnt-tree.png ${FIGSRC}/Fig1.png
-	cp -vu ${FIGDIR}/03-profiling/profiling.png ${FIGSRC}/Fig2.png
+	cp -vu ${FIGDIR}/profiling/profiling.png ${FIGSRC}/Fig2.png
 	cp -vu ${FIGDIR}/04-ligands/ligands1.png ${FIGSRC}/Fig3.png
 	cp -vu ${FIGDIR}/04-ligands/ligands2.png ${FIGSRC}/Fig4.png
 	cp -vu ${FIGDIR}/09-doubles/doubles.png ${FIGSRC}/Fig5.png
@@ -43,7 +43,7 @@ figs:
 	cp -vu ${FIGDIR}/13-trees/dkk-tree.png ${FIGSRC}/FigS8.png
 	cp -vu ${FIGDIR}/13-trees/wif-tree.png ${FIGSRC}/FigS9.png
 	cp -vu ${FIGDIR}/13-trees/dsh-tree.png ${FIGSRC}/FigS10.png
-	cp -vu ${FIGDIR}/03-profiling/s-profiling.png ${FIGSRC}/FigS11.png
+	cp -vu ${FIGDIR}/profiling/s-profiling.png ${FIGSRC}/FigS11.png
 	cp -vu ${FIGDIR}/13-trees/dgo-tree.png ${FIGSRC}/FigS12.png
 	cp -vu ${FIGDIR}/13-trees/pk-tree.png ${FIGSRC}/FigS13.png
 	cp -vu ${FIGDIR}/13-trees/fmi-tree.png ${FIGSRC}/FigS14.png
