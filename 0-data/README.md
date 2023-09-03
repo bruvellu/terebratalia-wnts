@@ -10,7 +10,6 @@ This directory contains the raw imaging and sequencing data.
 - [`morphology`](morphology): stainings of *Terebratalia transversa* gastrula and larva.
 - [`polarity`](polarity): *in situ* hybridization of planar cell polarity genes.
 - [`receptors`](receptors): *in situ* hybridization of Frizzled genes.
-
 - [`orthology`](orthology): phylogenetic analyses of all Wnt signaling components.
 - [`profiling`](profiling): transcriptomic analyses of stage-specific RNA-seq data.
 
