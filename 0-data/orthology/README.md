@@ -1,6 +1,6 @@
 # Orthology assignment
 
-Phylogenetic analyses of *Terebratalia transversa* Wnt signaling components to resolve their orthology.
+This directory contains the phylogenetic analyses of *Terebratalia transversa* Wnt signaling components to resolve their orthology.
 
 ## Pipeline
 
