@@ -28,7 +28,7 @@ figs:
 	cp -vu ${FIGDIR}/ligands/ligands1.png ${FIGSRC}/Fig3.png
 	cp -vu ${FIGDIR}/ligands/ligands2.png ${FIGSRC}/Fig4.png
 	cp -vu ${FIGDIR}/doubles/doubles.png ${FIGSRC}/Fig5.png
-	cp -vu ${FIGDIR}/14-fzdantag/fzdantag.png ${FIGSRC}/Fig6.png
+	cp -vu ${FIGDIR}/fzdantag/fzdantag.png ${FIGSRC}/Fig6.png
 	cp -vu ${FIGDIR}/08-polarity/polarity.png ${FIGSRC}/Fig7.png
 	cp -vu ${FIGDIR}/10-summary/summary.png ${FIGSRC}/Fig8.png
 	cp -vu ${FIGDIR}/11-comparative/comparative.png ${FIGSRC}/Fig9.png

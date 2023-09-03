@@ -11,7 +11,7 @@ Some folders also include a supplementary figure.
 - [`profiling`](profiling): heatmaps of stage-specific transcriptome data.
 - [`ligands`](ligands): colorimetric *in situ* hybridization of Wnt genes.
 - [`doubles`](doubles): double fluorescent *in situ* hybridization of Wnt genes.
-- 14-fzdantag
+- [`fzdantag`](fzdantag): *in situ* hybridization of Frizzled and Wnt antagonist genes.
 - 08-polarity
 - 10-summary
 - 11-comparative
