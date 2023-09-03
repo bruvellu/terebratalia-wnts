@@ -14,16 +14,15 @@ Phylogenetic analyses of *Terebratalia transversa* Wnt signaling components to r
 
 ## Directories
 
-- bcat
-- dgo
-- dkk
-- dsh
-- fmi
-- fzd
-- jnk
-- pk
-- sfrp
-- stbm
-- wif
-- wnt1s
-- wnts
+- [`dgo`](dgo)
+- [`dkk`](dkk)
+- [`dsh`](dsh)
+- [`fmi`](fmi)
+- [`fzd`](fzd)
+- [`jnk`](jnk)
+- [`pk`](pk)
+- [`sfrp`](sfrp)
+- [`stbm`](stbm)
+- [`wif`](wif)
+- [`wnt1s`](wnt1s)
+- [`wnts`](wnts)
