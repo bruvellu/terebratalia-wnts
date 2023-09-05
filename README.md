@@ -10,6 +10,6 @@ This repository contains the data, analyses, and manuscript associated with our 
 
 ## Citation
 
-Vellutini, B. C., Martín-Durán, J. M., Børve, A. & Hejnol, A. **Combinatorial Wnt signaling landscape during brachiopod anteroposterior patterning**. bioRxiv (2023). Soon...
+Vellutini, B. C., Martín-Durán, J. M., Børve, A. & Hejnol, A. **Combinatorial Wnt signaling landscape during brachiopod anteroposterior patterning**. bioRxiv (2023). [https://doi.org/10.1101/2023.09.03.556047](https://doi.org/10.1101/2023.09.03.556047)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8312023.svg)](https://doi.org/10.5281/zenodo.8312023)
