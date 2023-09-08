@@ -685,7 +685,7 @@ Therefore, these observations suggest that ligand exchange and re-deployment to 
 <!--### Ligand context-switching as mechanism for axial evolution-->
 
 The variation in Wnt expression compared to the conservation of Frizzled expression may reflect an important feature of axial evolution.
-The ability of Wnt proteins to elicit different fate decisions and morphogenetic processes depending on the developmental context places Wnt signaling pathways as key players in generating cellular and tissue diversity in the body patterning of animals [@Guder2006-fu; @Loh2016-pz].
+The ability of Wnt proteins to elicit different fate decisions and morphogenetic processes depending on the developmental context places Wnt signaling pathways as key players in generating cellular and tissue diversity in the body patterning of animals [@Lee2006-yw; @Guder2006-fu; @Loh2016-pz].
 Changes in the ligand--receptor context during evolution could effectively alter cell fates and morphogenetic events, providing a basis for the establishment of developmental innovations.
 We hypothesize that this evolutionary shuffling of Wnt ligands may be one key mechanism involved in the diversification of the body axis of animals.
 
