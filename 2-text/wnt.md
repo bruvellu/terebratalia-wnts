@@ -76,10 +76,11 @@ Brachiopoda, Gene expression, Axial patterning, Wnt pathways, Larva, Combinatori
 
 <!--## Developmental importance of Wnt signaling pathways-->
 
-Wnt genes play multiple roles during embryogenesis [@Cadigan1997-vx].
+Wnt genes encode secreted glycoproteins that play multiple roles during embryogenesis [@Nusse1992-oi; @Cadigan1997-vx].
 They are involved in cell specification events, such as mediating cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq], specifying endomesodermal tissues before gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], and establishing the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne]---often acting as a symmetry-breaking signal [@Loh2016-pz].
 But Wnt activity also controls morphogenetic movements, such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
 This multitude of roles is linked to the outstanding complexity of Wnt signaling pathways.
+<!--Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].-->
 There are 13 subfamilies of Wnt ligands, five subfamilies of Frizzled receptors, some additional co-receptors, as well as a series of agonists, antagonists, downstream players, and effector molecules that are involved in at least three interconnected Wnt pathways.
 The Wnt/beta-catenin (canonical) pathway regulates cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controls cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulates intracellular calcium levels for convergent extension movements [@James2008-tt].
 Therefore, understanding how this complex network of interactions regulates embryonic development and influences developmental evolution remains a major challenge.
@@ -95,7 +96,7 @@ Therefore, understanding how this complex network of interactions regulates embr
 The discovery of staggered Wnt expression domains in the tail bud of amphioxus embryos [@Schubert2001-cp] and along the body axis of sea anemone embryos [@Kusserow2005-xd] raised the hypothesis that different combinations of Wnt genes can pattern different body regions.
 This idea, commonly referred to as the *Wnt code* or *landscape* [@Lee2006-yw; @Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
 Over the years, however, it has been increasingly recognized that the output of Wnt signaling does not depend solely on the expression of Wnt ligands.
-In fact, Wnt pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local availability of receptors, the presence of different antagonists, and the activity of pathway modulators [@Van_Amerongen2009-wk; @Niehrs2012-ku].
+In fact, Wnt pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local availability of receptors, the presence of different antagonists, and the activity of pathway modulators [@van-Amerongen2009-md; @Niehrs2012-ku].
 That means that, depending on the receptors present in the tissue, one Wnt ligand can activate or inhibit a different Wnt pathway and thus determine processes as diverse as fate specification, cellular organization, and tissue morphogenesis [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
 This complexity makes the Wnt code particularly challenging to elucidate.
 
@@ -174,7 +175,6 @@ This suggests that the evolutionary shuffling in the expression of Wnt ligands m
 
 ## *Terebratalia transversa* has a conserved repertoire of Wnt genes
 
-Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].
 Metazoans have a large Wnt repertoire with 13 subfamilies [@Kusserow2005-xd; @Croce2009-vv; @Cho2010-eb].
 To characterize the Wnt complement of the brachiopod *Terebratalia transversa*, we surveyed our transcriptomic and genomic resources for Wnt genes using similarity searches with known Wnt genes from other animals.
 We identified 13 Wnt genes with representatives of 12 of the 13 Wnt subfamilies (@fig:wnt-tree).
