@@ -496,13 +496,18 @@ Below, we discuss the evidence for different ligand--receptor contexts during br
 The apical lobe of *T. transversa* differentiates into two regions, a narrower anterior region that gives rise to the larval apical organ and neuropile [@Santagata2011-ry], and a wider posterior region that gives rise to the crown of tentacles used for filter feeding known as the lophophore.
 We find that these two regions have different Wnt transcriptional profiles.
 The anterior region expresses Wnt antagonists and *fz5/8* but no Wnt ligands, while the posterior region expresses several Wnt ligands and *fz4* but no Wnt antagonist ({@fig:summary}A).
-It is known that *fz5/8* consolidates the anterior neuroectoderm identity of the apical pole by activating the Wnt antagonists *sFRP* and *Dkk* and inhibiting Wnt/beta-catenin signaling [@Range2013-gm; @Khadka2018-td].
-This region is also characterized by the expression of neural genes such as *foxq2* and *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co].
-In turn, *wnt8* establishes a posterior neuroectoderm identity that subdivides the anterior end by repressing the expression of *fz5/8* [@Erter2001-fl; @Lekven2001-jj; @Kim2002-ze; @Rhinn2005-ie; @Range2013-gm].
-These gene expression arrangements are well conserved in the anterior/aboral ends of other animals [@Range2013-gm; @Leclere2016-ma].
-Not only does *T. transversa* show the same arrangement between *fz5/8* and *wnt8*, but also expresses *six3/6* and *foxq2* at the anterior region [@Santagata2012-he].
-Therefore, these data suggest that a similar regulatory logic may control the subdivision of the apical lobe in a brachiopod larva.
+In sea urchins, the establishment of anterior and posterior neuroectoderm fates is regulated by *fz5/8* and *wnt8*, respectively.
+While *fz5/8* activates the expression of Wnt antagonists *sFRP* and *Dkk* which inhibit Wnt/beta-catenin signaling at the apical pole, *wnt8* represses *fz5/8* more posteriorly [@Range2013-gm; @Khadka2018-td].
+<!--TODO: Remove redundant references-->
+A similar interaction between *wnt8* and *fz5/8* also controls the posterior neuroectoderm identity in zebrafish development [@Erter2001-fl; @Lekven2001-jj; @Kim2002-ze; @Rhinn2005-ie].
+*T. transversa* shows the same arrangement between *fz5/8* and *wnt8* expression domains suggesting that a similar regulatory logic may also control the subdivision of the apical lobe in a brachiopod larva.
 
+<!--TODO: Add any of these sentences/infos back to the text?-->
+<!--TODO: Maybe add the foxq2/six36 conserved early expression before the fz5/8-->
+<!--In sea urchins, *fz5/8* consolidates the anterior neuroectoderm identity of the apical pole by activating the Wnt antagonists *sFRP* and *Dkk* and inhibiting Wnt/beta-catenin signaling, while *wnt8* establishes the posterior neuroectoderm identity by repressing the expression of *fz5/8* [@Range2013-gm; @Khadka2018-td].-->
+<!--This region is also characterized by the expression of neural genes such as *foxq2* and *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co].-->
+<!--These gene expression arrangements are well conserved in the anterior/aboral ends of other animals [@Range2013-gm; @Leclere2016-ma].-->
+<!--but also expresses *six3/6* and *foxq2* at the anterior region [@Santagata2012-he].-->
 
 <!--TODO: Mention wnt8 activity might be mediated by fz4?-->
 
