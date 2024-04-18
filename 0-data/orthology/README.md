@@ -24,5 +24,6 @@ This directory contains the phylogenetic analyses of *Terebratalia transversa* W
 - [`sfrp`](sfrp)
 - [`stbm`](stbm)
 - [`wif`](wif)
-- [`wnt1s`](wnt1s)
-- [`wnts`](wnts)
+- [`wnt`](wnt)
+- [`wnt1`](wnt1)
+
