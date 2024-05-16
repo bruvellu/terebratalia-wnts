@@ -189,15 +189,15 @@ Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a si
 To characterize the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
 We detect an abundance of *wnt4* and *wntA* transcripts deposited maternally in the oocyte (@fig:profiling).
 Transcripts of other Wnt genes, such as *wnt1t* and *wnt6*, are present at lower levels.
-This expression profile remains unchanged after fertilization (mid blastula, 8h) but shifts significantly at the late blastula stage (19h), when a concerted upregulation of *wnt1*, *wnt8*, *wnt10*, and *wnt16* occurs (@fig:profiling).
+This expression profile remains unchanged after fertilization (mid blastula, 8h) but shifts significantly at the late blastula stage (19h), when a concerted upregulation of *wnt1*, *wnt1t*, *wnt8*, *wnt10*, and *wnt16* occurs (@fig:profiling).
 Throughout gastrulation, Wnt genes continue to be upregulated with *wnt1* and *wnt5* in the early gastrula (26h); *wnt6*, *wnt7*, and *wnt11* in the mid gastrula (37h); and *wnt2*, *wnt9*, and *wnt10* in the late gastrula (51h).
 All Wnt genes are expressed between the late gastrula and early larva stages.
 Some, however, are downregulated after gastrulation (*wnt6* and *wnt10*) and after metamorphosis (*wnt7* and *wnt16*) (@fig:profiling).
-Therefore, Wnt expression is dynamic throughout development but peaks late in gastrulation, when the body elongates along the anteroposterior axis and at the onset of the morphological differentiation of the larval lobes in *T. transversa*.
+Therefore, Wnt expression is dynamic throughout development but peaks late in gastrulation, when the body elongates along the anteroposterior axis, and at the onset of the morphological differentiation of the larval lobes in *T. transversa*.
 
 ## Wnt domains partially overlap along the anteroposterior axis
 
-To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in embryos from early gastrula to late larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
+To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in embryos from late blastula to competent larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
 *wnt1* is expressed at the posterior lip of the blastopore in gastrula stages (@fig:ligands1, @fig:s-ligands, and @Vellutini2016-lq).
 This domain expands laterally, forming a broad posterior ventral band of *wnt1* expression in the early larva, which encircles a subdivision of the pedicle lobe in subsequent stages.
