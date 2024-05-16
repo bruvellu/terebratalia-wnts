@@ -199,15 +199,17 @@ Therefore, Wnt expression is dynamic throughout development but peaks late in ga
 
 To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in embryos from late blastula to competent larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
+<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
+
 *wnt1* is expressed at the posterior lip of the invaginating blastopore in blastula and gastrula stages (@fig:ligands1, @fig:s-ligands1, and @Vellutini2016-lq).
 This domain expands laterally, forming a ventral band at the anterior most portion of the pedicle lobe in the early larva which, in the late larva, corresponds to the ventral shell primordium.
 From the late gastrula stage, *wnt1* is also expressed in a narrow stripe around the posterior region of the apical lobe and in the dorsal shell primordium.
 In the late larva, the apical lobe expression fades and a new domain appears encircling a posterior subdivision of the pedicle lobe.
 
-*wnt1t* expression domains differ significantly from its paralog.
-We detect *wnt1t* transcripts in a single apical spot on the dorsal region of the gastrula stages (@fig:ligands1 and @fig:s-ligands1).
-This single spot becomes fragmented into bilateral domains in the early larva, which disappear in the late larva.
-Three novel *wnt1t* domains appear in larval stages, a central patch of ventral tissue posterior to the mouth, a ring domain beneath the mantle lobe, and a posterior spot in the terminal tip of the pedicle lobe (@fig:ligands1 and @fig:s-ligands1).
+*wnt1t* expression domains differ significantly from its paralog *wnt1*.
+We detect *wnt1t* transcripts in a single spot at the animal pole of the early gastrula (@fig:ligands1 and @fig:s-ligands1).
+This spot of expression becomes fragmented in the early larva and disappears in the late larva.
+In the early larva stage, *wnt1t* is upregulated in three different domains: a central patch of ventral tissue posterior to the mouth, a ring domain beneath the mantle lobe, and a spot at the terminal tip of the pedicle lobe.
 
 *wnt2* is only expressed in the late gastrula and early larva stages.
 Broad bilateral bands encircle the posterior portion of the apical lobe almost entirely, and only the ventral and dorsal midlines are cleared from *wnt2* expression (@fig:ligands1 and @fig:s-ligands1).
