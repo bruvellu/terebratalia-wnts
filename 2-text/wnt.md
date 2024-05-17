@@ -210,17 +210,19 @@ This spot becomes fragmented in the early larva when only subsets of cells conti
 
 *wnt2* is only expressed in the late gastrula and early larva stages in bilateral ectodermal bands that encircle the posterior portion of the apical lobe almost entirely, except for the ventral and dorsal midlines (@fig:ligands1 and @fig:s-ligands1).
 
+*wnt4* is expressed at the posterodorsal ectoderm from late blastula to late gastrula (@fig:ligands1 and @fig:s-ligands1).
+The pattern is similar to *wnt1*, but *wnt4* transcripts are localized more dorsally ({@fig:s-doubles}A--C).
+In the early larva, the expression at the posterior end and dorsal portion fades, the domain becomes narrower, and acquires a subterminal position within the ventral ectoderm of the pedicle lobe.
+This domain is still present in the late larva, when *wnt4* begins to be expressed in the posterior endoderm.
+
 <!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
 
-*wnt4* is expressed at the posterior end of the embryo during gastrula stages and acquires a subterminal position within the pedicle lobe (@fig:ligands1 and @fig:s-ligands1).
-The pattern is similar to *wnt1*, but *wnt4* transcripts are localized more dorsally ({@fig:s-doubles}A--C).
-
-*wnt5* is expressed in three distinct domains---in the apical, mantle, and pedicle lobes, respectively.
-In the early gastrula, *wnt5* transcripts line the posterior blastopore lip in a band narrower than the *wnt1* domain (@fig:ligands1 and {@fig:doubles}A).
-This posterior domain maintains a terminal position until the late larva stage when the tip of the pedicle lobe is cleared (@fig:ligands1 and @fig:s-ligands1).
-*wnt5* is also expressed in broad territories around the apical and mantle lobes from mid gastrula to early larva (@fig:ligands1 and @fig:s-ligands1).
-While the apical lobe domain fades in the late larva, the mantle lobe expression of *wnt5* remains strong on the leading edge of the growing mantle tissue (@fig:ligands1 and @fig:s-ligands1).
-The expression domains of *wnt5* and *wnt1* occupy distinct regions along the anteroposterior axis that coincide with the subdivisions of the larval lobes ({@fig:doubles}B,C and {@fig:s-doubles}G).
+*wnt5* is expressed in three distinct ectodermal domains---in the apical, mantle, and pedicle lobes, respectively.
+We first detect expression in the early gastrula with transcripts at the posterior blastopore lip and anterolateral ectoderm (@fig:ligands1 and @fig:s-ligands1).
+The posterior ectodermal domain is narrower than the *wnt1* domain (@fig:ligands1 and {@fig:doubles}A) and maintains a terminal position until the late larva stage when the tip of the pedicle lobe is cleared from expression (@fig:ligands1 and @fig:s-ligands1).
+The anterolateral domains expand in the mid gastrula to encircle the posterior portion of the apical lobe ectoderm, and fade in the late larva.
+*wnt5* is also expressed in the leading edge of the growing mantle lobe ectoderm from mid gastrula to late larva.
+The ectodermal expression domains of *wnt5* and *wnt1* occupy distinct regions along the anteroposterior axis that coincide with the subdivisions of the larval lobes ({@fig:doubles}B,C and {@fig:s-doubles}G).
 
 *wnt6* transcripts localize to the posterior blastopore lip until the late gastrula stage (@fig:ligands1 and @fig:s-ligands1).
 This domain is cleared in the early larva stage, and *wnt6* is activated in the mid-body endoderm (@fig:ligands1 and @fig:s-ligands1).
