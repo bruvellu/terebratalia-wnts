@@ -215,8 +215,6 @@ The pattern is similar to *wnt1*, but *wnt4* transcripts are localized more dors
 In the early larva, the expression at the posterior end and dorsal portion fades, the domain becomes narrower, and acquires a subterminal position within the ventral ectoderm of the pedicle lobe.
 This domain is still present in the late larva, when *wnt4* begins to be expressed in the posterior endoderm.
 
-<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
-
 *wnt5* is expressed in three distinct ectodermal domains---in the apical, mantle, and pedicle lobes, respectively.
 We first detect expression in the early gastrula with transcripts at the posterior blastopore lip and anterolateral ectoderm (@fig:ligands1 and @fig:s-ligands1).
 The posterior ectodermal domain is narrower than the *wnt1* domain (@fig:ligands1 and {@fig:doubles}A) and maintains a terminal position until the late larva stage when the tip of the pedicle lobe is cleared from expression (@fig:ligands1 and @fig:s-ligands1).
@@ -224,14 +222,15 @@ The anterolateral domains expand in the mid gastrula to encircle the posterior p
 *wnt5* is also expressed in the leading edge of the growing mantle lobe ectoderm from mid gastrula to late larva.
 The ectodermal expression domains of *wnt5* and *wnt1* occupy distinct regions along the anteroposterior axis that coincide with the subdivisions of the larval lobes ({@fig:doubles}B,C and {@fig:s-doubles}G).
 
-*wnt6* transcripts localize to the posterior blastopore lip until the late gastrula stage (@fig:ligands1 and @fig:s-ligands1).
-This domain is cleared in the early larva stage, and *wnt6* is activated in the mid-body endoderm (@fig:ligands1 and @fig:s-ligands1).
-In the late larva, we also detect *wnt6* expression in the apical and pedicle lobes (@fig:ligands1).
+*wnt6* transcripts localize to the posterior blastopore lip, similarly to *wnt1* and *wnt4*, from the early to the late gastrula (@fig:ligands1 and @fig:s-ligands1).
+This ectodermal domain is cleared in the early larva, when *wnt6* is activated in a midbody section of the endoderm.
+In the late larva, we also detect *wnt6* domains in the ectoderm of the apical and pedicle lobes.
 
-*wnt7* initiates as a lateral pair of anterior stripes that progressively extend around the entire embryo circumference in the early larva stage (@fig:ligands1 and @fig:s-ligands1).
-This *wnt7* stripe demarcates the apical--mantle boundary and overlaps with *engrailed*-expressing cells at the anteriormost region of the mantle lobe ({@fig:doubles}G,H and {@fig:s-doubles}I; see also [@Vellutini2016-lq]).
-In the early larva, a posterior stripe of *wnt7* appears on the pedicle lobe demarcating another boundary, the subdivision of the pedicle lobe into subterminal and terminal regions.
-This stripe is positioned between the posterior territories of *wnt1* and *wnt5* in the pedicle lobe and partially overlaps with the *engrailed* domain ({@fig:doubles}G,H and {@fig:s-doubles}I).
+*wnt7* initiates as a lateral pair of anterior ectodermal stripes that progressively extend around the entire embryo circumference until the early larva (@fig:ligands1 and @fig:s-ligands1).
+This *wnt7* stripe demarcates the apical--mantle boundary, partially overlapping with *wnt1*- and *engrailed*-expressing cells at the anteriormost region of the mantle lobe ({@fig:doubles}G,H and {@fig:s-doubles}I; see also [@Vellutini2016-lq]).
+In the early larva, the anterior *wnt7* stripe disappears and a posterior ectodermal stripe appears demarcating the boundary between the subterminal and terminal regions of the pedicle lobe, between the posterior territories of *wnt1* and *wnt5*.
+
+<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
 
 *wnt8* expression is broadly upregulated on the vegetal pole of the blastula stages (@fig:profiling and @fig:s-ligands2).
 At the gastrula stage, the transcripts are cleared from the anterior blastopore lip, and two distinct domains remain: a pair of broad lateral territories in the apical lobe, and a wide posterodorsal domain in the pedicle lobe (@fig:ligands2 and @fig:s-ligands2).
