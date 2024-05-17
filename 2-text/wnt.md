@@ -199,20 +199,18 @@ Therefore, Wnt expression is dynamic throughout development but peaks late in ga
 
 To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in embryos from late blastula to competent larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
-<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
-
-*wnt1* is expressed at the posterior lip of the invaginating blastopore in blastula and gastrula stages (@fig:ligands1, @fig:s-ligands1, and @Vellutini2016-lq).
-This domain expands laterally, forming a ventral band at the anterior most portion of the pedicle lobe in the early larva which, in the late larva, corresponds to the ventral shell primordium.
-From the late gastrula stage, *wnt1* is also expressed in a narrow stripe around the posterior region of the apical lobe and in the dorsal shell primordium.
-In the late larva, the apical lobe expression fades and a new domain appears encircling a posterior subdivision of the pedicle lobe.
+*wnt1* is expressed in the ectoderm and invaginating endomesoderm of the posterior blastopore lip in the late blastula (@fig:ligands1, @fig:s-ligands1, and @Vellutini2016-lq).
+This domain expands laterally, forming a ventral ectodermal band at the anterior most portion of the pedicle lobe in the early larva, a region that gives rise to the ventral shell primordium in the late larva.
+From the late gastrula stage, *wnt1* is also expressed in a narrow ectodermal stripe around the posterior region of the apical lobe and in the dorsal shell primordium.
+The apical lobe expression fades, and a new *wnt1* domain appears encircling the posterior subdivision of the pedicle lobe in the late larva.
 
 *wnt1t* expression domains differ significantly from its paralog *wnt1*.
-We detect *wnt1t* transcripts in a single spot at the animal pole of the early gastrula (@fig:ligands1 and @fig:s-ligands1).
-This spot of expression becomes fragmented in the early larva and disappears in the late larva.
-In the early larva stage, *wnt1t* is upregulated in three different domains: a central patch of ventral tissue posterior to the mouth, a ring domain beneath the mantle lobe, and a spot at the terminal tip of the pedicle lobe.
+We first detect *wnt1t* transcripts in a single ectodermal spot at the animal pole of the early gastrula (@fig:ligands1 and @fig:s-ligands1).
+This spot becomes fragmented in the early larva when only subsets of cells continue expressing *wnt1t*, and fades in the late larva, while *wnt1t* is upregulated in three different domains: a central patch of ventral ectoderm posterior to the mouth, an ectodermal ring beneath the mantle lobe, and an ectodermal spot at the terminal tip of the pedicle lobe.
 
-*wnt2* is only expressed in the late gastrula and early larva stages.
-Broad bilateral bands encircle the posterior portion of the apical lobe almost entirely, and only the ventral and dorsal midlines are cleared from *wnt2* expression (@fig:ligands1 and @fig:s-ligands1).
+*wnt2* is only expressed in the late gastrula and early larva stages in bilateral ectodermal bands that encircle the posterior portion of the apical lobe almost entirely, except for the ventral and dorsal midlines (@fig:ligands1 and @fig:s-ligands1).
+
+<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
 
 *wnt4* is expressed at the posterior end of the embryo during gastrula stages and acquires a subterminal position within the pedicle lobe (@fig:ligands1 and @fig:s-ligands1).
 The pattern is similar to *wnt1*, but *wnt4* transcripts are localized more dorsally ({@fig:s-doubles}A--C).
