@@ -230,12 +230,12 @@ In the late larva, we also detect *wnt6* domains in the ectoderm of the apical a
 This *wnt7* stripe demarcates the apical--mantle boundary, partially overlapping with *wnt1*- and *engrailed*-expressing cells at the anteriormost region of the mantle lobe ({@fig:doubles}G,H and {@fig:s-doubles}I; see also [@Vellutini2016-lq]).
 In the early larva, the anterior *wnt7* stripe disappears and a posterior ectodermal stripe appears demarcating the boundary between the subterminal and terminal regions of the pedicle lobe, between the posterior territories of *wnt1* and *wnt5*.
 
-<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
+*wnt8* is expressed in a ring of cells in the invaginating endomesoderm and in a broad ectodermal band encircling the late blastula (@fig:ligands2 and @fig:s-ligands2).
+In the early and mid gastrula, *wnt8* transcripts are cleared from the endomesoderm and from the anterior ectoderm, and two distinct ectodermal domains remain: a pair of broad lateral territories in the apical lobe, and a wide posterodorsal domain in the pedicle lobe.
+The lateral territories expand ventrally and dorsally, encircling the apical lobe ectoderm, while the posterior ectodermal domain fades in the late gastrula.
+The anterior *wnt8* territories partially overlap with the anterior expression of *wnt1* in the apical lobe ectoderm ({@fig:doubles}I--L and {@fig:s-doubles}H).
 
-*wnt8* expression is broadly upregulated on the vegetal pole of the blastula stages (@fig:profiling and @fig:s-ligands2).
-At the gastrula stage, the transcripts are cleared from the anterior blastopore lip, and two distinct domains remain: a pair of broad lateral territories in the apical lobe, and a wide posterodorsal domain in the pedicle lobe (@fig:ligands2 and @fig:s-ligands2).
-While the posterior domain clears during gastrulation, the anterior territories expand ventrally and dorsally, encircling the apical lobe (@fig:ligands2 and @fig:s-ligands2).
-These anterior *wnt8* territories partially overlap with the anterior expression of *wnt1* ({@fig:doubles}I--L and {@fig:s-doubles}H).
+<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
 
 *wnt9* is initially detected in ventral cells internalized within the blastopore of late gastrula embryos (@fig:ligands2 and @fig:s-ligands2).
 They form a contiguous patch of mesodermal and endodermal cells expressing *wnt9* in the early larva.
