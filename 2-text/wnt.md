@@ -245,14 +245,14 @@ Additionally, we detect *wnt10* transcripts in the late gastrula at a dorsal ect
 The domain encircles the pedicle lobe ectoderm in the early larva, and becomes reduced to a narrow ectodermal stripe on the ventral portion of the pedicle lobe in the late larva.
 In the early larva, *wnt11* is also expressed in the ventral ectoderm at the mantle--pedicle boundary, and in the posterior endoderm of the larval gut (@fig:ligands2 and @fig:s-ligands2).
 
-<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
+*wnt16* is expressed in the invaginating endomesoderm and vegetal ectoderm around the blastopore in the late blastula (@fig:ligands2 and @fig:s-ligands2).
+During gastrulation, the endomesodermal expression clears and only the ectodermal domain remains as lateral patches near the blastopore lip.
+With the blastopore closure, *wnt16* forms a heart-shaped domain in the ectoderm and presumably mesoderm at the ventral midline of the mantle lobe in the early larva.
 
+*wntA* appears in the mid gastrula as paired, ventral ectodermal domains located at the posterior portion of the apical lobe (@fig:ligands2 and @fig:s-ligands2).
+In the late larva, these anterior ectodermal domains are cleared, and *wntA* expression is activated in paired, ventral mesodermal bands adjacent to the mouth.
 
-*wnt16* is expressed in lateral patches around the blastopore. During gastrulation, blastopore closure brings these patches together, forming a heart-shaped domain in the midline of the early larva (@fig:ligands2 and @fig:s-ligands2).
-The *wnt16*-expressing cells localize to a central portion of the mantle lobe mesoderm (@fig:ligands2 and @fig:s-ligands2).
-
-*wntA* appears in the late gastrula as paired ventral domains at the posterior portion of the apical lobe (@fig:ligands2 and @fig:s-ligands2).
-In the late larva, these anterior ectodermal domains are cleared, and *wntA* expression is activated in two anterior mesodermal bands next to the mouth (@fig:ligands2 and @fig:s-ligands2).
+<!--TODO: Improve this paragraph-->
 
 Overall, Wnt genes are expressed in diverse, partially overlapping domains along the anteroposterior axis (@fig:summary-ligands1 and @fig:summary-ligands2).
 
