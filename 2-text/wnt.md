@@ -238,9 +238,10 @@ The anterior *wnt8* territories partially overlap with the anterior expression o
 *wnt9* transcripts are first expressed in the invaginated endomesoderm of late gastrula embryos at a subterminal position (@fig:ligands2 and @fig:s-ligands2).
 The domain forms a contiguous patch of mesodermal and endodermal cells expressing *wnt9* in the early larva, which differentiates into two distinct territories; one endodermal in the central portion of the gut and another mesodermal in a bilateral pair of anterior domains near the apical--mantle boundary.
 
-<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
+*wnt10* is expressed from the mid gastrula stage in a posterior ectodermal domain which acquires a subterminal position within the pedicle lobe in the early larva (@fig:ligands2 and @fig:s-ligands2).
+Additionally, we detect *wnt10* transcripts in the late gastrula at a dorsal ectodermal patch of the apical lobe, similar to the dorsal domain of *wnt1t*, and in the late larva at the posterior portion of the gut (endoderm).
 
-*wnt10* is expressed in a posterior domain on the subterminal region of the pedicle lobe in gastrula and larval stages (@fig:ligands2 and @fig:s-ligands2).
+<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
 
 *wnt11* shows a terminal posterior domain during gastrulation that encircles the pedicle lobe in the early larva, and is reduced to a thin subterminal ventral stripe in the late larva (@fig:ligands2 and @fig:s-ligands2).
 We also detect *wnt11* in the central and posterior portions of the gut of the early larva stage (@fig:ligands2 and @fig:s-ligands2).
