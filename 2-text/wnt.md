@@ -235,11 +235,10 @@ In the early and mid gastrula, *wnt8* transcripts are cleared from the endomesod
 The lateral territories expand ventrally and dorsally, encircling the apical lobe ectoderm, while the posterior ectodermal domain fades in the late gastrula.
 The anterior *wnt8* territories partially overlap with the anterior expression of *wnt1* in the apical lobe ectoderm ({@fig:doubles}I--L and {@fig:s-doubles}H).
 
-<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
+*wnt9* transcripts are first expressed in the invaginated endomesoderm of late gastrula embryos at a subterminal position (@fig:ligands2 and @fig:s-ligands2).
+The domain forms a contiguous patch of mesodermal and endodermal cells expressing *wnt9* in the early larva, which differentiates into two distinct territories; one endodermal in the central portion of the gut and another mesodermal in a bilateral pair of anterior domains near the apical--mantle boundary.
 
-*wnt9* is initially detected in ventral cells internalized within the blastopore of late gastrula embryos (@fig:ligands2 and @fig:s-ligands2).
-They form a contiguous patch of mesodermal and endodermal cells expressing *wnt9* in the early larva.
-While the endodermal domain becomes elongated along the central portion of the gut, the mesodermal expression develops into a distinct bilateral pair of anterior domains (@fig:ligands2 and @fig:s-ligands2).
+<!--TODO: Revise making explicit if the tissue is ecto/meso/endoderm-->
 
 *wnt10* is expressed in a posterior domain on the subterminal region of the pedicle lobe in gastrula and larval stages (@fig:ligands2 and @fig:s-ligands2).
 
