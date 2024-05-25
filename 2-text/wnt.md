@@ -274,30 +274,35 @@ Overall, each Frizzled shows a unique expression profile but in contrast to Wnt 
 
 We carried out *in situ* hybridization for all Frizzled genes of *T. transversa* to reveal their domains of expression during axial elongation (@fig:fzdantag).
 
-*fz1/2/7* transcripts are almost ubiquitous in the tissues of gastrulating embryos (@fig:fzdantag).
-We observe an anteroposterior gradient with stronger signal at the apical region, in the anterior mesoderm, and in a pair of lateral ectodermal domains in the middle of the body (@fig:fzdantag and @fig:s-receptors).
-The posterior transcripts are cleared from the pedicle lobe late in gastrulation but are up-regulated in the terminal portion of the pedicle lobe in the late larva, becoming nearly ubiquitous again (@fig:fzdantag).
+*fz1/2/7* expression is mostly ubiquitous (@fig:fzdantag and @fig:s-receptors).
+It is expressed in all tissues of the late blastula, with strong signal in the animal pole ectoderm and invaginating endomesoderm .
+During gastrulation, the anterior and middle portions of the body continue to express *fz1/2/7* across all germ layers, but the posterior transcripts get progressively cleared from the pedicle lobe tissues.
+In larval stages, *fz1/2/7* is up-regulated in the terminal portion of the pedicle lobe ectoderm, and becomes nearly ubiquitous again in the late larva.
 
-*fz4* is expressed in a subapical ectodermal ring encircling the animal pole from the early gastrula until the late larva stage (@fig:fzdantag and @fig:s-receptors).
-The anterior portion of the mesoderm in the apical lobe also expresses *fz4* in all developmental stages (@fig:fzdantag and @fig:s-receptors). 
-From the late gastrula, we detect *fz4* in the dorsal ectoderm between the mantle and pedicle lobe.
-This domain becomes stronger in the late larva as it expands around the pedicle lobe and beneath the mantle lobe, including in the mantle mesoderm (@fig:fzdantag and @fig:s-receptors).
-An additional *fz4* domain appears at the posterior tip of the pedicle lobe in the late larva (@fig:fzdantag and @fig:s-receptors).
-The incremental appearance of *fz4* domains during development correlates with the increase in its expression in the RNA-seq data (@fig:profiling).
+*fz4* is first expressed in the animal pole ectoderm of the late blastula (@fig:fzdantag and @fig:s-receptors).
+These anterior transcripts form a subapical ectodermal ring encircling the animal pole of the early gastrula that localizes to the posterior portion of the apical lobe in subsequent stages.
+*fz4* is also expressed in the anterior mesoderm from the early gastrula.
+In the late gastrula, we detect *fz4* transcripts in the dorsal ectoderm between the mantle and pedicle lobes, a domain that becomes stronger in the late larva as it expands around the dorsal ectoderm of the pedicle lobe as well as in the infolded ectodermal and mesodermal tissues of the growing mantle lobe.
+Additionally, a *fz4* domain appears at the posterior tip of the pedicle lobe ectoderm in the late larva.
 
-*fz5/8* is expressed in the ectoderm of the apical cap from the early gastrula to the late larva (@fig:fzdantag and @fig:s-receptors).
-This domain is complementary to the *fz4* domain in the apical lobe and does not overlap with the apical domain of *wnt5* ({@fig:doubles}E,F).
-We also detect *fz5/8* in a narrow portion of the anterior mesoderm and in the mesoderm of the chaetae sacs in the late larva stage (@fig:fzdantag and @fig:s-receptors).
+*fz5/8* is mainly expressed at the anteriormost region of the embryo’s ectoderm and mesoderm (@fig:fzdantag and @fig:s-receptors).
+We first detect transcripts in the animal pole ectoderm of the late blastula, these transcripts become restricted to the anterodorsal portion of the ectoderm in the early gastrula, and finally expand to the anteroventral ectoderm from mid gastrula to early larva.
+This ectodermal territory of *fz5/8* is complementary to the ectodermal domain of *fz4* in the apical lobe without overlapping with the apical lobe domain of *wnt5* ({@fig:doubles}E,F).
+*fz5/8* is also expressed in the anterior mesoderm from the early gastrula and in the chaetae sacs of the late larva.
 
-*fz9/10* transcripts are present around the blastopore and animal pole of the early gastrula, but not at the apical cap (@fig:fzdantag and @fig:s-receptors).
-The anterior limit of *fz9/10* expression coincides with the posteriormost portion of the apical lobe and abuts the *fz4* domain posteriorly.
-The posterior limit of *fz9/10* domain reaches the pedicle lobe, where it overlaps with *wnt1*.
-Mantle lobe expression is weak, and the terminal portion of the pedicle lobe is cleared from *fz9/10* transcripts (@fig:fzdantag and @fig:s-receptors).
-Throughout development, *fz9/10* is also expressed in the mesoderm.
+*fz9/10* transcripts are limited to the middle portion of the body throughout development (@fig:fzdantag and @fig:s-receptors).
+In the late blastula, *fz9/10* is initially expressed in the ectoderm posterior to the blastopore, but this domain expands to cover almost the entire ectoderm around the blastopore of the early gastrula; it is only absent from a narrow anterior portion.
+With gastrulation, *fz9/10* begins to be expressed in the entire mesoderm, as well as in the ectoderm of the apical--mantle boundary, and in the anterior portion of the pedicle lobe ectoderm.
+Expression in the lateral mantle lobe ectoderm is weaker, and the terminal portion of the pedicle lobe is cleared from *fz9/10* transcripts.
+Interestingly, the anterior limit of *fz9/10* expression abuts the posterior limit of *fz4* expression in the apical lobe.
+*fz9/10* expression in the late larva fades, except in the posterior apical lobe ectoderm, and in the anterior and posterior region of the mesoderm.
 
-Taken together, the expression domains of Frizzled receptors extend over broad but distinct body regions, and their anteroposterior arrangement remains stable throughout gastrulation and larval morphogenesis.
+Taken together, the expression of most Frizzled genes extend over broad but distinct domains along the body.
+Except for *fz1/2/7*, which is expressed ubiquitously, the ectodermal territories of *fz5/8*, *fz4*, and *fz9/10*, are sequentially arranged from anterior to posterior, respectively, without overlap until the late gastrula stage and the onset of larval morphogenesis.
 
 ## Expression of Wnt antagonists is limited to the anterior end
+
+<!--TODO: Update with late blastula data and germ layers-->
 
 To obtain a more comprehensive picture of the Wnt signaling landscape in *T. transversa*, we also analyzed the expression of three Wnt antagonist genes: a Secreted Frizzled-Related Protein (*sfrp*), a Dickkopf protein (*dkk*), and a Wnt Inhibitory Factor (*wif*).
 
@@ -327,6 +332,8 @@ Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues t
 Overall, the expression of the analyzed Wnt antagonist genes is restricted to the anterior portion of the ectoderm (*sfrp1/2/5* and *dkk5*), and to the mesoderm (*wif*), regions which coincide with the absence or limited expression of Wnt ligands.
 
 ## Planar cell polarity genes are expressed in patches during axial elongation
+
+<!--TODO: Update with late blastula data and germ layers-->
 
 Proper regulation of planar cell polarity (PCP) is crucial to guide morphogenetic processes, such as convergent extension, and to orient the formation of structures during development [@Simons2008-cj; @Gao2012-fh].
 We identified several core components of the PCP pathway in *T. transversa*.
@@ -488,6 +495,8 @@ Discussion
 - Wnt combinatorial tissue diversity >> mechanism for axial evolution
 
 -->
+
+<!--TODO: Update to reflect ectodermal domains-->
 
 Our work characterizes the expression of Wnt signaling components during brachiopod development.
 We find that the brachiopod *T. transversa* has largely retained the ancestral repertoire of Wnt genes showing few duplications or losses, and that these genes are upregulated during mid to late gastrula, when the embryo elongates.
@@ -1051,6 +1060,8 @@ The spatial localization of domains is superimposed on the embryo outline and pr
 Solid lines represent morphological boundaries for the apical, mantle, and pedicle lobes, and dashed lines represent boundaries between transcriptional subregions.
 ](figures/Fig8.jpg){#fig:summary width=15cm}
 
+<!--TODO: Brachiopod staging from late gastrula to early larva, Cephalochordate from early to mid neurula, Annelid early and late trochophore-->
+
 ![Comparative overview of the Wnt signaling landscape in animals.
 (A) Phylogenetic tree showing the molecular repertoire of Wnt ligands, Frizzled receptors, and Wnt antagonists of each animal group, and the presumed gene expansion and gene loss events. The tree topology is based on [@Cannon2016-uy; @Schultz2023-zb].
 (B) The schematic drawings illustrating the expression of Wnt signaling components at the late gastrula stage across species.
@@ -1134,15 +1145,20 @@ Taxon sampling was focused in spiralians.
 The other species are *Biomphalaria glabrata* (Bgla), *Branchiostoma floridae* (Bflo), *Bugula neritina* (Bner), *Capitella teleta* (Ctel), *Crassostrea virginica* (Cvir), *Doryteuthis pealeii* (Dpea), *Euprymna scolopes* (Esco), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Membranipora membranacea* (Mmem), *Mizuhopecten yessoensis* (Myes), *Mytilus coruscus* (Mcor), *Mytilus edulis* (Medu), *Mytilus galloprovincialis* (Mgal), *Pecten maximus* (Pmax), *Perinereis nuntia* (Pnun), *Plakobranchus ocellatus* (Poce), *Platynereis dumerilii* (Pdum), *Saccoglossus kowalevskii* (Skow), and *Urechis unicinctus* (Uuni).
 ](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=15cm}
 
+![Domain architecture of *Terebratalia transversa* Wnt proteins.
+(A) Schematic drawings showing signal peptide regions, Wnt protein signatures, Frizzled-receptor binding sites, and C-terminal Wnt domain based on InterProScan annotations. All *T. transversa* have a similar overall architecture.
+(B--C) Multiple sequence alignment of Wnt1 proteins showing the highly divergent sequence of *T. transversa* Wnt1t in three Wnt protein signature regions. The alignment contains Wnt1 orthologs of *T. transversa* (Ttra), *Novocrania anomala* (Nano), *Platynereis dumerilii* (Pdum), *Homo sapiens* (Hsap), and *Saccoglossus kowalevskii* (Skow).
+](figures/FigS2.jpg){#fig:domains tag=S2 width=15cm}
+
 ![Whole-mount colorimetric *in situ* hybridization of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
 Additional lateral views of Wnt expression between early gastrula and late larva.
 Dorsal (D) or posterior (P) views are indicated in the respective panels.
-](figures/FigS2.jpg){#fig:s-ligands1 tag=S2 width=15cm}
+](figures/FigS3.jpg){#fig:s-ligands1 tag=S3 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA* in *Terebratalia transversa*.
 Additional lateral views of Wnt expression between early gastrula and late larva.
 Dorsal (D) or posterior (P) views are indicated in the respective panels.
-](figures/FigS3.jpg){#fig:s-ligands2 tag=S3 width=15cm}
+](figures/FigS4.jpg){#fig:s-ligands2 tag=S4 width=15cm}
 
 ![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* *wnt* genes.
 (A--D) Expression of *wnt1* (magenta) and *wnt4* (green) in the mid gastrula (A,B) and late gastrula (C,D).
@@ -1154,39 +1170,41 @@ Areas in the tissue where the expression overlaps appear in white.
 Samples oriented with the anterior end to the top and ventral to the right (lateral views).
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
-](figures/FigS4.jpg){#fig:s-doubles tag=S4 width=15cm}
+](figures/FigS5.jpg){#fig:s-doubles tag=S5 width=15cm}
 
 ![Schematic drawings summarizing the expression of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
-](figures/FigS5.jpg){#fig:summary-ligands1 tag=S5 width=15cm}
+](figures/FigS6.jpg){#fig:summary-ligands1 tag=S6 width=15cm}
 
 ![Schematic drawings summarizing the expression of *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA* in *Terebratalia transversa*.
-](figures/FigS6.jpg){#fig:summary-ligands2 tag=S6 width=15cm}
+](figures/FigS7.jpg){#fig:summary-ligands2 tag=S7 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Frizzled proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of well-annotated Frizzled proteins.
 The color-coding represents different Frizzled subfamilies and the numbers show the support values of individual branches.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma belcheri* (Bbel), *Capitella teleta* (Ctel), *Drosophila melanogaster* (Dmel), *Euperipatoides kanangrensis* (Ekan), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Mus musculus* (Mmus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS7.jpg){#fig:fzd-tree tag=S7 width=15cm}
+](figures/FigS8.jpg){#fig:fzd-tree tag=S8 width=15cm}
+
+<!--TODO: Write note about under-developed probe of fz1/2/7-->
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *fz* genes.
 Lateral, dorsal (D), and posterior (P) views between early gastrula and late larva.
 Samples oriented with anterior to the top and ventral to the right.
 In posterior views, the dorsal side to the top.
-](figures/FigS8.jpg){#fig:s-receptors tag=S8 width=15cm}
+](figures/FigS9.jpg){#fig:s-receptors tag=S9 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* sFRP proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of sFRP genes.
 The color-coding represents different sFRP subfamilies and the numbers show the support values of individual branches.
 *Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
 The other species are *Homo sapiens* (Hsap), *Crassostrea gigantea* (Cgig), *Mus musculus* (Mmus), and *Platynereis dumerilii* (Pdum).
-](figures/FigS9.jpg){#fig:sfrp-tree tag=S9 width=15cm}
+](figures/FigS10.jpg){#fig:sfrp-tree tag=S10 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt antagonists.
 Lateral views between early gastrula and late larva.
 Samples oriented with anterior to the top and ventral to the right.
 Dorsal views (D) are indicated in their respective panels.
-](figures/FigS10.jpg){#fig:s-antagonists tag=S10 width=15cm}
+](figures/FigS11.jpg){#fig:s-antagonists tag=S11 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Dkk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dkk from diverse metazoans.
@@ -1199,7 +1217,7 @@ Protostomes lost *dkk1/2/4* and *dkk3* early on, but retained *dkk5* in some lin
 Cnidarians expanded *dkk3* but lost *dkk1/2/4*.
 Overall, this suggests *dkk1/2/4*, *dkk3*, and *dkk5* were the ancestral subfamilies in the Cnidaria--bilaterian branch.
 The other species are *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), and *Strongylocentrotus purpuratus* (Spur).
-](figures/FigS11.jpg){#fig:dkk-tree tag=S11 width=15cm}
+](figures/FigS12.jpg){#fig:dkk-tree tag=S12 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Wif proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known Wif proteins (Wnt inhibitory factor).
@@ -1208,7 +1226,7 @@ The color-coding represents Wif and Ryk families.
 Numbers show the support values of individual branches.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Capitella teleta* (Ctel), *Crassostrea gigantea* (Cgig), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS12.jpg){#fig:wif-tree tag=S12 width=15cm}
+](figures/FigS13.jpg){#fig:wif-tree tag=S13 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Dsh proteins. 
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known Dsh, Axin, and Dixin proteins.
@@ -1216,52 +1234,53 @@ The three belong to the DIX domain superfamily.
 Each family is color-coded and the numbers numbers show support values of individual branches.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma floridae* (Bflo), *Homo sapiens* (Hsap), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS13.jpg){#fig:dsh-tree tag=S13 width=15cm}
+](figures/FigS14.jpg){#fig:dsh-tree tag=S14 width=15cm}
 
 ![Expression of Wnt/PCP pathway during *Terebratalia transversa* development.
 The heatmap represents the log-normalized transcript counts for *dsh*, *dgo*, *pk*, *fmi*, *stbm*, and *jnk* calculated from stage-specific RNA-seq data.
 Each cell shows the average value between two replicates.
 The illustrations depict *T. transversa* developmental stages from the oocyte until the post-metamorphic juvenile.
 The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
-](figures/FigS14.jpg){#fig:s-profiling tag=S14 width=15cm}
+](figures/FigS15.jpg){#fig:s-profiling tag=S15 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Dgo proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dgo (ANKR6 or Diversin).
 We used Inversin proteins as an outgroup since they also have ankyrin repeats.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Limulus polyphemus* (Lpol), *Mus musculus* (Mmus), *Mytilus coruscus* (Mcor), and *Xenopus tropicalis* (Xtro).
-](figures/FigS15.jpg){#fig:dgo-tree tag=S15 width=15cm}
+](figures/FigS16.jpg){#fig:dgo-tree tag=S16 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Pk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Pk from diverse metazoans.
 As an outgroup, we used Testin, a related protein which also contains a LIM and a PET domain. 
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Clytia hemisphaerica* (Chem), *Crassostrea gigantea* (Cgig), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), *Pecten maximus* (Pmax), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS16.jpg){#fig:pk-tree tag=S16 width=15cm}
+](figures/FigS17.jpg){#fig:pk-tree tag=S17 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Fmi proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Fmi.
 As outgroups, we used the related Fat family protocadherins which also contain cadherin and laminin domains.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma floridae* (Bflo), *Clytia hemisphaerica* (Chem), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), *Owenia fusiformis* (Ofus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS17.jpg){#fig:fmi-tree tag=S17 width=15cm}
+](figures/FigS18.jpg){#fig:fmi-tree tag=S18 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Stbm proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Stbm from selected metazoans.
 *Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
 The other species are *Clytia hemisphaerica* (Chem), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), and *Nematostella vectensis* (Nvec).
-](figures/FigS18.jpg){#fig:stbm-tree tag=S18 width=15cm}
+](figures/FigS19.jpg){#fig:stbm-tree tag=S19 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Jnk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Jnk.
 As outgroup, we used the related protein Mapk14.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Homo sapiens* (Hsap), *Mus musculus* (Mmus), *Petromyzon marinus* (Pmar), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS19.jpg){#fig:jnk-tree tag=S19 width=15cm}
+](figures/FigS20.jpg){#fig:jnk-tree tag=S20 width=15cm}
 
 ![Wnt signaling ligand--receptor contexts of *Terebratalia transversa* compared to other animals.
 (A) Spatial localization of *wnt* ligands, *fz* receptors, and *dkk*/*sfrp* antagonists highlighting the transcriptional subregions of *Terebratalia* (brachiopod), *Saccoglossus* (hemichordate), and *Platynereis* (annelid). 
 Wnt genes are colored by subfamilies, Frizzled genes by lighter shades of grey, and Wnt antagonists by darker shades of grey.
 (B) Detailed comparison of shared and different unique combinations of Wnt signaling components between a brachiopod and an hemichordate.
 Solid lines represent morphological boundaries for the apical, mantle, and pedicle lobes, and dashed lines represent boundaries between transcriptional subregions.
-](figures/FigS20.jpg){#fig:s-comparative tag=S20 width=15cm}
+](figures/FigS21.jpg){#fig:s-comparative tag=S21 width=15cm}
+
