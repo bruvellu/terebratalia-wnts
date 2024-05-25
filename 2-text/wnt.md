@@ -309,25 +309,23 @@ To obtain a more comprehensive picture of the Wnt signaling landscape in *T. tra
 sFRP is a soluble protein that antagonizes Wnt activity by directly binding to Wnt ligands or to Frizzled receptors [@Kawano2003-bx].
 It has a cysteine-rich domain with high-affinity to Wnt proteins.
 The sFRP family can be divided into two subfamilies, *sfrp1/2/5* and *sfrp3/4* [@Kawano2003-bx; @Bovolenta2008-kb].
-In *T. transversa*, we only identified a *sfrp1/2/5* ortholog (@fig:sfrp-tree).
-*sfrp1/2/5* is highly expressed throughout development (@fig:profiling).
-The transcripts are located in the anterior-most portion of the mesoderm and in the apical cap ectoderm---a pattern similar to the expression of *fz5/8* (@fig:fzdantag and @fig:s-antagonists).
-Transient mesodermal domains appear in the mantle lobe of the early larva but, except for dorsal patches on the apical lobe, the expression of *sfrp1/2/5* fades in the late larva stage (@fig:fzdantag and @fig:s-antagonists).
+In *T. transversa*, we only identified a *sfrp1/2/5* ortholog (@fig:sfrp-tree), which is highly expressed throughout development (@fig:profiling).
+The transcripts locate to the animal pole ectoderm in the late blastula and forms a strong anterior ectodermal domain in subsequent stages, in a pattern similar to the expression of *fz5/8* (@fig:fzdantag and @fig:s-antagonists).
+*sfrp1/2/5* is also expressed in a narrow domain at the anterior mesoderm throughout development, and in a paired domain in the mantle lobe mesoderm restricted to the early larva stage.
+In the late larva, the anterior domain becomes limited to dorsal patches on the dorsal ectoderm of the apical lobe.
 
 Dkk is a secreted glycoprotein containing two cysteine-rich domains that antagonizes Wnt signaling by inhibiting *lrp5/6* co-receptors [@Niehrs2006-kf; @Cruciat2013-zs].
 These proteins are generally divided into two subfamilies, *dkk1/2/4* and *dkk3* [@Niehrs2006-kf].
 In *T. transversa*, however, we identified a single *dkk* ortholog that groups with a previously unidentified Dkk subfamily, named hereafter *dkk5* (@fig:dkk-tree).
 Our phylogenetic analysis reveals that non-vertebrate deuterostomes, such as hemichordates and cephalochordates, have orthologs for *dkk1/2/4*, *dkk3*, and *dkk5*, suggesting this was the ancestral Dkk repertoire of bilaterians, and that *dkk1/2/4* and *dkk5* were subsequently lost in protostomes and vertebrates, respectively (@fig:dkk-tree).
 The expression of *dkk5* in *T. transversa* is upregulated in the late blastula and downregulated in the juvenile (@fig:profiling).
-It localizes to an apical ectodermal domain similar to the expression of *sfrp1/2/5*, but the *dkk5* domain is narrower and does not extend completely to the dorsal side (@fig:fzdantag and @fig:s-antagonists).
-
-<!--TODO: Move dkk to figure and only mention that it’s a novel dkk family? It feels a bit out of the flow in here-->
+It localizes to the animal pole ectoderm in the late blastula, and anterior ectoderm in subsequent stages similar to the expression of *sfrp1/2/5*, except that *dkk5* becomes limited to the ventral ectoderm and is not expressed in the mesoderm (@fig:fzdantag and @fig:s-antagonists).
 
 Wif is another protein that inhibits Wnt activity by direct binding to Wnt proteins [@Hsieh1999-rt].
 The protein has five EGF repeats and a typical WIF domain which is shared with RYK receptor tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs].
 In *T. transversa*, we identified one *wif* ortholog (@fig:wif-tree).
 The expression levels are relatively low and somewhat stable throughout development, with a peak in the late gastrula (@fig:profiling).
-Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues throughout the analyzed developmental stages (@fig:fzdantag and @fig:s-antagonists).
+Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues and only faintly in the ectoderm throughout the analyzed developmental stages (@fig:fzdantag and @fig:s-antagonists).
 
 Overall, the expression of the analyzed Wnt antagonist genes is restricted to the anterior portion of the ectoderm (*sfrp1/2/5* and *dkk5*), and to the mesoderm (*wif*), regions which coincide with the absence or limited expression of Wnt ligands.
 
@@ -343,48 +341,33 @@ Then, we analyzed their expression between the early and late gastrula stages.
 Dsh is a central regulator of the cell fate and the cell polarity Wnt pathways [@Wallingford2005-xp].
 The protein has three conserved domains (DIX, PDZ, and DEP domains), and two conserved regions before and after the PDZ domain [@Gao2010-wj].
 In *T. transversa*, we identified a single copy of *dsh* (@fig:dsh-tree) which is highly expressed in every developmental stage (@fig:s-profiling).
-*dsh* transcripts localize to a narrow domain in the apical ectoderm and anterior mesoderm (@fig:polarity).
-
-<!--The interaction of *dsh* and *axin* controls the degradation of *β-catenin*, the downstream transcriptional activator of the canonical pathway [@Miller1996-rr]. -->
-
-<!--The DIX domain is shared with *axin*, a negative regulator of Wnt signaling that interacts directly with *dsh* [@Li1999-sy]. -->
-
-<!--The protein has three conserved domains (DIX, PDZ, and DEP domains), and two conserved regions before and after the PDZ domain (a cluster of basic residues and a proline-rich region, respectively) [@Gao2010-wj]. -->
+The expression is stronger in a narrow dorsal domain of the anterior ectoderm and in the anterior portion of the mesoderm (@fig:polarity), but *dsh* transcripts are also expressed at lower levels in all embryonic tissues (@fig:s-polarity).
 
 Dgo is a cytoplasmic protein containing 6--8 ankyrin repeat domains that suppresses Wnt/beta-catenin signaling and activates the Wnt/PCP pathway [@Feiguin2001-zd; @Schwarz-Romond2002-td].
 We found a single *dgo* ortholog in *T. transversa* with six ankyrin repeats (@fig:dgo-tree). 
 The expression levels are relatively low compared to the other genes we analyzed in this study (@fig:s-profiling).
-However, we detect two pairs of dorsal domains in the late gastrula, one in the apical and another in the pedicle lobe (@fig:polarity).
+However, we still detect two pairs of dorsal ectodermal domains in the apical and pedicle lobes of the late gastrula (@fig:polarity).
 
 Pk is a protein that contains a PET domain and three LIM domains [@Gubb1999-ba] and competes with Dgo for Dsh binding [@Jenny2005-vf].
 We identified a single *pk* ortholog in *T. transversa* (@fig:pk-tree), which is highly expressed throughout development (@fig:s-profiling).
-In the early gastrula, *pk* transcripts are expressed in a small patch of tissue posterior to the blastopore (@fig:polarity).
-Then, *pk* is upregulated in the ventral ectoderm of the apical lobe as bilateral domains and in the ventral mesoderm of the mantle lobe (@fig:polarity).
+*pk* transcripts are present in a small patch of ectoderm posterior to the blastopore in the early gastrula (@fig:polarity).
+In the mid gastrula, *pk* is upregulated in the mesoderm and forms paired ventral domains within the mantle lobe mesoderm of the late gastrula, when paired ventral domains also appear in the apical lobe ectoderm.
+
+<!--TODO: Given the high expression levels of *pk* in our RNA-seq data, we cannot exclude the possibility that this gene is also expressed in other tissues.-->
 
 Fmi is a seven-pass transmembrane cadherin that regulates cell polarity [@Usui1999-fv; @Chae1999-ci].
 In *T. transversa*, we identified one ortholog of *fmi* (@fig:fmi-tree).
 It is expressed at every developmental stage, peaking around the late gastrula (@fig:s-profiling).
-*fmi* transcripts are present in most ectodermal tissues but show stronger signal on bilateral patches present in the apical lobe of the late gastrula (@fig:polarity).
+*fmi* transcripts are present in most ectodermal tissues but show stronger signal on bilateral patches present in the apical lobe ectoderm of the late gastrula (@fig:polarity).
 
 Stbm is a four-pass transmembrane protein that forms a signaling complex with FMI [@Katoh2013-mz; @Butler2017-gh].
 *Terebratalia transversa* *stbm* ortholog (@fig:stbm-tree) is initially expressed in high levels, which gradually decay during development (@fig:s-profiling).
-It is ubiquitously expressed in the tissues of gastrulating embryos (@fig:polarity).
+Accordingly, *stbm* is ubiquitously expressed in embryonic tissues during gastrulation (@fig:polarity).
 
 Jnk is a kinase that regulates epithelial metamorphosis and is a downstream transducer of the PCP pathway [@Noselli1999-sa].
-The *jnk* ortholog in *T. transversa* (@fig:jnk-tree) is highly expressed throughout the development (@fig:s-profiling) and ubiquitously expressed in the late gastrula, except for broad bilateral regions in the apical lobe (@fig:polarity).
+The *jnk* ortholog in *T. transversa* (@fig:jnk-tree) is highly expressed throughout the development (@fig:s-profiling) and ubiquitously expressed in the late gastrula, except for broad bilateral regions in the apical lobe ectoderm (@fig:polarity).
 
-In conclusion, *fmi* and *stbm* are expressed ubiquitously.
-In contrast, the other cell polarity genes *dsh*, *dgo*, *pk*, and *jnk*---a readout of the PCP pathway---are expressed in non-overlapping patches at different regions of the late gastrula stage of *T. transversa*, when the embryo is elongating.
-
-<!--proximal/anterior: pk, stbm-->
-<!--distal/posterior: fz, dsh, dgo-->
-<!--both: fmi-->
-
-<!--TODO: Confirm removal of axin and bcat-->
-
-<!--*axin* is broadly expressed in the early gastrula with higher levels at the posterior end (@fig:intracellular). At the late gastrula and early larva it is mostly expressed in a pair of bilateral bands at the anterior portion of the pedicle lobe which correspond to the *wnt1* domain, as well as in the mantle lobe mesoderm adjacent to the endoderm (@fig:intracellular).-->
-
-<!--*β-catenin* is ubiquitously expressed in the ectoderm and mesoderm until the late gastrula when the ectodermal transcripts are downregulated (@fig:intracellular). During larval development, mesoderm expression is also downregulated. In the late larva stage, *β-catenin* transcripts are restricted to the anterior mesoderm and to the mesoderm associated with the chaetae sacs in the mantle lobe (@fig:intracellular).-->
+In conclusion, while *fmi*, *stbm*, and *dsh* are expressed ubiquitously, the other cell polarity genes *dgo*, *pk*, and *jnk* are expressed in non-overlapping patches at different regions of the late gastrula.
 
 # Discussion
 
@@ -1243,44 +1226,48 @@ The illustrations depict *T. transversa* developmental stages from the oocyte un
 The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
 ](figures/FigS15.jpg){#fig:s-profiling tag=S15 width=15cm}
 
+![Over-developed whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *dsh* gene.
+The longer reaction time reveals that *dsh* transcripts are ubiquitously expressed in most embryonic tissues. 
+](figures/FigS16.jpg){#fig:s-polarity tag=S16 width=15cm}
+
 ![Orthology assignment of *Terebratalia transversa* Dgo proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dgo (ANKR6 or Diversin).
 We used Inversin proteins as an outgroup since they also have ankyrin repeats.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Limulus polyphemus* (Lpol), *Mus musculus* (Mmus), *Mytilus coruscus* (Mcor), and *Xenopus tropicalis* (Xtro).
-](figures/FigS16.jpg){#fig:dgo-tree tag=S16 width=15cm}
+](figures/FigS17.jpg){#fig:dgo-tree tag=S17 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Pk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Pk from diverse metazoans.
 As an outgroup, we used Testin, a related protein which also contains a LIM and a PET domain. 
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Clytia hemisphaerica* (Chem), *Crassostrea gigantea* (Cgig), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), *Pecten maximus* (Pmax), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS17.jpg){#fig:pk-tree tag=S17 width=15cm}
+](figures/FigS18.jpg){#fig:pk-tree tag=S18 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Fmi proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Fmi.
 As outgroups, we used the related Fat family protocadherins which also contain cadherin and laminin domains.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma floridae* (Bflo), *Clytia hemisphaerica* (Chem), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), *Owenia fusiformis* (Ofus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS18.jpg){#fig:fmi-tree tag=S18 width=15cm}
+](figures/FigS19.jpg){#fig:fmi-tree tag=S19 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Stbm proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Stbm from selected metazoans.
 *Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
 The other species are *Clytia hemisphaerica* (Chem), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), and *Nematostella vectensis* (Nvec).
-](figures/FigS19.jpg){#fig:stbm-tree tag=S19 width=15cm}
+](figures/FigS20.jpg){#fig:stbm-tree tag=S20 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Jnk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Jnk.
 As outgroup, we used the related protein Mapk14.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Homo sapiens* (Hsap), *Mus musculus* (Mmus), *Petromyzon marinus* (Pmar), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS20.jpg){#fig:jnk-tree tag=S20 width=15cm}
+](figures/FigS21.jpg){#fig:jnk-tree tag=S21 width=15cm}
 
 ![Wnt signaling ligand--receptor contexts of *Terebratalia transversa* compared to other animals.
 (A) Spatial localization of *wnt* ligands, *fz* receptors, and *dkk*/*sfrp* antagonists highlighting the transcriptional subregions of *Terebratalia* (brachiopod), *Saccoglossus* (hemichordate), and *Platynereis* (annelid). 
 Wnt genes are colored by subfamilies, Frizzled genes by lighter shades of grey, and Wnt antagonists by darker shades of grey.
 (B) Detailed comparison of shared and different unique combinations of Wnt signaling components between a brachiopod and an hemichordate.
 Solid lines represent morphological boundaries for the apical, mantle, and pedicle lobes, and dashed lines represent boundaries between transcriptional subregions.
-](figures/FigS21.jpg){#fig:s-comparative tag=S21 width=15cm}
+](figures/FigS22.jpg){#fig:s-comparative tag=S22 width=15cm}
 
