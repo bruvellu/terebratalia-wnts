@@ -76,11 +76,14 @@ Brachiopoda, Gene expression, Axial patterning, Wnt pathways, Larva, Combinatori
 
 <!--## Developmental importance of Wnt signaling pathways-->
 
-Wnt genes encode secreted glycoproteins that play multiple roles during embryogenesis [@Nusse1992-oi; @Cadigan1997-vx].
-They are involved in cell specification events, such as mediating cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq], specifying endomesodermal tissues before gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], and establishing the primary embryonic axis [@Petersen2009-wp; @Niehrs2010-ne]---often acting as a symmetry-breaking signal [@Loh2016-pz].
-But Wnt activity also controls morphogenetic movements, such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
-This multitude of roles is linked to the outstanding complexity of Wnt signaling pathways.
-<!--Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].-->
+<!--TODO: Split this paragraph in two, and bring the next paragraph in-->
+
+Wnt genes play multiple roles during embryogenesis [@Nusse1992-oi; @Cadigan1997-vx].
+They often act as a symmetry-breaking signal [@Loh2016-pz] that can mediate cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq], specify endomesodermal tissues during gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], and establish embryonic axes [@Petersen2009-wp; @Niehrs2010-ne].
+Moreover, Wnt activity can also control morphogenetic tissue movements, such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
+This multitude of roles is likely associated with the outstanding complexity of Wnt signaling pathways.
+Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].
+<!--Wnt genes encode secreted glycoproteins that play multiple roles during embryogenesis [@Nusse1992-oi; @Cadigan1997-vx].-->
 There are 13 subfamilies of Wnt ligands, five subfamilies of Frizzled receptors, some additional co-receptors, as well as a series of agonists, antagonists, downstream players, and effector molecules that are involved in at least three interconnected Wnt pathways.
 The Wnt/beta-catenin (canonical) pathway regulates cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controls cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulates intracellular calcium levels for convergent extension movements [@James2008-tt].
 Therefore, understanding how this complex network of interactions regulates embryonic development and influences developmental evolution remains a major challenge.
@@ -176,7 +179,7 @@ This suggests that the evolutionary shuffling in the expression of Wnt ligands m
 ## *Terebratalia transversa* has a conserved repertoire of Wnt genes
 
 Metazoans have a large Wnt repertoire with 13 subfamilies [@Kusserow2005-xd; @Croce2009-vv; @Cho2010-eb].
-To characterize the Wnt complement of the brachiopod *Terebratalia transversa*, we surveyed our transcriptomic and genomic resources for Wnt genes using similarity searches with known Wnt genes from other animals.
+To characterize the Wnt complement of the brachiopod *Terebratalia transversa*, we surveyed a reference transcriptome of the species for Wnt genes using similarity searches with known Wnt genes from other animals.
 We identified 13 Wnt genes with representatives of 12 of the 13 Wnt subfamilies (@fig:wnt-tree).
 *T. transversa* is missing *wnt3*, a gene known to have been lost in Protostomia [@Cho2010-eb; @Janssen2010-dc], and has two copies of *wnt1*.
 One of the *wnt1* paralogs---named hereafter *wnt1t*---is highly divergent at the sequence level compared to other *wnt1* orthologs across bilaterians, and our phylogenetic analysis suggests it originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
@@ -186,7 +189,7 @@ Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a si
 
 ## Wnt genes are upregulated in concert during axial elongation
 
-To characterize the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
+To uncover the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
 We detect an abundance of *wnt4* and *wntA* transcripts deposited maternally in the oocyte (@fig:profiling).
 Transcripts of other Wnt genes, such as *wnt1t* and *wnt6*, are present at lower levels.
 This expression profile remains unchanged after fertilization (mid blastula, 8h) but shifts significantly at the late blastula stage (19h), when a concerted upregulation of *wnt1*, *wnt1t*, *wnt8*, *wnt10*, and *wnt16* occurs (@fig:profiling).
@@ -895,14 +898,9 @@ For the *in situ* hybridization samples, we fixed the embryos for 1h in 4% paraf
 We extracted the total RNA using Trizol.
 Library preparation and sequencing was performed at the EMBL Genomic Core Facilities (GENECORE).
 The samples were randomized and multiplexed on four lanes of a Illumina HighSeq 2000 system, and sequenced to an average of 24±5 million 50bp of single-end reads.
-We quantified the transcript abundances by pseudoaligning the reads to a reference transcriptome of *T. transversa* (assembled from [SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn]))
-using Kallisto v0.46.0 [@Bray2016-lm].
-Using DESeq2 [@Love2014-hs], we estimated the library size factors and data dispersion, and homogenized the variance across expression ranks applying a variance-stabilizing transformation before the expression analyses.
-We visualized the normalized expression data using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz].
-All analyses were performed in R [@R_Core_Team1993-ki] running RStudio Desktop
-[@RStudio_Team2011-wr].
-
-<!--TODO: The percentage of uniquely mapped reads was high for all samples (85.6±1.7%). -->
+To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply-sequenced dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
+Next, we imported the estimated counts from Kallisto to DESeq2 [@Love2014-hs] to estimate the library size factors and data dispersion, homogenize the variance across expression ranks, and apply a variance-stabilizing transformation to the data before the expression analyses.
+To visualize the normalized expression data, we generated heatmaps using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz] in R [@R_Core_Team1993-ki] running in RStudio Desktop [@RStudio_Team2011-wr].
 
 ## Gene orthology
 
@@ -937,7 +935,10 @@ Illustrations and figure plates were assembled using Inkscape.
 
 ## Availability of data and materials
 
+<!--TODO: Add other resources here.-->
+
 The data and analyses are available in the Zenodo repository [https://doi.org/10.5281/zenodo.8312023](https://doi.org/10.5281/zenodo.8312023).
+
 
 ## Competing interests
 
