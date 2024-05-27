@@ -590,7 +590,7 @@ The fact that the same ligand, when co-expressed with a different receptor, corr
 
 <!--TODO: Remove this statement.-->
 Wnt signaling in the apical lobe is presumably mediated by *fz4* via the Wnt/beta-catenin, while in the mantle lobe, it is presumably mediated by *fz1/2/7* via the Wnt/PCP pathway.
-Indeed, over-activation of the Wnt/beta-catenin pathway in *T. transversa* leads to an expansion of the apical lobe and an inhibition of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq], indicating that *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A).
+Indeed, over-activation of the Wnt/beta-catenin pathway in *T. transversa* leads to an expansion of the pedicle lobe and an inhibition of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq], indicating that *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A).
 Therefore, it is possible that the evolution of a reversible mantle lobe was associated with the activation of *wnt5* in a different receptor context, indicating that such context-switching could have a significant role in axial evolution.
 
 <!--TODO: wnt5 is commonly expressed in the head.-->
