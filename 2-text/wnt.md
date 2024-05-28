@@ -27,7 +27,7 @@ institute:
 - uib: Department of Biological Sciences, Molecular Biology, University of Bergen, Thormøhlensgate 55, 5008 Bergen, Norway.
 - jena: Institute of Zoology and Evolutionary Research, Friedrich Schiller University Jena, Erbertstraße 1, 07743 Jena, Germany
 documentclass: article
-bibliography: "resources/wnt.bib"
+bibliography: "wnt.bib"
 csl: "resources/biomed-central.csl"
 papersize: a4
 geometry:
@@ -877,17 +877,15 @@ removed non-informative sections using GBlocks 0.91b [@Talavera2007-fl], and ins
 Using the blocked alignments as input, we ran a maximum likelihood phylogenetic analysis using the automatic model recognition and rapid bootstrap options of RAxML 8.2.12 [@Stamatakis2014-bm].
 We rendered the resulting trees using the Interactive Tree Of Life web application [@Letunic2016-pn].
 
-<!--TODO: The gene orthology analyses and source files are available in the repository [TODO].-->
+<!--TODO: The gene orthology analyses and source files are available in the repository.-->
 
 ## Cloning and *in situ* hybridization
 
-We synthesized cDNA from a mix of total RNA from all developmental stages using the SMARTer RACE cDNA Amplification kit (Clontech).
-For each identified ortholog transcript, we designed gene-specific primer pairs within the coding sequence, with product sizes ranging between 800--1200bp, using Primer3 [@Untergasser2012-se].
-We cloned each fragment into a pGEM-T Easy Vector and amplified the antisense sequences using T7 or SP6 polymerase.
-DIG-labeled riboprobes were synthesized with the MEGAscript kit (Ambion).
-We then followed the established protocols in *T. transversa* for single colorimetric *in situ* hybridization [@Hejnol2008-pk; @Santagata2012-he], and double fluorescent *in situ* hybridization [@Vellutini2016-lq; @Martin-Duran2016-qa].
+We synthesized cDNA from a total RNA extraction of mixed developmental stages of *T. transversa* using the SMARTer RACE cDNA Amplification kit (Clontech).
+For each transcript, designed gene-specific primer pairs within the coding sequence using Primer3 [@Untergasser2012-se] to obtain product sizes between 800 and 1200bp (@tbl:cloning).
+We then cloned each fragment into a pGEM-T Easy Vector, amplified the antisense sequences using T7 or SP6 polymerase, and synthesized DIG-labeled riboprobes using the MEGAscript kit (Ambion).
+Finally, to visualize gene expression, we followed the established protocols in *T. transversa* for single colorimetric *in situ* hybridization [@Hejnol2008-pk; @Santagata2012-he], and double fluorescent *in situ* hybridization [@Vellutini2016-lq; @Martin-Duran2016-qa].
 
-<!--TODO: The primer pairs are available in the repository [TODO] and the cloned sequences were deposited in the GenBank (XXX--XXX).-->
 
 ## Microscopy and image processing
 
@@ -904,6 +902,7 @@ We adjusted intensity levels to improve contrast---without clipping signal from 
 
 The data and analyses are available in the Zenodo repository [https://doi.org/10.5281/zenodo.8312023](https://doi.org/10.5281/zenodo.8312023).
 
+<!--TODO: The primer pairs are available in the repository [TODO] and the cloned sequences were deposited in the GenBank (XXX--XXX).-->
 
 ## Competing interests
 
@@ -1238,4 +1237,39 @@ Wnt genes are colored by subfamilies, Frizzled genes by lighter shades of grey, 
 (B) Detailed comparison of shared and different unique combinations of Wnt signaling components between a brachiopod and an hemichordate.
 Solid lines represent morphological boundaries for the apical, mantle, and pedicle lobes, and dashed lines represent boundaries between transcriptional subregions.
 ](figures/FigS22.jpg){#fig:s-comparative tag=S22 width=15cm}
+
+\newpage
+
+## Tables
+
+Table: Gene accession numbers and primer pairs used for cloning. {#tbl:cloning tag=S1}
+
+| Gene           | Accession | Forward                   | Reverse                   | Product |
+| ----           | --------- | -------                   | -------                   | ------- |
+| Ttra wnt1      | KT253961  | TAGCACACACAGGCAAGATAGTCC  | GGAGTAGCAAGTGGAAATGGGG    | 935 bp  |
+| Ttra wnt1t     |           | AAGTTGAAGGCACGATGGACG     | AGCATTCGCACAGACAGTAGCAC   | 1295 bp |
+| Ttra wnt2      |           | CGAGTGTCAATGGCAGTTTAGGC   | TGGAGGTTTTGTTGGGTTAGGAC   | 859 bp  |
+| Ttra wnt4      |           | ATGAACCTACACAACAACGA      | ACAACACCAATGAAATTTACA     | 447 bp  |
+| Ttra wnt5      |           | TGGATAGGCGTAACAAAGAAGAGG  | GATCTAGTCGGCTTCCTCAAACG   | 923 bp  |
+| Ttra wnt6      |           | ACCTCGTTTCGCATTGATTGAC    | CCATCGTTTGAACCAAGCACC     | 990 bp  |
+| Ttra wnt7      |           | AATGAAGCAGGAAGGAGGGCAG    | GCTGGGCATAAAATGTTGTGACG   | 947 bp  |
+| Ttra wnt8      |           | ATGAAGTGGGAAGAAGGGCA      | GCAGCACCACTGGAATTTACA     | 458 bp  |
+| Ttra wnt9      |           | CGACTTTCTCAGATGGAATGCGAG  | GTGAACGAACCAATCAGGATGC    | 988 bp  |
+| Ttra wnt10     |           | TACCCAACCGAAGAAGCAGACC    | TACTTGATGCGTGACACCAGCG    | 1017 bp |
+| Ttra wnt11     |           | TGGTTCCCATAAGTAGACAGAGACG | CACAATGCTGCCACAATCAAAG    | 897 bp  |
+| Ttra wnt16     |           | ATGTGTATTGGTCATGGGGCTC    | GCATCGTGTGACAGTTTTCTCAAC  | 800 bp  |
+| Ttra wntA      |           | AGAGTAGGGAGACGGCATTCATC   | TGTTTTCGGCAGTGTGGAGATAC   | 807 bp  |
+| Ttra fz1/2/7   |           | CGGAAAGGCTGTGAGGAAGT      | GCCCAAGCAGCCAAATGAAA      | 1009 bp |
+| Ttra fz4       |           | AGAGGAGTTTGGTGGCGAGG      | AAGAGAAGGAACACAAGATTGGGTC | 1247 bp |
+| Ttra fz5/8     |           | CAAGAACTGAGTGAAGCCTATCCC  | TGACCCACCAAAGAGATGATGC    | 1328 bp |
+| Ttra fz9/10    |           | CCAATGTAAATGACAAGGGTAGCG  | CAGCCAATAGAAAGACAGTGCCTG  | 902 bp  |
+| Ttra sfrp1/2/7 |           | CCACTTGTCCACAGTTGTCAGTCG  | TTCGCAATCCTTCTTCACCG      | 884 bp  |
+| Ttra dkk5      |           | CAAGCGATCATTCGGTCAG       | CCTTGTGAAAATATGTGGCTTC    | 762 bp  |
+| Ttra wif       |           | TTCAAAAACAAGGGCTTCTT      | TGGTCTCCCAAACATTCACA      | 953 bp  |
+| Ttra dsh       |           | ATCCACTGCAATGTCATCCA      | AGGGGAGCTAATGTATCCCT      | 951 bp  |
+| Ttra dgo       |           | CAATGGGGATAAGGCCATGC      | ATGACCTCATTAGCCCCCTT      | 936 bp  |
+| Ttra pk        |           | AGCCTTGTATGTCGTGTGGA      | AAATGCTTCTGTTGCCATTC      | 949 bp  |
+| Ttra fmi       |           | ATTCTACAGGTGGTGCTGCT      | TGATCTCCGTCAGCATACGG      | 951 bp  |
+| Ttra stbm      |           | TCTTGTTTCTGGTGTTTGTG      | TTGCTATGTCTCCCTGTCGT      | 897 bp  |
+| Ttra jnk       |           | AAAACGGGAGGTCATTGCAC      | GATCCTGGAAAGAGCACATT      | 952 bp  |
 
