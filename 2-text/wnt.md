@@ -210,7 +210,9 @@ The apical lobe expression fades, and a new *wnt1* domain appears encircling the
 
 *wnt1t* expression domains differ significantly from its paralog *wnt1*.
 We first detect *wnt1t* transcripts in a single ectodermal spot at the animal pole of the early gastrula (@fig:ligands1 and @fig:s-ligands1).
-This spot becomes fragmented in the early larva when only subsets of cells continue expressing *wnt1t*, and fades in the late larva, while *wnt1t* is upregulated in three different domains: a central patch of ventral ectoderm posterior to the mouth, an ectodermal ring beneath the mantle lobe, and an ectodermal spot at the terminal tip of the pedicle lobe.
+This domain localizes to the anterior end of the embryo and is expressed until the early larva, when only subsets of cells continue expressing *wnt1t*.
+At this stage, a central patch of ventral ectoderm posterior to the mouth also begins expressing *wnt1t*.
+Finally, in the late larva, *wnt1t* is upregulated in an ectodermal ring beneath the mantle lobe, and at the terminal tip of the pedicle lobe ectoderm.
 
 *wnt2* is only expressed in the late gastrula and early larva stages in bilateral ectodermal bands that encircle the posterior portion of the apical lobe almost entirely, except for the ventral and dorsal midlines (@fig:ligands1 and @fig:s-ligands1).
 
