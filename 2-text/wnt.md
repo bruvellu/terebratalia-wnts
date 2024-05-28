@@ -329,7 +329,7 @@ Wif is another protein that inhibits Wnt activity by direct binding to Wnt prote
 The protein has five EGF repeats and a typical WIF domain which is shared with RYK receptor tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs].
 In *T. transversa*, we identified one *wif* ortholog (@fig:wif-tree).
 The expression levels are relatively low and somewhat stable throughout development, with a peak in the late gastrula (@fig:profiling).
-Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues and only faintly in the ectoderm throughout the analyzed developmental stages (@fig:fzdantag and @fig:s-antagonists).
+Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues throughout the analyzed developmental stages; it is also broadly but faintly expressed in the ectoderm until the early larva, and it is not expressed in the endoderm (@fig:fzdantag and @fig:s-antagonists).
 
 Overall, the expression of the analyzed Wnt antagonist genes is restricted to the anterior portion of the ectoderm (*sfrp1/2/5* and *dkk5*), and to the mesoderm (*wif*), regions which coincide with the absence or limited expression of Wnt ligands.
 
