@@ -507,26 +507,16 @@ Below, we discuss the evidence for different ligand--receptor contexts during br
 <!--TODO: Make organisms explicit for each statement-->
 
 The apical lobe of *T. transversa* differentiates into two regions, a narrower anterior region that gives rise to the larval apical organ and neuropile [@Santagata2011-ry], and a wider posterior region that gives rise to the crown of tentacles used for filter feeding known as the lophophore.
-
-We find that these two regions have different Wnt transcriptional profiles.
-
-The anterior region expresses Wnt antagonists and *fz5/8* but no Wnt ligands, while the posterior region expresses several Wnt ligands and *fz4* but no Wnt antagonist ({@fig:summary}A).
-
+We find that these two regions have different Wnt transcriptional profiles at the late gastrula stage.
+The anterior region expresses Wnt antagonists and *fz5/8* but no Wnt ligands---except for the spot domain of wnt1t in the dorsal ectoderm---while the posterior region expresses several Wnt ligands and *fz4* but no Wnt antagonist ({@fig:summary}A).
 In sea urchins, the establishment of anterior and posterior neuroectoderm fates is regulated by *fz5/8* and *wnt8*, respectively.
-
 While *fz5/8* activates the expression of Wnt antagonists *sFRP* and *Dkk* which, in turn, inhibit Wnt/beta-catenin signaling at the apical pole, *wnt8* represses *fz5/8* more posteriorly [@Range2013-gm; @Khadka2018-td].
-
 <!--TODO: Remove redundant references-->
-
 A similar interaction between *wnt8* and *fz5/8* also controls the posterior neuroectoderm identity in zebrafish development [@Erter2001-fl; @Lekven2001-jj; @Kim2002-ze; @Rhinn2005-ie].
-
 <!--TODO: Add Nematostella citing Niedermoser2022-ev-->
-
 <!--TODO: Tone down this sentence-->
 *T. transversa* shows the same arrangement between *fz5/8* and *wnt8* expression domains suggesting that a similar regulatory logic may also control the subdivision of the apical lobe in a brachiopod larva.
-
 It remains to be determined if a similar regulatory logic also controls the subdivision of the apical lobe in a brachiopod larva.
-
 
 <!--TODO: Add any of these sentences/infos back to the text?-->
 <!--TODO: Maybe add the foxq2/six36 conserved early expression before the fz5/8-->
