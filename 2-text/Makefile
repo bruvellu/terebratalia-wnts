@@ -21,7 +21,7 @@ text:
 
 refs:
 	# Update references: wnt.bib
-	wget -P resources/ --content-disposition -N https://paperpile.com/eb/kLGboEXerY
+	wget --content-disposition -N https://paperpile.com/eb/kLGboEXerY
 
 figs:
 	# Copy figure files to figure directory with official naming
