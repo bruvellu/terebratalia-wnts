@@ -1097,20 +1097,20 @@ Table: Developmental stages sampled for the stage-specific transcriptome of *Ter
 
 | Stage    | Time post fertilization | Description                          |
 | -------- | ----------------------- | ------------------------------------ |
-| S01      | 0h                      | oocytes                              |
-| S02      | 8h                      | mid blastula                         |
-| S03      | 19h                     | late blastula                        |
-| S04      | 24h                     | moving late blastula                 |
-| S05      | 26h                     | early gastrula                       |
-| S06      | 37h                     | asymmetric gastrula                  |
-| S07      | 51h                     | bilateral gastrula                   |
-| S08      | 59h                     | bilobed                              |
-| S09      | 68h                     | trilobed                             |
-| S10      | 82h                     | early larva (first chaetae visible)  |
-| S11      | 98h                     | late larva (long chaetae, eye spots) |
-| S12      | 131h                    | competent larva                      |
-| S13      | 1d                      | juvenile                             |
-| S14      | 2d                      | juvenile                             |
+| S01      | 0h (0.0 days)           | unfertilized oocytes                 |
+| S02      | 8h (0.3 days)           | mid blastula                         |
+| S03      | 19h (0.8 days)          | late blastula                        |
+| S04      | 24h (1.0 days)          | moving late blastula                 |
+| S05      | 26h (1.1 days)          | early gastrula                       |
+| S06      | 37h (1.5 days)          | asymmetric gastrula                  |
+| S07      | 51h (2.1 days)          | bilateral gastrula                   |
+| S08      | 59h (2.5 days)          | bilobed                              |
+| S09      | 68h (2.8 days)          | trilobed                             |
+| S10      | 82h (3.4 days)          | early larva (first chaetae visible)  |
+| S11      | 98h (4.1 days)          | late larva (long chaetae, eye spots) |
+| S12      | 131h (5.5 days)         | competent larva                      |
+| S13      | 162h (6.7 days)         | juvenile 1 day post metamorphosis    |
+| S14      | 186h (7.7 days)         | juvenile 2 days post metamorphosis   |
 
 \newpage
 
