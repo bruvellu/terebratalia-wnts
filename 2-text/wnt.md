@@ -203,64 +203,64 @@ Therefore, Wnt expression is dynamic throughout development but peaks late in ga
 
 To uncover the spatial localization of Wnt ligands during brachiopod development, we performed *in situ* hybridization in embryos from late blastula to competent larval stages of *T. transversa* (@fig:ligands1 and !@fig:ligands2).
 
-*wnt1* is expressed in the ectoderm and invaginating endomesoderm of the posterior blastopore lip in the late blastula (@fig:ligands1, @fig:s-ligands1, and @Vellutini2016-lq).
+*wnt1* is expressed in the ectoderm and invaginating endomesoderm of the posterior blastopore lip in the late blastula (@fig:ligands1, !@fig:s-ligands1, and @Vellutini2016-lq).
 This domain expands laterally, forming a ventral ectodermal band at the anterior most portion of the pedicle lobe in the early larva, a region that gives rise to the ventral shell primordium in the late larva.
 From the late gastrula stage, *wnt1* is also expressed in a narrow ectodermal stripe around the posterior region of the apical lobe and in the dorsal shell primordium.
 The apical lobe expression fades, and a new *wnt1* domain appears encircling the posterior subdivision of the pedicle lobe in the late larva.
 
 *wnt1t* expression domains differ significantly from its paralog *wnt1*.
-We first detect *wnt1t* transcripts in a single ectodermal spot at the animal pole of the early gastrula (@fig:ligands1 and @fig:s-ligands1).
+We first detect *wnt1t* transcripts in a single ectodermal spot at the animal pole of the early gastrula (@fig:ligands1 and !@fig:s-ligands1).
 This domain localizes to the anterior end of the embryo and is expressed until the early larva, when only subsets of cells continue expressing *wnt1t*.
 At this stage, a central patch of ventral ectoderm posterior to the mouth also begins expressing *wnt1t*.
 Finally, in the late larva, *wnt1t* is upregulated in an ectodermal ring beneath the mantle lobe, and at the terminal tip of the pedicle lobe ectoderm.
 
-*wnt2* is only expressed in the late gastrula and early larva stages in bilateral ectodermal bands that encircle the posterior portion of the apical lobe almost entirely, except for the ventral and dorsal midlines (@fig:ligands1 and @fig:s-ligands1).
+*wnt2* is only expressed in the late gastrula and early larva stages in bilateral ectodermal bands that encircle the posterior portion of the apical lobe almost entirely, except for the ventral and dorsal midlines (@fig:ligands1 and !@fig:s-ligands1).
 
-*wnt4* is expressed at the posterodorsal ectoderm from late blastula to late gastrula (@fig:ligands1 and @fig:s-ligands1).
+*wnt4* is expressed at the posterodorsal ectoderm from late blastula to late gastrula (@fig:ligands1 and !@fig:s-ligands1).
 The pattern is similar to *wnt1*, but *wnt4* transcripts are localized more dorsally ({@fig:s-doubles}A--C).
 In the early larva, the expression at the posterior end and dorsal portion fades, the domain becomes narrower, and acquires a subterminal position within the ventral ectoderm of the pedicle lobe.
 This domain is still present in the late larva, when *wnt4* begins to be expressed in the posterior endoderm.
 
 *wnt5* is expressed in three distinct ectodermal domains---in the apical, mantle, and pedicle lobes, respectively.
-We first detect expression in the early gastrula with transcripts at the posterior blastopore lip and anterolateral ectoderm (@fig:ligands1 and @fig:s-ligands1).
-The posterior ectodermal domain is narrower than the *wnt1* domain (@fig:ligands1 and {@fig:doubles}A) and maintains a terminal position until the late larva stage when the tip of the pedicle lobe is cleared from expression (@fig:ligands1 and @fig:s-ligands1).
+We first detect expression in the early gastrula with transcripts at the posterior blastopore lip and anterolateral ectoderm (@fig:ligands1 and !@fig:s-ligands1).
+The posterior ectodermal domain is narrower than the *wnt1* domain (@fig:ligands1 and {!@fig:doubles}A) and maintains a terminal position until the late larva stage when the tip of the pedicle lobe is cleared from expression (@fig:ligands1 and !@fig:s-ligands1).
 The anterolateral domains expand in the mid gastrula to encircle the posterior portion of the apical lobe ectoderm, and fade in the late larva.
 *wnt5* is also expressed in the leading edge of the growing mantle lobe ectoderm from mid gastrula to late larva.
-The ectodermal expression domains of *wnt5* and *wnt1* occupy distinct regions along the anteroposterior axis that coincide with the subdivisions of the larval lobes ({@fig:doubles}B,C and {@fig:s-doubles}G).
+The ectodermal expression domains of *wnt5* and *wnt1* occupy distinct regions along the anteroposterior axis that coincide with the subdivisions of the larval lobes ({@fig:doubles}B,C and {!@fig:s-doubles}G).
 
-*wnt6* transcripts localize to the posterior blastopore lip, similarly to *wnt1* and *wnt4*, from the early to the late gastrula (@fig:ligands1 and @fig:s-ligands1).
+*wnt6* transcripts localize to the posterior blastopore lip, similarly to *wnt1* and *wnt4*, from the early to the late gastrula (@fig:ligands1 and !@fig:s-ligands1).
 This ectodermal domain is cleared in the early larva, when *wnt6* is activated in a midbody section of the endoderm.
 In the late larva, we also detect *wnt6* domains in the ectoderm of the apical and pedicle lobes.
 
-*wnt7* initiates as a lateral pair of anterior ectodermal stripes that progressively extend around the entire embryo circumference until the early larva (@fig:ligands1 and @fig:s-ligands1).
-This *wnt7* stripe demarcates the apical--mantle boundary, partially overlapping with *wnt1*- and *engrailed*-expressing cells at the anteriormost region of the mantle lobe ({@fig:doubles}G,H and {@fig:s-doubles}I; see also [@Vellutini2016-lq]).
+*wnt7* initiates as a lateral pair of anterior ectodermal stripes that progressively extend around the entire embryo circumference until the early larva (@fig:ligands1 and !@fig:s-ligands1).
+This *wnt7* stripe demarcates the apical--mantle boundary, partially overlapping with *wnt1*- and *engrailed*-expressing cells at the anteriormost region of the mantle lobe ({@fig:doubles}G,H and {!@fig:s-doubles}I; see also [@Vellutini2016-lq]).
 In the early larva, the anterior *wnt7* stripe disappears and a posterior ectodermal stripe appears demarcating the boundary between the subterminal and terminal regions of the pedicle lobe, between the posterior territories of *wnt1* and *wnt5*.
 
-*wnt8* is expressed in a ring of cells in the invaginating endomesoderm and in a broad ectodermal band encircling the late blastula (@fig:ligands2 and @fig:s-ligands2).
+*wnt8* is expressed in a ring of cells in the invaginating endomesoderm and in a broad ectodermal band encircling the late blastula (@fig:ligands2 and !@fig:s-ligands2).
 In the early and mid gastrula, *wnt8* transcripts are cleared from the endomesoderm and from the anterior ectoderm, and two distinct ectodermal domains remain: a pair of broad lateral territories in the apical lobe, and a wide posterodorsal domain in the pedicle lobe.
 The lateral territories expand ventrally and dorsally, encircling the apical lobe ectoderm, while the posterior ectodermal domain fades in the late gastrula.
-The anterior *wnt8* territories partially overlap with the anterior expression of *wnt1* in the apical lobe ectoderm ({@fig:doubles}I--L and {@fig:s-doubles}H).
+The anterior *wnt8* territories partially overlap with the anterior expression of *wnt1* in the apical lobe ectoderm ({@fig:doubles}I--L and {!@fig:s-doubles}H).
 
-*wnt9* transcripts are first expressed in the invaginated endomesoderm of late gastrula embryos at a subterminal position (@fig:ligands2 and @fig:s-ligands2).
+*wnt9* transcripts are first expressed in the invaginated endomesoderm of late gastrula embryos at a subterminal position (@fig:ligands2 and !@fig:s-ligands2).
 The domain forms a contiguous patch of mesodermal and endodermal cells expressing *wnt9* in the early larva, which differentiates into two distinct territories; one endodermal in the central portion of the gut and another mesodermal in a bilateral pair of anterior domains near the apical--mantle boundary.
 
-*wnt10* is expressed from the mid gastrula stage in a posterior ectodermal domain which acquires a subterminal position within the pedicle lobe in the early larva (@fig:ligands2 and @fig:s-ligands2).
+*wnt10* is expressed from the mid gastrula stage in a posterior ectodermal domain which acquires a subterminal position within the pedicle lobe in the early larva (@fig:ligands2 and !@fig:s-ligands2).
 Additionally, we detect *wnt10* transcripts in the late gastrula at a dorsal ectodermal patch of the apical lobe, similar to the dorsal domain of *wnt1t*, and in the late larva at the posterior mesoderm.
 
-*wnt11* is expressed in a posterodorsal ectodermal domain in the early gastrula, similar to *wnt4* (@fig:ligands2 and @fig:s-ligands2).
+*wnt11* is expressed in a posterodorsal ectodermal domain in the early gastrula, similar to *wnt4* (@fig:ligands2 and !@fig:s-ligands2).
 The domain encircles the pedicle lobe ectoderm in the early larva, and becomes reduced to a narrow ectodermal stripe on the ventral portion of the pedicle lobe in the late larva.
-In the early larva, *wnt11* is also expressed in the ventral ectoderm at the mantle--pedicle boundary, and in the posterior endoderm of the larval gut (@fig:ligands2 and @fig:s-ligands2).
+In the early larva, *wnt11* is also expressed in the ventral ectoderm at the mantle--pedicle boundary, and in the posterior endoderm of the larval gut (@fig:ligands2 and !@fig:s-ligands2).
 
-*wnt16* is expressed in the invaginating endomesoderm and vegetal ectoderm around the blastopore in the late blastula (@fig:ligands2 and @fig:s-ligands2).
+*wnt16* is expressed in the invaginating endomesoderm and vegetal ectoderm around the blastopore in the late blastula (@fig:ligands2 and !@fig:s-ligands2).
 During gastrulation, the endomesodermal expression clears and only the ectodermal domain remains as lateral patches near the blastopore lip.
 With the blastopore closure, *wnt16* forms a heart-shaped domain in the ectoderm and presumably mesoderm at the ventral midline of the mantle lobe in the early larva.
 
-*wntA* appears in the mid gastrula as paired, ventral ectodermal domains located at the posterior portion of the apical lobe (@fig:ligands2 and @fig:s-ligands2).
+*wntA* appears in the mid gastrula as paired, ventral ectodermal domains located at the posterior portion of the apical lobe (@fig:ligands2 and !@fig:s-ligands2).
 In the late larva, these anterior ectodermal domains are cleared, and *wntA* expression is activated in paired, ventral mesodermal bands adjacent to the mouth.
 
 <!--TODO: Improve this paragraph-->
 
-Overall, Wnt genes are expressed in diverse, partially overlapping domains along the anteroposterior axis (@fig:summary-ligands1 and @fig:summary-ligands2).
+Overall, Wnt genes are expressed in diverse, partially overlapping domains along the anteroposterior axis (@fig:summary-ligands1 and !@fig:summary-ligands2).
 
 ## Frizzled genes are highly expressed and show gradual changes throughout embryogenesis
 
@@ -280,23 +280,23 @@ Overall, each Frizzled shows a unique expression profile but in contrast to Wnt 
 
 We carried out *in situ* hybridization for all Frizzled genes of *T. transversa* to reveal their domains of expression during axial elongation (@fig:fzdantag).
 
-*fz1/2/7* expression is mostly ubiquitous (@fig:fzdantag and @fig:s-receptors).
+*fz1/2/7* expression is mostly ubiquitous (@fig:fzdantag and !@fig:s-receptors).
 It is expressed in all tissues of the late blastula, with strong signal in the animal pole ectoderm and invaginating endomesoderm .
 During gastrulation, the anterior and middle portions of the body continue to express *fz1/2/7* across all germ layers, but the posterior transcripts get progressively cleared from the pedicle lobe tissues.
 In larval stages, *fz1/2/7* is up-regulated in the terminal portion of the pedicle lobe ectoderm, and becomes nearly ubiquitous again in the late larva.
 
-*fz4* is first expressed in the animal pole ectoderm of the late blastula (@fig:fzdantag and @fig:s-receptors).
+*fz4* is first expressed in the animal pole ectoderm of the late blastula (@fig:fzdantag and !@fig:s-receptors).
 These anterior transcripts form a subapical ectodermal ring encircling the animal pole of the early gastrula that localizes to the posterior portion of the apical lobe in subsequent stages.
 *fz4* is also expressed in the anterior mesoderm from the early gastrula.
 In the late gastrula, we detect *fz4* transcripts in the dorsal ectoderm between the mantle and pedicle lobes, a domain that becomes stronger in the late larva as it expands around the dorsal ectoderm of the pedicle lobe as well as in the infolded ectodermal and mesodermal tissues of the growing mantle lobe.
 Additionally, a *fz4* domain appears at the posterior tip of the pedicle lobe ectoderm in the late larva.
 
-*fz5/8* is mainly expressed at the anteriormost region of the embryo’s ectoderm and mesoderm (@fig:fzdantag and @fig:s-receptors).
+*fz5/8* is mainly expressed at the anteriormost region of the embryo’s ectoderm and mesoderm (@fig:fzdantag and !@fig:s-receptors).
 We first detect transcripts in the animal pole ectoderm of the late blastula, these transcripts become restricted to the anterodorsal portion of the ectoderm in the early gastrula, and finally expand to the anteroventral ectoderm from mid gastrula to early larva.
 This ectodermal territory of *fz5/8* is complementary to the ectodermal domain of *fz4* in the apical lobe without overlapping with the apical lobe domain of *wnt5* ({@fig:doubles}E,F).
 *fz5/8* is also expressed in the anterior mesoderm from the early gastrula and in the chaetae sacs of the late larva.
 
-*fz9/10* transcripts are limited to the middle portion of the body throughout development (@fig:fzdantag and @fig:s-receptors).
+*fz9/10* transcripts are limited to the middle portion of the body throughout development (@fig:fzdantag and !@fig:s-receptors).
 In the late blastula, *fz9/10* is initially expressed in the ectoderm posterior to the blastopore, but this domain expands to cover almost the entire ectoderm around the blastopore of the early gastrula; it is only absent from a narrow anterior portion.
 With gastrulation, *fz9/10* begins to be expressed in the entire mesoderm, as well as in the ectoderm of the apical--mantle boundary, and in the anterior portion of the pedicle lobe ectoderm.
 Expression in the lateral mantle lobe ectoderm is weaker, and the terminal portion of the pedicle lobe is cleared from *fz9/10* transcripts.
@@ -316,7 +316,7 @@ sFRP is a soluble protein that antagonizes Wnt activity by directly binding to W
 It has a cysteine-rich domain with high-affinity to Wnt proteins.
 The sFRP family can be divided into two subfamilies, *sfrp1/2/5* and *sfrp3/4* [@Kawano2003-bx; @Bovolenta2008-kb].
 In *T. transversa*, we only identified a *sfrp1/2/5* ortholog (@fig:sfrp-tree), which is highly expressed throughout development (@fig:profiling).
-The transcripts locate to the animal pole ectoderm in the late blastula and forms a strong anterior ectodermal domain in subsequent stages, in a pattern similar to the expression of *fz5/8* (@fig:fzdantag and @fig:s-antagonists).
+The transcripts locate to the animal pole ectoderm in the late blastula and forms a strong anterior ectodermal domain in subsequent stages, in a pattern similar to the expression of *fz5/8* (@fig:fzdantag and !@fig:s-antagonists).
 *sfrp1/2/5* is also expressed in a narrow domain at the anterior mesoderm throughout development, and in a paired domain in the mantle lobe mesoderm restricted to the early larva stage.
 In the late larva, the anterior domain becomes limited to dorsal patches on the dorsal ectoderm of the apical lobe.
 
@@ -325,13 +325,13 @@ These proteins are generally divided into two subfamilies, *dkk1/2/4* and *dkk3*
 In *T. transversa*, however, we identified a single *dkk* ortholog that groups with a previously unidentified Dkk subfamily, named hereafter *dkk5* (@fig:dkk-tree).
 Our phylogenetic analysis reveals that non-vertebrate deuterostomes, such as hemichordates and cephalochordates, have orthologs for *dkk1/2/4*, *dkk3*, and *dkk5*, suggesting this was the ancestral Dkk repertoire of bilaterians, and that *dkk1/2/4* and *dkk5* were subsequently lost in protostomes and vertebrates, respectively (@fig:dkk-tree).
 The expression of *dkk5* in *T. transversa* is upregulated in the late blastula and downregulated in the juvenile (@fig:profiling).
-It localizes to the animal pole ectoderm in the late blastula, and anterior ectoderm in subsequent stages similar to the expression of *sfrp1/2/5*, except that *dkk5* becomes limited to the ventral ectoderm and is not expressed in the mesoderm (@fig:fzdantag and @fig:s-antagonists).
+It localizes to the animal pole ectoderm in the late blastula, and anterior ectoderm in subsequent stages similar to the expression of *sfrp1/2/5*, except that *dkk5* becomes limited to the ventral ectoderm and is not expressed in the mesoderm (@fig:fzdantag and !@fig:s-antagonists).
 
 Wif is another protein that inhibits Wnt activity by direct binding to Wnt proteins [@Hsieh1999-rt].
 The protein has five EGF repeats and a typical WIF domain which is shared with RYK receptor tyrosine kinases [@Hsieh1999-rt; @Cruciat2013-zs].
 In *T. transversa*, we identified one *wif* ortholog (@fig:wif-tree).
 The expression levels are relatively low and somewhat stable throughout development, with a peak in the late gastrula (@fig:profiling).
-Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues throughout the analyzed developmental stages; it is also broadly but faintly expressed in the ectoderm until the early larva, and it is not expressed in the endoderm (@fig:fzdantag and @fig:s-antagonists).
+Unlike *sfrp1/2/5* and *dkk5*, *wif* is mainly expressed in mesodermal tissues throughout the analyzed developmental stages; it is also broadly but faintly expressed in the ectoderm until the early larva, and it is not expressed in the endoderm (@fig:fzdantag and !@fig:s-antagonists).
 
 Overall, the expression of the analyzed Wnt antagonist genes is restricted to the anterior portion of the ectoderm (*sfrp1/2/5* and *dkk5*), and to the mesoderm (*wif*), regions which coincide with the absence or limited expression of Wnt ligands.
 
@@ -602,7 +602,7 @@ Therefore, it is possible that the evolution of a reversible mantle lobe was ass
 <!--TODO: Review these sentences below to see if anything can be incorporated-->
 <!--Tissues anterior and posterior of the apical--mantle boundary have distinct morphogenetic outcomes ({@fig:summary}B).-->
 <!--While the anterior tissues show an increased cell proliferation [@Martin-Duran2016-qa], the posterior tissues undergo a dramatic elongation to form the mantle lobe [@Stricker1985-gz].-->
-<!--Interestingly, both regions show prominent *wnt5* expression, but different receptor contexts (*fz4* and *fz1/2/7*, respectively) ({@fig:doubles} and {@fig:summary}A).-->
+<!--Interestingly, both regions show prominent *wnt5* expression, but different receptor contexts (*fz4* and *fz1/2/7*, respectively) ({@fig:doubles} and !{@fig:summary}A).-->
 <!--*wnt5* is known to regulate tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and convergent extension movements during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
 <!--And it usually does so through the Wnt/PCP pathway [@Heisenberg2000-kx].-->
 <!--But, in the presence of *fz4*, *wnt5* can activate the Wnt/beta-catenin pathway [@Mikels2006-ha].-->
@@ -796,7 +796,7 @@ Investigating the combinatorial expression of Wnt components in a comparative wa
 <!--The regions anterior and posterior to the apical--mantle boundary undergo entirely distinct morphogenetic changes ({@fig:summary}B).-->
 <!--Tissues anterior to the boundary, located in the posterior portion of the apical lobe where *wnt8* and *fz4* are expressed, have an increased rate of cell proliferation during larval differentiation [@Martin-Duran2016-qa].-->
 <!--Meanwhile, tissues posterior to the apical--mantle boundary, the mantle lobe itself, go through a dramatic growth and elongation [@Stricker1985-gz].-->
-<!--Both regions show a prominent *wnt5* expression encircling the entire circumference of the embryo ({@fig:doubles} and {@fig:summary}A).-->
+<!--Both regions show a prominent *wnt5* expression encircling the entire circumference of the embryo ({@fig:doubles} and {!@fig:summary}A).-->
 <!--In other animals, *wnt5* is expressed in tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and it regulates cell proliferation [@Yamaguchi1999-zj] and convergent extension movements during morphogenesis via Wnt/PCP pathway [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
 <!--Interestingly, *wnt5* signaling depends on the receptor availability, as it can switch to activating the Wnt/beta-catenin pathway in the presence of the receptor *fz4* [@Mikels2006-ha].-->
 <!--In *T. transversa*, the Frizzled receptors expressed in the apical and mantle lobe are different (*fz4* and *fz1/2/7*, respectively), suggesting that *wnt5* is probably associated with distinct receptor contexts during development ({@fig:summary}A).-->
@@ -924,8 +924,7 @@ We then followed the established protocols in *T. transversa* for single colorim
 We mounted the embryos between a glass slide and a coverslip, supported by clay feet, in 70% glycerol in PBS.
 Using a Zeiss AxioCam HRc attached to a Zeiss Axioscope A1, we imaged the samples under differential interference contrast (DIC or Nomarski).
 For fluorescent samples, we scanned volumetric stacks in a Leica TCS SP5 confocal microscope and generated maximum intensity projections using Fiji [@Schindelin2012-di].
-We adjusted intensity levels without clipping high or low ranges to improve the contrast using Fiji or GIMP.
-Illustrations and figure plates were assembled using Inkscape.
+We adjusted intensity levels to improve contrast---without clipping signal from high or low ranges---using Fiji or GIMP, and assembled the illlustrations and figure plates using Inkscape.
 
 # Declarations
 
@@ -1215,6 +1214,8 @@ Each family is color-coded and the numbers numbers show support values of indivi
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma floridae* (Bflo), *Homo sapiens* (Hsap), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS14.jpg){#fig:dsh-tree tag=S14 width=15cm}
+
+<!--TODO: Mention that dsh panels are underdeveloped-->
 
 ![Expression of Wnt/PCP pathway during *Terebratalia transversa* development.
 The heatmap represents the log-normalized transcript counts for *dsh*, *dgo*, *pk*, *fmi*, *stbm*, and *jnk* calculated from stage-specific RNA-seq data.
