@@ -182,7 +182,8 @@ Metazoans have a large Wnt repertoire with 13 subfamilies [@Kusserow2005-xd; @Cr
 To characterize the Wnt complement of the brachiopod *Terebratalia transversa*, we surveyed a reference transcriptome of the species for Wnt genes using similarity searches with known Wnt genes from other animals.
 We identified 13 Wnt genes with representatives of 12 of the 13 Wnt subfamilies (@fig:wnt-tree).
 *T. transversa* is missing *wnt3*, a gene known to have been lost in Protostomia [@Cho2010-eb; @Janssen2010-dc], and has two copies of *wnt1*.
-One of the *wnt1* paralogs---named hereafter *wnt1t*---is highly divergent at the sequence level compared to other *wnt1* orthologs across bilaterians, and our phylogenetic analysis suggests it originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
+One of the *wnt1* paralogs---named hereafter *wnt1t*---has a conserved Wnt domain, but is highly divergent at the sequence level compared to other *wnt1* orthologs across bilaterians (@fig:domains).
+Our phylogenetic analysis suggests that this paralog originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
 Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a single representative ortholog for the remaining subfamilies, suggesting that the ancestral repertoire of metazoan Wnt genes remained largely conserved.
 
 <!--TODO: cite @prudhomme2002?-->
@@ -371,6 +372,9 @@ Jnk is a kinase that regulates epithelial metamorphosis and is a downstream tran
 The *jnk* ortholog in *T. transversa* (@fig:jnk-tree) is highly expressed throughout the development (@fig:s-profiling) and ubiquitously expressed in the late gastrula, except for broad bilateral regions in the apical lobe ectoderm (@fig:polarity).
 
 In conclusion, while *fmi*, *stbm*, and *dsh* are expressed ubiquitously, the other cell polarity genes *dgo*, *pk*, and *jnk* are expressed in non-overlapping patches at different regions of the late gastrula.
+
+<!--TODO: Include here results about subregions-->
+<!--TODO: Make a summary of the late blastula results and how the subregions change until late gastrula-->
 
 # Discussion
 
@@ -1118,6 +1122,11 @@ Table: Developmental stages sampled for the stage-specific transcriptome of *Ter
 
 ## Figures
 
+![Domain architecture of *Terebratalia transversa* Wnt proteins.
+(A) Schematic drawings showing signal peptide regions, Wnt protein signatures, Frizzled-receptor binding sites, and C-terminal Wnt domain based on InterProScan annotations. All *T. transversa* have a similar overall architecture.
+(B--C) Multiple sequence alignment of Wnt1 proteins showing the highly divergent sequence of *T. transversa* Wnt1t in three Wnt protein signature regions. The alignment contains Wnt1 orthologs of *T. transversa* (Ttra), *Novocrania anomala* (Nano), *Platynereis dumerilii* (Pdum), *Homo sapiens* (Hsap), and *Saccoglossus kowalevskii* (Skow).
+](figures/FigS1.jpg){#fig:domains tag=S1 width=15cm}
+
 ![Phylogenetic analysis of *Terebratalia transversa* Wnt1 proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using amino acid sequences of genes from the *wnt1* subfamily with *wnt6* as an outgroup.
 Branch lengths are proportional to the amount of sequence change and the numbers show the support values of individual branches.
@@ -1127,12 +1136,7 @@ Instead, the tree reveals that the paralog copies of each species cluster togeth
 *T. transversa* *wnt1t* also shows a longer branch length indicating rapid evolution.
 Taxon sampling was focused in spiralians.
 The other species are *Biomphalaria glabrata* (Bgla), *Branchiostoma floridae* (Bflo), *Bugula neritina* (Bner), *Capitella teleta* (Ctel), *Crassostrea virginica* (Cvir), *Doryteuthis pealeii* (Dpea), *Euprymna scolopes* (Esco), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Membranipora membranacea* (Mmem), *Mizuhopecten yessoensis* (Myes), *Mytilus coruscus* (Mcor), *Mytilus edulis* (Medu), *Mytilus galloprovincialis* (Mgal), *Pecten maximus* (Pmax), *Perinereis nuntia* (Pnun), *Plakobranchus ocellatus* (Poce), *Platynereis dumerilii* (Pdum), *Saccoglossus kowalevskii* (Skow), and *Urechis unicinctus* (Uuni).
-](figures/FigS1.jpg){#fig:wnt1-tree tag=S1 width=15cm}
-
-![Domain architecture of *Terebratalia transversa* Wnt proteins.
-(A) Schematic drawings showing signal peptide regions, Wnt protein signatures, Frizzled-receptor binding sites, and C-terminal Wnt domain based on InterProScan annotations. All *T. transversa* have a similar overall architecture.
-(B--C) Multiple sequence alignment of Wnt1 proteins showing the highly divergent sequence of *T. transversa* Wnt1t in three Wnt protein signature regions. The alignment contains Wnt1 orthologs of *T. transversa* (Ttra), *Novocrania anomala* (Nano), *Platynereis dumerilii* (Pdum), *Homo sapiens* (Hsap), and *Saccoglossus kowalevskii* (Skow).
-](figures/FigS2.jpg){#fig:domains tag=S2 width=15cm}
+](figures/FigS2.jpg){#fig:wnt1-tree tag=S2 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
 Additional lateral views of Wnt expression between early gastrula and late larva.
