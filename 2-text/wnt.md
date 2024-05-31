@@ -373,36 +373,36 @@ In conclusion, while *fmi*, *stbm*, and *dsh* are expressed ubiquitously, the ot
 
 ## Distinct Wnt subregions coincide with larval body subdivisions
 
-<!--TODO: Describe how subregions change during development (late blastula to late gastrula)-->
-<!--TODO: Draw simplified figure with late blastula and mid blastula subregions-->
-<!--TODO: Update to reflect ectodermal domains-->
+Given the importance of specific ligand--receptor contexts for the outcome of Wnt signaling [@van-Amerongen2009-md; @Niehrs2012-ku], we compiled the data above to describe the combination of Wnt ligands, Frizzled receptors, and antagonist genes being expressed in the different tissues of *T. transversa* embryos throughout ontogeny.
 
-Given the importance of specific ligand--receptor contexts for the outcome of Wnt signaling [@van-Amerongen2009-md; @Niehrs2012-ku], we compiled the expression data described above to identify the combination of Wnt ligands, Frizzled receptors, and antagonist genes occurring in the different tissues of *T. transversa* embryos.
-In the late blastula, when the archenteron is beginning to invaginate, the ectoderm exhibits two distinct transcriptional subregions corresponding to the animal and vegetal poles ({@fig:earlysum}A).
-The animal pole coexpresses Wnt antagonists and all Frizzled genes, apart from *fz9/10*, with almost no Wnt genes, while most of the vegetal pole coexpresses *fz1/2/7* and *fz9/10* with *wnt8* and *wnt16*.
-The endomesoderm shows a similar pattern, with *wnt8*, *wnt16*, and *wnt1* being coexpressed with *fz1/2/7*, the only Frizzled expressed in the invaginating archenteron.
-In the early gastrula, the animal transcriptional domain subdivides forming a more posterior subregion characterized by the subapical expression of *fz4* and the animal domains of *wnt8*, and *wnt5*, while the vegetal domain upregulates the expression of five additional Wnt genes ({@fig:earlysum}B).
-The mid gastrula consolidates the apical and subapical subregions at the animal/anterior end, and differentiates the initial vegetal domain into two subregions, a mid-body portion that continues to express *fz1/2/7*, *fz9/10*, *wnt7*, and *wnt16*, and a more posterior subregion expressing only *fz1/2/7* and several Wnt genes localized to the posterior end ({@fig:earlysum}C).
-Finally, at the late gastrula stage, we identify six distinct transcriptional subregions expressed in the ectoderm along the anteroposterior axis of the embryo, each having a unique combination of ligands, receptors, and antagonists of Wnt signaling ({@fig:summary}A, @tbl:landscape).
-Therefore, from late blastula to axial elongation there is a progressive differentiation of ectodermal Wnt subregions.
+We were able to identify distinct transcriptional subregions, each expressing a unique combination of ligands, receptors, and antagonists, along the brachiopod embryonic axes.
+At the onset of gastrulation, late blastula embryos exhibit two ectodermal Wnt subregions corresponding to the animal and vegetal tissues ({@fig:earlysum}A).
+Tissues in the animal pole express Wnt antagonists and all Frizzled genes, with the exception of *fz9/10*, but do not express Wnt genes, while vegetal pole tissues express four ligands (*wnt8* and *wnt16* more broadly) within a *fz1/2/7* and *fz9/10* receptor context.
+At this stage, the endomesoderm expresses the same ligands as vegetal tissues, except for *wnt4*, but with *fz1/2/7* being the only receptor to be expressed in the invaginating archenteron.
+From early to mid gastrula, the animal and vegetal Wnt subregions will split through the changes in the relative positions of receptor domains and the upregulation of other ligands.
+With *fz5/8* and *fz4* no longer coexpressed at the animal pole, a subapical Wnt subregion differentiates in the early gastrula characterized by the expression of *fz4*, *wnt8* and *wnt5* ({@fig:earlysum}B).
+Likewise, with *fz9/10* expression becoming subterminal in the mid gastrula, two Wnt subregions emerge from the initial vegetal landscape---one mid-body continuing to express *fz1/2/7*, *fz9/10*, *wnt7*, and *wnt16*, and one posterior expressing only *fz1/2/7* and several Wnt genes ({@fig:earlysum}C).
+Finally, at the late gastrula stage, *fz9/10* is cleared from a portion of the mid-body and *fz1/2/7* from the posterior end, giving rise to an additional mid-body subregion expressing *fz1/2/7*, *wnt5* and *wnt16*, and another at the posterior end expressing only Wnt genes, but no Frizzled genes ({@fig:summary}A).
+Therefore, from late blastula to the elongated late gastrula, we observe a progressive differentiation of ectodermal Wnt subregions from two along the animal--vegetal to six distinct subregions along the anteroposterior axis of the embryo ({@fig:summary}A, @tbl:landscape).
+
 
 Remarkably, the transcriptional subregions established in the late gastrula coincide with the morphological subdivisions of the larval body ({@fig:summary}B).
 For example, the two anterior most transcriptional subregions correlate with the two subdivisions of the apical lobe.
 The anterior subregion expressing Wnt antagonists and *fz5/8* but no Wnt ligands---except for *wnt1t* in the dorsal ectoderm---gives rise to the larval apical organ and neuropile [@Santagata2011-ry], a region that also expresses other anterior and neural markers such as *six3/6* and *foxq2* [@Santagata2012-he].
 In contrast, the adjacent more posterior subregion expressing several Wnt ligands and *fz4*, but no Wnt antagonists, has a different fate.
-The tissues undergo increased cell proliferation [@Martin-Duran2016-qa] and become the widest portion of the apical lobe, which ultimately gives rise to the lophophore, the crown of tentacles that adult brachiopods use for filter feeding.
+The tissues undergo increased cell proliferation [@Martin-Duran2016-qa] and become the widest part of the apical lobe, which ultimately gives rise to the lophophore, the crown of tentacles that adult brachiopods use for filter feeding.
 
-Posterior to the apical lobe, the tissues express a different combination of Wnt components and show dramatically distinct morphogenetic outcomes.
-The apical--mantle boundary, a subregion expressing *fz1/2/7*, *fz9/10*, *wnt1*, and *wnt7*, gives rise to a deep epithelial invagination that demarcates the head--trunk boundary [@Vellutini2016-lq], whereas the adjacent region, which expresses only *fz1/2/7*, *wnt5*, and *wnt16*, gives rise to a prominent epithelial outgrowth that gives rise to the mantle lobe of *T. transversa* larva [@Stricker1985-gz] ({@fig:summary}).
+Posterior to the apical lobe, the tissues express a different combination of Wnt components and show distinct morphogenetic outcomes.
+The apical--mantle boundary, a subregion expressing *fz1/2/7*, *fz9/10*, *wnt1*, and *wnt7*, gives rise to a deep epithelial invagination that marks the head--trunk boundary [@Vellutini2016-lq], while the adjacent region, which only expresses *fz1/2/7*, *wnt5*, and *wnt16*, gives rise to a prominent epithelial outgrowth that forms the mantle lobe of *T. transversa* larva [@Stricker1985-gz] ({@fig:summary}).
 
-Finally, the pedicle lobe is also subdivided into a wider anterior and a narrower posterior portions which correlate with different transcriptional subregions ({@fig:summary}B).
-The anterior part expressing *fz9/10*, *wnt1*, *wnt4*, and *wnt10*, gives rise to the posterior portion of the adult body, while the posterior part of the pedicle expressing *wnt5*, *wnt6*, and *wnt11*, but not Frizzled genes, gives rise to the structure that attaches the adult to the substrate [@Stricker1985-vf] ({@fig:summary}A).
+Lastly, the pedicle lobe is also divided into a broader anterior and a narrower posterior portion, which are associated with different transcriptional subregions ({@fig:summary}B).
+The anterior part, which expresses *fz9/10*, *wnt1*, *wnt4*, and *wnt10*, gives rise to the posterior portion of the adult body, while the posterior part of the pedicle expressing *wnt5*, *wnt6*, and *wnt11*, but not Frizzled genes, gives rise to the structure that attaches the adult to the substrate [@Stricker1985-vf] ({@fig:summary}A).
 
-It is also interesting to note that some Wnt genes are expressed at different transcriptional subregions.
+Some Wnt genes are expressed at different transcriptional subregions.
 This is the case for *wnt5*, *wnt1*, and *wnt7* ({@fig:summary}A).
-*wnt5* is expressed at three distinct receptor contexts: *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A), and is intercalated by *wnt1* which is expressed at the adjacent subregions ({@fig:doubles}B and {!@fig:summary}A).
+*wnt5* is expressed in three distinct receptor contexts: *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A), and is intercalated by *wnt1* expression in adjacent subregions ({@fig:doubles}B and {!@fig:summary}A).
 
-Altogether, the data shows a correlation between the combinatorial landscape of transcriptional subregions that differentiate during embryonic development with the regional specification of tissues along the anteroposterior axis of the brachiopod of *T. transversa*.
+Overall, the data shows a correlation between the combinatorial landscape of transcriptional subregions that differentiate during embryonic development and the regional specification of tissues along the anteroposterior axis of the brachiopod *T. transversa*.
 
 <!--TODO: Check sentences to re-incorporate or move to discussion.-->
 
