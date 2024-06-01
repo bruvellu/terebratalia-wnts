@@ -4,7 +4,7 @@
 FILE=wnt
 RESOURCES=resources
 TEMPLATE=${RESOURCES}/template
-PREFILTER=--lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos
+PREFILTER=--lua-filter=${RESOURCES}/pagebreak.lua --lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos
 # Toggle for old or recent Pandoc versions
 FILTERS=${PREFILTER} --filter pandoc-citeproc
 #FILTERS=${PREFILTER} --citeproc
@@ -56,7 +56,8 @@ figs:
 	cp -vu ${FIGDIR}/trees/fmi-tree.png ${FIGSRC}/FigS19.png
 	cp -vu ${FIGDIR}/trees/stbm-tree.png ${FIGSRC}/FigS20.png
 	cp -vu ${FIGDIR}/trees/jnk-tree.png ${FIGSRC}/FigS21.png
-	cp -vu ${FIGDIR}/comparative/s-comparative.png ${FIGSRC}/FigS22.png
+	cp -vu ${FIGDIR}/summary/summary-early.png ${FIGSRC}/FigS22.png
+	cp -vu ${FIGDIR}/comparative/s-comparative.png ${FIGSRC}/FigS23.png
 	# Convert to JPG for visualization
 	mogrify -format jpg -quality 50 -path ${FIGOUT}/ ${FIGSRC}/*.png
 
