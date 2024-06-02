@@ -416,22 +416,21 @@ Overall, the combinatorial analyses of Wnt signaling components in *T. transvers
 
 <!--Overview and relevance of a comparative Wnt code-->
 
-Our work characterizes the expression of Wnt signaling components during brachiopod development.
-We find that the brachiopod *T. transversa* has largely retained the ancestral repertoire of Wnt genes showing few duplications or losses, and that these genes are upregulated during mid to late gastrula, when the embryo elongates.
-The fact that the transcriptional subregions coincide with the morphological subdivisions of the larval body, suggests that a combinatorial Wnt signaling logic---a *Wnt code*---may play a role in regionalizing the brachiopod anteroposterior body axis.
-These data raise the idea that changes in these Wnt transcriptional subregions may have been important for the evolution of the primary body axis in animals.
-Below, we discuss how these Wnt transcriptional subregions compare across the phylogeny, and the evolutionary implications of these observations.
+Our work characterizes the expression of Wnt signaling components during the embryonic development of *T. transversa*, a brachiopod species that has largely retained the ancestral repertoire of Wnt genes.
+We find that Wnt genes are upregulated at the onset of gastrulation and during axial elongation, and that the combinatorial expression of ligands, receptors, and antagonists, forms distinct transcriptional subregions along the primary body axis.
+Each Wnt subregion in the late gastrula undergoes a distinct morphogenetic process, giving rise to the different subdivisions of the larval body.
+This correspondence between the transcriptional landscape and larval morphology suggests that a combinatorial Wnt signaling logic---or *Wnt code*---may play a role in the regionalization of the brachiopod anteroposterior body axis.
+Below, we compare the brachiopod Wnt subregions across the phylogeny, and discuss their importance for axial evolution in animals.
 
-<!--Modern Wnt repertoire and axial code emerged before bilateral symmetry-->
+<!--Wnt repertoire and axial code emerged before bilateral symmetry-->
 
 <!--TODO: Revise according to reviewers’ comment-->
-A comparison across the phylogeny reveals that the modern Wnt repertoire emerged earlier than bilateral symmetry, before the Cnidaria--Bilateria split ({@fig:comparative}A).
-Ctenophores---the probable sister group to all other animals[@Schultz2023-zb]---have only four Wnt genes and two Frizzled genes [@Pang2010-ds].
-Their embryonic expression is polarized with opposed domains of ligands and antagonists, and there is an incipient staggered expression around the mouth but no obvious transcriptional subregions along the body axis [@Pang2010-ds].
+Mapping Wnt signaling components across the metazoan phylogeny suggests that the brachiopod Wnt repertoire emerged before the Cnidaria--Bilateria split ({@fig:comparative}A).
+Ctenophores have four Wnt genes, two Frizzled genes, and one sFRP antagonist [@Pang2010-ds].
+Ligands and antagonists are expressed in opposing poles, and there is an incipient staggering of domains around the mouth, but they form no obvious subregions along the embryonic ectoderm [@Pang2010-ds].
+Sponges underwent a large expansion of Wnt genes.
 In contrast, cnidarians and bilaterians have a much larger set of ligands, receptors, and antagonist genes expressed in staggered domains along the body axis ({@fig:comparative}A).
-<!--TODO: Remove statement about initial/late axial patterning-->
-These comparative data suggest an initial axial polarity role for Wnt signaling in early development.
-Only secondarily, with the expansion of the Wnt complement in the last common ancestor to Cnidaria and Bilateria, Wnts became involved in late axial patterning.
+With the expansion of the Wnt complement in the last common ancestor to Cnidaria and Bilateria, Wnt subregions appear along the axial patterning.
 Therefore, this role precedes the evolution and diversification of a bilaterally symmetric body with an anteroposterior axis [@Lee2006-yw].
 
 <!--Conserved anterior antagonists and posterior Wnts, and Fz AP organization-->
@@ -924,10 +923,10 @@ Solid lines represent morphological boundaries for the apical, mantle, and pedic
 <!--TODO: Brachiopod staging from late gastrula to early larva, Cephalochordate from early to mid neurula, Annelid early and late trochophore-->
 
 ![Comparative overview of the Wnt signaling landscape in animals.
-(A) Phylogenetic tree showing the molecular repertoire of Wnt ligands, Frizzled receptors, and Wnt antagonists of each animal group, and the presumed gene expansion and gene loss events. The tree topology is based on [@Cannon2016-uy; @Schultz2023-zb].
+(A) Phylogenetic tree showing the molecular repertoire of Wnt ligands, Frizzled receptors, and Wnt antagonists in each animal group. The presumed gene expansion and gene loss events are mapped in the tree. The tree topology is based on [@Cannon2016-uy; @Schultz2023-zb]. The asterisks denote genes whose orthology with bilaterian Wnt genes remains uncertain.
 (B) The schematic drawings illustrating the expression of Wnt signaling components at the late gastrula stage across species.
 (C) Generalized bilaterian showing the combinations of expression domains of Wnt signaling components along the anteroposterior axis which are conserved across bilaterians.
-The gene complement, orthology assignment, and expression patterns were compiled from previous works on Ctenophora [@Pang2010-ds], Porifera [@Adamska2010-sg; @Borisenko2016-so], Cnidaria [@Kusserow2005-xd; @Lee2006-yw; @Wijesena2022-lg; @Niedermoser2022-ev], Xenacoelomorpha [@Srivastava2014-vj; this study], Vertebrata [@Nusse1992-oi], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg; @Somorjai2018-fw], Echinodermata [@Croce2006-cy; @Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Brachiopoda [@Vellutini2016-lq; this study], Annelida [@Prudhomme2002-cv; @Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Arthropoda [@Murat2010-np].
+The gene complement, orthology assignment, and expression patterns were compiled from previous works on Ctenophora [@Pang2010-ds; @Jager2013-ne], Porifera [@Adamska2010-sg; @Borisenko2016-so], Cnidaria [@Kusserow2005-xd; @Lee2006-yw; @Wijesena2022-lg; @Niedermoser2022-ev], Xenacoelomorpha [@Srivastava2014-vj; this study], Vertebrata [@Nusse1992-oi], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg; @Somorjai2018-fw], Echinodermata [@Croce2006-cy; @Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Brachiopoda [@Vellutini2016-lq; this study], Annelida [@Prudhomme2002-cv; @Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Arthropoda [@Murat2010-np].
 ](figures/Fig9.jpg){#fig:comparative width=15cm}
 
 <!--![Whole-mount *in situ* hybridization of Frizzled receptors in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig7.jpg){#fig:receptors width=15cm}-->
@@ -1231,7 +1230,7 @@ Table: Gene accession numbers and primer pairs used for cloning. {#tbl:cloning t
 | Ttra fz4       |           | AGAGGAGTTTGGTGGCGAGG      | AAGAGAAGGAACACAAGATTGGGTC | 1247 bp |
 | Ttra fz5/8     |           | CAAGAACTGAGTGAAGCCTATCCC  | TGACCCACCAAAGAGATGATGC    | 1328 bp |
 | Ttra fz9/10    |           | CCAATGTAAATGACAAGGGTAGCG  | CAGCCAATAGAAAGACAGTGCCTG  | 902 bp  |
-| Ttra sfrp1/2/7 |           | CCACTTGTCCACAGTTGTCAGTCG  | TTCGCAATCCTTCTTCACCG      | 884 bp  |
+| Ttra sfrp1/2/5 |           | CCACTTGTCCACAGTTGTCAGTCG  | TTCGCAATCCTTCTTCACCG      | 884 bp  |
 | Ttra dkk5      |           | CAAGCGATCATTCGGTCAG       | CCTTGTGAAAATATGTGGCTTC    | 762 bp  |
 | Ttra wif       |           | TTCAAAAACAAGGGCTTCTT      | TGGTCTCCCAAACATTCACA      | 953 bp  |
 | Ttra dsh       |           | ATCCACTGCAATGTCATCCA      | AGGGGAGCTAATGTATCCCT      | 951 bp  |
