@@ -337,7 +337,7 @@ Overall, the expression of the analyzed Wnt antagonist genes is restricted to th
 
 Proper regulation of planar cell polarity (PCP) is crucial to guide morphogenetic processes, such as convergent extension, and to orient the formation of structures during development [@Simons2008-cj; @Gao2012-fh].
 We identified several core components of the PCP pathway in *T. transversa*.
-These include orthologs for *dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as *ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as *stan* or *celsr*), *strabismus* (*stbm*, also known as *vang* or *vangl*), as well as the downstream transducer *c-jun n-terminal kinase* (*jnk*).
+These include orthologs for *dishevelled* (*dsh*, also known as *dvl*), *diego* (*dgo*, also known as *ankrd6* or *diversin*), *prickle* (*pk*), *flamingo* (*fmi*, also known as *stan* or *celsr*), *strabismus* (*stbm*, also known as *vang* or *vangl*), as well as the downstream transducer *c-jun n-terminal kinase* (*jnk*, also known as *mapk8*).
 Then, we analyzed their expression between the early and late gastrula stages.
 
 Dsh is a central regulator of the Wnt/beta-catenin, Wnt/PCP, and Wnt/calcium pathways [@Wallingford2005-xp].
