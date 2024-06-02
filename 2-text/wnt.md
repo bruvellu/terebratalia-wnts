@@ -1234,9 +1234,11 @@ Table: Gene accession numbers and primer pairs used for cloning. {#tbl:cloning t
 | Ttra dkk5      |           | CAAGCGATCATTCGGTCAG       | CCTTGTGAAAATATGTGGCTTC    | 762 bp  |
 | Ttra wif       |           | TTCAAAAACAAGGGCTTCTT      | TGGTCTCCCAAACATTCACA      | 953 bp  |
 | Ttra dsh       |           | ATCCACTGCAATGTCATCCA      | AGGGGAGCTAATGTATCCCT      | 951 bp  |
-| Ttra dgo       |           | CAATGGGGATAAGGCCATGC      | ATGACCTCATTAGCCCCCTT      | 936 bp  |
+| Ttra dgo       |           | GTGGATAGACAAGGCCAGGT      | TAGATTCTCATTGTCTGTGT      | 972 bp  |
 | Ttra pk        |           | AGCCTTGTATGTCGTGTGGA      | AAATGCTTCTGTTGCCATTC      | 949 bp  |
 | Ttra fmi       |           | ATTCTACAGGTGGTGCTGCT      | TGATCTCCGTCAGCATACGG      | 951 bp  |
 | Ttra stbm      |           | TCTTGTTTCTGGTGTTTGTG      | TTGCTATGTCTCCCTGTCGT      | 897 bp  |
 | Ttra jnk       |           | AAAACGGGAGGTCATTGCAC      | GATCCTGGAAAGAGCACATT      | 952 bp  |
 
+
+	
