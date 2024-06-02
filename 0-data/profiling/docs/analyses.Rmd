@@ -223,7 +223,8 @@ wnt_labels <- c("wnt1", "wnt1t", "wnt2", "wnt4", "wnt5", "wnt6", "wnt7",
 wnt_data <- prep_data(vsd, wnt_ids, wnt_labels)
 
 # Plot Wnt heatmap
-wnt_hmp <- plot_heatmap(wnt_data, heat_annot, blues, rowgaps = c(13,17), breaks = seq(from = 4, to = 14, length.out = 256))
+#wnt_hmp <- plot_heatmap(wnt_data, heat_annot, blues, rowgaps = c(13,17), breaks = seq(from = 4, to = 14, length.out = 256))
+wnt_hmp <- plot_heatmap(wnt_data, heat_annot, blues, scale = "none", rowgaps = c(13,17))
 
 # Save plot to file
 save_plot("../out/plots/heat_all.pdf", wnt_hmp, base_height = 6, base_aspect_ratio = 3)
@@ -254,7 +255,8 @@ annot_mean <- data.frame(row.names = colnames(wnt_mean))
 annot_mean$stage <- as.vector(unique(heat_annot$stage))
 
 # Plot wnt heatmap
-wnt_hmp_mean <- plot_heatmap(wnt_mean, annot_mean, blues, rowgaps = c(13,17), breaks = seq(from = 5, to = 14, length.out = 256))
+#wnt_hmp_mean <- plot_heatmap(wnt_mean, annot_mean, blues, rowgaps = c(13,17), breaks = seq(from = 5, to = 14, length.out = 256))
+wnt_hmp_mean <- plot_heatmap(wnt_mean, annot_mean, blues, scale = "none", rowgaps = c(13,17))
 
 # Save plot to file
 save_plot("../out/plots/heat_all_mean.pdf", wnt_hmp_mean, base_height = 8, base_aspect_ratio = 1.5)
@@ -266,7 +268,7 @@ save_plot("../out/plots/heat_all_mean.pdf", wnt_hmp_mean, base_height = 8, base_
 # Cell polarity contigs
 pol_ids <- c(
   "Ttra.rna.tri.4968",  # dishevelled
-  "Ttra.rna.tri.15638", # diego
+  "Ttra.rna.tri.10905", # diego
   "Ttra.rna.tri.7507",  # prickle
   "Ttra.rna.tri.5936",  # flamingo
   "Ttra.rna.tri.4679",  # strabismus
@@ -283,7 +285,8 @@ pol_labels <- c("dsh", "dgo", "pk", "fmi", "stbm", "jnk")
 pol_data <- prep_data(vsd, pol_ids, pol_labels)
 
 # Plot cell polarity heatmap
-pol_hmp <- plot_heatmap(pol_data, heat_annot, blues, breaks = seq(from = 4, to = 18, length.out = 256))
+#pol_hmp <- plot_heatmap(pol_data, heat_annot, blues, rowgaps = c(1,5), breaks = seq(from = 4, to = 18, length.out = 256))
+pol_hmp <- plot_heatmap(pol_data, heat_annot, blues, scale = "none", rowgaps = c(1,5))
 
 # Save plot to file
 save_plot("../out/plots/heat_pol.pdf", pol_hmp, base_height = 8, base_aspect_ratio = 2.5)
@@ -314,7 +317,8 @@ annot_mean <- data.frame(row.names = colnames(pol_mean))
 annot_mean$stage <- as.vector(unique(heat_annot$stage))
 
 # Plot wnt heatmap
-pol_hmp_mean <- plot_heatmap(pol_mean, annot_mean, blues, rowgaps = c(5), breaks = seq(from = 5, to = 14, length.out = 256))
+#pol_hmp_mean <- plot_heatmap(pol_mean, annot_mean, blues, rowgaps = c(1,5), breaks = seq(from = 6, to = 14, length.out = 256))
+pol_hmp_mean <- plot_heatmap(pol_mean, annot_mean, blues, rowgaps = c(1,5))
 
 # Save plot to file
 save_plot("../out/plots/heat_pol_mean.pdf", pol_hmp_mean, base_height = 4.5, base_aspect_ratio = 2)
