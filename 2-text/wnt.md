@@ -418,36 +418,34 @@ Overall, the combinatorial analyses of Wnt signaling components in *T. transvers
 
 Our work characterizes the expression of Wnt signaling components during the embryonic development of *T. transversa*, a brachiopod species that has largely retained the ancestral repertoire of Wnt genes.
 We find that Wnt genes are upregulated at the onset of gastrulation and during axial elongation, and that the combinatorial expression of ligands, receptors, and antagonists, forms distinct transcriptional subregions along the primary body axis.
-Each Wnt subregion in the late gastrula undergoes a distinct morphogenetic process, giving rise to the different subdivisions of the larval body.
-This correspondence between the transcriptional landscape and larval morphology suggests that a combinatorial Wnt signaling logic---or *Wnt code*---may play a role in the regionalization of the brachiopod anteroposterior body axis.
+The boundaries between Wnt subregions coincide with the morphological subdivisions of the larval body, suggesting that a combinatorial Wnt signaling landscape---or *Wnt code*---may play a role in the regionalization of the brachiopod anteroposterior body axis.
 Below, we compare the brachiopod Wnt subregions across the phylogeny, and discuss their importance for axial evolution in animals.
 
 <!--Wnt repertoire and axial code emerged before bilateral symmetry-->
 
 <!--TODO: Revise according to reviewers’ comment-->
-Mapping Wnt signaling components across the metazoan phylogeny suggests that the brachiopod Wnt repertoire emerged before the Cnidaria--Bilateria split ({@fig:comparative}A).
-Ctenophores have four Wnt genes, two Frizzled genes, and one sFRP antagonist [@Pang2010-ds].
-Ligands and antagonists are expressed in opposing poles, and there is an incipient staggering of domains around the mouth, but they form no obvious subregions along the embryonic ectoderm [@Pang2010-ds].
-Sponges underwent a large expansion of Wnt genes.
-In contrast, cnidarians and bilaterians have a much larger set of ligands, receptors, and antagonist genes expressed in staggered domains along the body axis ({@fig:comparative}A).
-With the expansion of the Wnt complement in the last common ancestor to Cnidaria and Bilateria, Wnt subregions appear along the axial patterning.
-Therefore, this role precedes the evolution and diversification of a bilaterally symmetric body with an anteroposterior axis [@Lee2006-yw].
+A broad phylogenetic comparison suggests that the combinatorial expression of Wnt signaling components along the primary body axis of animals emerged with the expansion of the Wnt and Frizzled gene families that occurred before the Cnidaria--Bilateria split ({@fig:comparative}A).
+So far, only four Wnt genes, two Frizzled genes, and one sFRP antagonist were found in Ctenophora [@Pang2010-ds; @Jager2013-ne].
+While receptors are expressed more broadly, ligand expression is mainly limited to localized domains at the aboral end and not staggered along the embryonic ectoderm [@Pang2010-ds].
+In Porifera, some Wnt genes are expressed along the larval body axis [@Adamska2010-sg; @Leininger2014-uk; @Borisenko2016-so], but many species underwent large expansions of Wnt genes and have no clear orthologs to the Wnt genes of other metazoans [@Leininger2014-uk; @Borisenko2016-so].
+In contrast, the Wnt repertoire between cnidarians and bilaterians is rather conserved with well-resolved orthologs, enabling a more in-depth comparison of expression domains ({@fig:comparative}A).
 
 <!--Conserved anterior antagonists and posterior Wnts, and Fz AP organization-->
 
-<!--In a general overview, most embryos exhibit a common general pattern of antagonists anterior, frizzled all around and wnt more posterior [@Marlow2014-wg].-->
+Despite the great differences in embryo architecture, most embryos exhibit a common pattern of antagonist genes expressed anteriorly, Wnt genes predominantly expressed posteriorly, and Frizzled genes expressed more broadly with domains spanning large segments of the body axis ({@fig:comparative}B).
+Frizzled expression is particularly well conserved.
+Most animal groups have *fz1/2/7* and fz5/8 maternally provided in the egg (@tbl:maternal), and express *fz5/8* and *fz9/10* in the same anteroposterior (or aboral--oral) arrangement, in the head and trunk, respectively ({@fig:comparative}B).
+In fact, the spatial organization of Frizzled domains is almost identical between the brachiopod *T. transversa* and the hemichordate *Saccoglossus kowalevskii* ({@fig:s-comparative}A).
+Moreover, most animals broadly express *fz1/2/7*.
+The exception is *fz4* which shows a more variable expression, such as in cnidarians [@Niedermoser2022-ev], echinoderms [@Robert2014-xj; @McCauley2013-uz], and cephalochordates [@Qian2013-jg].
+These similarities indicate that this Frizzled organization is a shared, ancient feature that remained conserved within the Cnidaria--Bilateria clade during evolution.
 
-Despite the great differences in embryo architecture, a broader comparison across the tree reveals a general common pattern for the expression of Wnt signaling components.
-Wnt antagonist genes are expressed anteriorly, while Wnt genes are predominantly not expressed anteriorly, and Frizzled genes are expressed along the entire body ({@fig:comparative}A).
-Frizzled domains are usually broad without much overlap, while Wnt domains are narrower and overlap with other Wnt genes.
-But what is most notable in this comparative overview is that the spatiotemporal expression of Frizzled genes is relatively well-conserved, while the expression of Wnt ligands is more variable between species ({@fig:comparative}A).
-This pattern occurs for both the maternal load of Wnt signaling components and the later axial expression.
-For instance, the maternal load of Frizzled transcripts is highly conserved across animals, with most species showing *fz1/2/7* expression in the egg (@tbl:maternal) [@Bastin2015-oz].
-Accordingly, Frizzled expression domains follow the same anteroposterior arrangement in different animals with *fz5/8* in the head, *fz9/10* in the trunk, and *fz1/2/7* broadly expressed ({@fig:summary}A, {!@fig:comparative}A and {!@fig:s-comparative}A).
-In fact, the spatial organization of Frizzled domains is almost identical between the brachiopod *T. transversa* and the hemichordate *Saccoglossus kowalevskii* ({@fig:s-comparative}A,B).
-In both cases, these broad domains coincide with their different body regions, suggesting that each receptor may regulate the regional patterning along the anteroposterior axis [@Darras2018-gm].
-The only exception is *fz4*; its spatial localization is variable in other animals, such as cnidarians [@Niedermoser2022-ev], echinoderms [@Robert2014-xj; @McCauley2013-uz] and cephalochordates [@Qian2013-jg].
-The similarity in Frizzled expression indicates that this spatial organization is a shared, ancient feature that remained conserved within the Cnidaria--Bilateria clade during evolution.
+<!--In both cases, these broad domains coincide with their different body regions, suggesting that each receptor may regulate the regional patterning along the anteroposterior axis [@Darras2018-gm].-->
+
+<!--TODO: The authors write that Wnt expression is more variable between species than Fz expression. I am not sure this is a valid statement. Which species are you talking about here?-->
+
+<!--while Wnt domains are narrower and overlap with other Wnt genes.-->
+<!--while the expression of Wnt ligands is more variable between species .-->
 
 <!--Anterior neuroectoderm code demarcates apical lobe subdivision-->
 
@@ -926,7 +924,7 @@ Solid lines represent morphological boundaries for the apical, mantle, and pedic
 (A) Phylogenetic tree showing the molecular repertoire of Wnt ligands, Frizzled receptors, and Wnt antagonists in each animal group. The presumed gene expansion and gene loss events are mapped in the tree. The tree topology is based on [@Cannon2016-uy; @Schultz2023-zb]. The asterisks denote genes whose orthology with bilaterian Wnt genes remains uncertain.
 (B) The schematic drawings illustrating the expression of Wnt signaling components at the late gastrula stage across species.
 (C) Generalized bilaterian showing the combinations of expression domains of Wnt signaling components along the anteroposterior axis which are conserved across bilaterians.
-The gene complement, orthology assignment, and expression patterns were compiled from previous works on Ctenophora [@Pang2010-ds; @Jager2013-ne], Porifera [@Adamska2010-sg; @Borisenko2016-so], Cnidaria [@Kusserow2005-xd; @Lee2006-yw; @Wijesena2022-lg; @Niedermoser2022-ev], Xenacoelomorpha [@Srivastava2014-vj; this study], Vertebrata [@Nusse1992-oi], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg; @Somorjai2018-fw], Echinodermata [@Croce2006-cy; @Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Brachiopoda [@Vellutini2016-lq; this study], Annelida [@Prudhomme2002-cv; @Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Arthropoda [@Murat2010-np].
+The gene complement, orthology assignment, and expression patterns were compiled from previous works on Ctenophora [@Pang2010-ds; @Jager2013-ne], Porifera [@Adamska2010-sg; @Leininger2014-uk; @Borisenko2016-so], Cnidaria [@Kusserow2005-xd; @Lee2006-yw; @Wijesena2022-lg; @Niedermoser2022-ev], Xenacoelomorpha [@Srivastava2014-vj; this study], Vertebrata [@Nusse1992-oi], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg; @Somorjai2018-fw], Echinodermata [@Croce2006-cy; @Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Brachiopoda [@Vellutini2016-lq; this study], Annelida [@Prudhomme2002-cv; @Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Arthropoda [@Murat2010-np].
 ](figures/Fig9.jpg){#fig:comparative width=15cm}
 
 <!--![Whole-mount *in situ* hybridization of Frizzled receptors in *Terebratalia transversa*. Black arrowheads indicate the apical--mantle boundary. White arrowheads demarcate the mantle--pedicle boundary.](figures/Fig7.jpg){#fig:receptors width=15cm}-->
@@ -942,31 +940,32 @@ The gene complement, orthology assignment, and expression patterns were compiled
 
 Table: Wnt signaling transcriptional subregions in the brachiopod *Terebratalia transversa*. {#tbl:landscape}
 
-| Subregion | Position                                 | Antagonists        | Ligands                                          | Receptors           |
-| --------- | --------                                 | -----------        | -------                                          | ---------           |
-| 1         | Anterior portion of apical lobe          | *dkk*, *sfrp1/2/5* | (*wnt1t*)                                        | *fz1/2/7*, *fz5/8*  |
-| 2         | Posterior portion of apical lobe         | -                  | *wntA*, *wnt8*, *wnt2*, *wnt5*                   | *fz1/2/7*, *fz4*    |
-| 3         | Boundary between apical and mantle lobes | -                  | *wnt1*, *wnt7*, *wnt16*                          | *fz1/2/7*, *fz9/10* |
-| 4         | Mantle lobe                              | -                  | *wnt5*, *wnt16*                                  | *fz1/2/7*           |
-| 5         | Anterior portion of pedicle lobe         | -                  | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7* | *fz9/10*            |
-| 6         | Posterior portion of pedicle lobe        | -                  | *wnt6*, *wnt11*, *wnt5*                          | -                   |
+| Subregion | Position                                 | Antagonists        | Receptors           | Ligands                                          |
+| --------- | --------                                 | -----------        | ---------           | -------                                          |
+| 1         | Anterior portion of apical lobe          | *dkk*, *sfrp1/2/5* | *fz1/2/7*, *fz5/8*  | *wnt1t*                                          |
+| 2         | Posterior portion of apical lobe         | -                  | *fz1/2/7*, *fz4*    | *wntA*, *wnt8*, *wnt2*, *wnt5*                   |
+| 3         | Boundary between apical and mantle lobes | -                  | *fz1/2/7*, *fz9/10* | *wnt1*, *wnt7*, *wnt16*                          |
+| 4         | Mantle lobe                              | -                  | *fz1/2/7*           | *wnt5*, *wnt16*                                  |
+| 5         | Anterior portion of pedicle lobe         | -                  | *fz9/10*            | *wnt1*, *wnt9*, *wnt11*, *wnt4*, *wnt10*, *wnt7* |
+| 6         | Posterior portion of pedicle lobe        | -                  | -                   | *wnt6*, *wnt11*, *wnt5*                          |
 
 \newpage
 
 Table: Maternal load of Wnt and Frizzled transcripts in metazoan eggs. {#tbl:maternal}
 
-| Group         | Species                         | Wnt genes                                           | Frizzled genes                                           |
-| -----         | -------                         | ---------                                           | --------------                                           |
-| Brachiopoda   | *Terebratalia transversa*       | *wnt4* and *wntA* (this study)                      | *fz1/2/7*, *fz5/8* and *fz4* (this study)                |
-| Brachiopoda   | *Lingula anatina*               | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] |
-| Annelida      | *Platynereis dumerilii*         | No maternal Wnt transcripts [@Pruitt2014-oy]        | *fz1/2/7* [@Bastin2015-oz]                               |
-| Priapulida    | *Priapulus caudatus*            | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] | -                                                        |
-| Hemichordata  | *Saccoglossus kowalevskii*      | *wnt4* and *wnt9* [@Darras2018-gm]                  | *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   |
-| Echinodermata | *Paracentrotus lividus*         | *wnt7* [@Robert2014-xj]                             | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   |
-| Echinodermata | *Strongylocentrotus purpuratus* | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          | *fz1/2/7* [@Lhomond2012-yh]                              |
-| Vertebrata    | *Xenopus laevis*                | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            | -                                                        |
-| Vertebrata    | *Danio rerio*                   | *wnt8* [@Nasevicius1998-bm]                         | -                                                        |
-| Cnidaria      | *Clytia hemisphaerica*          | *wnt3* [@Momose2008-va]                             | *fz1* and *fz3* [@Momose2008-va]                         |
+| Group         | Species                         | Frizzled genes                                           | Wnt genes                                           |
+| -----         | -------                         | --------------                                           | ---------                                           |
+| Brachiopoda   | *Terebratalia transversa*       | *fz1/2/7*, *fz5/8* and *fz4* (this study)                | *wnt4* and *wntA* (this study)                      |
+| Brachiopoda   | *Lingula anatina*               | *fz1/2/7*, *fz4* and *fz9/10* [@Luo2015-lm; @Luo2018-lj] | *wntA* and *wnt8* [@Luo2015-lm; @Luo2018-lj]        |
+| Annelida      | *Platynereis dumerilii*         | *fz1/2/7* [@Bastin2015-oz]                               | No maternal Wnt transcripts [@Pruitt2014-oy]        |
+| Priapulida    | *Priapulus caudatus*            | -                                                        | *wnt2*, *wnt4*, *wnt5* and *wnt8* [@Hogvall2019-wq] |
+| Hemichordata  | *Saccoglossus kowalevskii*      | *fz1/2/7* and *fz5/8* [@Darras2018-gm]                   | *wnt4* and *wnt9* [@Darras2018-gm]                  |
+| Echinodermata | *Paracentrotus lividus*         | *fz1/2/7* and *fz5/8* [@Robert2014-xj]                   | *wnt7* [@Robert2014-xj]                             |
+| Echinodermata | *Strongylocentrotus purpuratus* | *fz1/2/7* [@Lhomond2012-yh]                              | *wnt6*, *wnt7* and *wnt16* [@Croce2011-ae]          |
+| Vertebrata    | *Xenopus laevis*                | -                                                        | *wnt5*, *wnt8* and *wnt11* [@Tao2005-qc]            |
+| Vertebrata    | *Danio rerio*                   | -                                                        | *wnt8* [@Nasevicius1998-bm]                         |
+| Cnidaria      | *Nematostella vectensis*        | *fz1/2/7* and *fz5/8* [@Niedermoser2022-ev]              | -                                                   |
+| Cnidaria      | *Clytia hemisphaerica*          | *fz1/2/7* and *fz9/10* [@Momose2007-dh]                  | *wnt3* [@Momose2008-va]                             |
 
 \newpage
 
@@ -1144,7 +1143,7 @@ The longer reaction time reveals that *dsh* transcripts are ubiquitously express
 \newpage
 
 ![Orthology assignment of *Terebratalia transversa* Dgo proteins.
-Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dgo (ANKR6 or Diversin).
+Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dgo (ANKRD6 or Diversin).
 We used Inversin proteins as an outgroup since they also have ankyrin repeats.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Limulus polyphemus* (Lpol), *Mus musculus* (Mmus), *Mytilus coruscus* (Mcor), and *Xenopus tropicalis* (Xtro).
