@@ -773,17 +773,14 @@ The samples were randomized and multiplexed on four lanes of a Illumina HighSeq 
 To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply-sequenced dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
 Next, we imported the estimated counts from Kallisto to DESeq2 [@Love2014-hs] to estimate the library size factors and data dispersion, homogenize the variance across expression ranks, and apply a variance-stabilizing transformation to the data before the expression analyses.
 To visualize the normalized expression data, we generated heatmaps using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz] in R [@R_Core_Team1993-ki] running in RStudio Desktop [@RStudio_Team2011-wr].
+The transcript abundance files and RNA-Seq pipeline is available in the repository [@Vellutini2023-oi].
 
 ## Gene orthology
 
-We searched for Wnt signaling orthologs in *T. transversa* by querying known sequences against
-the available transcriptome using BLAST+ [@Camacho2009-jo].
-To resolve the orthology of the obtained putative orthologs, we aligned the protein sequences of *T. transversa* with well-annotated proteins from other metazoans using MAFFT 7.310 [@Katoh2013-mz],
-removed non-informative sections using GBlocks 0.91b [@Talavera2007-fl], and inspected the multiple sequence alignment using UGENE [@Okonechnikov2012-mr].
-Using the blocked alignments as input, we ran a maximum likelihood phylogenetic analysis using the automatic model recognition and rapid bootstrap options of RAxML 8.2.12 [@Stamatakis2014-bm].
-We rendered the resulting trees using the Interactive Tree Of Life web application [@Letunic2016-pn].
-
-<!--TODO: The gene orthology analyses and source files are available in the repository.-->
+We searched for Wnt signaling orthologs in *T. transversa* by querying known Wnt genes against the available transcriptome using BLAST+ [@Camacho2009-jo].
+To resolve the orthology of the obtained putative orthologs, we aligned the protein sequences of *T. transversa* with well-annotated proteins from other metazoans using MAFFT 7.310 [@Katoh2013-mz], removed non-informative sections using GBlocks 0.91b [@Talavera2007-fl], and inspected the multiple sequence alignment using UGENE [@Okonechnikov2012-mr].
+Using the blocked alignments as input, we ran a maximum likelihood phylogenetic analysis using the automatic model recognition and rapid bootstrap options of RAxML 8.2.12 [@Stamatakis2014-bm], and rendered the resulting trees using the Interactive Tree Of Life web application [@Letunic2016-pn].
+The gene orthology pipeline is available in the repository [@Vellutini2023-oi].
 
 ## Cloning and *in situ* hybridization
 
@@ -792,23 +789,23 @@ For each transcript, designed gene-specific primer pairs within the coding seque
 We then cloned each fragment into a pGEM-T Easy Vector, amplified the antisense sequences using T7 or SP6 polymerase, and synthesized DIG-labeled riboprobes using the MEGAscript kit (Ambion).
 Finally, to visualize gene expression, we followed the established protocols in *T. transversa* for single colorimetric *in situ* hybridization [@Hejnol2008-pk; @Santagata2012-he], and double fluorescent *in situ* hybridization [@Vellutini2016-lq; @Martin-Duran2016-qa].
 
-
 ## Microscopy and image processing
 
 We mounted the embryos between a glass slide and a coverslip, supported by clay feet, in 70% glycerol in PBS.
 Using a Zeiss AxioCam HRc attached to a Zeiss Axioscope A1, we imaged the samples under differential interference contrast (DIC or Nomarski).
 For fluorescent samples, we scanned volumetric stacks in a Leica TCS SP5 confocal microscope and generated maximum intensity projections using Fiji [@Schindelin2012-di].
-We adjusted intensity levels to improve contrast---without clipping signal from high or low ranges---using Fiji or GIMP, and assembled the illlustrations and figure plates using Inkscape.
+We adjusted intensity levels to improve contrast---without clipping signal from high or low ranges---using Fiji or GIMP, and assembled the illustrations and figure plates using Inkscape.
 
 # Declarations
 
 ## Availability of data and materials
 
-<!--TODO: Add other resources here.-->
-
-The data and analyses are available in the Zenodo repository [https://doi.org/10.5281/zenodo.8312023](https://doi.org/10.5281/zenodo.8312023).
-
-<!--TODO: The primer pairs are available in the repository [TODO] and the cloned sequences were deposited in the GenBank (XXX--XXX).-->
+- **GitHub repository:** [https://github.com/bruvellu/terebratalia-wnts](https://github.com/bruvellu/terebratalia-wnts). Project’s main repository containing data, analyses, and source files for figure plates and manuscript text (but not images or large files).
+- **Zenodo repository:** [https://doi.org/10.5281/zenodo.8312022](https://doi.org/10.5281/zenodo.8312022). Citable dataset containing the contents of the main repository, original *in situ* images, high-resolution figures, and large text files [@Vellutini2023-oi].
+- **Stage-specific transcriptome of *Terebratalia transversa*:** 
+  - BioProject (PRJNA1103701): [https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/)
+  - Sequence Read Archive (SRX24343897--SRX24343924): [https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1103701](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1103701)
+- **Gene sequences:** KT253961, PP860497-PP860521.
 
 ## Competing interests
 
@@ -1230,31 +1227,29 @@ Table: Gene accession numbers and primer pairs used for cloning. {#tbl:cloning t
 | Gene           | Accession | Forward                   | Reverse                   | Product |
 | ----           | --------- | -------                   | -------                   | ------- |
 | Ttra wnt1      | KT253961  | TAGCACACACAGGCAAGATAGTCC  | GGAGTAGCAAGTGGAAATGGGG    | 935 bp  |
-| Ttra wnt1t     |           | AAGTTGAAGGCACGATGGACG     | AGCATTCGCACAGACAGTAGCAC   | 1295 bp |
-| Ttra wnt2      |           | CGAGTGTCAATGGCAGTTTAGGC   | TGGAGGTTTTGTTGGGTTAGGAC   | 859 bp  |
-| Ttra wnt4      |           | ATGAACCTACACAACAACGA      | ACAACACCAATGAAATTTACA     | 447 bp  |
-| Ttra wnt5      |           | TGGATAGGCGTAACAAAGAAGAGG  | GATCTAGTCGGCTTCCTCAAACG   | 923 bp  |
-| Ttra wnt6      |           | ACCTCGTTTCGCATTGATTGAC    | CCATCGTTTGAACCAAGCACC     | 990 bp  |
-| Ttra wnt7      |           | AATGAAGCAGGAAGGAGGGCAG    | GCTGGGCATAAAATGTTGTGACG   | 947 bp  |
-| Ttra wnt8      |           | ATGAAGTGGGAAGAAGGGCA      | GCAGCACCACTGGAATTTACA     | 458 bp  |
-| Ttra wnt9      |           | CGACTTTCTCAGATGGAATGCGAG  | GTGAACGAACCAATCAGGATGC    | 988 bp  |
-| Ttra wnt10     |           | TACCCAACCGAAGAAGCAGACC    | TACTTGATGCGTGACACCAGCG    | 1017 bp |
-| Ttra wnt11     |           | TGGTTCCCATAAGTAGACAGAGACG | CACAATGCTGCCACAATCAAAG    | 897 bp  |
-| Ttra wnt16     |           | ATGTGTATTGGTCATGGGGCTC    | GCATCGTGTGACAGTTTTCTCAAC  | 800 bp  |
-| Ttra wntA      |           | AGAGTAGGGAGACGGCATTCATC   | TGTTTTCGGCAGTGTGGAGATAC   | 807 bp  |
-| Ttra fz1/2/7   |           | CGGAAAGGCTGTGAGGAAGT      | GCCCAAGCAGCCAAATGAAA      | 1009 bp |
-| Ttra fz4       |           | AGAGGAGTTTGGTGGCGAGG      | AAGAGAAGGAACACAAGATTGGGTC | 1247 bp |
-| Ttra fz5/8     |           | CAAGAACTGAGTGAAGCCTATCCC  | TGACCCACCAAAGAGATGATGC    | 1328 bp |
-| Ttra fz9/10    |           | CCAATGTAAATGACAAGGGTAGCG  | CAGCCAATAGAAAGACAGTGCCTG  | 902 bp  |
-| Ttra sfrp1/2/5 |           | CCACTTGTCCACAGTTGTCAGTCG  | TTCGCAATCCTTCTTCACCG      | 884 bp  |
-| Ttra dkk5      |           | CAAGCGATCATTCGGTCAG       | CCTTGTGAAAATATGTGGCTTC    | 762 bp  |
-| Ttra wif       |           | TTCAAAAACAAGGGCTTCTT      | TGGTCTCCCAAACATTCACA      | 953 bp  |
-| Ttra dsh       |           | ATCCACTGCAATGTCATCCA      | AGGGGAGCTAATGTATCCCT      | 951 bp  |
-| Ttra dgo       |           | GTGGATAGACAAGGCCAGGT      | TAGATTCTCATTGTCTGTGT      | 972 bp  |
-| Ttra pk        |           | AGCCTTGTATGTCGTGTGGA      | AAATGCTTCTGTTGCCATTC      | 949 bp  |
-| Ttra fmi       |           | ATTCTACAGGTGGTGCTGCT      | TGATCTCCGTCAGCATACGG      | 951 bp  |
-| Ttra stbm      |           | TCTTGTTTCTGGTGTTTGTG      | TTGCTATGTCTCCCTGTCGT      | 897 bp  |
-| Ttra jnk       |           | AAAACGGGAGGTCATTGCAC      | GATCCTGGAAAGAGCACATT      | 952 bp  |
+| Ttra wnt1t     | PP860497  | AAGTTGAAGGCACGATGGACG     | AGCATTCGCACAGACAGTAGCAC   | 1295 bp |
+| Ttra wnt2      | PP860498  | CGAGTGTCAATGGCAGTTTAGGC   | TGGAGGTTTTGTTGGGTTAGGAC   | 859 bp  |
+| Ttra wnt4      | PP860499  | ATGAACCTACACAACAACGA      | ACAACACCAATGAAATTTACA     | 447 bp  |
+| Ttra wnt5      | PP860500  | TGGATAGGCGTAACAAAGAAGAGG  | GATCTAGTCGGCTTCCTCAAACG   | 923 bp  |
+| Ttra wnt6      | PP860501  | ACCTCGTTTCGCATTGATTGAC    | CCATCGTTTGAACCAAGCACC     | 990 bp  |
+| Ttra wnt7      | PP860502  | AATGAAGCAGGAAGGAGGGCAG    | GCTGGGCATAAAATGTTGTGACG   | 947 bp  |
+| Ttra wnt8      | PP860503  | ATGAAGTGGGAAGAAGGGCA      | GCAGCACCACTGGAATTTACA     | 458 bp  |
+| Ttra wnt9      | PP860504  | CGACTTTCTCAGATGGAATGCGAG  | GTGAACGAACCAATCAGGATGC    | 988 bp  |
+| Ttra wnt10     | PP860505  | TACCCAACCGAAGAAGCAGACC    | TACTTGATGCGTGACACCAGCG    | 1017 bp |
+| Ttra wnt11     | PP860506  | TGGTTCCCATAAGTAGACAGAGACG | CACAATGCTGCCACAATCAAAG    | 897 bp  |
+| Ttra wnt16     | PP860507  | ATGTGTATTGGTCATGGGGCTC    | GCATCGTGTGACAGTTTTCTCAAC  | 800 bp  |
+| Ttra wntA      | PP860508  | AGAGTAGGGAGACGGCATTCATC   | TGTTTTCGGCAGTGTGGAGATAC   | 807 bp  |
+| Ttra fz1/2/7   | PP860509  | CGGAAAGGCTGTGAGGAAGT      | GCCCAAGCAGCCAAATGAAA      | 1009 bp |
+| Ttra fz4       | PP860510  | AGAGGAGTTTGGTGGCGAGG      | AAGAGAAGGAACACAAGATTGGGTC | 1247 bp |
+| Ttra fz5/8     | PP860511  | CAAGAACTGAGTGAAGCCTATCCC  | TGACCCACCAAAGAGATGATGC    | 1328 bp |
+| Ttra fz9/10    | PP860512  | CCAATGTAAATGACAAGGGTAGCG  | CAGCCAATAGAAAGACAGTGCCTG  | 902 bp  |
+| Ttra sfrp1/2/5 | PP860513  | CCACTTGTCCACAGTTGTCAGTCG  | TTCGCAATCCTTCTTCACCG      | 884 bp  |
+| Ttra dkk5      | PP860514  | CAAGCGATCATTCGGTCAG       | CCTTGTGAAAATATGTGGCTTC    | 762 bp  |
+| Ttra wif       | PP860515  | TTCAAAAACAAGGGCTTCTT      | TGGTCTCCCAAACATTCACA      | 953 bp  |
+| Ttra dsh       | PP860516  | ATCCACTGCAATGTCATCCA      | AGGGGAGCTAATGTATCCCT      | 951 bp  |
+| Ttra dgo       | PP860517  | GTGGATAGACAAGGCCAGGT      | TAGATTCTCATTGTCTGTGT      | 972 bp  |
+| Ttra pk        | PP860518  | AGCCTTGTATGTCGTGTGGA      | AAATGCTTCTGTTGCCATTC      | 949 bp  |
+| Ttra fmi       | PP860519  | ATTCTACAGGTGGTGCTGCT      | TGATCTCCGTCAGCATACGG      | 951 bp  |
+| Ttra stbm      | PP860520  | TCTTGTTTCTGGTGTTTGTG      | TTGCTATGTCTCCCTGTCGT      | 897 bp  |
+| Ttra jnk       | PP860521  | AAAACGGGAGGTCATTGCAC      | GATCCTGGAAAGAGCACATT      | 952 bp  |
 
-
-	
