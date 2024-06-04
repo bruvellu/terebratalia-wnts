@@ -419,24 +419,39 @@ Overall, a combinatorial analysis of the expression of Wnt signaling components 
 Our work characterizes the expression of Wnt signaling components during the embryonic development of *T. transversa*, a brachiopod species that has largely retained the ancestral repertoire of Wnt genes.
 We find that Wnt genes are upregulated at the onset of gastrulation and during axial elongation, and that the combinatorial expression of ligands, receptors, and antagonists, forms distinct transcriptional subregions along the primary body axis.
 The boundaries between these subregions coincide with the morphological subdivisions of the larval body, suggesting that a combinatorial Wnt signaling landscape---or *Wnt code*---may play a role in the regionalization of the brachiopod anteroposterior body axis.
-Some combinatorial subregions of *T. transversa* resemble those of other animals where mechanisms of axial patterning have been described.
+The anterior ectoderm of *T. transversa*, for example, exhibits two abutting subregions expressing *fz5/8* and Wnt antagonists anteriorly and *wnt8* and other ligands posteriorly ({@fig:earlysum} and {!@fig:summary}), which are similar to the expression at the anterior ectoderm of sea urchins [@Croce2006-fw; @Robert2014-xj; @Cui2014-zb].
+In the echinoderm, this pattern emerges from a negative feedback loop between the anterior Wnt inhibitors regulated by *fz5/8*, and the posterior *wnt8*-mediated Wnt/beta-catenin signaling, a genetic interaction that contributes to establishing the anterior and posterior neuroectoderm identities [@Range2013-gm; @Khadka2018-td].
+Whether a comparable regulatory logic could also be contributing to the patterning of the brachiopod neuroectoderm remains pure speculation at this point.
+<!--, and will need to be experimentally tested in future functional studies.-->
+But the similarity in the expressed genes and domain topologies between sea urchins and brachiopods raises a working hypothesis.
+Similarly, the expression of *wnt5* and *fz1/2/7* in the growing edges of *T. transversa* mantle lobe raises the hypothesis that convergent extension may be a potential mechanism by which the mantle elongates, as *wnt5* is commonly expressed in tissue outgrowths [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu] and is known to regulate convergent extension during tissue morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].
+However, these hypothesis will need to be experimentally tested in future functional studies to elucidate potential roles of Wnt subregions in the patterning of brachiopod anteroposterior patterning.
 
-The anteriormost brachiopod subregions, for example, show a similar arrangement to sea urchin where this arrangement is the result of a negative feedback loop exhibit 
+<!--*T. transversa* mantle lobe subregion expresses *wnt5*, *wnt16*, and *fz1/2/7*.-->
+<!--In other animals, *wnt5* is commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and is known to regulate tissue convergent extension during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz], usually via the Wnt/PCP pathway [@Heisenberg2000-kx].-->
+<!--This raises the hypothesis of convergent extension as a potential mechanism for the formation of the mantle lobe formation during larval morphogenesis in *T. transversa*.-->
+<!--While these similarities might be interesting, they are merely based on gene expression patterns, and functional studies are required .-->
 
-At the brachiopod’s animal pole and anterior end, for example, there are two abutting subregions, one anterior expressing *fz5/8* and Wnt antagonists, and one posterior expressing *wnt8* and other ligands ({@fig:earlysum} and {!@fig:summary}).
+<!--But the brachiopod expression data lays the initial ground for testing this hypothesis in future functional studies.-->
 
-A similar arrangement between *fz5/8* and *wnt8* territories occurs in the sea urchin embryonic ectoderm, and in the  of sea urchin and ve
+<!--While the gene expression similarity may raise the hypothesis that a comparable regulatory logic could also be contributing to the patterning of the brachiopod neuroectoderm, it remains pure speculation at this point.-->
+<!--Functional experiments will be required to test this hypothesis.-->
 
-an arrangement associated with the patterning of neuroectoderm identities in sea urchin [@Range2013-gm; @Khadka2018-td] and zebrafish [@Erter2001-fl; @Lekven2001-jj], where the anterior Wnt inhibitors, regulated by *fz5/8*, antagonize the posterior *wnt8*-mediated Wnt/beta-catenin signaling.
-The brachiopod apical--mantle boundary subregion expresses *wnt1*, *wnt7*, and *engrailed* [@Vellutini2016-lq] in a *fz9/10* receptor context, similar to the transcriptional landscape at the mid--hindbrain boundary of vertebrates [@Parr1993-ch; @Rhinn2001-ie].
-*T. transversa* mantle lobe subregion expresses *wnt5*, *wnt16*, and *fz1/2/7*.
-In other animals, *wnt5* is commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and is known to regulate tissue convergent extension during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz], usually via the Wnt/PCP pathway [@Heisenberg2000-kx].
-This raises the hypothesis of convergent extension as a potential mechanism for the formation of the mantle lobe formation during larval morphogenesis in *T. transversa*.
-While these similarities might be interesting, they are merely based on gene expression patterns, and functional studies are required to elucidate the role such Wnt subregions in the patterning of brachiopod anteroposterior patterning.
+<!--The similarity in the expressed genes and domain topology within the neuroectoderm of sea urchins and brachiopods prompts speculation as to whether a comparable regulatory logic could also be contributing to the anterior patterning of brachiopod embryos.-->
+<!--However, functional experiments are required to test this hypothesis.-->
+
+<!--and zebrafish [@Erter2001-fl; @Lekven2001-jj].-->
+
+<!--might contribute to the animal--vegetal differentiation and apical lobe subdivision.-->
+
+<!--Some combinatorial subregions of *T. transversa* resemble those of other animals where mechanisms of axial patterning have been described.-->
+
+<!--an arrangement associated with the patterning of neuroectoderm identities in sea urchin [@Range2013-gm; @Khadka2018-td] and zebrafish [@Erter2001-fl; @Lekven2001-jj], where the anterior Wnt inhibitors, regulated by *fz5/8*, antagonize the posterior *wnt8*-mediated Wnt/beta-catenin signaling.-->
+
+<!--The brachiopod apical--mantle boundary subregion expresses *wnt1*, *wnt7*, and *engrailed* [@Vellutini2016-lq] in a *fz9/10* receptor context, similar to the transcriptional landscape at the mid--hindbrain boundary of vertebrates [@Parr1993-ch; @Rhinn2001-ie].-->
 
 <!--However, it remains to be determined if this regulatory logic also controls the patterning of the larval brachiopod apical lobe.-->
 
-<!--This arrangement that is associated with a negative feedback loop between the anterior Wnt inhibitors, regulated by *fz5/8*, and the posterior *wnt8*-mediated Wnt/beta-catenin signaling that establish axial identities in the neuroectoderm of sea urchin [@Range2013-gm; @Khadka2018-td] and zebrafish [@Erter2001-fl; @Lekven2001-jj].-->
 
 <!--matching the apical lobe subdivisions-->
 
