@@ -347,19 +347,18 @@ The expression is stronger in a narrow dorsal domain of the anterior ectoderm an
 
 Dgo is a cytoplasmic protein containing 6--8 ankyrin repeat domains that suppresses Wnt/beta-catenin signaling and activates the Wnt/PCP pathway [@Feiguin2001-zd; @Schwarz-Romond2002-td].
 We found a single *dgo* ortholog in *T. transversa* with six ankyrin repeats (@fig:dgo-tree). 
-The expression levels are relatively low compared to the other genes we analyzed in this study (@fig:s-profiling).
+*dgo* transcripts are deposited maternally, quickly degrade, and only recover higher levels of expression in the late larva (@fig:s-profiling).
 However, we still detect two pairs of dorsal ectodermal domains in the apical and pedicle lobes of the late gastrula (@fig:polarity).
 
 Pk is a protein that contains a PET domain and three LIM domains [@Gubb1999-ba] and competes with Dgo for Dsh binding [@Jenny2005-vf].
 We identified a single *pk* ortholog in *T. transversa* (@fig:pk-tree), which is highly expressed throughout development (@fig:s-profiling).
 *pk* transcripts are present in a small patch of ectoderm posterior to the blastopore in the early gastrula (@fig:polarity).
 In the mid gastrula, *pk* is upregulated in the mesoderm and forms paired ventral domains within the mantle lobe mesoderm of the late gastrula, when paired ventral domains also appear in the apical lobe ectoderm.
-
-<!--TODO: Given the high expression levels of *pk* in our RNA-seq data, we cannot exclude the possibility that this gene is also expressed in other tissues.-->
+Given the high expression levels of *pk* in our RNA-seq data, we cannot exclude the possibility that it is more broadly expressed than we could detect in our in situ hybridization.
 
 Fmi is a seven-pass transmembrane cadherin that regulates cell polarity [@Usui1999-fv; @Chae1999-ci].
 In *T. transversa*, we identified one ortholog of *fmi* (@fig:fmi-tree).
-It is expressed at every developmental stage, peaking around the late gastrula (@fig:s-profiling).
+In contrast to other polarity genes, it is not expressed maternally; *fmi* expression peaks around the late gastrula (@fig:s-profiling).
 *fmi* transcripts are present in most ectodermal tissues but show stronger signal on bilateral patches present in the apical lobe ectoderm of the late gastrula (@fig:polarity).
 
 Stbm is a four-pass transmembrane protein that forms a signaling complex with FMI [@Katoh2013-mz; @Butler2017-gh].
