@@ -79,14 +79,13 @@ Brachiopoda, Gene expression, Axial patterning, Wnt pathways, Larva, Combinatori
 <!--TODO: Split this paragraph in two, and bring the next paragraph in-->
 
 Wnt genes play multiple roles during embryogenesis [@Nusse1992-oi; @Cadigan1997-vx].
-They often act as a symmetry-breaking signal [@Loh2016-pz] that can mediate cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq], specify endomesodermal tissues during gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh], and establish embryonic axes [@Petersen2009-wp; @Niehrs2010-ne].
-Moreover, Wnt activity can also control morphogenetic tissue movements, such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
-This multitude of roles is likely associated with the outstanding complexity of Wnt signaling pathways.
-Wnt genes encode secreted glycoproteins with a conserved series of cysteine residues [@Nusse1992-oi].
-<!--Wnt genes encode secreted glycoproteins that play multiple roles during embryogenesis [@Nusse1992-oi; @Cadigan1997-vx].-->
-There are 13 subfamilies of Wnt ligands, five subfamilies of Frizzled receptors, some additional co-receptors, as well as a series of agonists, antagonists, downstream players, and effector molecules that are involved in at least three interconnected Wnt pathways.
-The Wnt/beta-catenin (canonical) pathway regulates cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controls cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulates intracellular calcium levels for convergent extension movements [@James2008-tt].
-Therefore, understanding how this complex network of interactions regulates embryonic development and influences developmental evolution remains a major challenge.
+They encode secreted glycoproteins with a conserved series of cysteine residues that often act as a symmetry-breaking signal [@Loh2016-pz].
+Wnt activity can establish embryonic axes [@Petersen2009-wp; @Niehrs2010-ne], mediate cell fate decisions in early embryos [@Goldstein2006-yw; @Schneider2007-fz; @Hudson2013-lq], and specify endomesodermal tissues during gastrulation [@Logan1999-qy; @Imai2000-nt; @Henry2008-ts; @Wikramanayake1998-wa; @Darras2011-wh].
+Moreover, they can also control morphogenetic processes, such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
+This multitude of roles is consistent with the sheer complexity of Wnt signaling pathways, which involves 13 subfamilies of Wnt ligands, five subfamilies of Frizzled receptors, additional co-receptors, and different agonists, antagonists, downstream players, and effector molecules.
+In general terms, there are at least three interconnected Wnt pathways.
+The Wnt/beta-catenin (canonical) pathway regulates cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controls cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulates intracellular calcium levels for convergent extension movements, although these functions are not exclusive since Wnt/PCP and Wnt/calcium pathways can also control cell fate specification through the activity of other transcriptional effectors such as ATF2 and NFAT, respectively [@Schambony2007-dw; @James2008-tt].
+Understanding how this intricate signaling networks regulate embryogenesis and influences developmental evolution remains a significant challenge.
 
 <!--## The Wnt code hypothesis-->
 
@@ -127,6 +126,9 @@ But while the expression of some Wnt genes is conserved in different animals  (e
 <!--Pathways can signal in parallel allowing for a unified action such as in archenteron invagination and endomesoderm specification in cnidarians [@Kumburegama2011-cv] or the polarity and ectodermal fates in frogs [@Huang2014-mf].-->
 
 <!--## Spiralia importance for understanding Wnt signaling-->
+
+<!--TODO: The expression of Wnt codes has been studied in many more animals outside of vertebrate and the ecdysozoan phyla. There are detailed studies in invertebrate deuterostomes (amphioxus, hemichordates, echinoderms), cnidarians, etc. The authors should consider modifying this idea to reflect this.-->
+<!--TODO: The expression of Wnt signaling components has been studied in many animals, even though the receptor-context information is often lacking.-->
 
 While the expression of Wnt ligands has been widely studied in vertebrates and ecdysozoans [@Wiese2018-hi], the receptor-context information is often lacking in several animal groups.
 Fewer works have analyzed the Wnt signaling in the Spiralia, a major branch of bilaterian animals with a great diversity of body patterns [@Hejnol2010-pq; @Martin-Duran2020-yc].
