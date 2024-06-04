@@ -190,14 +190,11 @@ Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a si
 
 ## Wnt genes are upregulated in concert during axial elongation
 
-<!--TODO: Update with read coverage explanation for no maternal genes-->
-To uncover the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
-We detect an abundance of *wnt4* and *wntA* transcripts deposited maternally in the oocyte (@fig:profiling).
-Transcripts of other Wnt genes, such as *wnt1t* and *wnt6*, are present at lower levels.
-This expression profile remains unchanged after fertilization (mid blastula, 8h) but shifts significantly at the late blastula stage (19h), when a concerted upregulation of *wnt1*, *wnt1t*, *wnt8*, *wnt10*, and *wnt16* occurs (@fig:profiling).
+To uncover the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles (@fig:profiling).
+We detect no Wnt transcripts expressed in the oocyte or mid blastula stages (the high levels of *wnt4* and *wntA* in early stages is due to a bias in the expression quantification, see Methods for a detailed explanation).
+Wnt expression shifts significantly at the late blastula stage (19h), when a concerted upregulation of *wnt1*, *wnt1t*, *wnt8*, *wnt10*, and *wnt16* occurs (@fig:profiling).
 Throughout gastrulation, Wnt genes continue to be upregulated with *wnt1* and *wnt5* in the early gastrula (26h); *wnt6*, *wnt7*, and *wnt11* in the mid gastrula (37h); and *wnt2*, *wnt9*, and *wnt10* in the late gastrula (51h).
-All Wnt genes are expressed between the late gastrula and early larva stages.
-Some, however, are downregulated after gastrulation (*wnt6* and *wnt10*) and after metamorphosis (*wnt7* and *wnt16*) (@fig:profiling).
+Between the late gastrula and early larva, all Wnt genes are expressed, but some are downregulated after gastrulation (*wnt6* and *wnt10*) and after metamorphosis (*wnt7* and *wnt16*) (@fig:profiling).
 Therefore, Wnt expression is dynamic throughout development but peaks late in gastrulation, when the body elongates along the anteroposterior axis, and at the onset of the morphological differentiation of the larval lobes in *T. transversa*.
 
 ## Wnt expression domains partially overlap along the anteroposterior axis
@@ -769,10 +766,13 @@ For the *in situ* hybridization samples, we fixed the embryos for 1h in 4% paraf
 
 We extracted the total RNA using Trizol.
 Library preparation and sequencing was performed at the EMBL Genomic Core Facilities (GENECORE).
-The samples were randomized and multiplexed on four lanes of a Illumina HighSeq 2000 system, and sequenced to an average of 24±5 million 50bp of single-end reads.
-To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply-sequenced dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
+The samples were randomized and multiplexed on four lanes of a Illumina HighSeq 2000 system, and sequenced to an average of 24±5 million 50bp of unstranded single-end reads.
+To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply-sequenced unstranded paired-end dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
 Next, we imported the estimated counts from Kallisto to DESeq2 [@Love2014-hs] to estimate the library size factors and data dispersion, homogenize the variance across expression ranks, and apply a variance-stabilizing transformation to the data before the expression analyses.
 To visualize the normalized expression data, we generated heatmaps using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz] in R [@R_Core_Team1993-ki] running in RStudio Desktop [@RStudio_Team2011-wr].
+Due to the unstranded nature of our sequencing data, we analyzed the coverage of mapped reads to identify potential bias in the expression quantification due to coexpressed genes present in the same locus but in opposite strands which might have been assembled together in the same contig.
+We identified a non-uniform read coverage significantly overestimating the expression of *wnt4* and *wntA* in early developmental stages, where most of the read coverage corresponds to a transcript without a Wnt coding sequence.
+Both transcripts exhibit a long open reading frame in the antisense direction which fully maps to a single scaffold of a draft genome assembly, suggesting that the high expression values in early stages is due to the expression of the contiguous antisense gene.
 The transcript abundance files and RNA-Seq pipeline is available in the repository [@Vellutini2023-oi].
 
 ## Gene orthology
@@ -853,7 +853,7 @@ The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *D
 ![Expression of Wnt signaling components during *Terebratalia transversa* development.
 The heatmap represents the log-normalized transcript counts for ligands, receptors, and antagonists calculated from stage-specific RNA-seq data.
 Each cell shows the average value between two replicates.
-Asterisks in *wnt4* and *wntA* denote samples where the observed expression is not derived from a transcript containing the Wnt coding sequence, but from a contiguous antisense gene or from a truncated isoform.
+Asterisks in *wnt4* and *wntA* denote samples where the observed quantified expression is not derived from a transcript containing Wnt coding sequences, but from a contiguous gene in the antisense direction (see Methods for details).
 The illustrations depict *T. transversa* developmental stages from the oocyte until the post-metamorphic juvenile.
 At the late gastrula stage (51h, black outline) all Wnt genes are expressed.
 The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
