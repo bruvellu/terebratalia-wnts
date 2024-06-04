@@ -58,6 +58,7 @@ figs:
 	cp -vu ${FIGDIR}/trees/jnk-tree.png ${FIGSRC}/FigS21.png
 	cp -vu ${FIGDIR}/summary/summary-early.png ${FIGSRC}/FigS22.png
 	cp -vu ${FIGDIR}/comparative/s-comparative.png ${FIGSRC}/FigS23.png
+	cp -vu ${FIGDIR}/coverage/coverage.png ${FIGSRC}/FigS24.png
 	# Remove JPGs
 	rm ${FIGOUT}/*.jpg
 	# Convert to JPG for visualization

@@ -770,9 +770,11 @@ The samples were randomized and multiplexed on four lanes of a Illumina HighSeq 
 To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply-sequenced unstranded paired-end dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
 Next, we imported the estimated counts from Kallisto to DESeq2 [@Love2014-hs] to estimate the library size factors and data dispersion, homogenize the variance across expression ranks, and apply a variance-stabilizing transformation to the data before the expression analyses.
 To visualize the normalized expression data, we generated heatmaps using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz] in R [@R_Core_Team1993-ki] running in RStudio Desktop [@RStudio_Team2011-wr].
-Due to the unstranded nature of our sequencing data, we analyzed the coverage of mapped reads to identify potential bias in the expression quantification due to coexpressed genes present in the same locus but in opposite strands which might have been assembled together in the same contig.
-We identified a non-uniform read coverage significantly overestimating the expression of *wnt4* and *wntA* in early developmental stages, where most of the read coverage corresponds to a transcript without a Wnt coding sequence.
-Both transcripts exhibit a long open reading frame in the antisense direction which fully maps to a single scaffold of a draft genome assembly, suggesting that the high expression values in early stages is due to the expression of the contiguous antisense gene.
+Due to the unstranded nature of our sequencing data, we analyzed the coverage of mapped reads to identify potential bias in the quantification of expression levels.
+While the majority of genes show uniform read coverage profiles, we identified two cases of uneven coverage that significantly overestimates the expression levels of *wnt4* and *wntA* in early developmental stages (@fig:coverage).
+In these samples, most of the reads mapped to the 3’ region of the transcript while the region containing the Wnt coding sequence had a low mapping rate.
+This pattern might be due to an isoform lacking the Wnt domain or due to a coexpressed gene present in the same locus but in the opposite strand, which might have been assembled together in the same contig since the reads are unstranded.
+The fact that both *wnt4* and *wntA* transcripts exhibit a long open reading frame in the antisense direction, and that the transcripts fully map to a single scaffold in a draft genome assembly of *T. transversa*, points to the latter hypothesis suggesting that the high expression values in early stages is due to the expression of the contiguous antisense gene, and not *wnt4* or *wntA*.
 The transcript abundance files and RNA-Seq pipeline is available in the repository [@Vellutini2023-oi].
 
 ## Gene orthology
@@ -1217,6 +1219,15 @@ Wnt genes are colored by subfamilies, Frizzled genes by lighter shades of grey, 
 (B) Detailed comparison of shared and different unique combinations of Wnt signaling components between a brachiopod and an hemichordate.
 Solid lines represent morphological boundaries for the apical, mantle, and pedicle lobes, and dashed lines represent boundaries between transcriptional subregions.
 ](figures/FigS23.jpg){#fig:s-comparative tag=S23 width=15cm}
+
+\newpage
+
+![Read coverage of the stage-specific transcriptome mapped to the transcripts of *Terebratalia transversa* Wnt signaling components.
+Each gene shows the read coverage along the transcript length for the 14 developmental stages sampled in this study. 
+The Y axes are fixed to the maximum observed coverage of a gene, but differ between different genes.
+Black boxes highlight regions of uneven coverage.
+Arrows indicate the two cases where the uneven coverage caused a bias in the quantification of expression levels (*wnt4* and *wntA*).
+](figures/FigS24.jpg){#fig:coverage tag=S24 width=15cm}
 
 \clearpage
 \newpage
