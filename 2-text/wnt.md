@@ -419,9 +419,15 @@ Overall, a combinatorial analysis of the expression of Wnt signaling components 
 Our work characterizes the expression of Wnt signaling components during the embryonic development of *T. transversa*, a brachiopod species that has largely retained the ancestral repertoire of Wnt genes.
 We find that Wnt genes are upregulated at the onset of gastrulation and during axial elongation, and that the combinatorial expression of ligands, receptors, and antagonists, forms distinct transcriptional subregions along the primary body axis.
 The boundaries between these subregions coincide with the morphological subdivisions of the larval body, suggesting that a combinatorial Wnt signaling landscape---or *Wnt code*---may play a role in the regionalization of the brachiopod anteroposterior body axis.
+Some combinatorial subregions of *T. transversa* resemble those of other animals where mechanisms of axial patterning have been described.
 
-Some of the combinatorial expression patterns that we observe in *T. transversa* are consistent with known axial patterning mechanisms described in other animals.
-The anteriormost subregion of the brachiopod, for example, expresses *fz5/8* and Wnt antagonists and abuts a more posterior territory expressing *wnt8* and other ligands ({@fig:earlysum} and {!@fig:summary}), an arrangement associated with the patterning of neuroectoderm identities in sea urchin [@Range2013-gm; @Khadka2018-td] and zebrafish [@Erter2001-fl; @Lekven2001-jj], where the anterior Wnt inhibitors, regulated by *fz5/8*, antagonize the posterior *wnt8*-mediated Wnt/beta-catenin signaling.
+The anteriormost brachiopod subregions, for example, show a similar arrangement to sea urchin where this arrangement is the result of a negative feedback loop exhibit 
+
+At the brachiopod’s animal pole and anterior end, for example, there are two abutting subregions, one anterior expressing *fz5/8* and Wnt antagonists, and one posterior expressing *wnt8* and other ligands ({@fig:earlysum} and {!@fig:summary}).
+
+A similar arrangement between *fz5/8* and *wnt8* territories occurs in the sea urchin embryonic ectoderm, and in the  of sea urchin and ve
+
+an arrangement associated with the patterning of neuroectoderm identities in sea urchin [@Range2013-gm; @Khadka2018-td] and zebrafish [@Erter2001-fl; @Lekven2001-jj], where the anterior Wnt inhibitors, regulated by *fz5/8*, antagonize the posterior *wnt8*-mediated Wnt/beta-catenin signaling.
 The brachiopod apical--mantle boundary subregion expresses *wnt1*, *wnt7*, and *engrailed* [@Vellutini2016-lq] in a *fz9/10* receptor context, similar to the transcriptional landscape at the mid--hindbrain boundary of vertebrates [@Parr1993-ch; @Rhinn2001-ie].
 *T. transversa* mantle lobe subregion expresses *wnt5*, *wnt16*, and *fz1/2/7*.
 In other animals, *wnt5* is commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and is known to regulate tissue convergent extension during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz], usually via the Wnt/PCP pathway [@Heisenberg2000-kx].
@@ -804,10 +810,8 @@ We adjusted intensity levels to improve contrast---without clipping signal from 
 
 - **GitHub repository:** [https://github.com/bruvellu/terebratalia-wnts](https://github.com/bruvellu/terebratalia-wnts). Project’s main repository containing data, analyses, and source files for figure plates and manuscript text (but not images or large files).
 - **Zenodo repository:** [https://doi.org/10.5281/zenodo.8312022](https://doi.org/10.5281/zenodo.8312022). Citable dataset containing the contents of the main repository, original *in situ* images, high-resolution figures, and large text files [@Vellutini2023-oi].
-- **Stage-specific transcriptome of *Terebratalia transversa*:** 
-  - BioProject (PRJNA1103701): [https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/)
-  - Sequence Read Archive (SRX24343897--SRX24343924): [https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1103701](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1103701)
-- **Gene sequences:** KT253961, PP860497-PP860521.
+- **Stage-specific RNA-Seq:** [https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/). Raw reads deposited on NCBI as BioProject PRJNA1103701 and SRA experiments SRX24343897--SRX24343924.
+- **Gene sequences:** mRNA sequences deposited on NCBI with the accession numbers KT253961, PP860497-PP860521.
 
 ## Competing interests
 
@@ -830,7 +834,7 @@ All authors read and approved the final manuscript.
 
 ## Acknowledgments
 
-We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae for the initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
+We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae and Yvonne Müller for initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
 BCV thanks Pavel Tomančák for the generous support during the preparation of this work.
 
 # References
@@ -1226,7 +1230,9 @@ Solid lines represent morphological boundaries for the apical, mantle, and pedic
 Each gene shows the read coverage along the transcript length for the 14 developmental stages sampled in this study. 
 The Y axes are fixed to the maximum observed coverage of a gene, but differ between different genes.
 Black boxes highlight regions of uneven coverage.
-Arrows indicate the two cases where the uneven coverage caused a bias in the quantification of expression levels (*wnt4* and *wntA*).
+Arrows indicate the two cases, *wnt4* and *wntA*, where the uneven coverage caused a bias in the quantification of expression levels.
+Although *wnt6*, *wnt16*, *dsh*, and *jnk* also show regions of uneven coverage, these reads did not alter the main expression profile of the gene.
+See Methods for more details.
 ](figures/FigS24.jpg){#fig:coverage tag=S24 width=15cm}
 
 \clearpage
