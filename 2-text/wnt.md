@@ -190,6 +190,7 @@ Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a si
 
 ## Wnt genes are upregulated in concert during axial elongation
 
+<!--TODO: Update with read coverage explanation for no maternal genes-->
 To uncover the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles.
 We detect an abundance of *wnt4* and *wntA* transcripts deposited maternally in the oocyte (@fig:profiling).
 Transcripts of other Wnt genes, such as *wnt1t* and *wnt6*, are present at lower levels.
@@ -852,6 +853,7 @@ The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *D
 ![Expression of Wnt signaling components during *Terebratalia transversa* development.
 The heatmap represents the log-normalized transcript counts for ligands, receptors, and antagonists calculated from stage-specific RNA-seq data.
 Each cell shows the average value between two replicates.
+Asterisks in *wnt4* and *wntA* denote samples where the observed expression is not derived from a transcript containing the Wnt coding sequence, but from a contiguous antisense gene or from a truncated isoform.
 The illustrations depict *T. transversa* developmental stages from the oocyte until the post-metamorphic juvenile.
 At the late gastrula stage (51h, black outline) all Wnt genes are expressed.
 The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
