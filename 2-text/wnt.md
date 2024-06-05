@@ -437,21 +437,19 @@ In addition to *sfrp* and *dkk5*, the anterior subregion of the brachiopod also 
 This could indicate that Wnt/beta-catenin signaling is being inhibited at the anteriormost brachiopod subregion, a hypothesis consistent with the observation that early over-activation of this pathway in *T. transversa* dramatically reduces the expression of anterior markers and results in the complete loss of anterior structures (apical and mantle lobes) (see Supplementary Figure S9 in @Vellutini2016-lq, and Figure 4d and Supplementary Figure 6b in @Martin-Duran2016-qa).
 Interestingly, the adjacent subregion in the brachiopod expresses *wnt8* and other ligands posteriorly ({@fig:earlysum}), a pattern comparable to the expression of Wnt components in the anterior neuroectoderm of sea urchin embryos [@Croce2006-fw; @Robert2014-xj; @Cui2014-zb].
 In echinoderms, this pattern emerges from a negative feedback loop between the anterior Wnt inhibitors (activated by *fz5/8*), and the posterior *wnt8*-mediated Wnt/beta-catenin signaling, which helps consolidating anterior and posterior neuroectoderm identities [@Range2013-gm; @Khadka2018-td].
-Whether a comparable regulatory logic could also be contributing to the patterning of the brachiopod neuroectoderm and apical lobe subdivision remains a speculation at this point, and will need to be experimentally tested in future functional studies.
+Whether a comparable regulatory logic could also be contributing to the patterning of the brachiopod neuroectoderm and apical lobe subdivision remains a speculation at this point, and will need to be experimentally tested in future studies.
 
 <!--wnt5 might regulate convergent extension of mantle lobe-->
 
 Our study also reveals a correlation between *wnt5* and the formation of the mantle lobe in *T. transversa*.
-The Wnt midbody subregion that gives rise to the mantle lobe is characterized by the expression of *wnt5* and *fz1/2/7* (*wnt16* is limited to the midline), and only emerges in the late gastrula with the clearance of *fz9/10* transcripts from this region ({@fig:summary}).
+The Wnt subregion that gives rise to the mantle lobe is characterized by the expression of *wnt5* and *fz1/2/7* and emerges only in the late gastrula with the clearance of *fz9/10* transcripts from embryo’s midbody ({@fig:summary})---*wnt16* is also expressed but limited to the midline around the closing blastopore.
+During larval morphogenesis, *wnt5* remains expressed at the growing edges of the elongating mantle lobe ({@fig:s-ligands1}).
+In other animals, *wnt5* regulates convergent extension movements during tissue morphogenesis via the Wnt/PCP pathway [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz], and is commonly expressed in tissue outgrowths such as the vertebrate tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu].
+This contextual similarity of *wnt5* expression suggests that convergent extension could be a possible mechanism for the elongation of the mantle lobe in brachiopod larvae.
+One piece of evidence consistent with this hypothesis is that a late over-activation of the Wnt/beta-catenin pathway in *T. transversa* inhibits the elongation of the mantle lobe (see Supplementary Figure S8 in @Vellutini2016-lq).
+However, whether *wnt5* or the Wnt/PCP pathway plays a role in this process, and whether the specific receptor context in the brachiopod mantle lobe is important to control the signaling output remains to be determined by targeted functional approaches.
 
-Similarly, the expression of *wnt5* and *fz1/2/7* in the growing edges of *T. transversa* mantle lobe raises the hypothesis that convergent extension may be a potential mechanism by which the mantle elongates, as *wnt5* is commonly expressed in tissue outgrowths [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu] and is known to regulate convergent extension during tissue morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].
-However, these hypothesis will need to be experimentally tested in future functional studies to elucidate potential roles of Wnt subregions in the patterning of brachiopod anteroposterior patterning.
-
-It remains to be determined, however, if the differences in ligand--receptor contexts described in our work solely based on expression patterns, have any effect in differentially regulating the output of Wnt signaling in the brachiopod anteroposterior patterning.
-
-late over-activation of Wnt/beta-catenin pathway in *T. transversa* inhibits the formation of the apical--mantle invagination and the elongation of the mantle lobe [@Vellutini2016-lq].
-
-Interestingly, wnt5 is expressed in the apical lobe in a different receptor context in a region that undergoes intense cell proliferation is not associated with elongation.
+<!--It remains to be determined, however, if the differences in ligand--receptor contexts described in our work solely based on expression patterns, have any effect in differentially regulating the output of Wnt signaling in the brachiopod anteroposterior patterning.-->
 
 <!--TODO: Propose convergent extension as a mechanism of mantle formation-->
 <!--TODO: Propose Wnt/PCP pathway is involved-->
@@ -463,7 +461,7 @@ Interestingly, wnt5 is expressed in the apical lobe in a different receptor cont
 <!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
 
 <!--*T. transversa* mantle lobe subregion expresses *wnt5*, *wnt16*, and *fz1/2/7*.-->
-<!--In other animals, *wnt5* is commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and is known to regulate tissue convergent extension during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz], usually via the Wnt/PCP pathway [@Heisenberg2000-kx].-->
+<!--In other animals, *wnt5* is commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and is known to regulate tissue convergent extension during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
 <!--This raises the hypothesis of convergent extension as a potential mechanism for the formation of the mantle lobe formation during larval morphogenesis in *T. transversa*.-->
 <!--While these similarities might be interesting, they are merely based on gene expression patterns, and functional studies are required .-->
 
