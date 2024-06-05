@@ -401,7 +401,6 @@ Overall, a combinatorial analysis of the expression of Wnt signaling components 
 
 <!--TODO: Focus discussion on comparative aspect.-->
 <!--TODO: Remove or tone down functional statements.-->
-<!--TODO: Important to remark that overlapping expression does not guarantee actual signaling and does not exclude long-range interactions as ligand-receptor are highly promiscuous.-->
 
 <!--Outline
 
@@ -439,7 +438,7 @@ Interestingly, the adjacent subregion in the brachiopod expresses *wnt8* and oth
 In echinoderms, this pattern emerges from a negative feedback loop between the anterior Wnt inhibitors (activated by *fz5/8*), and the posterior *wnt8*-mediated Wnt/beta-catenin signaling, which helps consolidating anterior and posterior neuroectoderm identities [@Range2013-gm; @Khadka2018-td].
 Whether a comparable regulatory logic could also be contributing to the patterning of the brachiopod neuroectoderm and apical lobe subdivision remains a speculation at this point, and will need to be experimentally tested in future studies.
 
-<!--wnt5 might regulate convergent extension of mantle lobe-->
+<!--wnt5 and the elongation of the mantle lobe-->
 
 Our study also reveals a correlation between *wnt5* and the formation of the mantle lobe in *T. transversa*.
 The Wnt subregion that gives rise to the mantle lobe is characterized by the expression of *wnt5* and *fz1/2/7* and emerges only in the late gastrula with the clearance of *fz9/10* transcripts from embryo’s midbody ({@fig:summary})---*wnt16* is also expressed but limited to the midline around the closing blastopore.
@@ -447,48 +446,11 @@ During larval morphogenesis, *wnt5* remains expressed at the growing edges of th
 In other animals, *wnt5* regulates convergent extension movements during tissue morphogenesis via the Wnt/PCP pathway [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz], and is commonly expressed in tissue outgrowths such as the vertebrate tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu].
 This contextual similarity of *wnt5* expression suggests that convergent extension could be a possible mechanism for the elongation of the mantle lobe in brachiopod larvae.
 One piece of evidence consistent with this hypothesis is that a late over-activation of the Wnt/beta-catenin pathway in *T. transversa* inhibits the elongation of the mantle lobe (see Supplementary Figure S8 in @Vellutini2016-lq).
-However, whether *wnt5* or the Wnt/PCP pathway plays a role in this process, and whether the specific receptor context in the brachiopod mantle lobe is important to control the signaling output remains to be determined by targeted functional approaches.
+However, whether *wnt5* or the Wnt/PCP pathway plays a role in this process, and whether the specific receptor context in the brachiopod mantle lobe is important to control the signaling output, remains to be determined by targeted functional approaches.
 
-<!--It remains to be determined, however, if the differences in ligand--receptor contexts described in our work solely based on expression patterns, have any effect in differentially regulating the output of Wnt signaling in the brachiopod anteroposterior patterning.-->
-
-<!--TODO: Propose convergent extension as a mechanism of mantle formation-->
-<!--TODO: Propose Wnt/PCP pathway is involved-->
-<!--TODO: Then propose receptor availability controls the differential patterning-->
-
-<!--Some Wnt genes are expressed at different transcriptional subregions.-->
-<!--This is the case for *wnt5*, *wnt1*, and *wnt7* ({@fig:summary}A).-->
-<!--*wnt5* is expressed in three distinct receptor contexts: *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A), and is intercalated by *wnt1* expression in adjacent subregions ({@fig:doubles}B and {!@fig:summary}A).-->
-<!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
-
-<!--*T. transversa* mantle lobe subregion expresses *wnt5*, *wnt16*, and *fz1/2/7*.-->
-<!--In other animals, *wnt5* is commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and is known to regulate tissue convergent extension during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
-<!--This raises the hypothesis of convergent extension as a potential mechanism for the formation of the mantle lobe formation during larval morphogenesis in *T. transversa*.-->
-<!--While these similarities might be interesting, they are merely based on gene expression patterns, and functional studies are required .-->
-
-<!--*wnt5* signaling is known to depend on the receptor context.-->
-<!--It usually inhibits the Wnt/beta-catenin pathway, but in the presence of *fz4* it can activate it instead [@Mikels2006-ha].-->
-<!--The fact that the same ligand, when co-expressed with a different receptor, correlates with different developmental outcomes suggests that receptor availability is important for differentially patterning these body regions.-->
-<!--Therefore, it is possible that the evolution of a reversible mantle lobe was associated with the activation of *wnt5* in a different receptor context, indicating that such context-switching could have a significant role in axial evolution.-->
-
-<!--This raises the hypothesis that *wnt5* may control region-specific patterning via distinct receptor contexts, mediating the cell proliferation in the apical lobe and the convergent extension driving tissue elongation in the mantle lobe.-->
-<!--*wnt5* is known to regulate tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and convergent extension movements during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
-<!--And it usually does so through the Wnt/PCP pathway [@Heisenberg2000-kx].-->
-<!--But, in the presence of *fz4*, *wnt5* can activate the Wnt/beta-catenin pathway [@Mikels2006-ha].-->
-<!--Indeed, *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
-<!--The fact that the over-activation of the Wnt/beta-catenin pathway in *T. transversa* leads to an expansion of the base of the apical lobe and inhibition of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq] suggests that *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A).-->
-<!--This indicates that receptor availability may regulate the different developmental outcomes of the two body regions via the differential activation of the Wnt/beta-catenin and Wnt/PCP pathways.-->
-<!--This suggests that *wnt5* context switching may have contributed to the evolution of the mantle lobe.-->
-<!--*wnt5* regulates as well as cell proliferation [@Yamaguchi1999-zj].-->
-
-<!--The regions anterior and posterior to the apical--mantle boundary undergo entirely distinct morphogenetic changes ({@fig:summary}B).-->
-<!--Tissues anterior to the boundary, located in the posterior portion of the apical lobe where *wnt8* and *fz4* are expressed, have an increased rate of cell proliferation during larval differentiation [@Martin-Duran2016-qa].-->
-<!--Meanwhile, tissues posterior to the apical--mantle boundary, the mantle lobe itself, go through a dramatic growth and elongation [@Stricker1985-gz].-->
-<!--Both regions show a prominent *wnt5* expression encircling the entire circumference of the embryo ({@fig:doubles} and {!@fig:summary}A).-->
-<!--In other animals, *wnt5* is expressed in tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and it regulates cell proliferation [@Yamaguchi1999-zj] and convergent extension movements during morphogenesis via Wnt/PCP pathway [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
-<!--Interestingly, *wnt5* signaling depends on the receptor availability, as it can switch to activating the Wnt/beta-catenin pathway in the presence of the receptor *fz4* [@Mikels2006-ha].-->
-<!--In *T. transversa*, the Frizzled receptors expressed in the apical and mantle lobe are different (*fz4* and *fz1/2/7*, respectively), suggesting that *wnt5* is probably associated with distinct receptor contexts during development ({@fig:summary}A).-->
-<!--This raises the hypothesis that the receptor availability may dictate the differential activation of Wnt/beta-catenin or Wnt/PCP pathway, and thus control the distinct outcomes of cell proliferation and convergent extension in the apical and mantle lobe of *T. transversa*.-->
-<!--Since *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobes (@fig:polarity), -->
+Altogether, these observations suggest the possibility that the different transcriptional subregions could contribute to the regional specification and morphogenetic control of tissues along the anteroposterior axis of brachiopods.
+It is important to note, however, that these combinatorial patterns are solely based on coexpression data, which does not guarantee actual signaling, and that long-range interactions might still occur due to the secreted nature of Wnt proteins and the highly promiscuous ligand--receptor binding.
+Nevertheless, our brachiopod data hints at the idea that changes in these Wnt subregions may have been important for the evolution of the primary body axis in animals.
 
 <!--Wnt repertoire and axial code emerged before bilateral symmetry-->
 <!--Conserved anterior antagonists and posterior Wnts, and Fz AP organization-->
@@ -533,6 +495,8 @@ We hypothesize that this evolutionary shuffling of Wnt ligands may be one key me
 
 <!--TODO: CLEANUP-->
 
+<!--TODO: APICAL-->
+
 <!--TODO: Simpler initial version of apical lobe paragraph-->
 <!--The anterior ectoderm of *T. transversa*, for example, exhibits two abutting subregions expressing *fz5/8* and Wnt antagonists anteriorly and *wnt8* and other ligands posteriorly ({@fig:earlysum} and {!@fig:summary}), which are similar to the expression at the anterior ectoderm of sea urchins [@Croce2006-fw; @Robert2014-xj; @Cui2014-zb].-->
 <!--In the echinoderm, this pattern emerges from a negative feedback loop between the anterior Wnt inhibitors regulated by *fz5/8*, and the posterior *wnt8*-mediated Wnt/beta-catenin signaling, a genetic interaction that contributes to establishing the anterior and posterior neuroectoderm identities [@Range2013-gm; @Khadka2018-td].-->
@@ -564,7 +528,46 @@ We hypothesize that this evolutionary shuffling of Wnt ligands may be one key me
 
 
 
+<!--TODO: MANTLE-->
 
+<!--and collar--trunk boundary in hemichordates [@Pani2012-dn]-->
+
+<!--It remains to be determined, however, if the differences in ligand--receptor contexts described in our work solely based on expression patterns, have any effect in differentially regulating the output of Wnt signaling in the brachiopod anteroposterior patterning.-->
+
+<!--Some Wnt genes are expressed at different transcriptional subregions.-->
+<!--This is the case for *wnt5*, *wnt1*, and *wnt7* ({@fig:summary}A).-->
+<!--*wnt5* is expressed in three distinct receptor contexts: *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A), and is intercalated by *wnt1* expression in adjacent subregions ({@fig:doubles}B and {!@fig:summary}A).-->
+<!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
+
+<!--*T. transversa* mantle lobe subregion expresses *wnt5*, *wnt16*, and *fz1/2/7*.-->
+<!--In other animals, *wnt5* is commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and is known to regulate tissue convergent extension during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
+<!--This raises the hypothesis of convergent extension as a potential mechanism for the formation of the mantle lobe formation during larval morphogenesis in *T. transversa*.-->
+<!--While these similarities might be interesting, they are merely based on gene expression patterns, and functional studies are required .-->
+
+<!--*wnt5* signaling is known to depend on the receptor context.-->
+<!--It usually inhibits the Wnt/beta-catenin pathway, but in the presence of *fz4* it can activate it instead [@Mikels2006-ha].-->
+<!--The fact that the same ligand, when co-expressed with a different receptor, correlates with different developmental outcomes suggests that receptor availability is important for differentially patterning these body regions.-->
+<!--Therefore, it is possible that the evolution of a reversible mantle lobe was associated with the activation of *wnt5* in a different receptor context, indicating that such context-switching could have a significant role in axial evolution.-->
+
+<!--This raises the hypothesis that *wnt5* may control region-specific patterning via distinct receptor contexts, mediating the cell proliferation in the apical lobe and the convergent extension driving tissue elongation in the mantle lobe.-->
+<!--*wnt5* is known to regulate tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and convergent extension movements during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
+<!--And it usually does so through the Wnt/PCP pathway [@Heisenberg2000-kx].-->
+<!--But, in the presence of *fz4*, *wnt5* can activate the Wnt/beta-catenin pathway [@Mikels2006-ha].-->
+<!--Indeed, *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
+<!--The fact that the over-activation of the Wnt/beta-catenin pathway in *T. transversa* leads to an expansion of the base of the apical lobe and inhibition of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq] suggests that *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A).-->
+<!--This indicates that receptor availability may regulate the different developmental outcomes of the two body regions via the differential activation of the Wnt/beta-catenin and Wnt/PCP pathways.-->
+<!--This suggests that *wnt5* context switching may have contributed to the evolution of the mantle lobe.-->
+<!--*wnt5* regulates as well as cell proliferation [@Yamaguchi1999-zj].-->
+
+<!--The regions anterior and posterior to the apical--mantle boundary undergo entirely distinct morphogenetic changes ({@fig:summary}B).-->
+<!--Tissues anterior to the boundary, located in the posterior portion of the apical lobe where *wnt8* and *fz4* are expressed, have an increased rate of cell proliferation during larval differentiation [@Martin-Duran2016-qa].-->
+<!--Meanwhile, tissues posterior to the apical--mantle boundary, the mantle lobe itself, go through a dramatic growth and elongation [@Stricker1985-gz].-->
+<!--Both regions show a prominent *wnt5* expression encircling the entire circumference of the embryo ({@fig:doubles} and {!@fig:summary}A).-->
+<!--In other animals, *wnt5* is expressed in tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and it regulates cell proliferation [@Yamaguchi1999-zj] and convergent extension movements during morphogenesis via Wnt/PCP pathway [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
+<!--Interestingly, *wnt5* signaling depends on the receptor availability, as it can switch to activating the Wnt/beta-catenin pathway in the presence of the receptor *fz4* [@Mikels2006-ha].-->
+<!--In *T. transversa*, the Frizzled receptors expressed in the apical and mantle lobe are different (*fz4* and *fz1/2/7*, respectively), suggesting that *wnt5* is probably associated with distinct receptor contexts during development ({@fig:summary}A).-->
+<!--This raises the hypothesis that the receptor availability may dictate the differential activation of Wnt/beta-catenin or Wnt/PCP pathway, and thus control the distinct outcomes of cell proliferation and convergent extension in the apical and mantle lobe of *T. transversa*.-->
+<!--Since *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobes (@fig:polarity), -->
 
 
 <!--TODO: *wnt16* is involved in the morphogenetic movements of gastrulation in sea urchin [@Martinez-Bartolome2019-kk].-->
@@ -573,7 +576,6 @@ We hypothesize that this evolutionary shuffling of Wnt ligands may be one key me
 <!--The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of lecithotrophic brachiopod larvae---the reversible mantle lobe.-->
 
 
-<!--and collar--trunk boundary in hemichordates [@Pani2012-dn]-->
 
 <!--Such a receptor-free zone also occurs at the posterior end of hemichordates, a region that is Wnt-insensitive, since its transcriptional profile is not altered when the Wnt/beta-catenin pathway is over-activated or suppressed [@Darras2018-gm].-->
 <!--Two observations suggest that the receptor-free posterior region of *T. transversa* might also be Wnt-insensitive.-->
