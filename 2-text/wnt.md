@@ -477,7 +477,7 @@ Overall, these similarities indicate that cnidarians and bilaterians share an an
 
 Conserved Wnt domains:
 
-- wnt1 posterior ecto*, posterior meso, anterior ecto
+- wnt1 consistently posterior ectoderm
 - wnt2 anterior ecto* (except echinoderms)
 - wnt3 posterior ecto* (except cephalochordata), mid endo, trunk ecto (no prot.)
 - wnt4 posterior ecto, posterior endo, trunk meso, anterior/posterior, mesoderm
@@ -497,22 +497,30 @@ Conserved Wnt domains:
 <!--TODO: Solve this paragraph.-->
 
 In contrast, the expression of Wnt genes is more variable.
-The maternal load of Wnt transcripts is diverse and can even differ within a group (@tbl:maternal) while the embryonic expression of most Wnt genes vary along the body and germ layers between groups ({@fig:comparative}B).
-A few domains show consistent expression, such as *wnt2* in the anterior ectoderm and *wnt1* in the posterior ectoderm.
-One example is the expression of *wnt9* and *wnt11* which are expressed at the posterior end of the brachiopod but at the anterior end of the hemichordate in entirely different receptor contexts ({@fig:s-comparative}A).
-Accordingly, Wnt genes also show variable expression across the chordate lineage [@Somorjai2018-fw].
-While we identified a few relatively conserved Wnt--Frizzled combinations between brachiopod and hemichordate landscapes ({@fig:s-comparative}B), even the more conserved Wnt domains still are express in different receptor contexts in different groups.
-Therefore, these observations suggest that ligand exchange and re-deployment to different tissues and receptor contexts may have occurred more frequently during evolution than previously thought.
+The maternal load of Wnt transcripts is diverse and can even differ within a group (@tbl:maternal), while the embryonic expression shows great variability across the body axis and germ layers between groups ({@fig:comparative}B).
+*wnt2* is the least variable gene.
+Except for echinoderms which lack the gene, *wnt2* is the only Wnt to be solely expressed in a single body region and germ layer across groups---the anterior ectoderm.
+*wnt1* has the most consistent expression domain at the posterior ectoderm, but it is also expressed at the anterior ectoderm ({@fig:comparative}B and {!@fig:s-comparative}A).
+The other frequent ectodermal patterns are *wnt5* and *wnt8* in the anterior, and *wnt4*, *wnt3*, *wnt6*, and *wnt11* at the posterior end.
+However, these genes are also expressed in other positions and germ layers.
+The most diverse patterns in this sense are from the genes *wnt11*, *wnt9*, and *wnt5* ({@fig:comparative}B).
+*wnt9* and *wnt11*, for example, are expressed at entirely different anterior and posterior receptor contexts between brachiopod and hemichordate embryos ({@fig:s-comparative}A).
+In fact, based on our expression data, even the consistent genes *wnt1* and *wnt2* are expressed in different receptor contexts between groups.
+A more detailed comparison between the brachiopod and hemichordate landscapes reveals only a few relatively conserved Wnt--Frizzled combinations ({@fig:s-comparative}B).
+Altogether, this comparative analysis suggests that changes in Wnt expression, like the addition or re-deployment of domains to different tissues or receptor contexts, may have occurred frequently during evolution.
 
 <!--Ligand context-switching as mechanism for axial evolution-->
 
-The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of lecithotrophic brachiopod larvae---the reversible mantle lobe.
-These data raise the idea that changes in these Wnt transcriptional subregions may have been important for the evolution of the primary body axis in animals.
+<!--Accordingly, Wnt genes also show variable expression across the chordate lineage [@Somorjai2018-fw].-->
+
 The variation in Wnt expression compared to the conservation of Frizzled expression may reflect an important feature of axial evolution.
 The ability of Wnt proteins to elicit different fate decisions and morphogenetic processes depending on the developmental context places Wnt signaling pathways as key players in generating cellular and tissue diversity in the body patterning of animals [@Lee2006-yw; @Guder2006-fu; @Loh2016-pz].
 Changes in the ligand--receptor context during evolution could effectively alter cell fates and morphogenetic events, providing a basis for the establishment of developmental innovations.
 We hypothesize that this evolutionary shuffling of Wnt ligands may be one key mechanism involved in the diversification of the body axis of animals.
 
+
+<!--The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of lecithotrophic brachiopod larvae---the reversible mantle lobe.-->
+<!--These data raise the idea that changes in these Wnt transcriptional subregions may have been important for the evolution of the primary body axis in animals.-->
 
 
 <!--TODO: CLEANUP-->
