@@ -511,13 +511,10 @@ Altogether, this comparative analysis suggests that changes in Wnt expression, l
 
 <!--Ligand context-switching as mechanism for axial evolution-->
 
-<!--Accordingly, Wnt genes also show variable expression across the chordate lineage [@Somorjai2018-fw].-->
-
-The variation in Wnt expression compared to the conservation of Frizzled expression may reflect an important feature of axial evolution.
-The ability of Wnt proteins to elicit different fate decisions and morphogenetic processes depending on the developmental context places Wnt signaling pathways as key players in generating cellular and tissue diversity in the body patterning of animals [@Lee2006-yw; @Guder2006-fu; @Loh2016-pz].
-Changes in the ligand--receptor context during evolution could effectively alter cell fates and morphogenetic events, providing a basis for the establishment of developmental innovations.
-We hypothesize that this evolutionary shuffling of Wnt ligands may be one key mechanism involved in the diversification of the body axis of animals.
-
+This variable nature of Wnt expression might be an important factor influencing axial evolution.
+Evolutionary changes in the ligand--receptor context could effectively alter cell fates and morphogenetic events, generating tissue and shape diversity and providing a basis for developmental innovations along the body [@Lee2006-yw; @Guder2006-fu; @Loh2016-pz].
+Such Wnt function shuffling is indeed associated with novelties in the chordate lineage [@Somorjai2018-fw].
+We thus hypothesize that the evolutionary shuffling of Wnt expression domains may be one mechanism contributing to the diversification of the body axis in animals.
 
 <!--The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of lecithotrophic brachiopod larvae---the reversible mantle lobe.-->
 <!--These data raise the idea that changes in these Wnt transcriptional subregions may have been important for the evolution of the primary body axis in animals.-->
