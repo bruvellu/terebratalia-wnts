@@ -473,16 +473,35 @@ Overall, these similarities indicate that cnidarians and bilaterians share an an
 <!--Wnt expression is evolutionary more variable-->
 
 <!--TODO: The authors write that Wnt expression is more variable between species than Fz expression. I am not sure this is a valid statement. Which species are you talking about here?-->
+<!--
 
-<!--while Wnt domains are narrower and overlap with other Wnt genes.-->
-<!--while the expression of Wnt ligands is more variable between species .-->
+Conserved Wnt domains:
 
-In contrast, the spatiotemporal expression of Wnt genes during the axial patterning of different animals varies considerably.
-A comparison of the maternal load of Wnt ligands reveals that they are highly variable and can even differ between closely related species (@tbl:maternal).
-A similar picture occurs in the axial patterning: the spatiotemporal expression of most Wnt genes shows great variability ({@fig:comparative}A).
+- wnt1 posterior ecto*, posterior meso, anterior ecto
+- wnt2 anterior ecto* (except echinoderms)
+- wnt3 posterior ecto* (except cephalochordata), mid endo, trunk ecto (no prot.)
+- wnt4 posterior ecto, posterior endo, trunk meso, anterior/posterior, mesoderm
+- wnt5 posterior endo, posterior only ecto, posterior only meso, anterior ecto trunk meso, anterior and trunk ecto and trunk meso, anterior trunk and posterior ecto
+- wnt6 midbody endo, posterior ecto/endo, anterior ecto posterior meso, anterior posterior ecto, posterior ecto trunk meso, posterior ecto trunk endo
+- wnt7 posterior ecto, posterior endo, trunk ecto, anterior posterior ecto, 
+- wnt8 anterior ecto*, anterior endo, trunk meso, posterior endo, trunk ecto
+- wnt9 posterior endo, anterior endo, anterior ecto, posterior meso, posterior ecto, trunk meso, trunk endo
+- wnt10 trunk endo, posterior endo, posterior ecto, anterior meso, trunk meso, anterior ecto
+- wnt11 posterior ecto, posterior ecto, trunk meso, posterior endo, anterior ecto, 
+- wnt16 posterior endo, posterior ecto, trunk meso, anterior ecto, trunk ecto, 
+- wntA posterior ecto, posterior endo, anterior endo, posterior meso, anterior ecto, trunk ecto, anterior ecto, anterior meso
+
+
+-->
+
+<!--TODO: Solve this paragraph.-->
+
+In contrast, the expression of Wnt genes is more variable.
+The maternal load of Wnt transcripts is diverse and can even differ within a group (@tbl:maternal) while the embryonic expression of most Wnt genes vary along the body and germ layers between groups ({@fig:comparative}B).
+A few domains show consistent expression, such as *wnt2* in the anterior ectoderm and *wnt1* in the posterior ectoderm.
 One example is the expression of *wnt9* and *wnt11* which are expressed at the posterior end of the brachiopod but at the anterior end of the hemichordate in entirely different receptor contexts ({@fig:s-comparative}A).
 Accordingly, Wnt genes also show variable expression across the chordate lineage [@Somorjai2018-fw].
-Only a few Wnt-Frizzled combinations are relatively conserved across bilaterians ({!@fig:comparative}A,B).
+While we identified a few relatively conserved Wnt--Frizzled combinations between brachiopod and hemichordate landscapes ({@fig:s-comparative}B), even the more conserved Wnt domains still are express in different receptor contexts in different groups.
 Therefore, these observations suggest that ligand exchange and re-deployment to different tissues and receptor contexts may have occurred more frequently during evolution than previously thought.
 
 <!--Ligand context-switching as mechanism for axial evolution-->
