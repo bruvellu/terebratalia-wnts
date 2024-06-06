@@ -514,7 +514,7 @@ Altogether, this comparative analysis suggests that changes in Wnt expression, l
 This variable nature of Wnt expression might be an important factor influencing axial evolution.
 Evolutionary changes in the ligand--receptor context could effectively alter cell fates and morphogenetic events, generating tissue and shape diversity and providing a basis for developmental innovations along the body [@Lee2006-yw; @Guder2006-fu; @Loh2016-pz].
 Such Wnt function shuffling is indeed associated with novelties in the chordate lineage [@Somorjai2018-fw].
-We thus hypothesize that the evolutionary shuffling of Wnt expression domains may be one mechanism contributing to the diversification of the body axis in animals.
+Investigating the combinatorial landscape of Wnt signaling components across the phylogeny will be crucial to uncovering the role of Wnt shuffling as a potential mechanism contributing to the diversification of the metazoan body axis.
 
 <!--The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of lecithotrophic brachiopod larvae---the reversible mantle lobe.-->
 <!--These data raise the idea that changes in these Wnt transcriptional subregions may have been important for the evolution of the primary body axis in animals.-->
@@ -666,14 +666,9 @@ We thus hypothesize that the evolutionary shuffling of Wnt expression domains ma
 
 # Conclusions
 
-In summary, we characterize the complement and expression of Wnt signaling components in a brachiopod.
-We find a strong correlation between transcriptional subregions and morphological subdivisions of the larval body with different morphogenesis and fates.
-Our findings suggest that the differential activation of Wnt signaling pathways through this combinatorial landscape may regionalize the anteroposterior axis of brachiopods.
-The data also raises the hypothesis that differences in the receptor context could be associated with the evolution of a morphogenetic innovation in the mantle lobe of larval brachiopods.
-A comparative analysis reveals that only a few of the unique combinatorial patterns we observe in the brachiopod occur in other animals, despite the widely conserved expression of Frizzled genes.
-This is because the expression of Wnt genes is variable.
-We propose that evolutionary changes in ligand--receptor context may have contributed to the diversification of the bilaterian anteroposterior axis.
-Investigating the combinatorial expression of Wnt components in a comparative way will be crucial to uncovering the multiple roles of an ever-changing Wnt landscape for the evolution of animals.
+Our data reveals a correlation between distinct Wnt transcriptional subregions and the morphological subdivisions in the larval body of a brachiopod.
+We hypothesize that the underlying combinatorial landscape may play a role in the patterning and morphogenesis of the different regions along the anteroposterior axis, and that changes in this landscape could be associated with the evolution of the reversible mantle lobe, a morphogenetic innovation of brachiopod larvae.
+As Wnt developmental expression is variable across animal groups, we propose that evolutionary changes in ligand--receptor context may have been important to axial evolution in animals.
 
 <!--Our expression data also indicates that differences in the receptor context for specific ligands may be involved in the evolution of the mantle lobe, an evolutionary novelty of brachiopods.-->
 
