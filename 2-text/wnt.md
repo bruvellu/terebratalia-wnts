@@ -106,7 +106,7 @@ This complexity makes the Wnt code particularly challenging to elucidate.
 
 A necessary step to untangle this combinatorial code is to extend the analyses of ligand--receptor contexts of Wnt genes to other animal groups using a comparative approach [@Hejnol2015-fg].
 The comparison between flies and other animals was crucial to reveal the broader importance of the Hox genes as a high-level axial patterning system and not merely an arthropod-specific feature linked to body segmentation [@Akam1989-vc; @McGinnis1992-qj; @Dickinson1995-fd].
-But while the expression of some Wnt genes is conserved in different animals  (e.g., *wnt8* is expressed in the neuroectoderm of vertebrates [@Kelly1995-jv;  @Hollyday1995-ym] and in spiders [@Janssen2010-dc], annelids [@Pruitt2014-oy], and hemichordates [@Darras2018-gm]), it remains unclear if the organization of Wnt domains along the embryonic body axis and their combinatorial expression with other pathway components is conserved across the animal phylogeny.
+But while the expression of some Wnt genes is conserved in different animals  (e.g., *wnt8* is expressed in the neuroectoderm of vertebrates [@Kelly1995-jv;  @Hollyday1995-ym] and in spiders [@Janssen2010-dc], annelids [@Pruitt2014-oy], and hemichordates [@Darras2018-gm]), it remains unclear if the combinatorial expression of Wnt signaling components along the embryonic body axis is conserved across the animal phylogeny.
 
 <!--In fact, it remains unclear whether specific combinations of Wnt signaling components do give rise to specific developmental outcomes.-->
 
@@ -128,23 +128,22 @@ But while the expression of some Wnt genes is conserved in different animals  (e
 <!--## Spiralia importance for understanding Wnt signaling-->
 
 <!--TODO: The expression of Wnt codes has been studied in many more animals outside of vertebrate and the ecdysozoan phyla. There are detailed studies in invertebrate deuterostomes (amphioxus, hemichordates, echinoderms), cnidarians, etc. The authors should consider modifying this idea to reflect this.-->
+
 <!--TODO: The expression of Wnt signaling components has been studied in many animals, even though the receptor-context information is often lacking.-->
 
-While the expression of Wnt ligands has been widely studied in vertebrates and ecdysozoans [@Wiese2018-hi], the receptor-context information is often lacking in several animal groups.
-Fewer works have analyzed the Wnt signaling in the Spiralia, a major branch of bilaterian animals with a great diversity of body patterns [@Hejnol2010-pq; @Martin-Duran2020-yc].
-In contrast to ecdysozoans which have lost several Wnt genes [@Murat2010-np; @Holstein2012-ec; @Chavarria2021-ps], the spiralians have retained the ancestral Wnt complement [@Prudhomme2002-cv; @Cho2010-eb; @Janssen2010-dc], indicating that they can be an informative group to understand the role of Wnt signaling in axial patterning evolution.
-However, most analyses about Wnt genes in Spiralia were performed in a few typical lineages, such as annelids and mollusks, and less is known about Wnt genes in other spiralians, which makes it difficult to reconstruct the ancestral state for this large animal group.
+The developmental Wnt landscape has been widely studied in several animal groups, but fewer works have analyzed the receptor context information in the Spiralia, a major branch of bilaterian animals with diverse body patterns [@Hejnol2010-pq; @Martin-Duran2020-yc].
+While ecdysozoans have lost several Wnt genes [@Murat2010-np; @Holstein2012-ec; @Chavarria2021-ps], spiralians have retained the ancestral Wnt complement [@Prudhomme2002-cv; @Cho2010-eb; @Janssen2010-dc], indicating that they can be an informative group to understand the role of Wnt signaling in axial patterning evolution.
+However, most analyses about Wnt genes in Spiralia were performed in annelids and mollusks, and the expression data in other spiralian lineages is still lacking.
 
 <!--## Brachiopoda as an informative spiralian group-->
 
 Brachiopods are sessile spiralians with bivalve shells [@Hyman1959-mc].
-They have a reduced adult morphology, but an outstanding embryonic development where a radially symmetric gastrula undergoes a series of morphogenetic changes to form a larval body subdivided into a series of distinct lobes along the anteroposterior axis [@Conklin1902-xv; @Franzen1969-mx].
-In previous studies using the rhynchonelliform brachiopod *Terebratalia transversa* (Sowerby, 1846)---whose embryogenesis and fate map are well-characterized [@Flammer1963-jk; @Stricker1985-gz; @Stricker1985-vf; @Freeman1993-rx; @Freeman1993-zt]---we found that Wnt signaling plays a role in the specification of the endomesoderm and posterior fates [@Martin-Duran2016-qa], and in the patterning of the head--trunk boundary [@Vellutini2016-lq].
+They have a reduced adult morphology, but complex embryogenesis where a radially symmetric gastrula undergoes a series of morphogenetic changes to form a larval body subdivided into a series of distinct lobes along the anteroposterior axis [@Conklin1902-xv; @Franzen1969-mx].
+In previous studies using the rhynchonelliform brachiopod *Terebratalia transversa* (Sowerby, 1846)---a species with a well-characterized embryonic development [@Flammer1963-jk; @Stricker1985-gz; @Stricker1985-vf; @Freeman1993-rx; @Freeman1993-zt; @Passamaneck2011-wj; @Santagata2012-he; @Passamaneck2015-aw; @Schiemann2017-wd; @Gasiorowski2019-ab; @Andrikou2021-cc]---we found that Wnt signaling plays a role in the specification of the endomesoderm and posterior fates [@Martin-Duran2016-qa], and in the patterning of the head--trunk boundary [@Vellutini2016-lq].
 Moreover, we found that over-activation of the Wnt/beta-catenin pathway disrupts the molecular and morphological organization of the larval subdivisions [@Martin-Duran2016-qa; @Vellutini2016-lq], suggesting that Wnt activity contributes to the axial patterning of the larva.
 However, a full characterization of the Wnt signaling components and their developmental expression, including the ligand--receptor contexts is lacking for *T. transversa*, and for brachiopods in general.
 
 <!--In addition, a number of molecular studies revealed genes involved in anterior patterning [@Passamaneck2011-wj; @Santagata2012-he] and mesoderm development [@Passamaneck2015-aw], as well as the expression domains of *Hox* genes during axial patterning [@Schiemann2017-wd; @Gasiorowski2019-ab], and the role of FGF signaling in mesoderm formation [@Andrikou2021-cc].-->
-
 <!--Toll [@Orus-Alcalde2021-ra]-->
 <!--anatomy [@Altenburger2009-dr; @Santagata2011-ry]-->
 <!--nerve cords [@Martin-Duran2018-mq]-->
