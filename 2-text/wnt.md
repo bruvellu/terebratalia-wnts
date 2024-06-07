@@ -66,7 +66,7 @@ When comparing these data across the animal phylogeny, we find that the expressi
 
 **Conclusions:**
 Our results suggest that the differential activation of Wnt signaling pathways may play a role in regionalizing the anteroposterior axis of brachiopod larvae.
-More generally, our analyses suggest that changes in the receptor context of Wnt ligands may act as a mechanism for the evolution and diversification of the body axis of bilaterians.
+More generally, our analyses suggest that changes in the receptor context of Wnt ligands may act as a mechanism for the evolution and diversification of the metazoan body axis.
 
 # Keywords
 
@@ -84,7 +84,7 @@ Wnt activity can establish embryonic axes [@Petersen2009-wp; @Niehrs2010-ne], me
 Moreover, they can also control morphogenetic processes, such as apical constriction, convergent extension, and cell migration [@Tada2000-dz; @Heisenberg2000-kx; @Yamanaka2002-wk; @Kilian2003-pn; @Ulrich2003-uy; @Lee2006-gr; @Kumburegama2011-cv].
 This multitude of roles is consistent with the sheer complexity of Wnt signaling pathways, which involves 13 subfamilies of Wnt ligands, five subfamilies of Frizzled receptors, additional co-receptors, and different agonists, antagonists, downstream players, and effector molecules.
 In general terms, there are at least three interconnected Wnt pathways.
-The Wnt/beta-catenin (canonical) pathway regulates cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controls cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulates intracellular calcium levels for convergent extension movements, although these functions are not exclusive since Wnt/PCP and Wnt/calcium pathways can also control cell fate specification through the activity of other transcriptional effectors such as ATF2 and NFAT, respectively [@Schambony2007-dw; @James2008-tt].
+The Wnt/beta-catenin (canonical) pathway regulates cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controls cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulates intracellular calcium levels for convergent extension movements---although these functions are not exclusive, as the Wnt/PCP and Wnt/calcium pathways can also control cell fate specification through the activity of other transcriptional effectors like ATF2 and NFAT, respectively [@Schambony2007-dw; @James2008-tt].
 Understanding how this intricate signaling networks regulate embryogenesis and influences developmental evolution remains a significant challenge.
 
 <!--## The Wnt code hypothesis-->
@@ -448,7 +448,7 @@ One piece of evidence consistent with this hypothesis is that a late over-activa
 However, whether *wnt5* or the Wnt/PCP pathway plays a role in this process, and whether the specific receptor context in the brachiopod mantle lobe is important to control the signaling output, remains to be determined by targeted functional approaches.
 
 Altogether, these observations suggest the possibility that the different transcriptional subregions could contribute to the regional specification and morphogenetic control of tissues along the anteroposterior axis of brachiopods.
-It is important to note, however, that these combinatorial patterns are solely based on coexpression data, which does not guarantee actual signaling, and that long-range interactions might still occur due to the secreted nature of Wnt proteins and the highly promiscuous ligand--receptor binding.
+It is important to note, however, that these combinatorial patterns are solely based on coexpression data, which does not guarantee actual signaling, and that long-range interactions might still occur due to the secreted nature of Wnt proteins and their highly promiscuous ligand--receptor binding.
 Nevertheless, our brachiopod data hints at the idea that changes in these Wnt subregions may have been important for developmental innovations in the primary body axis of animals.
 
 <!--Wnt axial subregions emerged before bilateral symmetry-->
@@ -858,7 +858,8 @@ All authors read and approved the final manuscript.
 
 ## Acknowledgments
 
-We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae and Yvonne Müller for initial gene cloning, and members of the Hejnol Lab for the helpful discussions.
+We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae and Yvonne Müller for initial gene cloning, Juliana Roscito for the help with coverage analysis, and members of the Hejnol Lab for the helpful discussions.
+We also thank Grigory Genikhovich and two anonymous reviewers for their insightful comments and constructive feedback.
 BCV thanks Pavel Tomančák for the generous support during the preparation of this work.
 
 # References
