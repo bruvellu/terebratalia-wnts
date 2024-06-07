@@ -85,7 +85,7 @@ Moreover, they can also control morphogenetic processes, such as apical constric
 This multitude of roles is consistent with the sheer complexity of Wnt signaling pathways, which involves 13 subfamilies of Wnt ligands, five subfamilies of Frizzled receptors, additional co-receptors, and different agonists, antagonists, downstream players, and effector molecules.
 In general terms, there are at least three interconnected Wnt pathways.
 The Wnt/beta-catenin (canonical) pathway regulates cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controls cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulates intracellular calcium levels for convergent extension movements---although these functions are not exclusive, as the Wnt/PCP and Wnt/calcium pathways can also control cell fate specification through the activity of other transcriptional effectors like ATF2 and NFAT, respectively [@Schambony2007-dw; @James2008-tt].
-Understanding how this intricate signaling networks regulate embryogenesis and influences developmental evolution remains a significant challenge.
+Understanding how these intricate signaling networks regulate embryogenesis and influences developmental evolution remains a significant challenge.
 
 <!--## The Wnt code hypothesis-->
 
@@ -99,7 +99,7 @@ The discovery of staggered Wnt expression domains in the tail bud of amphioxus e
 This idea, commonly referred to as the *Wnt code* or *landscape* [@Lee2006-yw; @Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
 Over the years, however, it has been increasingly recognized that the output of Wnt signaling does not depend solely on the expression of Wnt ligands.
 In fact, Wnt pathways operate via an intricate network of dynamic protein interactions where the downstream response depends on the local availability of receptors, the presence of different antagonists, and the activity of pathway modulators [@van-Amerongen2009-md; @Niehrs2012-ku].
-That means that, depending on the receptors present in the tissue, one Wnt ligand can activate or inhibit a different Wnt pathway and thus determine processes as diverse as fate specification, cellular organization, and tissue morphogenesis [@Umbhauer2000-un; @Mikels2006-ha; @Van_Amerongen2008-oo].
+That means that, depending on the receptors present in the tissue, one Wnt ligand can activate or inhibit a different Wnt pathway and thus determine processes as diverse as fate specification, cellular organization, and tissue morphogenesis [@Umbhauer2000-un; @Mikels2006-ha; @van-Amerongen2008-io].
 This complexity makes the Wnt code particularly challenging to elucidate.
 
 <!--## Open questions about the Wnt code-->
@@ -222,7 +222,7 @@ This domain is still present in the late larva, when *wnt4* begins to be express
 
 *wnt5* is expressed in three distinct ectodermal domains---in the apical, mantle, and pedicle lobes, respectively.
 We first detect expression in the early gastrula with transcripts at the posterior blastopore lip and anterolateral ectoderm (@fig:ligands1 and !@fig:s-ligands1).
-The posterior ectodermal domain is narrower than the *wnt1* domain (@fig:ligands1 and {!@fig:doubles}A) and maintains a terminal position until the late larva stage when the tip of the pedicle lobe is cleared from expression (@fig:ligands1 and !@fig:s-ligands1).
+The posterior ectodermal domain is narrower than the *wnt1* domain (@fig:ligands1 and {!@fig:doubles}A) and maintains a terminal position until the late larva stage, when the tip of the pedicle lobe is cleared from expression (@fig:ligands1 and !@fig:s-ligands1).
 The anterolateral domains expand in the mid gastrula to encircle the posterior portion of the apical lobe ectoderm, and fade in the late larva.
 *wnt5* is also expressed in the leading edge of the growing mantle lobe ectoderm from mid gastrula to late larva.
 The ectodermal expression domains of *wnt5* and *wnt1* occupy distinct regions along the anteroposterior axis that coincide with the subdivisions of the larval lobes ({@fig:doubles}B,C and {!@fig:s-doubles}G).
@@ -233,7 +233,7 @@ In the late larva, we also detect *wnt6* domains in the ectoderm of the apical a
 
 *wnt7* initiates as a lateral pair of anterior ectodermal stripes that progressively extend around the entire embryo circumference until the early larva (@fig:ligands1 and !@fig:s-ligands1).
 This *wnt7* stripe demarcates the apical--mantle boundary, partially overlapping with *wnt1*- and *engrailed*-expressing cells at the anteriormost region of the mantle lobe ({@fig:doubles}G,H and {!@fig:s-doubles}H; see also [@Vellutini2016-lq]).
-In the early larva, the anterior *wnt7* stripe disappears and a posterior ectodermal stripe appears demarcating the boundary between the subterminal and terminal regions of the pedicle lobe, between the posterior territories of *wnt1* and *wnt5*.
+In the early larva, the anterior *wnt7* stripe disappears, and a posterior ectodermal stripe appears demarcating the boundary between the subterminal and terminal regions of the pedicle lobe, between the posterior territories of *wnt1* and *wnt5*.
 
 *wnt8* is expressed in a ring of cells in the invaginating endomesoderm and in a broad ectodermal band encircling the late blastula (@fig:ligands2 and !@fig:s-ligands2).
 In the early and mid gastrula, *wnt8* transcripts are cleared from the endomesoderm and from the anterior ectoderm, and two distinct ectodermal domains remain: a pair of broad lateral territories in the apical lobe, and a wide posterodorsal domain in the pedicle lobe.
@@ -243,7 +243,7 @@ The anterior *wnt8* territories partially overlap with the anterior expression o
 *wnt9* transcripts are first expressed in the invaginated endomesoderm of late gastrula embryos at a subterminal position (@fig:ligands2 and !@fig:s-ligands2).
 The domain forms a contiguous patch of mesodermal and endodermal cells expressing *wnt9* in the early larva, which differentiates into two distinct territories; one endodermal in the central portion of the gut and another mesodermal in a bilateral pair of anterior domains near the apical--mantle boundary.
 
-*wnt10* is expressed from the mid gastrula stage in a posterior ectodermal domain which acquires a subterminal position within the pedicle lobe in the early larva (@fig:ligands2 and !@fig:s-ligands2).
+*wnt10* is expressed from the mid gastrula stage in a posterior ectodermal domain, which acquires a subterminal position within the pedicle lobe in the early larva (@fig:ligands2 and !@fig:s-ligands2).
 Additionally, we detect *wnt10* transcripts in the late gastrula at a dorsal ectodermal patch of the apical lobe, similar to the dorsal domain of *wnt1t*, and in the late larva at the posterior mesoderm.
 
 *wnt11* is expressed in a posterodorsal ectodermal domain in the early gastrula, similar to *wnt4* (@fig:ligands2 and !@fig:s-ligands2).
@@ -251,7 +251,7 @@ The domain encircles the pedicle lobe ectoderm in the early larva, and becomes r
 In the early larva, *wnt11* is also expressed in the ventral ectoderm at the mantle--pedicle boundary, and in the posterior endoderm of the larval gut (@fig:ligands2 and !@fig:s-ligands2).
 
 *wnt16* is expressed in the invaginating endomesoderm and vegetal ectoderm around the blastopore in the late blastula (@fig:ligands2 and !@fig:s-ligands2).
-During gastrulation, the endomesodermal expression clears and only the ectodermal domain remains as lateral patches near the blastopore lip.
+During gastrulation, the endomesodermal expression clears, and only the ectodermal domain remains as lateral patches near the blastopore lip.
 With the blastopore closure, *wnt16* forms a heart-shaped domain in the ectoderm and presumably mesoderm at the ventral midline of the mantle lobe in the early larva.
 
 *wntA* appears in the mid gastrula as paired, ventral ectodermal domains located at the posterior portion of the apical lobe (@fig:ligands2 and !@fig:s-ligands2).
@@ -432,7 +432,7 @@ We observe, for example, that the expression of Wnt inhibitors in *T. transversa
 In addition to *sfrp* and *dkk5*, the anterior subregion of the brachiopod also expresses *fz5/8*, a gene known to activate sFRP and Dkk antagonists in sea urchins [@Range2013-gm; @Khadka2018-td], and *six3/6* [@Santagata2012-he], a transcription factor that antagonizes Wnt/beta-catenin signaling in different animals [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co]---but almost no Wnt genes.
 This could indicate that Wnt/beta-catenin signaling is being inhibited at the anteriormost brachiopod subregion, a hypothesis consistent with the observation that early over-activation of this pathway in *T. transversa* dramatically reduces the expression of anterior markers and results in the complete loss of anterior structures (apical and mantle lobes) (see Supplementary Figure S9 in @Vellutini2016-lq, and Figure 4d and Supplementary Figure 6b in @Martin-Duran2016-qa).
 Interestingly, the adjacent subregion in the brachiopod expresses *wnt8* and other ligands posteriorly ({@fig:earlysum}), a pattern comparable to the expression of Wnt components in the anterior neuroectoderm of sea urchin embryos [@Croce2006-fw; @Robert2014-xj; @Cui2014-zb].
-In echinoderms, this pattern emerges from a negative feedback loop between the anterior Wnt inhibitors (activated by *fz5/8*), and the posterior *wnt8*-mediated Wnt/beta-catenin signaling, which helps consolidating anterior and posterior neuroectoderm identities [@Range2013-gm; @Khadka2018-td].
+In echinoderms, this pattern emerges from a negative feedback loop between the anterior Wnt inhibitors (activated by *fz5/8*), and the posterior *wnt8*-mediated Wnt/beta-catenin signaling, which helps consolidate the anterior and posterior neuroectoderm identities [@Range2013-gm; @Khadka2018-td].
 Whether a comparable regulatory logic could also be contributing to the patterning of the brachiopod neuroectoderm and apical lobe subdivision remains a speculation at this point, and will need to be experimentally tested in future studies.
 
 <!--wnt5 and the elongation of the mantle lobe-->
@@ -464,7 +464,7 @@ While most animals provide maternal *fz1/2/7* and *fz5/8* transcripts in the egg
 Expression of *fz5/8* in the anterior mesoderm is also common.
 *fz9/10* expression is usually complementary to *fz5/8*, localizing to the midbody/trunk portion of the body, and *fz1/2/7* is normally expressed broadly, even though the anterior and posterior domain limits can vary ({@fig:comparative}B).
 A closer comparison between *T. transversa* and the hemichordate *Saccoglossus kowalevskii* reveals that the spatial organization of their Frizzled domains is strikingly similar ({@fig:s-comparative}A).
-The exception to this conservation is *fz4* which is subapical in brachiopods and hemichordates, but shows a more variable expression in other groups.
+The exception to this conservation is *fz4*, which is subapical in brachiopods and hemichordates, but shows a more variable expression in other groups.
 Overall, these similarities indicate that cnidarians and bilaterians share an ancient axial organization of Frizzled domains that remained conserved during evolution.
 
 <!--Wnt expression is evolutionary more variable-->
@@ -795,15 +795,15 @@ For the *in situ* hybridization samples, we fixed the embryos for 1h in 4% paraf
 We extracted the total RNA using Trizol.
 Library preparation and sequencing was performed at the EMBL Genomic Core Facilities (GENECORE).
 The samples were randomized and multiplexed on four lanes of a Illumina HighSeq 2000 system, and sequenced to an average of 24±5 million 50bp of unstranded single-end reads.
-To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply-sequenced unstranded paired-end dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
+To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply sequenced unstranded paired-end dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
 Next, we imported the estimated counts from Kallisto to DESeq2 [@Love2014-hs] to estimate the library size factors and data dispersion, homogenize the variance across expression ranks, and apply a variance-stabilizing transformation to the data before the expression analyses.
 To visualize the normalized expression data, we generated heatmaps using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz] in R [@R_Core_Team1993-ki] running in RStudio Desktop [@RStudio_Team2011-wr].
 Due to the unstranded nature of our sequencing data, we analyzed the coverage of mapped reads to identify potential bias in the quantification of expression levels.
 While the majority of genes show uniform read coverage profiles, we identified two cases of uneven coverage that significantly overestimates the expression levels of *wnt4* and *wntA* in early developmental stages (@fig:coverage).
 In these samples, most of the reads mapped to the 3’ region of the transcript while the region containing the Wnt coding sequence had a low mapping rate.
-This pattern might be due to an isoform lacking the Wnt domain or due to a coexpressed gene present in the same locus but in the opposite strand, which might have been assembled together in the same contig since the reads are unstranded.
+This pattern might be due to an isoform lacking the Wnt domain or due to a coexpressed gene present in the same locus but in the opposite strand, which might have been assembled in the same contig since the reads are unstranded.
 The fact that both *wnt4* and *wntA* transcripts exhibit a long open reading frame in the antisense direction, and that the transcripts fully map to a single scaffold in a draft genome assembly of *T. transversa*, points to the latter hypothesis suggesting that the high expression values in early stages is due to the expression of the contiguous antisense gene, and not *wnt4* or *wntA*.
-The transcript abundance files and RNA-Seq pipeline is available in the repository [@Vellutini2023-oi].
+The transcript abundance files and RNA-Seq pipeline are available in the repository [@Vellutini2023-oi].
 
 ## Gene orthology
 
@@ -858,7 +858,7 @@ All authors read and approved the final manuscript.
 
 ## Acknowledgments
 
-We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae and Yvonne Müller for initial gene cloning, Juliana Roscito for the help with coverage analysis, and members of the Hejnol Lab for the helpful discussions.
+We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae and Yvonne Müller for initial gene cloning, Juliana Roscito for the help with coverage analysis, and members of the Hejnol Lab for the productive discussions.
 We also thank Grigory Genikhovich and two anonymous reviewers for their insightful comments and constructive feedback.
 BCV thanks Pavel Tomančák for the generous support during the preparation of this work.
 
