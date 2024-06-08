@@ -1001,12 +1001,12 @@ Table: Maternal load of Wnt and Frizzled transcripts in metazoan eggs. {#tbl:mat
 
 ![Domain architecture of *Terebratalia transversa* Wnt proteins.
 (A) Schematic drawings showing signal peptide regions, Wnt protein signatures, Frizzled-receptor binding sites, and C-terminal Wnt domain based on InterProScan annotations. All *T. transversa* have a similar overall architecture.
-(B--C) Multiple sequence alignment of Wnt1 proteins showing the highly divergent sequence of *T. transversa* Wnt1t in three Wnt protein signature regions. The alignment contains Wnt1 orthologs of *T. transversa* (Ttra), *Novocrania anomala* (Nano), *Platynereis dumerilii* (Pdum), *Homo sapiens* (Hsap), and *Saccoglossus kowalevskii* (Skow).
+(B--C) Multiple sequence alignment of Wnt1 proteins, showing the highly divergent sequence of *T. transversa* Wnt1t in three Wnt protein signature regions. The alignment contains Wnt1 orthologs of *T. transversa* (Ttra), *Novocrania anomala* (Nano), *Platynereis dumerilii* (Pdum), *Homo sapiens* (Hsap), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS1.jpg){#fig:domains tag=S1 width=15cm}
 
 ![Phylogenetic analysis of *Terebratalia transversa* Wnt1 proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using amino acid sequences of genes from the *wnt1* subfamily with *wnt6* as an outgroup.
-Branch lengths are proportional to the amount of sequence change and the numbers show the support values of individual branches.
+Branch lengths are proportional to the amount of sequence change, and the numbers show the support values of individual branches.
 Both *Terebratalia transversa* (Ttra) and *Lingula anatina* (Lana), a rhynchonelliform and a linguliform brachiopod, respectively, have two copies of *wnt1*.
 If this was an ancient duplication event at the base of Brachiopoda, we would expect the orthologous *wnt1* paralogs from different species to cluster together (i.e., Ttra *wnt1* with Lana *wnt1*).
 Instead, the tree reveals that the paralog copies of each species cluster together, suggesting that the duplication of *wnt1* occurred independently in *T. transversa* and *L. anatina*.
@@ -1096,7 +1096,7 @@ The other species are *Capitella teleta* (Ctel), *Crassostrea gigantea* (Cgig), 
 ![Orthology assignment of *Terebratalia transversa* Dsh proteins. 
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known Dsh, Axin, and Dixin proteins.
 The three belong to the DIX domain superfamily.
-Each family is color-coded and the numbers numbers show support values of individual branches.
+Each family is color-coded, and the numbers show support values of individual branches.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma floridae* (Bflo), *Homo sapiens* (Hsap), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS14.jpg){#fig:dsh-tree tag=S14 width=15cm}
