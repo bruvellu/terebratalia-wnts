@@ -6,7 +6,7 @@
    viewBox="0 0 1260 800"
    id="svg348"
    sodipodi:docname="dkk-tree.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    inkscape:export-filename="/home/nelas/Dropbox/Projects/Terebratalia_Wnts/1-figures/13-trees/dkk-tree.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -117,16 +117,25 @@
      showgrid="true"
      inkscape:zoom="0.68125"
      inkscape:cx="575.41284"
-     inkscape:cy="371.37615"
+     inkscape:cy="372.11009"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg348">
+     inkscape:current-layer="svg348"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        type="xygrid"
-       id="grid881" />
+       id="grid881"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <rect
      style="opacity:0.6;fill:url(#linearGradient2545);fill-opacity:1;stroke-width:1.72854;stroke-linecap:round"

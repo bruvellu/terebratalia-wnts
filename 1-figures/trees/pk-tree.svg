@@ -6,7 +6,7 @@
    viewBox="0 0 1100 780"
    id="svg363"
    sodipodi:docname="pk-tree.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    inkscape:export-filename="/home/nelas/Dropbox/Projects/Terebratalia_Wnts/1-figures/13-trees/pk-tree.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -74,16 +74,25 @@
      height="800px"
      inkscape:zoom="0.48171649"
      inkscape:cx="110.02322"
-     inkscape:cy="217.97053"
+     inkscape:cy="216.93258"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="1112"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg363">
+     inkscape:current-layer="svg363"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        type="xygrid"
-       id="grid1223" />
+       id="grid1223"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <rect
      style="opacity:0.6;fill:url(#linearGradient2545);fill-opacity:1;stroke-width:3.10152;stroke-linecap:round"

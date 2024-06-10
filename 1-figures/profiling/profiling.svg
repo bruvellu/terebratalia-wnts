@@ -139,12 +139,12 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-height="1011"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.6284722"
-     inkscape:cx="392.22101"
-     inkscape:cy="498.03317"
+     inkscape:cx="448.7072"
+     inkscape:cy="538.60775"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1539,170 +1539,35 @@
      x="716.50848"
      y="-9.5">186h</tspan></text>
 
-<text
-   id="text512"
-   style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-113.21001"
-   y="-536.82001"><tspan
-     id="tspan510"
-     sodipodi:role="line"
-     y="-536.82001"
-     x="-113.21001 -107.65 -104.32 -98.860008 -92.650002">stage</tspan></text>
 
-<text
-   id="text544"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-522.46002"><tspan
-     id="tspan542"
-     sodipodi:role="line"
-     y="-522.46002"
-     x="-112.48 -106.92 -101.36001 -98.580009 -90.800003 -85.240005 -80.239998 -75.239998 -72.460007">01.Oocyte</tspan></text>
 
-<text
-   id="text548"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-508.10001"><tspan
-     id="tspan546"
-     sodipodi:role="line"
-     y="-508.10001"
-     x="-112.48 -106.92 -101.36001 -98.580009 -90.25 -88.030006 -82.470001 -75.800003 -73.580002 -68.020004 -63.019997">02.MidBlast</tspan></text>
 
-<text
-   id="text552"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-493.73999"><tspan
-     id="tspan550"
-     sodipodi:role="line"
-     y="-493.73999"
-     x="-112.48 -106.92 -101.36001 -98.580009 -93.020004 -87.460007 -84.680008 -79.119995 -72.450005 -70.230003 -64.669991 -59.669991">03.LateBlast</tspan></text>
 
-<text
-   id="text556"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-479.38"><tspan
-     id="tspan554"
-     sodipodi:role="line"
-     y="-479.38"
-     x="-112.48 -106.92 -101.36001 -98.580009 -90.25 -84.840004 -79.839996 -73.170006 -70.950005 -65.389992 -60.389996">04.MovBlast</tspan></text>
 
-<text
-   id="text560"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-465.02002"><tspan
-     id="tspan558"
-     sodipodi:role="line"
-     y="-465.02002"
-     x="-112.48 -106.92 -101.36001 -98.580009 -91.909996 -86.350006 -82.870003 -80.650002 -75.650002 -67.870003 -62.309998 -57.310001">05.EarlyGast</tspan></text>
 
-<text
-   id="text564"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-450.66"><tspan
-     id="tspan562"
-     sodipodi:role="line"
-     y="-450.66"
-     x="-112.48 -106.92 -101.36001 -98.580009 -91.909996 -86.910004 -81.909996 -73.580002 -65.799995 -60.239994 -55.240002">06.AsymGast</tspan></text>
 
-<text
-   id="text568"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-436.29999"><tspan
-     id="tspan566"
-     sodipodi:role="line"
-     y="-436.29999"
-     x="-112.48 -106.92 -101.36001 -98.580009 -91.909996 -89.690002 -87.470009 -81.909996 -79.129997 -71.350006 -65.789993 -60.789997">07.BilatGast</tspan></text>
 
-<text
-   id="text572"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-421.94"><tspan
-     id="tspan570"
-     sodipodi:role="line"
-     y="-421.94"
-     x="-112.48 -106.92 -101.36001 -98.580009 -91.909996 -89.690002 -87.470009 -81.909996 -76.349998 -70.790009">08.Bilobed</tspan></text>
 
-<text
-   id="text576"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-407.58002"><tspan
-     id="tspan574"
-     sodipodi:role="line"
-     y="-407.58002"
-     x="-112.48 -106.92 -101.36001 -98.580009 -93.669998 -90.190002 -87.970009 -85.750008 -80.189995 -74.630005 -69.070007">09.Trilobed</tspan></text>
 
-<text
-   id="text580"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-393.22"><tspan
-     id="tspan578"
-     sodipodi:role="line"
-     y="-393.22"
-     x="-112.48 -106.92 -101.36001 -98.580009 -91.909996 -86.350006 -82.870003 -80.650002 -75.650002 -70.090004 -64.529991 -60.899998">10.EarlyLarv</tspan></text>
 
-<text
-   id="text584"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-378.85999"><tspan
-     id="tspan582"
-     sodipodi:role="line"
-     y="-378.85999"
-     x="-112.48 -106.92 -101.36001 -98.580009 -93.020004 -87.460007 -84.680008 -79.119995 -73.560005 -68 -64.369995">11.LateLarv</tspan></text>
 
-<text
-   id="text588"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-364.5"><tspan
-     id="tspan586"
-     sodipodi:role="line"
-     y="-364.5"
-     x="-112.48 -106.92 -101.36001 -98.580009 -91.360001 -85.800003 -77.470001 -71.910004 -66.349991 -60.789997 -57.16">12.CompLarv</tspan></text>
 
-<text
-   id="text592"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-350.14001"><tspan
-     id="tspan590"
-     sodipodi:role="line"
-     y="-350.14001"
-     x="-112.48 -106.92 -101.36001 -98.580009 -91.909996 -86.350006 -82.870003 -80.650002 -75.650002 -70.850006 -65.289993">13.EarlyJuv</tspan></text>
 
-<text
-   id="text596"
-   style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="scale(1,-1)"
-   x="-112.48"
-   y="-335.78"><tspan
-     id="tspan594"
-     sodipodi:role="line"
-     y="-335.78"
-     x="-112.48 -106.92 -101.36001 -98.580009 -93.020004 -87.460007 -84.680008 -79.119995 -74.32 -68.760002">14.LateJuv</tspan></text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <path
    style="display:inline;opacity:1;fill:none;stroke:#cccccc;stroke-width:1.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.25000006, 1.12500003;stroke-dashoffset:0;stroke-opacity:1"
@@ -1806,10 +1671,6 @@
    inkscape:export-filename="/home/nelas/Biologia/Doutorado/Manuscripts/Brachiopod segmentation/figures/Ttra_wnt5_tri_v.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72" /><path
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 256.78,626.19015 c 13.56884,0 23.26087,-9.69204 23.26087,-23.26089 0,-13.56883 -9.69203,-23.26086 -23.26087,-23.26086 -13.56884,0 -23.26087,9.69203 -23.26087,23.26086 0,13.56885 9.69203,23.26089 23.26087,23.26089 z"
-   id="path3456-8-9" /><path
    style="display:inline;opacity:1;fill:none;stroke:#cccccc;stroke-width:1.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.25000006, 1.12500003;stroke-dashoffset:0;stroke-opacity:1"
    d="m 265.68188,613.05069 c 4.82163,-4.59942 5.40646,-15.18297 0.77672,-19.97548 -4.42639,-4.58204 -14.63102,-4.4458 -19.11239,0.0824 -4.62901,4.67744 -4.52785,15.08341 0.1203,19.74183 4.2888,4.29828 13.82177,4.3423 18.21537,0.15119 z"
    id="path3456-5-1-7-8-3-4"
