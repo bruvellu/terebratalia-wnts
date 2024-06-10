@@ -13,9 +13,9 @@ rm RAx*
 
 # Run RAxML using automatic model recognition, rapid bootstrap/bootstop and ML
 # search. Run until convergence (i.e. autoMRE).
-raxmlHPC-PTHREADS-AVX2 -T 2 -s auto_$GENE.fa-gb -m PROTGAMMAAUTO -x 769449865 -N autoMRE -f a -p 458059686 -n $GENE
+raxmlHPC-AVX2 -T 2 -s auto_$GENE.fa-gb -m PROTGAMMAAUTO -x 769449865 -N autoMRE -f a -p 458059686 -n $GENE
 
 # Log program versions.
 echo "" >> output.log
 echo "Phylogenetic proper run `date +\"%Y-%m-%d %H:%M:%S\"`" >> output.log
-echo "RAxML: `raxmlHPC-PTHREADS-AVX2 -version | grep version`" >> output.log
+echo "RAxML: `raxmlHPC-AVX2 -version | grep version`" >> output.log

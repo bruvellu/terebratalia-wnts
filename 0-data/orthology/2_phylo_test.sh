@@ -13,7 +13,7 @@ rm RAx*
 
 # Run RAxML using automatic model recognition, rapid bootstrap/bootstop and ML
 # search. But only for 20 bootstraps, for testing.
-raxmlHPC-AVX2 -T 2 -s auto_$GENE.fa-gb -m PROTGAMMAAUTO -x 769449865 -N 20 -f a -p 458059686 -n $GENE
+raxmlHPC-AVX2 -T 4 -s auto_$GENE.fa-gb -m PROTGAMMAAUTO -x 769449865 -N 20 -f a -p 458059686 -n $GENE
 
 # Log program versions.
 echo "" >> output.log
