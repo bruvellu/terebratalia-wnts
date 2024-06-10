@@ -1,0 +1,27 @@
+	maternal	3’peak	coverage	replicates	observations
+Ttra wnt1	no	insync	okish	ok	3’peak middle stages
+Ttra wnt1t	no	yes	okish	ok	3’peak only maternal and really low
+Ttra wnt2	no	no	ok	ok	
+Ttra wnt4	no	async	uneven	ok	3’peak high maternal and late
+Ttra wnt5	no	no	ok	ok	
+Ttra wnt6	no	async	uneven	ok	3’peak high double peaks at all stages
+Ttra wnt7	no	no	ok	ok	
+Ttra wnt8	no	no	ok	ok	
+Ttra wnt9	no	no	ok	ok	
+Ttra wnt10	no	no	ok	ok	
+Ttra wnt11	no	no	ok	ok	3’peak tiny, maternal
+Ttra wnt16	no	insync	uneven	ok	3’peak at early stages
+Ttra wntA	no	async	uneven	ok	3’peak massive, maternal
+Ttra fz1/2/7	yes	no	ok	ok	
+Ttra fz4	yes	no	ok	ok	
+Ttra fz5/8	yes	no	ok	ok	
+Ttra fz9/10	no	no			
+Ttra sfrp1/2/5	yes	no	ok	ok	
+Ttra dkk5	no	no	ok	ok	
+Ttra wif	no	no	ok	ok	
+Ttra dsh	yes	insync	uneven	ok	3’peak follows main pattern
+Ttra dgo	yes	no	ok	ok	
+Ttra pk	yes	no	ok	ok	
+Ttra fmi	no	no	ok	ok	
+Ttra stbm	yes	no	ok	ok	
+Ttra jnk	yes	async	uneven	ok	3’peak (half) mostly maternal, shadowed by jnk coverage

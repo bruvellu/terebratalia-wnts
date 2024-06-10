@@ -1,0 +1,19 @@
+{
+    "salmon_version": "1.10.1",
+    "index": "1-reference/Ttra_sequences_index",
+    "libType": "A",
+    "unmatedReads": "0-reads/F2_S01_SRR28779103.fastq.gz",
+    "fldMean": "200",
+    "fldSD": "20.0",
+    "threads": "10",
+    "validateMappings": [],
+    "dumpEq": [],
+    "rangeFactorizationBins": "4",
+    "numBootstraps": "100",
+    "seqBias": [],
+    "gcBias": [],
+    "writeUnmappedNames": [],
+    "writeMappings": "2-quant/F2_S01/quant.sam",
+    "output": "2-quant/F2_S01",
+    "auxDir": "aux_info"
+}
