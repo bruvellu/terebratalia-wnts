@@ -1,0 +1,3058 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="342.9mm" height="60.6778mm"
+ viewBox="0 0 972 172"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>SVG Meta_wnt1s</title>
+<desc>SVG image of multiple alignment created by Unipro UGENE</desc>
+<defs>
+<mask id="patternmask5" x="0" y="0" width="8" height="8" stroke="none" fill="#ffffff" patternUnits="userSpaceOnUse" >
+<rect x="1" y="0" width="1" height="1" />
+<rect x="3" y="0" width="1" height="1" />
+<rect x="5" y="0" width="1" height="1" />
+<rect x="7" y="0" width="1" height="1" />
+<rect x="0" y="1" width="1" height="1" />
+<rect x="2" y="1" width="1" height="1" />
+<rect x="4" y="1" width="1" height="1" />
+<rect x="6" y="1" width="1" height="1" />
+<rect x="1" y="2" width="1" height="1" />
+<rect x="3" y="2" width="1" height="1" />
+<rect x="5" y="2" width="1" height="1" />
+<rect x="7" y="2" width="1" height="1" />
+<rect x="0" y="3" width="1" height="1" />
+<rect x="2" y="3" width="1" height="1" />
+<rect x="4" y="3" width="1" height="1" />
+<rect x="6" y="3" width="1" height="1" />
+<rect x="1" y="4" width="1" height="1" />
+<rect x="3" y="4" width="1" height="1" />
+<rect x="5" y="4" width="1" height="1" />
+<rect x="7" y="4" width="1" height="1" />
+<rect x="0" y="5" width="1" height="1" />
+<rect x="2" y="5" width="1" height="1" />
+<rect x="4" y="5" width="1" height="1" />
+<rect x="6" y="5" width="1" height="1" />
+<rect x="1" y="6" width="1" height="1" />
+<rect x="3" y="6" width="1" height="1" />
+<rect x="5" y="6" width="1" height="1" />
+<rect x="7" y="6" width="1" height="1" />
+<rect x="0" y="7" width="1" height="1" />
+<rect x="2" y="7" width="1" height="1" />
+<rect x="4" y="7" width="1" height="1" />
+<rect x="6" y="7" width="1" height="1" />
+</mask>
+
+<pattern id="fillpattern5_255060" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse" >
+<rect x="0" y="0" width="8" height="8" stroke="none" fill="#255060" mask="url(#patternmask5)" />
+</pattern>
+
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Inter" font-size="12" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="972" height="172"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,0)"
+font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="2.5625" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >w</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13.5" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >e</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="22.1094" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >W</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="33.4063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >g</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="43.0625" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="53.3281" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >C</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="63.7188" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >s</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="73.4063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >d</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="82.9531" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="92.8906" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >+</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="103.406" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >d</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="113.547" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >F</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="123.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="134.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="144.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="154.234" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >f</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="163.719" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >s</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="174.016" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >r</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="182.891" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >+</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="193.547" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >F</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="203.547" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >v</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="213.406" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >d</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="223.719" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >s</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="233.406" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >g</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="244.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="254.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="264.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="274.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="284.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="294.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="304.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="314.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="323.5" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >e</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="333.484" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >k</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="343.406" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >g</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="354.016" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >r</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="363.406" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >d</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="374.469" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >l</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="384.016" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >r</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="393.547" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >y</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="402.328" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >m</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="412.656" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >M</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="423.359" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >n</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="432.891" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >+</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="442.984" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >H</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="452.953" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="463.359" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >n</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="473.5" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >e</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="483.172" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >A</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="493.063" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="503.156" y="59.5" font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="none" stroke="#808080" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,0)"
+font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#808080" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,0)"
+font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,64 510,64 " />
+<polyline fill="none" vector-effect="none" points="5,64 5,67 " />
+<polyline fill="none" vector-effect="none" points="505,64 505,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="6.34375" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >199</text>
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="491.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >249</text>
+<polyline fill="none" vector-effect="none" points="15,64 15,67 " />
+<polyline fill="none" vector-effect="none" points="65,64 65,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="59.3438" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >205</text>
+<polyline fill="none" vector-effect="none" points="115,64 115,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="109.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >210</text>
+<polyline fill="none" vector-effect="none" points="165,64 165,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="159.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >215</text>
+<polyline fill="none" vector-effect="none" points="215,64 215,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="209.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >220</text>
+<polyline fill="none" vector-effect="none" points="265,64 265,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="259.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >225</text>
+<polyline fill="none" vector-effect="none" points="315,64 315,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="309.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >230</text>
+<polyline fill="none" vector-effect="none" points="365,64 365,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="359.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >235</text>
+<polyline fill="none" vector-effect="none" points="415,64 415,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="409.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >240</text>
+<polyline fill="none" vector-effect="none" points="465,64 465,67 " />
+<text fill="#808080" fill-opacity="1" stroke="none" xml:space="preserve" x="459.344" y="81" font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+ >245</text>
+</g>
+
+<g fill="none" stroke="#808080" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,0)"
+font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#808080" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,0)"
+font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,87 510,87 " />
+<polyline fill="none" vector-effect="none" points="5,84 5,87 " />
+<polyline fill="none" vector-effect="none" points="505,84 505,87 " />
+<polyline fill="none" vector-effect="none" points="15,84 15,87 " />
+<polyline fill="none" vector-effect="none" points="65,84 65,87 " />
+<polyline fill="none" vector-effect="none" points="115,84 115,87 " />
+<polyline fill="none" vector-effect="none" points="165,84 165,87 " />
+<polyline fill="none" vector-effect="none" points="215,84 215,87 " />
+<polyline fill="none" vector-effect="none" points="265,84 265,87 " />
+<polyline fill="none" vector-effect="none" points="315,84 315,87 " />
+<polyline fill="none" vector-effect="none" points="365,84 365,87 " />
+<polyline fill="none" vector-effect="none" points="415,84 415,87 " />
+<polyline fill="none" vector-effect="none" points="465,84 465,87 " />
+</g>
+
+<g fill="none" stroke="#808080" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,0)"
+font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#255060" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,0)"
+font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+>
+<rect x="1" y="9" width="8" height="40"/>
+<rect x="11" y="25" width="8" height="24"/>
+<rect x="21" y="1" width="8" height="48"/>
+<rect x="31" y="9" width="8" height="40"/>
+<rect x="41" y="1" width="8" height="48"/>
+<rect x="51" y="1" width="8" height="48"/>
+<rect x="61" y="9" width="8" height="40"/>
+<rect x="71" y="9" width="8" height="40"/>
+<rect x="81" y="1" width="8" height="48"/>
+<rect x="91" y="25" width="8" height="24"/>
+<rect x="101" y="33" width="8" height="16"/>
+<rect x="111" y="1" width="8" height="48"/>
+<rect x="121" y="1" width="8" height="48"/>
+<rect x="131" y="49" width="8" height="0"/>
+<rect x="141" y="49" width="8" height="0"/>
+<rect x="151" y="9" width="8" height="40"/>
+<rect x="161" y="9" width="8" height="40"/>
+<rect x="171" y="17" width="8" height="32"/>
+<rect x="181" y="33" width="8" height="16"/>
+<rect x="191" y="1" width="8" height="48"/>
+<rect x="201" y="17" width="8" height="32"/>
+<rect x="211" y="9" width="8" height="40"/>
+<rect x="221" y="33" width="8" height="16"/>
+<rect x="231" y="25" width="8" height="24"/>
+<rect x="241" y="49" width="8" height="0"/>
+<rect x="251" y="49" width="8" height="0"/>
+<rect x="261" y="49" width="8" height="0"/>
+<rect x="271" y="49" width="8" height="0"/>
+<rect x="281" y="49" width="8" height="0"/>
+<rect x="291" y="49" width="8" height="0"/>
+<rect x="301" y="49" width="8" height="0"/>
+<rect x="311" y="49" width="8" height="0"/>
+<rect x="321" y="9" width="8" height="40"/>
+<rect x="331" y="9" width="8" height="40"/>
+<rect x="341" y="9" width="8" height="40"/>
+<rect x="351" y="9" width="8" height="40"/>
+<rect x="361" y="9" width="8" height="40"/>
+<rect x="371" y="9" width="8" height="40"/>
+<rect x="381" y="9" width="8" height="40"/>
+<rect x="391" y="17" width="8" height="32"/>
+<rect x="401" y="25" width="8" height="24"/>
+<rect x="411" y="1" width="8" height="48"/>
+<rect x="421" y="9" width="8" height="40"/>
+<rect x="431" y="33" width="8" height="16"/>
+<rect x="441" y="1" width="8" height="48"/>
+<rect x="451" y="1" width="8" height="48"/>
+<rect x="461" y="9" width="8" height="40"/>
+<rect x="471" y="33" width="8" height="16"/>
+<rect x="481" y="1" width="8" height="48"/>
+<rect x="491" y="1" width="8" height="48"/>
+<rect x="501" y="1" width="8" height="48"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+>
+<rect x="0" y="0" width="972" height="172"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="630" font-style="normal" 
+>
+<rect x="5" y="2" width="337" height="10"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#255060" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<text fill="#255060" fill-opacity="1" stroke="none" xml:space="preserve" x="5" y="9" font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+ >Ttra_wnt1</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<rect x="5" y="16" width="337" height="10"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#255060" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<text fill="#255060" fill-opacity="1" stroke="none" xml:space="preserve" x="5" y="23" font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+ >Ttra_wnt1b</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<rect x="5" y="30" width="337" height="10"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#255060" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<text fill="#255060" fill-opacity="1" stroke="none" xml:space="preserve" x="5" y="37" font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+ >Nano_wnt1</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<rect x="5" y="44" width="337" height="10"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#255060" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<text fill="#255060" fill-opacity="1" stroke="none" xml:space="preserve" x="5" y="51" font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+ >Pdum_wnt1</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<rect x="5" y="58" width="337" height="10"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#255060" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<text fill="#255060" fill-opacity="1" stroke="none" xml:space="preserve" x="5" y="65" font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+ >Hsap_wnt1</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<rect x="5" y="72" width="337" height="10"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#255060" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+>
+<text fill="#255060" fill-opacity="1" stroke="none" xml:space="preserve" x="5" y="79" font-family="Verdana" font-size="6" font-weight="400" font-style="italic" 
+ >Skow_wnt1</text>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="2.03125" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="12.9219" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="20" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="22.0313" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="30" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="32.6719" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="40" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="42.6719" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="50" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="52.9063" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >C</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="60" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="62.9531" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="70" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="72.6875" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="80" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="82.75" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="90" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="92.9531" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="102.953" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="110" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="113.281" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="120" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="122.672" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="132.953" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="142.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Q</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="150" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="153.281" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="160" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="162.953" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="173.109" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="182.922" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="190" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="193.281" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="203.156" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >T</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="210" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="212.688" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="222.953" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232.953" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="243.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="253.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="263.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="273.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="283.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="293.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="303.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="313.641" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="320" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="323.109" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="330" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="332.922" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="340" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="342.672" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="350" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="352.906" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="362.688" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="370" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="373.328" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="380" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="382.906" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="390" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="393.156" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Y</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="400" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="402.469" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="410" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="412.469" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="420" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="422.75" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="432.906" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="440" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="442.75" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="452.75" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="460" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="462.75" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="472.75" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="480" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="482.953" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="490" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="492.672" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="500" y="0" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="502.906" y="9.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="2.95313" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="12.9063" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="20" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="22.0313" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="33.1563" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >T</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="40" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="42.6719" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="50" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="52.9063" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >C</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="62.4688" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="73.1875" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >P</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="80" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="82.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="90" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="93.7344" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >I</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="102.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="110" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="113.281" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="120" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="122.672" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="132.469" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="142.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="152.953" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="160" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="162.953" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="172.922" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="182.953" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="190" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="193.281" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="202.469" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="213.109" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="222.672" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="230" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232.672" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="243.156" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Y</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="252.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="263.734" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >I</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="272.922" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="282.906" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="292.953" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="302.906" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="312.906" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="322.641" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Q</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="332.672" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="342.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="352.922" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="362.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="372.031" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="382.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="393.328" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="402.922" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="410" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="412.469" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="422.469" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="432.922" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="440" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="442.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="452.75" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="463.281" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="472.922" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="480" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="482.953" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="490" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="492.672" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="500" y="14" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="502.906" y="23.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="2.03125" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="10" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13.1094" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="20" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="22.0313" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="30" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="32.6719" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="40" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="42.6719" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="50" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="52.9063" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >C</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="60" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="62.9531" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="70" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="72.6875" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="80" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="82.75" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="90" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="92.9531" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="102.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Q</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="110" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="113.281" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="120" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="122.672" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="132.75" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="142.922" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="150" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="153.281" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="160" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="162.953" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="170" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="172.906" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="182.688" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="190" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="193.281" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="200" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="202.953" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="210" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="212.688" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="222.953" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232.953" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="243.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="253.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="263.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="273.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="283.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="293.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="303.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="313.641" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="320" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="323.109" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="330" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="332.922" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="340" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="342.672" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="350" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="352.906" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="362.688" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="370" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="373.328" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="380" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="382.906" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="390" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="393.156" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Y</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="400" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="402.469" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="410" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="412.469" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="420" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="422.75" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="432.906" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="440" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="442.75" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="452.75" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="460" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="462.75" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="473.109" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="480" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="482.953" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="490" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="492.672" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="500" y="28" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="502.906" y="37.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="2.03125" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="10" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13.1094" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="20" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="22.0313" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="30" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="32.6719" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="40" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="42.6719" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="50" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="52.9063" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >C</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="60" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="62.9531" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="70" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="72.6875" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="80" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="82.75" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="90" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="93.7344" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >I</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="103.109" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="110" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="113.281" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="120" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="122.672" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="132.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Q</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="142.906" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="150" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="153.281" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="160" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="162.953" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="170" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="172.906" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="183.109" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="190" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="193.281" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="200" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="202.953" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="210" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="212.688" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="223.328" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232.953" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="243.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="253.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="263.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="273.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="283.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="293.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="303.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="313.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="320" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="323.109" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="330" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="332.922" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="340" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="342.672" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="350" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="352.906" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="362.688" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="370" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="373.328" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="380" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="382.906" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="390" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="393.156" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Y</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="400" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="402.469" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="410" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="412.469" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="420" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="422.75" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="433.328" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="440" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="442.75" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="452.75" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="460" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="462.75" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="472.641" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Q</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="480" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="482.953" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="490" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="492.672" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="500" y="42" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="502.906" y="51.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="2.03125" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="12.75" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="20" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="22.0313" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="30" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="32.6719" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="40" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="42.6719" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="50" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="52.9063" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >C</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="60" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="62.9531" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="70" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="72.6875" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="80" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="82.75" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="90" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="93.7344" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >I</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="102.688" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="110" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="113.281" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="120" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="122.672" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="132.906" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="143.328" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="150" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="153.281" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="162.672" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="170" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="172.906" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="183.109" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="190" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="193.281" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="200" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="202.953" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="210" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="212.688" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="222.953" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="230" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232.672" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="243.641" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="253.641" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="263.641" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="273.641" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="283.641" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="293.641" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="303.641" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="313.641" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="320" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="323.109" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="330" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="332.922" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="340" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="342.672" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="350" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="352.906" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="362.688" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="370" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="373.328" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="380" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="382.906" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="393.281" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="403.328" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="410" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="412.469" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="420" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="422.75" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="433.328" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="440" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="442.75" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="452.75" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="460" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="462.75" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="473.109" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="480" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="482.953" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="490" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="492.672" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="500" y="56" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="502.906" y="65.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="2.03125" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="10" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13.1094" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="20" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="22.0313" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >W</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="30" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="32.6719" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="40" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="42.6719" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="50" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="52.9063" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >C</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="60" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="62.9531" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="70" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="72.6875" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="80" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="82.75" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="90" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="92.9531" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="102.688" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="110" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="113.281" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="120" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="122.672" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="132.953" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="142.75" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="150" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="153.281" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="160" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="162.953" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >S</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="170" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="172.906" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="182.922" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="190" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="193.281" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >F</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="200" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="202.953" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >V</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="210" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="212.688" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="222.953" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+</g>
+
+<g fill="#cccccc" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="230" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232.672" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="243.641" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="253.641" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="263.641" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="273.641" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="283.641" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="293.641" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="303.641" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="313.641" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >-</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="320" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="323.109" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >E</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="330" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="332.922" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="340" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="342.672" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="350" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="352.906" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="362.688" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >D</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="370" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="373.328" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >L</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="380" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="382.906" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="#999999" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="390" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="393.156" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Y</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="403.156" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >Y</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="410" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="412.469" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >M</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="420" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="422.75" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="432.922" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >K</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="440" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="442.75" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >H</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="452.75" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="460" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="462.75" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >N</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="472.953" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="480" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="482.953" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >A</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="490" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="492.672" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >G</text>
+</g>
+
+<g fill="#646464" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<rect x="500" y="70" width="10" height="14"/>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="502.906" y="79.5" font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="url(#fillpattern5_255060)" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,342,88)"
+font-family="Verdana" font-size="6" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>
