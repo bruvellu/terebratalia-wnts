@@ -74,9 +74,7 @@ Brachiopoda, Gene expression, Axial patterning, Wnt pathways, Larva, Combinatori
 
 # Background
 
-<!--## Developmental importance of Wnt signaling pathways-->
-
-<!--TODO: Split this paragraph in two, and bring the next paragraph in-->
+<!--Developmental importance of Wnt signaling pathways-->
 
 Wnt genes play multiple roles during embryogenesis [@Nusse1992-oi; @Cadigan1997-vx].
 They encode secreted glycoproteins with a conserved series of cysteine residues that often act as a symmetry-breaking signal [@Loh2016-pz].
@@ -87,13 +85,7 @@ In general terms, there are at least three interconnected Wnt pathways.
 The Wnt/beta-catenin (canonical) pathway regulates cell fate specification through the activity of beta-catenin, the Wnt/PCP (planar cell polarity) pathway controls cell polarity during tissue morphogenesis, and the Wnt/calcium pathway regulates intracellular calcium levels for convergent extension movements---although these functions are not exclusive, as the Wnt/PCP and Wnt/calcium pathways can also control cell fate specification through the activity of other transcriptional effectors like ATF2 and NFAT, respectively [@Schambony2007-dw; @James2008-tt].
 Understanding how these intricate signaling networks regulate embryogenesis and influences developmental evolution remains a significant challenge.
 
-<!--## The Wnt code hypothesis-->
-
-<!--msg: wnt code originally refers only to combinatorial ligands-->
-<!--msg: wnt code needs update beyond ligands and tissue identity-->
-<!--msg: does such a code really exists? comparative approach may help-->
-<!--msg: are specific combinations associated with specific fates?-->
-<!--msg: are specific combinations conserved across the phylogeny?-->
+<!--The Wnt code hypothesis-->
 
 The discovery of staggered Wnt expression domains in the tail bud of amphioxus embryos [@Schubert2001-cp] and along the body axis of sea anemone embryos [@Kusserow2005-xd] raised the hypothesis that different combinations of Wnt genes can pattern different body regions.
 This idea, commonly referred to as the *Wnt code* or *landscape* [@Lee2006-yw; @Guder2006-fu; @Janssen2010-dc], is an analogy to the *Hox code*, where the combinatorial expression of nested Hox domains determines the positional identities of tissues along the body axis [@Hunt1991-xa].
@@ -102,40 +94,19 @@ In fact, Wnt pathways operate via an intricate network of dynamic protein intera
 That means that, depending on the receptors present in the tissue, one Wnt ligand can activate or inhibit a different Wnt pathway and thus determine processes as diverse as fate specification, cellular organization, and tissue morphogenesis [@Umbhauer2000-un; @Mikels2006-ha; @van-Amerongen2008-io].
 This complexity makes the Wnt code particularly challenging to elucidate.
 
-<!--## Open questions about the Wnt code-->
+<!--Open questions about the Wnt code-->
 
 A necessary step to untangle this combinatorial code is to extend the analyses of ligand--receptor contexts of Wnt genes to other animal groups using a comparative approach [@Hejnol2015-fg].
 The comparison between flies and other animals was crucial to reveal the broader importance of the Hox genes as a high-level axial patterning system and not merely an arthropod-specific feature linked to body segmentation [@Akam1989-vc; @McGinnis1992-qj; @Dickinson1995-fd].
 But while the expression of some Wnt genes is conserved in different animals  (e.g., *wnt8* is expressed in the neuroectoderm of vertebrates [@Kelly1995-jv;  @Hollyday1995-ym] and in spiders [@Janssen2010-dc], annelids [@Pruitt2014-oy], and hemichordates [@Darras2018-gm]), it remains unclear if the combinatorial expression of Wnt signaling components along the embryonic body axis is conserved across the animal phylogeny.
 
-<!--In fact, it remains unclear whether specific combinations of Wnt signaling components do give rise to specific developmental outcomes.-->
-
-<!--If a Wnt code exists, we expect this correlation between genes and outcomes to be somewhat conserved between different tissues and across the animal phylogeny.-->
-
-<!--But it also remains unclear whether this combinatorial code is evolutionarily conserved.-->
-
-<!--Therefore, a crucial step to untangle the Wnt code is to uncover the particular ligand--receptor contexts with comprehensive analyses of Wnt signaling components during the embryogenesis of different animal groups.-->
-
-<!--There’s no Wnt code, but shared ancestry.-->
-
-<!--For these reasons, Wnt genes probably played an essential role in generating the tissue diversity during metazoan evolution [@Loh2016-pz].-->
-
-<!--posterior growth [@Martin2009-lo]-->
-<!--vertebrate anterior nervous system regionalized by Wnt activity @Mulligan2012-gu]-->
-
-<!--Pathways can signal in parallel allowing for a unified action such as in archenteron invagination and endomesoderm specification in cnidarians [@Kumburegama2011-cv] or the polarity and ectodermal fates in frogs [@Huang2014-mf].-->
-
-<!--## Spiralia importance for understanding Wnt signaling-->
-
-<!--TODO: The expression of Wnt codes has been studied in many more animals outside of vertebrate and the ecdysozoan phyla. There are detailed studies in invertebrate deuterostomes (amphioxus, hemichordates, echinoderms), cnidarians, etc. The authors should consider modifying this idea to reflect this.-->
-
-<!--TODO: The expression of Wnt signaling components has been studied in many animals, even though the receptor-context information is often lacking.-->
+<!--Spiralia importance for understanding Wnt signaling-->
 
 The developmental Wnt landscape has been widely studied in several animal groups, but fewer works have analyzed the receptor context information in the Spiralia, a major branch of bilaterian animals with diverse body patterns [@Hejnol2010-pq; @Martin-Duran2020-yc].
 While ecdysozoans have lost several Wnt genes [@Murat2010-np; @Holstein2012-ec; @Chavarria2021-ps], spiralians have retained the ancestral Wnt complement [@Prudhomme2002-cv; @Cho2010-eb; @Janssen2010-dc], indicating that they can be an informative group to understand the role of Wnt signaling in axial patterning evolution.
 However, most analyses about Wnt genes in Spiralia were performed in annelids and mollusks, and the expression data in other spiralian lineages is still lacking.
 
-<!--## Brachiopoda as an informative spiralian group-->
+<!--Brachiopoda as an informative spiralian group-->
 
 Brachiopods are sessile spiralians with bivalve shells [@Hyman1959-mc].
 They have a reduced adult morphology, but complex embryogenesis where a radially symmetric gastrula undergoes a series of morphogenetic changes to form a larval body subdivided into a series of distinct lobes along the anteroposterior axis [@Conklin1902-xv; @Franzen1969-mx].
@@ -143,16 +114,7 @@ In previous studies using the rhynchonelliform brachiopod *Terebratalia transver
 Moreover, we found that over-activation of the Wnt/beta-catenin pathway disrupts the molecular and morphological organization of the larval subdivisions [@Martin-Duran2016-qa; @Vellutini2016-lq], suggesting that Wnt activity contributes to the axial patterning of the larva.
 However, a full characterization of the Wnt signaling components and their developmental expression, including the ligand--receptor contexts is lacking for *T. transversa*, and for brachiopods in general.
 
-<!--In addition, a number of molecular studies revealed genes involved in anterior patterning [@Passamaneck2011-wj; @Santagata2012-he] and mesoderm development [@Passamaneck2015-aw], as well as the expression domains of *Hox* genes during axial patterning [@Schiemann2017-wd; @Gasiorowski2019-ab], and the role of FGF signaling in mesoderm formation [@Andrikou2021-cc].-->
-<!--Toll [@Orus-Alcalde2021-ra]-->
-<!--anatomy [@Altenburger2009-dr; @Santagata2011-ry]-->
-<!--nerve cords [@Martin-Duran2018-mq]-->
-<!--cilia [@Wu2020-ij]-->
-<!--neuropeptides [@Thiel2017-nd; @Thiel2021-ct]-->
-<!--biomineralization [@Wernstrom2022-iv]-->
-<!--excretion [@Gasiorowski2021-yf]-->
-
-<!--## Summary of findings-->
+<!--Summary of findings-->
 
 In this study, we characterize the Wnt complement of the brachiopod *T. transversa* and investigate the spatiotemporal expression of Wnt signaling components throughout embryogenesis.
 We find that during axial elongation, the expression of ligands, receptors, and antagonists show an anteroposterior organization forming regionalized transcriptional territories, each expressing a unique combination of transcripts.
@@ -160,20 +122,6 @@ These territories precede and coincide with the morphological subdivisions of th
 We identified differences in receptor-context that may be involved in patterning an evolutionary novelty of lecithotrophic brachiopod larvae, the reversible mantle lobe.
 A comparative analysis reveals that while the expression of Frizzled receptors is evolutionarily conserved, the expression of Wnt ligands is more variable.
 This suggests that the evolutionary shuffling in the expression of Wnt ligands may be a mechanism underlying the evolution of anteroposterior diversification in bilaterians.
-
-<!--TODO: Revise after general manuscript revision because the focus may change-->
-
-<!--At the Fz receptor, the binding of proteins other than Wnt can antagonize signaling. Specific antagonists include Dickkopf (Dkk), Wnt inhibitory factor 1 (WIF-1),[50][51] secreted Frizzled-related proteins (SFRP), Cerberus, Frzb, Wise, SOST, and Naked cuticle. These constitute inhibitors of Wnt signaling. However, other molecules also act as activators. Norrin and R-Spondin2 activate Wnt signaling in the absence of Wnt ligand.-->
-
-<!--Wnt signaling pathway plays a major role in animal development. The ligands are secreted glycoproteins and receptors are transmembrane proteins. Early role in AV patterning and a later role in AP patterning. Some Wnt ligands are contiguous in the genome. Expression in spiralians is still understudied. Brachiopod preliminary genome, transcriptome and in situ expression data. -->
-
-<!--TODO: The paragraphs below are more for the introduction.-->
-
-<!--The discovery of multiple wnt genes, their crucial developmental roles and their complex expression domains has raised ideas about a wnt code [@Guder2006-fu]. An idea that different wnt genes can pattern and specify different body regions according to their combinatorial territories. Much in parallel with the discovery of the Hox system. However, accumulated evidence reveals that the Wnt system is much more imbricated modular and multifunctional than the Hox patterning.-->
-
-<!--First is the finding that wnt ligands are not long- but short-ranged signaling activity [@Loh2016-pz]. The consequence is that wnt function is more local and allow for more complex patterning outcomes.-->
-
-<!--Second, the idea that is not a specific wnt ligand that mediate specific signaling, but that the receptor context dictates the Wnt signaling outcome [@Loh2016-pz]. This implies that the same ligand can trigger different outcomes based on the receptor it binds to. This put a greater importance when studying wnt signaling on analyzing the receptor context in conjunction to ligands.-->
 
 # Results
 
@@ -186,8 +134,6 @@ We identified 13 Wnt genes with representatives of 12 of the 13 Wnt subfamilies 
 One of the *wnt1* paralogs---named hereafter *wnt1t*---has a conserved Wnt domain, but is highly divergent at the sequence level compared to other *wnt1* orthologs across bilaterians (@fig:domains).
 Our phylogenetic analysis suggests that this paralog originated via a lineage-specific duplication within *T. transversa* or rhynchonelliform brachiopods (@fig:wnt1-tree).
 Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a single representative ortholog for the remaining subfamilies, suggesting that the ancestral repertoire of metazoan Wnt genes remained largely conserved.
-
-<!--TODO: cite @prudhomme2002?-->
 
 ## Wnt genes are upregulated in concert during axial elongation
 
@@ -390,35 +336,7 @@ This reversible mantle lobe is considered an evolutionary innovation of lecithot
 Tissues posterior to the mantle lobe, which express *fz9/10*, *wnt1*, *wnt4*, and *wnt10*, become the posterior end of the adult body, while the posteriormost subregion expressing *wnt5*, *wnt6*, and *wnt11*, but no Frizzled genes, gives rise to the posterior end of the larval pedicle lobe which becomes the structure that attaches adult brachiopods to the substrate [@Stricker1985-vf] ({@fig:summary}).
 Overall, a combinatorial analysis of the expression of Wnt signaling components in *T. transversa* reveals that the distinct transcriptional subregions established during gastrulation correlate with the distinct morphogenetic outcomes along the anteroposterior axis of larval brachiopods.
 
-<!--TODO: Make a figure summarizing the Wnt over-activation experiments-->
-<!--TODO: Compile the expression of other relevant developmental genes in a figure.-->
-<!--TODO: Write above something like, other dev genes are also expressed in subregions.-->
-
 # Discussion
-
-<!--TODO: Focus discussion on comparative aspect.-->
-<!--TODO: Remove or tone down functional statements.-->
-
-<!--Outline
-
-- Overview and relevance of a comparative Wnt code
-
-- Molecular evolution of Wnt genes repertoire
-- Conserved anterior antagonists and posterior Wnts despite embryo architecture
-- Conserved Frizzled expression patterns along AP
-
-- Similarity of anterior neuroectoderm subregions from apical organ to head--trunk boundary
-
-- Variable Wnt expression patterns, and Wnt-Fz combinations
-- Wnts at diff receptor-contexts match diff morphogenetic outcomes
-
-- Receptor context regulating mantle lobe morphogenesis (toned down) 
-- Receptor-free, Wnt-insensitive region at the posterior end
-
-- Changes in transcriptional subregions important for diversification of primary axis
-- Evolutionary shuffling of Wnt ligand expression involved in axial diversification
-
--->
 
 <!--Overview and Wnt subregions in regionalization-->
 
@@ -469,30 +387,6 @@ Overall, these similarities indicate that cnidarians and bilaterians share an an
 
 <!--Wnt expression is evolutionary more variable-->
 
-<!--TODO: The authors write that Wnt expression is more variable between species than Fz expression. I am not sure this is a valid statement. Which species are you talking about here?-->
-<!--
-
-Conserved Wnt domains:
-
-- wnt1 consistently posterior ectoderm
-- wnt2 anterior ecto* (except echinoderms)
-- wnt3 posterior ecto* (except cephalochordata), mid endo, trunk ecto (no prot.)
-- wnt4 posterior ecto, posterior endo, trunk meso, anterior/posterior, mesoderm
-- wnt5 posterior endo, posterior only ecto, posterior only meso, anterior ecto trunk meso, anterior and trunk ecto and trunk meso, anterior trunk and posterior ecto
-- wnt6 midbody endo, posterior ecto/endo, anterior ecto posterior meso, anterior posterior ecto, posterior ecto trunk meso, posterior ecto trunk endo
-- wnt7 posterior ecto, posterior endo, trunk ecto, anterior posterior ecto, 
-- wnt8 anterior ecto*, anterior endo, trunk meso, posterior endo, trunk ecto
-- wnt9 posterior endo, anterior endo, anterior ecto, posterior meso, posterior ecto, trunk meso, trunk endo
-- wnt10 trunk endo, posterior endo, posterior ecto, anterior meso, trunk meso, anterior ecto
-- wnt11 posterior ecto, posterior ecto, trunk meso, posterior endo, anterior ecto, 
-- wnt16 posterior endo, posterior ecto, trunk meso, anterior ecto, trunk ecto, 
-- wntA posterior ecto, posterior endo, anterior endo, posterior meso, anterior ecto, trunk ecto, anterior ecto, anterior meso
-
-
--->
-
-<!--TODO: Solve this paragraph.-->
-
 In contrast, the expression of Wnt genes is more variable.
 The maternal load of Wnt transcripts is diverse and can even differ within a group (@tbl:maternal), while the embryonic expression shows great variability across the body axis and germ layers between groups ({@fig:comparative}B).
 *wnt2* is the least variable gene.
@@ -513,268 +407,11 @@ Evolutionary changes in the ligand--receptor context could effectively alter cel
 Such Wnt function shuffling is indeed associated with novelties in the chordate lineage [@Somorjai2018-fw].
 Investigating the combinatorial landscape of Wnt signaling components across the phylogeny will be crucial to uncovering the role of Wnt shuffling as a potential mechanism contributing to the diversification of the metazoan body axis.
 
-<!--The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of lecithotrophic brachiopod larvae---the reversible mantle lobe.-->
-<!--These data raise the idea that changes in these Wnt transcriptional subregions may have been important for the evolution of the primary body axis in animals.-->
-
-
-<!--TODO: CLEANUP-->
-
-<!--TODO: APICAL-->
-
-<!--TODO: Simpler initial version of apical lobe paragraph-->
-<!--The anterior ectoderm of *T. transversa*, for example, exhibits two abutting subregions expressing *fz5/8* and Wnt antagonists anteriorly and *wnt8* and other ligands posteriorly ({@fig:earlysum} and {!@fig:summary}), which are similar to the expression at the anterior ectoderm of sea urchins [@Croce2006-fw; @Robert2014-xj; @Cui2014-zb].-->
-<!--In the echinoderm, this pattern emerges from a negative feedback loop between the anterior Wnt inhibitors regulated by *fz5/8*, and the posterior *wnt8*-mediated Wnt/beta-catenin signaling, a genetic interaction that contributes to establishing the anterior and posterior neuroectoderm identities [@Range2013-gm; @Khadka2018-td].-->
-<!--Whether a comparable regulatory logic could also be contributing to the patterning of the brachiopod neuroectoderm remains pure speculation at this point.-->
-<!--But the similarity in expressed genes and domain topologies raises a working hypothesis that will need to be experimentally tested in future functional studies.-->
-
-<!--The apical lobe subdivision, for example, shows abutting subregions expression *fz5/8* and antagonists anteriorly and *wnt8* posteriorly ({@fig:earlysum} and {!@fig:summary}B) that are consistent with a common mechanism patterning the anterior and posterior fates of the neuroectoderm in other animals.-->
-<!--In sea urchin, anterior *fz5/8* activity upregulates *sFRP* and *Dkk* at the animal pole, which, in turn, antagonize the *wnt8*-mediated Wnt/beta-catenin signaling at the vegetal pole [@Range2013-gm; @Khadka2018-td], and a similar interaction also controls the neuroectoderm identities in zebrafish [@Erter2001-fl; @Lekven2001-jj].-->
-<!--The expression of other anterior and neural markers such as *six3/6* and *foxq2* [@Santagata2012-he], and pax6 and pax2/5/8 [@Vellutini2016-lq], are also consistent.-->
-<!--Some of the key inhibitors of Wnt signaling are sFRP and Dkk [@Cruciat2013-zs] and the transcription factor *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co].-->
-
-<!--Inhibition of the Wnt/beta-catenin pathway is associated with the differentiation of anterior and neural fates [@Petersen2009-wp; @Hikasa2013-yl].-->
-
-<!--The anterior Wnt subregions that we describe in *T. transversa*, for example, are consistent with the anterior transcriptional landscape present in other animals where neuroectoderm patterning mechanisms have been described.-->
-
-<!--The similarity in the expressed genes and domain topology within the neuroectoderm of sea urchins and brachiopods prompts speculation as to whether a comparable regulatory logic could also be contributing to the anterior patterning of brachiopod embryos.-->
-<!--However, functional experiments are required to test this hypothesis.-->
-
-<!--But the brachiopod expression data lays the initial ground for testing this hypothesis in future functional studies.-->
-
-<!--and zebrafish [@Erter2001-fl; @Lekven2001-jj].-->
-
-<!--an arrangement associated with the patterning of neuroectoderm identities in sea urchin [@Range2013-gm; @Khadka2018-td] and zebrafish [@Erter2001-fl; @Lekven2001-jj], where the anterior Wnt inhibitors, regulated by *fz5/8*, antagonize the posterior *wnt8*-mediated Wnt/beta-catenin signaling.-->
-
-<!--The brachiopod apical--mantle boundary subregion expresses *wnt1*, *wnt7*, and *engrailed* [@Vellutini2016-lq] in a *fz9/10* receptor context, similar to the transcriptional landscape at the mid--hindbrain boundary of vertebrates [@Parr1993-ch; @Rhinn2001-ie].-->
-
-<!--While the apical--mantle boundary subregion expresses *wnt1* and *wnt7* in a *fz9/10* context that resembles the transcriptional landscape at the mid--hindbrain boundary of vertebrates [@Parr1993-ch; @Rhinn2001-ie], and collar--trunk boundary in hemichordates [@Pani]-->
-<!--In other animals, *wnt1*, *wnt7*, and *en* are expressed in a variety of compartment boundaries, such as the trunk segments of arthropods [@Janssen2010-dc] and the .-->
-
-
-
-<!--TODO: MANTLE-->
-
-<!--and collar--trunk boundary in hemichordates [@Pani2012-dn]-->
-
-<!--It remains to be determined, however, if the differences in ligand--receptor contexts described in our work solely based on expression patterns, have any effect in differentially regulating the output of Wnt signaling in the brachiopod anteroposterior patterning.-->
-
-<!--Some Wnt genes are expressed at different transcriptional subregions.-->
-<!--This is the case for *wnt5*, *wnt1*, and *wnt7* ({@fig:summary}A).-->
-<!--*wnt5* is expressed in three distinct receptor contexts: *fz4* in the apical lobe, *fz1/2/7* in the mantle lobe, and the no-*fz* terminal pole in the pedicle lobe ({@fig:summary}A), and is intercalated by *wnt1* expression in adjacent subregions ({@fig:doubles}B and {!@fig:summary}A).-->
-<!--In the late gastrula, the *wnt5* domains are intercalated by *wnt1* domains in a way that most regions of the body are expressing either *wnt5* or *wnt1* ({@fig:doubles}B and {!@fig:summary}A).-->
-
-<!--*T. transversa* mantle lobe subregion expresses *wnt5*, *wnt16*, and *fz1/2/7*.-->
-<!--In other animals, *wnt5* is commonly expressed in tissue outgrowths such as the tail and limb buds of vertebrates [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and is known to regulate tissue convergent extension during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
-<!--This raises the hypothesis of convergent extension as a potential mechanism for the formation of the mantle lobe formation during larval morphogenesis in *T. transversa*.-->
-<!--While these similarities might be interesting, they are merely based on gene expression patterns, and functional studies are required .-->
-
-<!--*wnt5* signaling is known to depend on the receptor context.-->
-<!--It usually inhibits the Wnt/beta-catenin pathway, but in the presence of *fz4* it can activate it instead [@Mikels2006-ha].-->
-<!--The fact that the same ligand, when co-expressed with a different receptor, correlates with different developmental outcomes suggests that receptor availability is important for differentially patterning these body regions.-->
-<!--Therefore, it is possible that the evolution of a reversible mantle lobe was associated with the activation of *wnt5* in a different receptor context, indicating that such context-switching could have a significant role in axial evolution.-->
-
-<!--This raises the hypothesis that *wnt5* may control region-specific patterning via distinct receptor contexts, mediating the cell proliferation in the apical lobe and the convergent extension driving tissue elongation in the mantle lobe.-->
-<!--*wnt5* is known to regulate tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and convergent extension movements during morphogenesis [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
-<!--And it usually does so through the Wnt/PCP pathway [@Heisenberg2000-kx].-->
-<!--But, in the presence of *fz4*, *wnt5* can activate the Wnt/beta-catenin pathway [@Mikels2006-ha].-->
-<!--Indeed, *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobe (@fig:polarity).-->
-<!--The fact that the over-activation of the Wnt/beta-catenin pathway in *T. transversa* leads to an expansion of the base of the apical lobe and inhibition of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq] suggests that *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A).-->
-<!--This indicates that receptor availability may regulate the different developmental outcomes of the two body regions via the differential activation of the Wnt/beta-catenin and Wnt/PCP pathways.-->
-<!--This suggests that *wnt5* context switching may have contributed to the evolution of the mantle lobe.-->
-<!--*wnt5* regulates as well as cell proliferation [@Yamaguchi1999-zj].-->
-
-<!--The regions anterior and posterior to the apical--mantle boundary undergo entirely distinct morphogenetic changes ({@fig:summary}B).-->
-<!--Tissues anterior to the boundary, located in the posterior portion of the apical lobe where *wnt8* and *fz4* are expressed, have an increased rate of cell proliferation during larval differentiation [@Martin-Duran2016-qa].-->
-<!--Meanwhile, tissues posterior to the apical--mantle boundary, the mantle lobe itself, go through a dramatic growth and elongation [@Stricker1985-gz].-->
-<!--Both regions show a prominent *wnt5* expression encircling the entire circumference of the embryo ({@fig:doubles} and {!@fig:summary}A).-->
-<!--In other animals, *wnt5* is expressed in tissue outgrowths, such as the tail and limb buds [@Yamaguchi1999-zj; @Schubert2001-cp; @Hogvall2014-yu], and it regulates cell proliferation [@Yamaguchi1999-zj] and convergent extension movements during morphogenesis via Wnt/PCP pathway [@Yamanaka2002-wk; @Kilian2003-pn; @Qian2007-ru; @Loh2016-pz].-->
-<!--Interestingly, *wnt5* signaling depends on the receptor availability, as it can switch to activating the Wnt/beta-catenin pathway in the presence of the receptor *fz4* [@Mikels2006-ha].-->
-<!--In *T. transversa*, the Frizzled receptors expressed in the apical and mantle lobe are different (*fz4* and *fz1/2/7*, respectively), suggesting that *wnt5* is probably associated with distinct receptor contexts during development ({@fig:summary}A).-->
-<!--This raises the hypothesis that the receptor availability may dictate the differential activation of Wnt/beta-catenin or Wnt/PCP pathway, and thus control the distinct outcomes of cell proliferation and convergent extension in the apical and mantle lobe of *T. transversa*.-->
-<!--Since *jnk*, a read out of the Wnt/PCP pathway, is mainly expressed in the mantle and pedicle lobes (@fig:polarity), -->
-
-
-<!--TODO: *wnt16* is involved in the morphogenetic movements of gastrulation in sea urchin [@Martinez-Bartolome2019-kk].-->
-
-<!--TODO: Check sentences to re-incorporate or move to discussion.-->
-<!--The finding that the same ligand can be expressed in subregions that undergo different developmental fates and morphogenetic processes also indicates that the local receptor-context matters for development and may have been associated with an evolutionary innovation of lecithotrophic brachiopod larvae---the reversible mantle lobe.-->
-
-
-
-<!--Such a receptor-free zone also occurs at the posterior end of hemichordates, a region that is Wnt-insensitive, since its transcriptional profile is not altered when the Wnt/beta-catenin pathway is over-activated or suppressed [@Darras2018-gm].-->
-<!--Two observations suggest that the receptor-free posterior region of *T. transversa* might also be Wnt-insensitive.-->
-<!--The first is that this region does not express *axin* [@Martin-Duran2016-qa], a readout of the Wnt/beta-catenin pathway [@Jho2002-op].-->
-<!--The second is that the expression of posterior markers, such as *evx* and *cdx*, remains unchanged when the Wnt/beta-catenin is over-activated [@Martin-Duran2016-qa].-->
-<!--While further experiments are needed to test this hypothesis, this preliminary evidence indicates that a Wnt-insensitive region may be present at the posterior end of *T. transversa*, and that it may contribute to differentiating the pedicle lobe regions during larval morphogenesis of brachiopods.-->
-
-<!--Indeed, over-activation of the Wnt/beta-catenin pathway in *T. transversa* leads to an expansion of the pedicle lobe and an inhibition of the mantle lobe [@Martin-Duran2016-qa; @Vellutini2016-lq], indicating that *wnt5* is probably associated with distinct receptor contexts in the apical and mantle lobes ({@fig:summary}A).-->
-
-<!--During development, the anterior portion of the pedicle lobe gives rise to the posterior portion of the juvenile body while the posterior portion of the pedicle lobe gives rise to the juvenile pedicle [@Stricker1985-vf].-->
-<!--In the late gastrula, these two territories are demarcated on the ventral side by *wnt1* anteriorly and *wnt5* posteriorly with *wnt7* expressed in between ({@fig:doubles}G,H and {!@fig:summary}A).-->
-
-
-<!--In addition, loss of *wnt8* function led to caudal expansion of *pax6* in zebrafish [@Dorsky2003-ud], a gene expressed slightly more anterior in the same transcriptional territory in *T. transversa* [@Vellutini2016-lq].-->
-<!--The tissues undergo increased cell proliferation [@Martin-Duran2016-qa]-->
-<!--In sea urchins, *fz5/8* consolidates the anterior neuroectoderm identity of the apical pole by activating the Wnt antagonists *sFRP* and *Dkk* and inhibiting Wnt/beta-catenin signaling, while *wnt8* establishes the posterior neuroectoderm identity by repressing the expression of *fz5/8* [@Range2013-gm; @Khadka2018-td].-->
-
-<!--This region is also characterized by the expression of neural genes such as *foxq2* and *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co].-->
-
-<!--Wnt signaling plays a fundamental role in establishing the polarity of the primary embryonic axis [@Loh2016-pz].-->
-
-<!--Many metazoan embryos express antagonists of the Wnt pathway in the tissues opposite to the gastrulation site in the anterior/aboral ectoderm [@Petersen2009-wp; @Hikasa2013-yl].-->
-
-<!--Some of the key molecular players involved in the downregulation of Wnt signaling in the anterior neuroectoderm are transcription factor *six3/6* [@Lagutin2003-pw; @Wei2009-sz; @Posnien2011-nl; @Sinigaglia2013-co], and a variety of genes such as sFRP and Dkk [@Cruciat2013-zs].-->
-
-
-<!--Wnt7 is known to interact with Fz9 *in vitro* [@Winn2005] and with *en* in limb dorsoventral patterning [@Loomis1996-zx; @Loomis1998],-->
-<!--wnt7 is expressed in the mid-hindbrain boundary in mouse @Parr1993-->
-<!--wnt7 is expressed in the mid-hindbrain boundary in zebrafish @Beretta2011-->
-<!--wnt7 and en interact in DV limb patterning @Loomis1998-->
-<!--such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].-->
-<!--*en* is known to repress *wnt7* in vertebrate limb buds [@Loomis1996-zx].-->
-<!--These genes are involved in the establishment of compartment boundaries in a variety of developmental settings such as in the vertebrate brain, insect wings, trunk segments, and mollusc shells [@Ingham1992-tn; @Guillen1995-qg; @Rhinn2001-ie; @Nederbragt2002-qj].-->
-<!--*wnt7* is also expressed at the interface of another brachiopod boundary between the subterminal and terminal portion of the pedicle lobe.-->
-<!--Indicating that *wnt7* may have a common role in the establishment of the boundaries between body domains.-->
-
-<!--It is commonly expressed in the brain [@Yamaguchi1999-zj; @Hogvall2014-yu].-->
-<!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
-
-<!--*wnt6* in sea urchins is necessary for the activation of endomesodermal gene regulatory network [@Croce2011-ae].-->
-<!--While the nature of these morphogenetic processes remain unclear, *wnt11*, a gene known to mediate convergent extension in zebrafish gastrulation through the Wnt/PCP pathway [@Heisenberg2000-kx; @Tada2000-dz], may have a role in the pedicle lobe morphogenesis in *T. transversa*.-->
-<!--Activation of the Wnt/beta-catenin is known to induce the expression of the intracellular component *axin2* in mice [@@Jho2002-op].-->
-<!--In *T. transversa*, *axin* is mainly expressed in the subterminal portion of the pedicle lobe [@Martin-Duran2016-qa].-->
-
-<!--These gene expression arrangements are well conserved in the anterior/aboral ends of other animals [@Range2013-gm; @Leclere2016-ma].-->
-<!--In many metazoan embryos, the ectodermal tissues opposite to the gastrulation site express antagonists of the Wnt pathway [@Petersen2009-wp].-->
-
-<!--In both cases, these broad domains coincide with their different body regions, suggesting that each receptor may regulate the regional patterning along the anteroposterior axis [@Darras2018-gm].-->
-
-<!--### Conclusion of brachiopod transcriptional subregions-->
-
-<!--For the axial patterning, we identify some Wnt combinations relatively conserved along the anteroposterior axis, for example *wnt2*, *wnt5*, and *wnt8* are commonly expressed anteriorly with *fz5/8* or *fz4*; *wnt1* and *wnt7* at the head--trunk boundary with *fz4* and *fz9/10*; and *wnt1*, *wnt4*, and *wnt6* at the posterior end with *fz9/10* or without Frizzled expression ({@fig:summary}A and {!@fig:comparative}B).-->
-<!--This indicates that certain combinations were present in the last common ancestor and have remained conserved until this day.-->
-
-<!--A Wnt code means the causality between the signaling output from a specific combination of gene activity with the developmental process it entails.-->
-<!--A Wnt code can be purely functional.-->
-<!--That means that wherever it is deployed it will lead to the same output.-->
-<!--However, because organisms have an evolutionary history, similarity can appear to be a code when in fact is just inheritance.-->
-<!--Only a comparative approach with increased taxon sampling and comprehensive analyses of Wnt signaling components we can begin to answer this question.-->
-<!--What we can say so far is.-->
-
 # Conclusions
 
 Our data reveals a correlation between distinct Wnt transcriptional subregions and the morphological subdivisions in the larval body of a brachiopod.
 We hypothesize that the underlying combinatorial landscape may play a role in the patterning and morphogenesis of the different regions along the anteroposterior axis, and that changes in this landscape could be associated with the evolution of the reversible mantle lobe, a morphogenetic innovation of brachiopod larvae.
 As Wnt developmental expression is variable across animal groups, we propose that evolutionary changes in ligand--receptor context may have been important to axial evolution in animals.
-
-<!--Our expression data also indicates that differences in the receptor context for specific ligands may be involved in the evolution of the mantle lobe, an evolutionary novelty of brachiopods.-->
-
-<!--This is specially true for the brachiopod *T. transversa*, the annelid *Platynereis dumerilii* and the hemichordate *Saccoglossus kowalevskii* which have a conserved Wnt and Frizzled complement [@Janssen2010-dc; @Pruitt2014-oy; @Bastin2015-oz; @Darras2018-gm].-->
-
-
-
-<!--The spatiotemporal expression of Wnt ligands is more variable than that of Frizzled receptors among bilaterians.-->
-
-<!--This suggests that the function of *fz1/2/7* in early development may be essential and have thus remained conserved.-->
-
-
-
-<!--Below, we discuss the evidence for a Wnt-based control of brachiopod axial patterning and the implications of a Wnt combinatorial landscape for the evolution of metazoan axial diversity.-->
-<!--This suggests that the differential activation of Wnt signaling pathways through a -->
-
-<!--TODO: DELETE PARAGRAPH-->
-<!--The inhibition of Wnt signaling is usually associated with anterior and neural fates.-->
-
-
-
-<!--Over activation of the Wnt pathway reduced dramatically the expression of anterior markers but their expression was not entirely abolished, suggesting that at least a remnant of anterior identity remains [@Martin-Duran2016-qa].-->
-<!--Posterior apical lobe as posterior neuroectoderm regulated by wnt8-->
-
-<!--TODO: DELETE PARAGRAPH-->
-<!--In contrast, the transcriptional territory adjacent to the anterior pole and positioned on the posterior portion of the apical lobe expresses several Wnt ligands (@fig:summary).-->
-<!--*wnt8* and *fz4*, two of the earliest genes to be expressed in this region, abut the posterior boundary of the *fz5/8* domain in the anterior pole of *T. transversa* (@fig:ligands2, !@fig:doubles).-->
-<!--*wnt8* is expressed in the posterior neuroectoderm of several metazoans, such as vertebrates, spiders, annelids, and hemichordates [@Kelly1995-jv; @Hollyday1995-ym; @Janssen2010-dc; @Pruitt2014-oy; @Darras2018-gm].-->
-<!--In zebrafish, *wnt8b* represses *fz8a* [@Kim2002-ze] and establishes a posterior identity for the neuroectoderm [@Erter2001-fl; @Lekven2001-jj; @Rhinn2005-ie].-->
-<!--This arrangement between *fz5/8* and *wnt8* recapitulates what we found in the brachiopod, and points to the possibility that a similar genetic interaction, in this case mediated by the *fz4* receptor, may pattern the differentiation between the anterior pole and posterior portion of the apical lobe.-->
-
-<!--TODO: *wnt5* antagonizes *wnt1* in Xenopus [@Torres1996-hs].-->
-<!--Transcriptionally, these two regions are already distinct in the late gastrula with *wnt1* expressed anteriorly, and *wnt5* and *wnt11* expressed posteriorly ({@fig:doubles}G,H and {!@fig:summary}A).-->
-<!--Both *wnt5* (see above) and *wnt11* mediate convergent extension through the Wnt/PCP pathway [@Heisenberg2000-kx; @Tada2000-dz], which could mediate the terminal pole extension.-->
-<!--Indeed, *wnt5* also regulates cell proliferation [@Yamaguchi1999-zj].-->
-
-<!--the pedicle lobe narrows laterally and possibly elongates becoming subdivided [@Stricker1985-vf] ({@fig:summary}B).-->
-
-<!--*wnt7* is also expressed at the interface of another brachiopod boundary between the subterminal and terminal portion of the pedicle lobe.-->
-<!--Indicating that *wnt7* may have a common role in the establishment of the boundaries between body domains.-->
-<!--Although the spatial arrangement of these three genes is similar to the apical--mantle boundary, the receptor-context is not identical and presumably only *fz9/10* is expressed in the subterminal pedicle lobe ({@fig:doubles}G,H and {!@fig:summary}A).-->
-
-<!--TODO: The region also expresses wnt4 and wnt10 in subdomains [wnt4wnt10].-->
-
-<!--The pedicle lobe is also subdivided into a wider anterior portion and a posterior end that constricts in the late larva [@Stricker1985-vf].-->
-
-<!--However, this region expresses no Frizzled receptors or *axin* [@Martin-Duran2016-qa], a readout of the Wnt/beta-catenin pathway [@Jho2002-op].-->
-<!--And when Wnt/beta-catenin is over-activated, the expression of the posterior markers *evx* and *cdx* remains unchanged [@Martin-Duran2016-qa].-->
-<!--Therefore, the posterior pole of *T. transversa* may in fact be Wnt-insensitive, similar to the posteriormost region in hemichordate embryos [@Darras2018-gm].-->
-
-
-<!--The pedicle lobe is subdivided into an anterior and a posterior (terminal) portion which undergoes constriction in the late larva [@Stricker1985-vf].-->
-<!--These two territories are already demarcated in the late gastrula *wnt1* anteriorly and by *wnt5* and *wnt11* posteriorly ({@fig:doubles}G,H and {!@fig:summary}A).-->
-<!--*wnt5*, as discussed above, and *wnt11* are known to mediate convergent extension through the Wnt/PCP pathway [@Heisenberg2000-kx; @Tada2000-dz] and may play a role in the morphogenesis of the terminal pole of *T. transversa*.-->
-<!--The absence of *axin*, a readout of the Wnt/beta-catenin pathway [@Jho2002-op], from the terminal pole of *T. transversa* [@Martin-Duran2016-qa], and the unchanged expression of the posterior markers *evx* and *cdx* when Wnt/beta-catenin is over-activated [@Martin-Duran2016-qa],-->
-<!--suggests that the region is may be Wnt-insensitive as similar to what has been observed in the posterior-most region of hemichordates [@Darras2018-gm].-->
-
-<!--*wnt6* posterior expression is strong in early gastrulation and may have an earlier role as in sea urchins where *wnt6* is necessary for the activation of endomesodermal gene regulatory network [@Croce2011-ae].-->
-<!--TODO: Mention that the subterminal portion of the pedicle has an attachment function?-->
-
-<!--This suggests that the differential activation of Wnt signaling along the anteroposterior axis may contribute to the specification and differentiation of the different body regions of brachiopods.-->
-
-<!--TODO: What are the links with Hox expression?-->
-<!--TODO: Hox vs Wnt? Who controls axial patterning in brachiopod?-->
-<!--TODO: Connect Hox and Wnt from @Schiemann2017-wd-->
-<!--TODO: Hox/Wnt interaction in Nematostella-->
-<!--TODO: Figure out where to include this brachiopod Hox comments.-->
-<!--The interactions between Hox and Wnt exist and are important.-->
-<!--Hox expression in *T. transversa* is limited to the mantle and pedicle lobe.-->
-<!--The domains partially overlap and also coincide with the morphological subdivisions.-->
-<!--They are also expressed mostly in the brachiopod mesoderm and not ectoderm.-->
-<!--Indicates that Wnt expression could have a major role in patterning the ectoderm from head to tail.-->
-<!--TODO: Highlight the coexpression of Ttra hox-->
-<!--It could be that Hox code is more linked to tissue identities while the Wnt code more to developmental outcomes such as cell and tissue morphogenesis.-->
-<!--Hox/Wnt interactions have been described [@Bondos2006].-->
-<!--It occurs in Nematostella [@DuBuc2018].-->
-
-<!--TODO: Connect FGF and Wnt from Andrikou2021-cc-->
-<!--TODO: Discuss mesodermal and endodermal expression?-->
-
-<!--TODO: Are there such clear Wnt codes present in other animals? Use question as hook?-->
-<!--TODO: Therefore, Wnt not only controls the axial polarity/specification, but that at the anteroposterior patterning the combinatorial expression and receptor context play a role in the regionalization of the body into separate regions.-->
-
-<!--*wnt1t* transcripts localize to a dorsal spot.-->
-<!--We noticed that wnt10 is also expressed there in the late gastrula.-->
-<!--This might be due to the two genes being in the same locus and possibly share regulatory elements such as in zebrafish [@Lekven2019-gj].-->
-
-<!--From literature: We conclude that distinct cellular identity codes are generated by the combinatorial activities of Wg, Dpp, EGF, and FGF signals -->
-<!--TODO: Moreover Fz is conserved and Wnt is variable suggesting that shuffling of ligands may increase the diversity of body axis-->
-<!--TODO: Solid examples of differential affinity and combinatorial activity changing the outcome-->
-
-<!--We thus wondered whether the transcriptional territories of Wnt signaling components we observe in brachiopod development is conserved in other animals, and how changes in these territories may relate to the morphological diversity of metazoans.-->
-<!--We first compared the load of maternal transcripts of Wnt signaling components in the unfertilized eggs of  bilaterians.-->
-
-<!--The expression of maternal Wnt ligands, on the other hand, is evolutionary labile.-->
-<!--Therefore, during evolution the expression of .-->
-
-<!--TODO: Check if Frizzled genes are present in ctenophores and outgroups-->
-
-<!--TODO: Wnt as polarizing agent vs patterning system-->
-
-<!--@Kusserow2005-xd Expression of Wnt ligands is staggered domains spanning the entire oral--aboral axis except for the aboral pole.-->
-<!--Terebratalia most Wnt genes are expressed in the ectoderm, different than Nematostella where only five are in the ectoderm @Kusserow2005-xd.-->
-
-<!--The expression of Wnt genes in Ecdysozoa reveals that some domains are comparable [@refs]. However, in the priapulid Priapulus caudatus most Wnt genes are expressed at the posterior region of the embryo [@Hogvall2019-wq]. Expression of Wnt ligands in Drosophila and other arthropods show similarities. However, the Frizzled domains do not entirely match what we find in *T. transversa* [@refs]. *D. melanogaster* fz2 expression, orthologous to *T. transversa* fz5/8 is not expressed apically, but in the trunk, similar to T. transversa fz9/10 [@refs]. In addition, arthropods lost many Wnt ligands in specific lineages complicating the identification of common or divergent ligand-receptor contexts [@refs].-->
-
-<!--TODO: Incorporate the sentences below?-->
-
-<!--We find that the different morphological regions in the larval body express different combinations of Wnt ligands, receptors, and antagonists, with some ligands being expressed in different receptor-contexts in regions with disparate developmental outcomes.-->
 
 # Methods
 
@@ -940,15 +577,6 @@ The gray boxes show the pattern of individual genes mapped to the embryo for cle
 (B) Late gastrula and early larva embryos showing the correspondence between Wnt subregions (dashed lines) and the morphological boundaries of the larva.
 The samples were stained for F-actin (cell membranes) to highlight the cell shape differences between body regions.
 ](figures/Fig8.jpg){#fig:summary width=15cm}
-
-<!--TODO:
-
-- Cnidaria: 48-72hpf
-- Brachiopoda: late gastrula to early larva
-- Cephalochordata: early to mid neurula
-- Annelida: early and late trochophore
-
--->
 
 ![Comparative overview of the Wnt signaling landscape in animals.
 (A) Phylogenetic tree showing the repertoire of Wnt ligands, Frizzled receptors, and Wnt antagonists in different animal groups, and their presumed gene expansions and gene losses during evolution.
