@@ -4,10 +4,10 @@
 FILE=wnt
 RESOURCES=resources
 TEMPLATE=${RESOURCES}/template
-PREFILTER=--lua-filter=${RESOURCES}/pagebreak.lua --lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos
+PREFILTER=--lua-filter=${RESOURCES}/scholarly-metadata.lua --lua-filter=${RESOURCES}/author-info-blocks.lua --filter pandoc-fignos --filter pandoc-tablenos
 # Toggle for old or recent Pandoc versions
-#FILTERS=${PREFILTER} --filter pandoc-citeproc
-FILTERS=${PREFILTER} --citeproc
+FILTERS=${PREFILTER} --filter pandoc-citeproc
+#FILTERS=${PREFILTER} --citeproc
 FIGDIR=`realpath ../1-figures`
 FIGOUT=`realpath ./figures`
 FIGSRC=${FIGOUT}/source
