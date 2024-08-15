@@ -435,13 +435,16 @@ The samples were randomized and multiplexed on four lanes of a Illumina HighSeq 
 To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply sequenced unstranded paired-end dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
 Next, we imported the estimated counts from Kallisto to DESeq2 [@Love2014-hs] to estimate the library size factors and data dispersion, homogenize the variance across expression ranks, and apply a variance-stabilizing transformation to the data before the expression analyses.
 To visualize the normalized expression data, we generated heatmaps using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz] in R [@R_Core_Team1993-ki] running in RStudio Desktop [@RStudio_Team2011-wr].
-Due to the unstranded nature of our sequencing data, we analyzed the coverage of mapped reads to identify potential bias in the quantification of expression levels.
+
+Due to the unstranded nature of our sequencing data, we analyzed the coverage of mapped reads to identify potential biases in the quantification of expression levels.
+For that, we mapped the RNA-seq reads to the transcripts of Wnt signaling components of *T. transversa* using Salmon v1.10.1 [@Patro2017-aw], and then created read coverage plots for each gene using the ggcoverage package [@Song2023-ma].
 While the majority of genes show uniform read coverage profiles, we identified two cases of uneven coverage that significantly overestimates the expression levels of *wnt4* and *wntA* in early developmental stages (@fig:coverage).
-In these samples, most of the reads mapped to the 3’ region of the transcript while the region containing the Wnt coding sequence had a low mapping rate.
-This pattern might be due to an isoform lacking the Wnt domain or due to a coexpressed gene present in the same locus but in the opposite strand, which might have been assembled in the same contig since the reads are unstranded.
-The fact that both *wnt4* and *wntA* transcripts exhibit a long open reading frame in the antisense direction, and that the transcripts fully map to a single scaffold in a draft genome assembly of *T. transversa*, points to the latter hypothesis suggesting that the high expression values in early stages is due to the expression of the contiguous antisense gene, and not *wnt4* or *wntA*.
-To visualize the read coverage, we first mapped the reads using Salmon v1.10.1 [@Patro2017-aw] and created the coverage plots per gene using the ggcoverage package [@Song2023-ma].
-All the transcript abundance files, coverage files, and RNA-Seq pipeline are available in the paper’s repository [@Vellutini2023-oi].
+In these samples, reads predominantly mapped to the 3’ region of the transcript, while the Wnt coding sequence region had a low mapping rate.
+This pattern could be explained by the presence of an isoform lacking the Wnt domain, or by the expression of another gene in the opposite strand at the same locus, potentially assembled in the same contig due to the unstranded reads.
+Since both *wnt4* and *wntA* transcripts have long open reading frames in the antisense direction, and these transcripts fully map to a single scaffold in a draft genome assembly of *T. transversa*, the latter hypothesis is more likely.
+This suggests that the high expression values result from the contiguous antisense gene rather than *wnt4* or *wntA*.
+
+The code and pipeline for the RNA-Seq analysis and the mapping and coverage files are available in the paper’s repository [@Vellutini2023-oi].
 
 ## Gene orthology
 
