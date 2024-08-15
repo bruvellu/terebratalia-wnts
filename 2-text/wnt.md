@@ -473,7 +473,6 @@ We adjusted intensity levels to improve contrast---without clipping signal from 
 
 The datasets supporting the conclusions of this article are available in the following repositories:
 
-- **GitHub repository:** [https://github.com/bruvellu/terebratalia-wnts](https://github.com/bruvellu/terebratalia-wnts). Project’s main repository containing data, analyses, and source files for figure plates and manuscript text (but not images or large files).
 - **Zenodo repository:** [https://doi.org/10.5281/zenodo.8312022](https://doi.org/10.5281/zenodo.8312022). Citable dataset containing the contents of the main repository, original *in situ* images, high-resolution figures, and large text files [@Vellutini2023-oi].
 - **Stage-specific RNA-Seq:** [https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/). Raw reads deposited on NCBI as BioProject PRJNA1103701 and SRA experiments SRX24343897--SRX24343924.
 - **Gene sequences:** mRNA sequences deposited on NCBI with the accession numbers KT253961, PP860497-PP860521.
