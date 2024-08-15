@@ -496,6 +496,22 @@ Images at the original resolution are available in the paper’s repository [@Ve
 
 # Declarations
 
+## Acknowledgments
+
+We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae and Yvonne Müller for initial gene cloning, Juliana Roscito for the help with coverage analysis, and members of the Hejnol Lab for the productive discussions.
+We also thank Grigory Genikhovich and two anonymous reviewers for their insightful comments and constructive feedback.
+BCV thanks Pavel Tomančák for the generous support during the preparation of this work.
+
+## Consent for publication
+
+Not applicable.
+
+## Funding
+
+The study was funded by the Michael Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014--2020) ERC grant agreement 648861 to AH.
+The animal collections were supported by a Meltzer Research Fund.
+BCV was funded by an EMBO Long-Term Fellowship (ALTF 74-2018) during the writing of this manuscript.
+
 ## Availability of data and materials
 
 All data generated or analyzed during this study are included in this published article, its supplementary information files, and publicly available repositories.
@@ -503,16 +519,6 @@ All data generated or analyzed during this study are included in this published 
 - **Paper’s repository:** Zenodo [https://doi.org/10.5281/zenodo.8312022](https://doi.org/10.5281/zenodo.8312022). Citable repository containing the source code, data files, analysis pipelines, figure plates, manuscript text, original *in situ* images, and high-resolution figures [@Vellutini2023-oi].
 - **Stage-specific RNA-Seq:** NCBI [https://identifiers.org/bioproject:PRJNA1103701](https://identifiers.org/bioproject:PRJNA1103701). Raw reads deposited as BioProject PRJNA1103701 and SRA experiments SRX24343897--SRX24343924 [@Terebratalia2024-tj].
 - **Gene sequences:** NCBI. mRNA sequences deposited with the accession numbers KT253961, PP860497--PP860521.
-
-## Competing interests
-
-The authors declare that they have no competing interests.
-
-## Funding
-
-The study was funded by the Michael Sars Centre core budget and by The European Research Council Community’s Framework Program Horizon 2020 (2014--2020) ERC grant agreement 648861 to AH.
-The animal collections were supported by a Meltzer Research Fund.
-BCV was funded by an EMBO Long-Term Fellowship (ALTF 74-2018) during the writing of this manuscript.
 
 ## Authors’ contributions
 
@@ -523,11 +529,13 @@ BCV analyzed the data, prepared the figures, and wrote the manuscript.
 AH and JMMD revised and contributed to the text.
 All authors read and approved the final manuscript.
 
-## Acknowledgments
+## Competing interests
 
-We thank the Friday Harbor Laboratories boat crew for collecting the brachiopods, Yale Passamaneck for the help with spawnings, Katrine Worsaae and Yvonne Müller for initial gene cloning, Juliana Roscito for the help with coverage analysis, and members of the Hejnol Lab for the productive discussions.
-We also thank Grigory Genikhovich and two anonymous reviewers for their insightful comments and constructive feedback.
-BCV thanks Pavel Tomančák for the generous support during the preparation of this work.
+The authors declare that they have no competing interests.
+
+## Ethics approval and consent to participate
+
+Not applicable.
 
 # References
 
