@@ -451,7 +451,7 @@ The code and pipeline for the RNA-Seq analysis and the mapping and coverage file
 We searched for Wnt signaling orthologs in *T. transversa* by querying known Wnt genes against the available transcriptome using BLAST+ [@Camacho2009-jo].
 To resolve the orthology of the obtained putative orthologs, we aligned the protein sequences of *T. transversa* with well-annotated proteins from other metazoans using MAFFT 7.310 [@Katoh2013-mz], removed non-informative sections using GBlocks 0.91b [@Talavera2007-fl], and inspected the multiple sequence alignment using UGENE [@Okonechnikov2012-mr].
 Using the blocked alignments as input, we ran a maximum likelihood phylogenetic analysis using the automatic model recognition and rapid bootstrap options of RAxML 8.2.12 [@Stamatakis2014-bm], and rendered the resulting trees using the Interactive Tree Of Life web application [@Letunic2016-pn].
-The gene orthology pipeline is available in the repository [@Vellutini2023-oi].
+The gene orthology pipeline is available in the paper’s repository [@Vellutini2023-oi].
 
 ## Cloning and *in situ* hybridization
 
@@ -459,6 +459,7 @@ We synthesized cDNA from a total RNA extraction of mixed developmental stages of
 For each transcript, designed gene-specific primer pairs within the coding sequence using Primer3 [@Untergasser2012-se] to obtain product sizes between 800 and 1200bp (@tbl:cloning).
 We then cloned each fragment into a pGEM-T Easy Vector, amplified the antisense sequences using T7 or SP6 polymerase, and synthesized DIG-labeled riboprobes using the MEGAscript kit (Ambion).
 Finally, to visualize gene expression, we followed the established protocols in *T. transversa* for single colorimetric *in situ* hybridization [@Hejnol2008-pk; @Santagata2012-he], and double fluorescent *in situ* hybridization [@Vellutini2016-lq; @Martin-Duran2016-qa].
+Cloning details are available in the paper’s repository [@Vellutini2023-oi].
 
 ## Microscopy and image processing
 
@@ -466,6 +467,7 @@ We mounted the embryos between a glass slide and a coverslip, supported by clay 
 Using a Zeiss AxioCam HRc attached to a Zeiss Axioscope A1, we imaged the samples under differential interference contrast (DIC or Nomarski).
 For fluorescent samples, we scanned volumetric stacks in a Leica TCS SP5 confocal microscope and generated maximum intensity projections using Fiji [@Schindelin2012-di].
 We adjusted intensity levels to improve contrast---without clipping signal from high or low ranges---using Fiji or GIMP, and assembled the illustrations and figure plates using Inkscape.
+Images at the original resolution are available in the paper’s repository [@Vellutini2023-oi].
 
 # Declarations
 
