@@ -1,15 +1,22 @@
 # Read coverage analysis 
 
-Given the discrepancy between in situs and RNA-seq data, we identified non-uniform read coverage in some transcripts.
-This is to describe the patterns to inform the interpretation of the heatmap in the profiling figure.
+To understand the discrepancy in the expression of wntA between in situ hybridization and RNA-seq data, we analyzed the read coverage along the transcripts of every gene in this study.
 
-## Build Salmon index
+- [`0-reads`](0-reads): FastQ files with unstranded reads from stage-specific RNA-seq data.
+- [`1-reference`](1-reference): transcript sequences of Wnt signaling components of *Terebratalia transversa*.
+- [`2-quant`](2-quant): output of Salmon expression quantification with mapping files (SAM).
+- [`3-plots`](3-plots): read coverage plots per gene and script used to generate them.
+- [`4-igv`](4-igv): bedgraph files used in IGV visualization.
+
+## Pipeline
+
+### Build Salmon index
 
 ```
 salmon index -t 1-reference/Ttra_sequences.fa -i 1-reference/Ttra_sequences_index -k 25
 ```
 
-## Quantify expression
+### Quantify expression
 
 ```
 salmon quant --index 1-reference/Ttra_sequences_index --libType A -r 0-reads/F1_S01_SRR28779109.fastq.gz --fldMean 200 --fldSD 20.0 --threads 10 --validateMappings --dumpEq --rangeFactorizationBins 4 --numBootstraps 100 --seqBias --gcBias --writeUnmappedNames --writeMappings=2-quant/F1_S01/quant.sam --output 2-quant/F1_S01
@@ -42,7 +49,7 @@ salmon quant --index 1-reference/Ttra_sequences_index --libType A -r 0-reads/F2_
 salmon quant --index 1-reference/Ttra_sequences_index --libType A -r 0-reads/F2_S14_SRR28779089.fastq.gz --fldMean 200 --fldSD 20.0 --threads 10 --validateMappings --dumpEq --rangeFactorizationBins 4 --numBootstraps 100 --seqBias --gcBias --writeUnmappedNames --writeMappings=2-quant/F2_S14/quant.sam --output 2-quant/F2_S14
 ```
 
-## Convert SAM to BAM
+### Convert SAM to BAM
 
 ```
 samtools sort 2-quant/F1_S01/quant.sam -o 2-quant/F1_S01.bam
@@ -75,7 +82,7 @@ samtools sort 2-quant/F2_S13/quant.sam -o 2-quant/F2_S13.bam
 samtools sort 2-quant/F2_S14/quant.sam -o 2-quant/F2_S14.bam
 ```
 
-## Index BAM files
+### Index BAM files
 
 ```
 samtools index 2-quant/F1_S01.bam
@@ -108,10 +115,8 @@ samtools index 2-quant/F2_S13.bam
 samtools index 2-quant/F2_S14.bam
 ```
 
-## Generate read coverage plots
+### Generate read coverage plots
 
-Script by Juliana G. Roscito.
-
-## Read coverage description
-
+[`coverage.Rmd`](3-plots/coverage.Rmd) will generate PNG and PDF coverage plots for each gene using `ggcoverage`.
+Based on an [R script](3-plots/original_script/README_pergenecov.R) created by Juliana G. Roscito.
 
