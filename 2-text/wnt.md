@@ -464,8 +464,8 @@ Cloning details are available in the paper’s repository [@Vellutini2023-oi].
 
 ## Microscopy and image processing
 
-We mounted the embryos between a glass slide and a coverslip, supported by clay feet, in 70% glycerol in PBS.
-Using a Zeiss AxioCam HRc attached to a Zeiss Axioscope A1, we imaged the samples under differential interference contrast (DIC or Nomarski).
+We mounted the embryos between a glass slide and a coverslip, supported by clay feet, in 70% glycerol in PBS, and imaged the representative expression patterns for each sample.
+For colorimetric *in situ* data, we acquired differential interference contrast (DIC or Nomarski) images using a Zeiss AxioCam HRc attached to a Zeiss Axioscope A1.
 For fluorescent samples, we scanned volumetric stacks in a Leica TCS SP5 confocal microscope and generated maximum intensity projections using Fiji [@Schindelin2012-di].
 We adjusted intensity levels to improve contrast---without clipping signal from high or low ranges---using Fiji or GIMP, and assembled the illustrations and figure plates using Inkscape.
 Images at the original resolution are available in the paper’s repository [@Vellutini2023-oi].
@@ -561,7 +561,7 @@ The stages we analyzed using *in situ* hybridization (early gastrula to late lar
 ](figures/Fig2.jpg){#fig:profiling width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7*.
-Developmental stages between late blastula and late larva.
+The panels show representative expression patterns for the developmental stages between late blastula and late larva.
 The samples are oriented with a blastoporal/ventral view and anterior end to the top.
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads indicate the mantle--pedicle boundary.
@@ -570,7 +570,7 @@ Scale bars = 20µm.
 ](figures/Fig3.jpg){#fig:ligands1 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA*.
-Developmental stages between late blastula and late larva.
+The panels show representative expression patterns for the developmental stages between late blastula and late larva.
 The samples are oriented with a blastoporal/ventral view and anterior end to the top.
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
@@ -587,11 +587,13 @@ Areas in the tissue where the expression overlaps appear in white.
 Samples oriented with anterior end to the top.
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
+The panels show representative expression patterns for each sample.
 Scale bars = 20µm.
 ](figures/Fig5.jpg){#fig:doubles width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Frizzled and Wnt antagonist genes.
 Developmental stages between late blastula and late larva for *fz1/2/7*, *fz4*, *fz5/8*, *fz9/10*, *sfrp1/2/5*, *dkk5*, and *wif*.
+The panels show representative expression patterns for each sample.
 The samples are oriented with a blastoporal/ventral view and anterior end to the top, except for *sfrp1/2/5* early gastrula showing the animal pole.
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
@@ -600,6 +602,7 @@ Scale bars = 20µm.
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt/PCP pathway components.
 Developmental stages between early gastrula and late gastrula for *dsh*, *dgo*, *pk*, *fmi*, *stbm*, and *jnk*.
+The panels show representative expression patterns for each sample.
 The stainings for *dsh* are underdeveloped (see @fig:s-polarity).
 The samples are oriented in a blastoporal/ventral view (left) and in a lateral view (right).
 Black arrowheads indicate the apical--mantle boundary.
@@ -684,11 +687,13 @@ The other species are *Biomphalaria glabrata* (Bgla), *Branchiostoma floridae* (
 ![Whole-mount colorimetric *in situ* hybridization of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
 Additional views of Wnt expression between late blastula and late larva.
 Dashed lines indicate the position of the optical section shown in adjacent panels.
+The panels show representative expression patterns for each sample.
 ](figures/FigS3.jpg){#fig:s-ligands1 tag=S3 width=15cm}
 
 ![Whole-mount colorimetric *in situ* hybridization of *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA* in *Terebratalia transversa*.
 Additional views of Wnt expression between late blastula and late larva.
 Dashed lines indicate the position of the optical section shown in adjacent panels.
+The panels show representative expression patterns for each sample.
 ](figures/FigS4.jpg){#fig:s-ligands2 tag=S4 width=15cm}
 
 ![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* *wnt* genes.
@@ -701,6 +706,7 @@ Areas in the tissue where the expression overlaps appear in white.
 Samples oriented with anterior end to the top and ventral to the right (lateral views).
 Black arrowheads indicate the apical--mantle boundary.
 White arrowheads demarcate the mantle--pedicle boundary.
+The panels show representative expression patterns for each sample.
 ](figures/FigS5.jpg){#fig:s-doubles tag=S5 width=15cm}
 
 ![Schematic drawings summarizing the expression of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
@@ -722,6 +728,7 @@ The other species are *Branchiostoma belcheri* (Bbel), *Capitella teleta* (Ctel)
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Frizzled genes.
 Additional views of *fz1/2/7*, *fz4*, *fz5/8*, and *fz9/10* expression between late blastula and late larva.
+The panels show representative expression patterns for each sample.
 The stainings for *fz1/2/7* in the samples from early gastrula to late larva are underdeveloped.
 Dashed lines indicate the position of the optical section shown in adjacent panels.
 ](figures/FigS9.jpg){#fig:s-receptors tag=S9 width=15cm}
@@ -735,6 +742,7 @@ The other species are *Homo sapiens* (Hsap), *Crassostrea gigantea* (Cgig), *Mus
 
 ![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt antagonists.
 Additional views of Wnt antagonists expression between late blastula and late larva.
+The panels show representative expression patterns for each sample.
 ](figures/FigS11.jpg){#fig:s-antagonists tag=S11 width=15cm}
 
 ![Orthology assignment of *Terebratalia transversa* Dkk proteins.
@@ -828,7 +836,7 @@ Solid lines represent morphological boundaries for the apical, mantle, and pedic
 ](figures/FigS23.jpg){#fig:s-comparative tag=S23 width=15cm}
 
 ![Read coverage of the stage-specific transcriptome mapped to the transcripts of *Terebratalia transversa* Wnt signaling components.
-Each gene shows the read coverage along the transcript length for the 14 developmental stages sampled in this study (0--186h). 
+Each gene shows the read coverage of one replicate along the transcript length for the 14 developmental stages sampled in this study (0--186h). 
 The Y axes are fixed to the maximum observed coverage of a gene (which is different for each gene).
 The black boxes highlight regions of uneven coverage.
 Arrows indicate the two cases, *wnt4* and *wntA*, where the uneven coverage caused a bias in the quantification of expression levels.
