@@ -470,11 +470,35 @@ For fluorescent samples, we scanned volumetric stacks in a Leica TCS SP5 confoca
 We adjusted intensity levels to improve contrast---without clipping signal from high or low ranges---using Fiji or GIMP, and assembled the illustrations and figure plates using Inkscape.
 Images at the original resolution are available in the paper’s repository [@Vellutini2023-oi].
 
+# Abbreviations
+
+**DGO:** diego
+
+**DKK:** dickkopf 
+
+**DSH:** dishevelled
+
+**FMI:** flamingo
+
+**FZ:** frizzled
+
+**JNK:** c-jun n-terminal kinase
+
+**PCP:** planar cell polarity
+
+**PK:** prickle 
+
+**SFRP:** secreted frizzled-related protein
+
+**STBM:** strabismus
+
+**WIF:** wnt inhibitory factor
+
 # Declarations
 
 ## Availability of data and materials
 
-All data generated or analyzed during this study are included in this published article, its supplementary information files and publicly available repositories.
+All data generated or analyzed during this study are included in this published article, its supplementary information files, and publicly available repositories.
 
 - **Paper’s repository:** Zenodo [https://doi.org/10.5281/zenodo.8312022](https://doi.org/10.5281/zenodo.8312022). Citable repository containing the source code, data files, analysis pipelines, figure plates, manuscript text, original *in situ* images, and high-resolution figures [@Vellutini2023-oi].
 - **Stage-specific RNA-Seq:** NCBI [https://identifiers.org/bioproject:PRJNA1103701](https://identifiers.org/bioproject:PRJNA1103701). Raw reads deposited as BioProject PRJNA1103701 and SRA experiments SRX24343897--SRX24343924 [@Terebratalia2024-tj].
