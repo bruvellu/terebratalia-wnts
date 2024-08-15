@@ -1,0 +1,93 @@
+---
+title: "Terebratalia stage-specific RNA-seq read coverage"
+author: "Bruno C. Vellutini based on a script by Juliana G. Roscito"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+creation: "June 10, 2024"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, tidy = TRUE, cache = FALSE)
+knitr::opts_knit$set(root.dir = "~/Dropbox/Projects/Terebratalia_Wnts/manuscript/0-data/coverage/3-plots")
+```
+
+## Objective
+
+Analyze the read coverage along the transcript of the stage-specific RNA-seq data of _Terebratalia transversa_.
+Juliana G. Roscito created the original script for plotting, see the `original_script` directory.
+I adapted the script to RMarkdown to generate the final plots.
+
+## Requirements
+
+```{r install}
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("Rsamtools")
+
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("rtracklayer")
+
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("GenomicAlignments")
+
+install.packages("remotes")
+remotes::install_github("showteeth/ggcoverage")
+library("rtracklayer")
+library("ggcoverage")
+library("ggpattern")
+library("ggplot2")
+```
+
+```{r import}
+bamcov <- "~/src/deepTools/deeptools/bamCoverage.py"
+metadata <- read.csv("metadata.csv")
+trackdir <- "../2-quant"
+chromsizes <- read.csv("chromsizes.tsv")
+```
+
+```{r function}
+create_plot <- function(gene, length, replicate, scale) {
+  
+  # Define gene region
+  gene_region <- sprintf("%s:0-%s", gene, length)
+  
+  # Load BAM track file
+  track = LoadTrackFile(track.folder = trackdir,
+                        format = "bam",
+                        bamcoverage.path=bamcov,
+                        norm.method = "None",
+                        region = gene_region,
+                        single.nuc = TRUE,
+                        single.nuc.region = gene_region,
+                        meta.info = metadata[metadata$Group == replicate,]
+                        )
+  # Create plot
+  ggcoverage(data = track,
+             plot.type = "facet",
+             facet.y.scale = scale,
+             range.size = 5
+             ) +
+    theme(text = element_text(size = 15))
+  
+  # Define out paths
+  outname <- sprintf("%s_%s_%s", gene, replicate, scale)
+  outname <- gsub("/", "", outname)
+  outpng <- sprintf("png/%s.png", outname)
+  outpdf <- sprintf("pdf/%s.pdf", outname)
+  
+  # Save plot to file
+  ggsave(outpng, width = 5, height = 7)
+  ggsave(outpdf, width = 5, height = 7)
+}
+```
+
+```{r plot}
+# Plot everything
+for (row in 1:nrow(chromsizes)) {
+  create_plot(chromsizes$gene[row], chromsizes$length[row], "F1", "fixed")
+  create_plot(chromsizes$gene[row], chromsizes$length[row], "F2", "fixed")
+  create_plot(chromsizes$gene[row], chromsizes$length[row], "F1", "free")
+  create_plot(chromsizes$gene[row], chromsizes$length[row], "F2", "free")
+  }
+```
