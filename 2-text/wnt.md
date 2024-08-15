@@ -440,7 +440,8 @@ While the majority of genes show uniform read coverage profiles, we identified t
 In these samples, most of the reads mapped to the 3’ region of the transcript while the region containing the Wnt coding sequence had a low mapping rate.
 This pattern might be due to an isoform lacking the Wnt domain or due to a coexpressed gene present in the same locus but in the opposite strand, which might have been assembled in the same contig since the reads are unstranded.
 The fact that both *wnt4* and *wntA* transcripts exhibit a long open reading frame in the antisense direction, and that the transcripts fully map to a single scaffold in a draft genome assembly of *T. transversa*, points to the latter hypothesis suggesting that the high expression values in early stages is due to the expression of the contiguous antisense gene, and not *wnt4* or *wntA*.
-The transcript abundance files and RNA-Seq pipeline are available in the repository [@Vellutini2023-oi].
+To visualize the read coverage, we first mapped the reads using Salmon v1.10.1 [@Patro2017-aw] and created the coverage plots per gene using the ggcoverage package [@Song2023-ma].
+All the transcript abundance files, coverage files, and RNA-Seq pipeline are available in the paper’s repository [@Vellutini2023-oi].
 
 ## Gene orthology
 
@@ -790,12 +791,12 @@ Solid lines represent morphological boundaries for the apical, mantle, and pedic
 ](figures/FigS23.jpg){#fig:s-comparative tag=S23 width=15cm}
 
 ![Read coverage of the stage-specific transcriptome mapped to the transcripts of *Terebratalia transversa* Wnt signaling components.
-Each gene shows the read coverage along the transcript length for the 14 developmental stages sampled in this study. 
+Each gene shows the read coverage along the transcript length for the 14 developmental stages sampled in this study (0--186h). 
 The Y axes are fixed to the maximum observed coverage of a gene (which is different for each gene).
-Black boxes highlight regions of uneven coverage.
+The black boxes highlight regions of uneven coverage.
 Arrows indicate the two cases, *wnt4* and *wntA*, where the uneven coverage caused a bias in the quantification of expression levels.
 Although *wnt6*, *wnt16*, *dsh*, and *jnk* also show regions of uneven coverage, these reads did not alter the main expression profile of the gene.
-See Methods for more details.
+See the Methods section for more details.
 ](figures/FigS24.jpg){#fig:coverage tag=S24 width=15cm}
 
 ## Tables
