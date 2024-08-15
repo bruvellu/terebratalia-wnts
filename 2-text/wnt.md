@@ -137,7 +137,7 @@ Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a si
 
 ## Wnt genes are upregulated in concert during axial elongation
 
-To uncover the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-seq data from the unfertilized egg to the post-metamorphic juveniles (@fig:profiling).
+To uncover the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-Seq data from the unfertilized egg to the post-metamorphic juveniles (@fig:profiling).
 We detect no Wnt transcripts expressed in the oocyte or mid blastula stages (the high levels of *wnt4* and *wntA* in early stages is due to a bias in the expression quantification, see Methods for a detailed explanation).
 Wnt expression shifts significantly at the late blastula stage (19h), when a concerted upregulation of *wnt1*, *wnt1t*, *wnt8*, *wnt10*, and *wnt16* occurs (@fig:profiling).
 Throughout gastrulation, Wnt genes continue to be upregulated with *wnt1* and *wnt5* in the early gastrula (26h); *wnt6*, *wnt7*, and *wnt11* in the mid gastrula (37h); and *wnt2*, *wnt9*, and *wnt10* in the late gastrula (51h).
@@ -297,7 +297,7 @@ Pk is a protein that contains a PET domain and three LIM domains [@Gubb1999-ba] 
 We identified a single *pk* ortholog in *T. transversa* (@fig:pk-tree), which is highly expressed throughout development (@fig:s-profiling).
 *pk* transcripts are present in a small patch of ectoderm posterior to the blastopore in the early gastrula (@fig:polarity).
 In the mid gastrula, *pk* is upregulated in the mesoderm and forms paired ventral domains within the mantle lobe mesoderm of the late gastrula, when paired ventral domains also appear in the apical lobe ectoderm.
-Given the high expression levels of *pk* in our RNA-seq data, we cannot exclude the possibility that it is more broadly expressed than we could detect in our in situ hybridization.
+Given the high expression levels of *pk* in our RNA-Seq data, we cannot exclude the possibility that it is more broadly expressed than we could detect in our in situ hybridization.
 
 Fmi is a seven-pass transmembrane cadherin that regulates cell polarity [@Usui1999-fv; @Chae1999-ci].
 In *T. transversa*, we identified one ortholog of *fmi* (@fig:fmi-tree).
@@ -423,7 +423,7 @@ To obtain embryos, we dissected the gonads of ripe individuals and fertilized th
 We cultured the embryos in E-ware glass bowls (i.e., glassware never exposed to chemicals) with filtered seawater and temperature around 7.6 °C.
 Water in culturing bowls was exchanged daily.
 Using a glass pipette, we collected samples for RNA sequencing and for *in situ* hybridization at representative developmental stages (@tbl:samples).
-For the RNA-seq samples, we collected two biological replicates, each containing the eggs of a single female fertilized with mixed sperm from three different males.
+For the RNA-Seq samples, we collected two biological replicates, each containing the eggs of a single female fertilized with mixed sperm from three different males.
 We preserved the embryos directly in RNAlater at room temperature.
 For the *in situ* hybridization samples, we fixed the embryos for 1h in 4% paraformaldehyde at room temperature, washed thoroughly in 1x PBS with 0.1% Tween-20, and stored them in 100% methanol at -20°C.
 
@@ -432,12 +432,13 @@ For the *in situ* hybridization samples, we fixed the embryos for 1h in 4% paraf
 We extracted the total RNA using Trizol.
 Library preparation and sequencing was performed at the EMBL Genomic Core Facilities (GENECORE).
 The samples were randomized and multiplexed on four lanes of a Illumina HighSeq 2000 system, and sequenced to an average of 24±5 million 50bp of unstranded single-end reads.
-To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*, which was originally assembled with Trinity [@Grabherr2011-yp] from a deeply sequenced unstranded paired-end dataset of mixed developmental stages ([SRX1307070](https://www.ncbi.nlm.nih.gov/sra/SRX1307070[accn])).
+To quantify transcript abundances, we used Kallisto v0.46.0 [@Bray2016-lm] to pseudoalign the reads to a reference transcriptome of *T. transversa*.
+This reference transcriptome was originally assembled with Trinity [@Grabherr2011-yp] from a deeply sequenced, unstranded paired-end RNA-Seq dataset of mixed developmental stages [@Terebratalia2016-gw].
 Next, we imported the estimated counts from Kallisto to DESeq2 [@Love2014-hs] to estimate the library size factors and data dispersion, homogenize the variance across expression ranks, and apply a variance-stabilizing transformation to the data before the expression analyses.
-To visualize the normalized expression data, we generated heatmaps using pheatmap [@Kolde_undated-gt] and ggplot2 [@Wickham2016-rz] in R [@R_Core_Team1993-ki] running in RStudio Desktop [@RStudio_Team2011-wr].
+To visualize the normalized expression data, we generated heatmaps using pheatmap [@KoldeUnknown-hm] and ggplot2 [@Wickham2016-rz] in R [@R-Core-Team1993-jw] running in RStudio Desktop [@RStudio-Team2011-vj].
 
 Due to the unstranded nature of our sequencing data, we analyzed the coverage of mapped reads to identify potential biases in the quantification of expression levels.
-For that, we mapped the RNA-seq reads to the transcripts of Wnt signaling components of *T. transversa* using Salmon v1.10.1 [@Patro2017-aw], and then created read coverage plots for each gene using the ggcoverage package [@Song2023-ma].
+For that, we mapped the RNA-Seq reads to the transcripts of Wnt signaling components of *T. transversa* using Salmon v1.10.1 [@Patro2017-aw], and then created read coverage plots for each gene using the ggcoverage package [@Song2023-ma].
 While the majority of genes show uniform read coverage profiles, we identified two cases of uneven coverage that significantly overestimates the expression levels of *wnt4* and *wntA* in early developmental stages (@fig:coverage).
 In these samples, reads predominantly mapped to the 3’ region of the transcript, while the Wnt coding sequence region had a low mapping rate.
 This pattern could be explained by the presence of an isoform lacking the Wnt domain, or by the expression of another gene in the opposite strand at the same locus, potentially assembled in the same contig due to the unstranded reads.
@@ -473,11 +474,11 @@ Images at the original resolution are available in the paper’s repository [@Ve
 
 ## Availability of data and materials
 
-The datasets supporting the conclusions of this article are available in the following repositories:
+All data generated or analyzed during this study are included in this published article, its supplementary information files and publicly available repositories.
 
-- **Zenodo repository:** [https://doi.org/10.5281/zenodo.8312022](https://doi.org/10.5281/zenodo.8312022). Citable dataset containing the contents of the main repository, original *in situ* images, high-resolution figures, and large text files [@Vellutini2023-oi].
-- **Stage-specific RNA-Seq:** [https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103701/). Raw reads deposited on NCBI as BioProject PRJNA1103701 and SRA experiments SRX24343897--SRX24343924.
-- **Gene sequences:** mRNA sequences deposited on NCBI with the accession numbers KT253961, PP860497-PP860521.
+- **Paper’s repository:** Zenodo [https://doi.org/10.5281/zenodo.8312022](https://doi.org/10.5281/zenodo.8312022). Citable repository containing the source code, data files, analysis pipelines, figure plates, manuscript text, original *in situ* images, and high-resolution figures [@Vellutini2023-oi].
+- **Stage-specific RNA-Seq:** NCBI [https://identifiers.org/bioproject:PRJNA1103701](https://identifiers.org/bioproject:PRJNA1103701). Raw reads deposited as BioProject PRJNA1103701 and SRA experiments SRX24343897--SRX24343924 [@Terebratalia2024-tj].
+- **Gene sequences:** NCBI. mRNA sequences deposited with the accession numbers KT253961, PP860497--PP860521.
 
 ## Competing interests
 
@@ -519,7 +520,7 @@ The other species are *Branchiostoma floridae* (Bf), *Capitella teleta* (Ct), *D
 ](figures/Fig1.jpg){#fig:wnt-tree width=15cm}
 
 ![Expression of Wnt signaling components during *Terebratalia transversa* development.
-The heatmap represents the log-normalized transcript counts for ligands, receptors, and antagonists calculated from stage-specific RNA-seq data.
+The heatmap represents the log-normalized transcript counts for ligands, receptors, and antagonists calculated from stage-specific RNA-Seq data.
 Each cell shows the average value between two replicates.
 Asterisks in *wnt4* and *wntA* denote samples where the expression levels were overestimated due to the expression of an antisense gene present in the same transcript (see Methods for details).
 The black outline marks the late gastrula stage (51h), when all Wnt genes are expressed.
@@ -596,7 +597,7 @@ The receptor (lighter shades of gray) and antagonist (darker shades of gray) sub
 The region of expression of individual Frizzled genes (black lines) and Wnt genes (colored lines) is shown for each species depicted by germ layer.
 Embryos are oriented with aboral/anterior end up and oral/posterior end bottom.
 Asterisk indicates the blastopore position.
-The gene complement, orthology assignment, and expression patterns were compiled from previous works on Ctenophora [@Pang2010-ds; @Jager2013-ne], Porifera [@Adamska2010-sg; @Leininger2014-uk; @Borisenko2016-so], Cnidaria [@Kusserow2005-xd; @Lee2006-yw; @Wijesena2022-lg; @Niedermoser2022-ev], Xenacoelomorpha (Xenoturbella transcriptome from SRX1343818; acoel Wnt genes are highly derived [@Srivastava2014-vj]), Vertebrata [@Nusse1992-oi], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg; @Somorjai2018-fw], Echinodermata [@Croce2006-cy; @Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Brachiopoda [@Vellutini2016-lq; this study], Annelida [@Prudhomme2002-cv; @Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Arthropoda [@Murat2010-np].
+The gene complement, orthology assignment, and expression patterns were compiled from previous works on Ctenophora [@Pang2010-ds; @Jager2013-ne], Porifera [@Adamska2010-sg; @Leininger2014-uk; @Borisenko2016-so], Cnidaria [@Kusserow2005-xd; @Lee2006-yw; @Wijesena2022-lg; @Niedermoser2022-ev], Xenacoelomorpha (based on *Xenoturbella* transcriptome [@Xenoturbella2016-ll] as the Wnt genes in acoels are highly derived [@Srivastava2014-vj]), Vertebrata [@Nusse1992-oi], Cephalochordata [@Holland2000-og; @Schubert2000-wq; @Schubert2000-he; @Schubert2000-fw; @Schubert2001-cp; @Yu2007-un; @Onai2012-sn; @Qian2013-jg; @Somorjai2018-fw], Echinodermata [@Croce2006-cy; @Croce2006-fw; @Lhomond2012-yh; @Range2013-gm; @Robert2014-xj; @Cui2014-zb; @Range2016-qm; @Range2018-lt; @Khadka2018-td], Hemichordata [@Darras2018-gm], Brachiopoda (based on [@Vellutini2016-lq] and this study), Annelida [@Prudhomme2002-cv; @Janssen2010-dc; @Cho2010-eb; @Pruitt2014-oy; @Bastin2015-oz], and Arthropoda [@Murat2010-np].
 ](figures/Fig9.jpg){#fig:comparative width=15cm}
 
 # Tables
@@ -735,7 +736,7 @@ The other species are *Branchiostoma floridae* (Bflo), *Homo sapiens* (Hsap), *P
 ](figures/FigS14.jpg){#fig:dsh-tree tag=S14 width=15cm}
 
 ![Expression of Wnt/PCP pathway during *Terebratalia transversa* development.
-The heatmap represents the log-normalized transcript counts for *dsh*, *dgo*, *pk*, *fmi*, *stbm*, and *jnk* calculated from stage-specific RNA-seq data.
+The heatmap represents the log-normalized transcript counts for *dsh*, *dgo*, *pk*, *fmi*, *stbm*, and *jnk* calculated from stage-specific RNA-Seq data.
 Each cell shows the average value between two replicates.
 The illustrations depict *T. transversa* developmental stages from the oocyte until the post-metamorphic juvenile.
 The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
