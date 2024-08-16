@@ -137,7 +137,7 @@ Besides the loss of *wnt3* and duplication of *wnt1*, *T. transversa* shows a si
 
 ## Wnt genes are upregulated in concert during axial elongation
 
-To uncover the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-Seq data from the unfertilized egg to the post-metamorphic juveniles (@fig:profiling).
+To uncover the developmental dynamics of Wnt expression in *T. transversa*, we analyzed stage-specific RNA-Seq data from the unfertilized egg to the post-metamorphic juveniles (@fig:profiling and @tbl:samples).
 We detect no Wnt transcripts expressed in the oocyte or mid blastula stages (the high levels of *wnt4* and *wntA* in early stages is due to a bias in the expression quantification, see Methods for a detailed explanation).
 Wnt expression shifts significantly at the late blastula stage (19h), when a concerted upregulation of *wnt1*, *wnt1t*, *wnt8*, *wnt10*, and *wnt16* occurs (@fig:profiling).
 Throughout gastrulation, Wnt genes continue to be upregulated with *wnt1* and *wnt5* in the early gastrula (26h); *wnt6*, *wnt7*, and *wnt11* in the mid gastrula (37h); and *wnt2*, *wnt9*, and *wnt10* in the late gastrula (51h).
@@ -637,6 +637,25 @@ The gene complement, orthology assignment, and expression patterns were compiled
 
 # Tables
 
+Table: Developmental stages sampled for the stage-specific transcriptome of *Terebratalia transversa*. {#tbl:samples}
+
+| Stage    | Time post fertilization | Description                          |
+| -------- | ----------------------- | ------------------------------------ |
+| S01      | 0h (0.0 days)           | unfertilized oocytes                 |
+| S02      | 8h (0.3 days)           | mid blastula                         |
+| S03      | 19h (0.8 days)          | late blastula                        |
+| S04      | 24h (1.0 days)          | moving late blastula                 |
+| S05      | 26h (1.1 days)          | early gastrula                       |
+| S06      | 37h (1.5 days)          | asymmetric gastrula                  |
+| S07      | 51h (2.1 days)          | bilateral gastrula                   |
+| S08      | 59h (2.5 days)          | bilobed embryo                       |
+| S09      | 68h (2.8 days)          | trilobed embryo                      |
+| S10      | 82h (3.4 days)          | early larva (first chaetae visible)  |
+| S11      | 98h (4.1 days)          | late larva (long chaetae, eye spots) |
+| S12      | 131h (5.5 days)         | competent larva                      |
+| S13      | 162h (6.7 days)         | juvenile 1 day post metamorphosis    |
+| S14      | 186h (7.7 days)         | juvenile 2 days post metamorphosis   |
+
 Table: Wnt signaling transcriptional subregions in the brachiopod *Terebratalia transversa*. {#tbl:landscape}
 
 | Subregion | Position                                 | Antagonists        | Receptors           | Ligands                                          |
@@ -845,25 +864,6 @@ See the Methods section for more details.
 ](figures/FigS24.jpg){#fig:coverage tag=S24 width=15cm}
 
 ## Tables
-
-Table: Developmental stages sampled for the stage-specific transcriptome of *Terebratalia transversa*. {#tbl:samples tag=S1}
-
-| Stage    | Time post fertilization | Description                          |
-| -------- | ----------------------- | ------------------------------------ |
-| S01      | 0h (0.0 days)           | unfertilized oocytes                 |
-| S02      | 8h (0.3 days)           | mid blastula                         |
-| S03      | 19h (0.8 days)          | late blastula                        |
-| S04      | 24h (1.0 days)          | moving late blastula                 |
-| S05      | 26h (1.1 days)          | early gastrula                       |
-| S06      | 37h (1.5 days)          | asymmetric gastrula                  |
-| S07      | 51h (2.1 days)          | bilateral gastrula                   |
-| S08      | 59h (2.5 days)          | bilobed                              |
-| S09      | 68h (2.8 days)          | trilobed                             |
-| S10      | 82h (3.4 days)          | early larva (first chaetae visible)  |
-| S11      | 98h (4.1 days)          | late larva (long chaetae, eye spots) |
-| S12      | 131h (5.5 days)         | competent larva                      |
-| S13      | 162h (6.7 days)         | juvenile 1 day post metamorphosis    |
-| S14      | 186h (7.7 days)         | juvenile 2 days post metamorphosis   |
 
 Table: Gene accession numbers and primer pairs used for cloning. {#tbl:cloning tag=S2}
 
