@@ -865,7 +865,7 @@ See the Methods section for more details.
 
 ## Tables
 
-Table: Gene accession numbers and primer pairs used for cloning. {#tbl:cloning tag=S2}
+Table: Gene accession numbers and primer pairs used for cloning the Wnt signaling components of the brachiopod *Terebratalia transversa*. {#tbl:cloning tag="Additional file 25: Table S1"}
 
 | Gene           | Accession | Forward                   | Reverse                   | Product |
 | ----           | --------- | -------                   | -------                   | ------- |
