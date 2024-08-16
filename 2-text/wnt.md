@@ -685,8 +685,6 @@ Table: Maternal load of Wnt and Frizzled transcripts in metazoan eggs. {#tbl:mat
 
 # Supplementary information
 
-## Figures
-
 ![Domain architecture of *Terebratalia transversa* Wnt proteins.
 (A) Schematic drawings showing signal peptide regions, Wnt protein signatures, Frizzled-receptor binding sites, and C-terminal Wnt domain based on InterProScan annotations. All *T. transversa* have a similar overall architecture.
 (B--C) Multiple sequence alignment of Wnt1 proteins, showing the highly divergent sequence of *T. transversa* Wnt1t in three Wnt protein signature regions. The alignment contains Wnt1 orthologs of *T. transversa* (Ttra), *Novocrania anomala* (Nano), *Platynereis dumerilii* (Pdum), *Homo sapiens* (Hsap), and *Saccoglossus kowalevskii* (Skow).
@@ -862,8 +860,6 @@ Arrows indicate the two cases, *wnt4* and *wntA*, where the uneven coverage caus
 Although *wnt6*, *wnt16*, *dsh*, and *jnk* also show regions of uneven coverage, these reads did not alter the main expression profile of the gene.
 See the Methods section for more details.
 ](figures/FigS24.jpg){#fig:coverage tag="Additional file 24: Fig. S24" width=15cm}
-
-## Tables
 
 Table: Gene accession numbers and primer pairs used for cloning the Wnt signaling components of the brachiopod *Terebratalia transversa*. {#tbl:cloning tag="Additional file 25: Table S1"}
 
