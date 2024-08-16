@@ -685,12 +685,12 @@ Table: Maternal load of Wnt and Frizzled transcripts in metazoan eggs. {#tbl:mat
 
 # Supplementary information
 
-![Domain architecture of *Terebratalia transversa* Wnt proteins.
+![\[PDF\] Domain architecture of *Terebratalia transversa* Wnt proteins.
 (A) Schematic drawings showing signal peptide regions, Wnt protein signatures, Frizzled-receptor binding sites, and C-terminal Wnt domain based on InterProScan annotations. All *T. transversa* have a similar overall architecture.
 (B--C) Multiple sequence alignment of Wnt1 proteins, showing the highly divergent sequence of *T. transversa* Wnt1t in three Wnt protein signature regions. The alignment contains Wnt1 orthologs of *T. transversa* (Ttra), *Novocrania anomala* (Nano), *Platynereis dumerilii* (Pdum), *Homo sapiens* (Hsap), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS1.jpg){#fig:domains tag="Additional file 1: Fig. S1" width=15cm}
 
-![Phylogenetic analysis of *Terebratalia transversa* Wnt1 proteins.
+![\[PDF\] Phylogenetic analysis of *Terebratalia transversa* Wnt1 proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using amino acid sequences of genes from the *wnt1* subfamily with *wnt6* as an outgroup.
 Branch lengths are proportional to the amount of sequence change, and the numbers show the support values of individual branches.
 Both *Terebratalia transversa* (Ttra) and *Lingula anatina* (Lana), a rhynchonelliform and a linguliform brachiopod, respectively, have two copies of *wnt1*.
@@ -701,19 +701,19 @@ Taxon sampling was focused in spiralians.
 The other species are *Biomphalaria glabrata* (Bgla), *Branchiostoma floridae* (Bflo), *Bugula neritina* (Bner), *Capitella teleta* (Ctel), *Crassostrea virginica* (Cvir), *Doryteuthis pealeii* (Dpea), *Euprymna scolopes* (Esco), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Membranipora membranacea* (Mmem), *Mizuhopecten yessoensis* (Myes), *Mytilus coruscus* (Mcor), *Mytilus edulis* (Medu), *Mytilus galloprovincialis* (Mgal), *Pecten maximus* (Pmax), *Perinereis nuntia* (Pnun), *Plakobranchus ocellatus* (Poce), *Platynereis dumerilii* (Pdum), *Saccoglossus kowalevskii* (Skow), and *Urechis unicinctus* (Uuni).
 ](figures/FigS2.jpg){#fig:wnt1-tree tag="Additional file 2: Fig. S2" width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
+![\[PNG\] Whole-mount colorimetric *in situ* hybridization of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
 Additional views of Wnt expression between late blastula and late larva.
 Dashed lines indicate the position of the optical section shown in adjacent panels.
 The panels show representative expression patterns for each sample.
 ](figures/FigS3.jpg){#fig:s-ligands1 tag="Additional file 3: Fig. S3" width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA* in *Terebratalia transversa*.
+![\[PNG\] Whole-mount colorimetric *in situ* hybridization of *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA* in *Terebratalia transversa*.
 Additional views of Wnt expression between late blastula and late larva.
 Dashed lines indicate the position of the optical section shown in adjacent panels.
 The panels show representative expression patterns for each sample.
 ](figures/FigS4.jpg){#fig:s-ligands2 tag="Additional file 4: Fig. S4" width=15cm}
 
-![Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* *wnt* genes.
+![\[PNG\] Whole-mount double-fluorescent *in situ* hybridization of *Terebratalia transversa* *wnt* genes.
 (A--D) Expression of *wnt1* (magenta) and *wnt4* (green) in the mid gastrula (A,B) and late gastrula (C,D).
 (E,G) Expression of *wnt1* (magenta) and *wnt8* (green) in the mid gastrula (E) and early larva (G).
 (F) Expression of *wnt1* (magenta) and *wnt5* (green) in the late gastrula.
@@ -726,43 +726,43 @@ White arrowheads demarcate the mantle--pedicle boundary.
 The panels show representative expression patterns for each sample.
 ](figures/FigS5.jpg){#fig:s-doubles tag="Additional file 5: Fig. S5" width=15cm}
 
-![Schematic drawings summarizing the expression of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
+![\[PDF\] Schematic drawings summarizing the expression of *wnt1*, *wnt1t*, *wnt2*, *wnt4*, *wnt5*, *wnt6*, and *wnt7* in *Terebratalia transversa*.
 For each developmental stage of each gene, a blastoporal/ventral view (top) and a lateral view (bottom) are shown.
 Faded colors represent expression domains in the mesoderm or endoderm, or in the ectoderm when it is beneath the mantle lobe.
 ](figures/FigS6.jpg){#fig:summary-ligands1 tag="Additional file 6: Fig. S6" width=15cm}
 
-![Schematic drawings summarizing the expression of *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA* in *Terebratalia transversa*.
+![\[PDF\] Schematic drawings summarizing the expression of *wnt8*, *wnt9*, *wnt10*, *wnt11*, *wnt16*, and *wntA* in *Terebratalia transversa*.
 For each developmental stage of each gene, a blastoporal/ventral view (top) and a lateral view (bottom) are shown.
 Faded colors represent expression domains in the mesoderm or endoderm, or in the ectoderm when it is beneath the mantle lobe.
 ](figures/FigS7.jpg){#fig:summary-ligands2 tag="Additional file 7: Fig. S7" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Frizzled proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Frizzled proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of well-annotated Frizzled proteins.
 The color-coding represents different Frizzled subfamilies and the numbers show the support values of individual branches.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma belcheri* (Bbel), *Capitella teleta* (Ctel), *Drosophila melanogaster* (Dmel), *Euperipatoides kanangrensis* (Ekan), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Lottia gigantea* (Lgig), *Mus musculus* (Mmus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS8.jpg){#fig:fzd-tree tag="Additional file 8: Fig. S8" width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Frizzled genes.
+![\[PNG\] Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Frizzled genes.
 Additional views of *fz1/2/7*, *fz4*, *fz5/8*, and *fz9/10* expression between late blastula and late larva.
 The panels show representative expression patterns for each sample.
 The stainings for *fz1/2/7* in the samples from early gastrula to late larva are underdeveloped.
 Dashed lines indicate the position of the optical section shown in adjacent panels.
 ](figures/FigS9.jpg){#fig:s-receptors tag="Additional file 9: Fig. S9" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* sFRP proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* sFRP proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of sFRP genes.
 The color-coding represents different sFRP subfamilies and the numbers show the support values of individual branches.
 *Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
 The other species are *Homo sapiens* (Hsap), *Crassostrea gigantea* (Cgig), *Mus musculus* (Mmus), and *Platynereis dumerilii* (Pdum).
 ](figures/FigS10.jpg){#fig:sfrp-tree tag="Additional file 10: Fig. S10" width=15cm}
 
-![Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt antagonists.
+![\[PNG\] Whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* Wnt antagonists.
 Additional views of Wnt antagonists expression between late blastula and late larva.
 The panels show representative expression patterns for each sample.
 ](figures/FigS11.jpg){#fig:s-antagonists tag="Additional file 11: Fig. S11" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Dkk proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Dkk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dkk from diverse metazoans.
 Color-coding represents different Dkk subfamilies.
 Numbers show support values of individual branches.
@@ -775,7 +775,7 @@ Overall, this suggests *dkk1/2/4*, *dkk3*, and *dkk5* were the ancestral subfami
 The other species are *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), and *Strongylocentrotus purpuratus* (Spur).
 ](figures/FigS12.jpg){#fig:dkk-tree tag="Additional file 12: Fig. S12" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Wif proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Wif proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known Wif proteins (Wnt inhibitory factor).
 As an outgroup, we used the tyrosine-protein kinase Ryk which also has a WIF domain.
 The color-coding represents Wif and Ryk families.
@@ -784,7 +784,7 @@ Numbers show the support values of individual branches.
 The other species are *Capitella teleta* (Ctel), *Crassostrea gigantea* (Cgig), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS13.jpg){#fig:wif-tree tag="Additional file 13: Fig. S13" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Dsh proteins. 
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Dsh proteins. 
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of known Dsh, Axin, and Dixin proteins.
 The three belong to the DIX domain superfamily.
 Each family is color-coded, and the numbers show support values of individual branches.
@@ -792,52 +792,52 @@ Each family is color-coded, and the numbers show support values of individual br
 The other species are *Branchiostoma floridae* (Bflo), *Homo sapiens* (Hsap), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS14.jpg){#fig:dsh-tree tag="Additional file 14: Fig. S14" width=15cm}
 
-![Expression of Wnt/PCP pathway during *Terebratalia transversa* development.
+![\[PDF\] Expression of Wnt/PCP pathway during *Terebratalia transversa* development.
 The heatmap represents the log-normalized transcript counts for *dsh*, *dgo*, *pk*, *fmi*, *stbm*, and *jnk* calculated from stage-specific RNA-Seq data.
 Each cell shows the average value between two replicates.
 The illustrations depict *T. transversa* developmental stages from the oocyte until the post-metamorphic juvenile.
 The stages we analyzed using *in situ* hybridization (early gastrula to late larva) are highlighted in magenta.
 ](figures/FigS15.jpg){#fig:s-profiling tag="Additional file 15: Fig. S15" width=15cm}
 
-![Over-developed whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *dsh* gene.
+![\[PNG\] Over-developed whole-mount colorimetric *in situ* hybridization of *Terebratalia transversa* *dsh* gene.
 The longer reaction time reveals that *dsh* transcripts are ubiquitously expressed in most embryonic tissues. 
 ](figures/FigS16.jpg){#fig:s-polarity tag="Additional file 16: Fig. S16" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Dgo proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Dgo proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Dgo (ANKRD6 or Diversin).
 We used Inversin proteins as an outgroup since they also have ankyrin repeats.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Limulus polyphemus* (Lpol), *Mus musculus* (Mmus), *Mytilus coruscus* (Mcor), and *Xenopus tropicalis* (Xtro).
 ](figures/FigS17.jpg){#fig:dgo-tree tag="Additional file 17: Fig. S17" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Pk proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Pk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Pk from diverse metazoans.
 As an outgroup, we used Testin, a related protein which also contains a LIM and a PET domain. 
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Clytia hemisphaerica* (Chem), *Crassostrea gigantea* (Cgig), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), *Pecten maximus* (Pmax), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS18.jpg){#fig:pk-tree tag="Additional file 18: Fig. S18" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Fmi proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Fmi proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Fmi.
 As outgroups, we used the related Fat family protocadherins which also contain cadherin and laminin domains.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Branchiostoma floridae* (Bflo), *Clytia hemisphaerica* (Chem), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), *Lingula anatina* (Lana), *Nematostella vectensis* (Nvec), *Owenia fusiformis* (Ofus), *Platynereis dumerilii* (Pdum), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS19.jpg){#fig:fmi-tree tag="Additional file 19: Fig. S19" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Stbm proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Stbm proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Stbm from selected metazoans.
 *Terebratalia transversa* (Ttra) ortholog is highlighted in bold.
 The other species are *Clytia hemisphaerica* (Chem), *Drosophila melanogaster* (Dmel), *Homo sapiens* (Hsap), and *Nematostella vectensis* (Nvec).
 ](figures/FigS20.jpg){#fig:stbm-tree tag="Additional file 20: Fig. S20" width=15cm}
 
-![Orthology assignment of *Terebratalia transversa* Jnk proteins.
+![\[PDF\] Orthology assignment of *Terebratalia transversa* Jnk proteins.
 Best-scoring tree of a maximum likelihood phylogenetic analysis using the amino acid sequences of Jnk.
 As outgroup, we used the related protein Mapk14.
 *Terebratalia transversa* (Ttra) orthologs are highlighted in bold.
 The other species are *Homo sapiens* (Hsap), *Mus musculus* (Mmus), *Petromyzon marinus* (Pmar), and *Saccoglossus kowalevskii* (Skow).
 ](figures/FigS21.jpg){#fig:jnk-tree tag="Additional file 21: Fig. S21" width=15cm}
 
-![Summary of *Terebratalia transversa* Wnt signaling landscape during early gastrulation.
+![\[PDF\] Summary of *Terebratalia transversa* Wnt signaling landscape during early gastrulation.
 Schematic drawings of Wnt genes colored by subfamilies, Frizzled genes by lighter shades of gray, and antagonists by darker shades of gray.
 The spatial localization of expression domains is superimposed on the embryo (left) and projected to highlight the individualized Wnt genes within the different transcriptional subregions grouped by germ layer (right).
 The gray boxes show the pattern of individual genes mapped to the embryo for clearer visualization of overlapping domains.
@@ -846,13 +846,13 @@ The gray boxes show the pattern of individual genes mapped to the embryo for cle
 (C) Mid gastrula in blastoporal/ventral and lateral views. 
 ](figures/FigS22.jpg){#fig:earlysum tag="Additional file 22: Fig. S22" width=15cm}
 
-![Wnt signaling ligand--receptor contexts compared between *Terebratalia transversa* and *Saccoglossus kowalevskii*.
+![\[PDF\] Wnt signaling ligand--receptor contexts compared between *Terebratalia transversa* and *Saccoglossus kowalevskii*.
 (A) Detailed comparison of shared and unique combinations of Wnt signaling components in brachiopod and hemichordate embryos.
 Solid lines represent morphological boundaries for the apical, mantle, and pedicle lobes, and dashed lines represent boundaries between transcriptional subregions.
 (B) Generalized ancestor showing the conserved Wnt subregions along the anteroposterior axis of *T. transversa* and *S. kowalevskii*.
 ](figures/FigS23.jpg){#fig:s-comparative tag="Additional file 23: Fig. S23" width=15cm}
 
-![Read coverage of the stage-specific transcriptome mapped to the transcripts of *Terebratalia transversa* Wnt signaling components.
+![\[PNG\] Read coverage of the stage-specific transcriptome mapped to the transcripts of *Terebratalia transversa* Wnt signaling components.
 Each gene shows the read coverage of one replicate along the transcript length for the 14 developmental stages sampled in this study (0--186h). 
 The Y axes are fixed to the maximum observed coverage of a gene (which is different for each gene).
 The black boxes highlight regions of uneven coverage.
@@ -861,7 +861,7 @@ Although *wnt6*, *wnt16*, *dsh*, and *jnk* also show regions of uneven coverage,
 See the Methods section for more details.
 ](figures/FigS24.jpg){#fig:coverage tag="Additional file 24: Fig. S24" width=15cm}
 
-Table: Gene accession numbers and primer pairs used for cloning the Wnt signaling components of the brachiopod *Terebratalia transversa*. {#tbl:cloning tag="Additional file 25: Table S1"}
+Table: [PDF] Gene accession numbers and primer pairs used for cloning the Wnt signaling components of the brachiopod *Terebratalia transversa*. {#tbl:cloning tag="Additional file 25: Table S1"}
 
 | Gene           | Accession | Forward                   | Reverse                   | Product |
 | ----           | --------- | -------                   | -------                   | ------- |
