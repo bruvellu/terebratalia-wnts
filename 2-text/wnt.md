@@ -43,7 +43,7 @@ link-citations: true
 colorlinks: true
 fignos-warning-level: 0
 fignos-cleveref: True
-fignos-plus-name: Figure
+fignos-plus-name: Fig.
 tablenos-cleveref: True
 tablenos-plus-name: Table
 ---
